@@ -581,7 +581,7 @@ It may take some time for a lost party to realise that it is moving in the wrong
 
 See also: [**_Air Travel_**](#air_travel), [**_Climbing_**](#climbing), [**_Swimming_**](#swimming), [**_Water Travel_**](#water_travel).
 
-Each character has a base movement rate. The default is 120', but this may be modified by a character's class or by the amount of gear carried (if the optional [**_Encumbrance_**](#encumbrence) rules are used).
+Each character has a base movement rate. The default is 120', but this may be modified by a character's class or by the amount of gear carried (if the optional [**_Encumbrance_**](#encumbrance) rules are used).
 
 If the group wants to stay together, they may only move as quickly as the slowest character.
 
@@ -1191,7 +1191,7 @@ Cursed weapons have the opposite effect, incurring penalties to attack and damag
 
 Magic armour follows the same class restrictions as normal armour. A suit of magical armour has a "+" value indicating its degree of enchantment. The wearer's AC is improved (i.e. reduced) by the "+" value.
 
-Magic armour is also lighter and less cumbersome than normal. When using the optional rule for encumbrance by weight carried (see [**_Encumbrance_**](#encumbrence)), enchanted leather armour weighs 75 coins, chainmail 150 coins, and plate mail 200 coins.
+Magic armour is also lighter and less cumbersome than normal. When using the optional rule for encumbrance by weight carried (see [**_Encumbrance_**](#encumbrance)), enchanted leather armour weighs 75 coins, chainmail 150 coins, and plate mail 200 coins.
 
 #### <a name="cursed_armour"></a>Cursed Armour
 
