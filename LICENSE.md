@@ -1,16 +1,16 @@
-# Open Game License
+Open Game License
 
-## DESIGNATION OF PRODUCT IDENTITY
+DESIGNATION OF PRODUCT IDENTITY
 
 All artwork, logos, and presentation are product identity. The names "Necrotic Gnome Productions" and "B/X Essentials" are product identity. All text not declared as Open Game Content is product identity.
 
-## DESIGNATION OF OPEN GAME CONTENT
+DESIGNATION OF OPEN GAME CONTENT
 
 All text and tables in the following sections are Open Game Content:  Adventure Scenarios, Designing a Dungeon, Random Dungeon Room Contents, Designing a Wilderness, Designing a Base Town, Dungeon Encounter Tables, Wilderness Encounter Tables, Stronghold Encounters, NPC Parties, Placing Treasure, Treasure Types, Gems and Jewellery, Magic Items, Armour, Miscellaneous Magic Items, Potions, Rings, Scrolls and Maps, Swords, Wands, Staves, and Rods, Weapons, Sentient Swords, Character Creation, Ability Scores, Character Classes, Alignment, Languages, Character Advancement, Money and Wealth, Equipment, Land Transportation, Water Transportation, Mercenaries, Specialists, Castles and Strongholds, Cleric Spell List, Magic-User Spell List, 1st Level Cleric Spells, 2nd Level Cleric Spells, 3rd Level Cleric Spells, 4th Level Cleric Spells, 5th Level Cleric Spells, 1st Level Magic-User Spells, 2nd Level Magic-User Spells, 3rd Level Magic-User Spells, 4th Level Magic-User Spells, 5th Level Magic-User Spells, 6th Level Magic-User Spells, Ability Scores, Sequence of Play, Adventuring Rules, Basic Combat Procedure, Other Combat Issues, Standard Combat Charts, Magic, Notes, Stat Block Format, Monsters.
 
-## OPEN GAME LICENSE Version 1.0a
+OPEN GAME LICENSE Version 1.0a
 
-The following text is the property of Wizards of the Coast, Inc. and is Copyright (c) 2000 Wizards of the Coast, Inc. ("Wizards"). All Rights Reserved.
+The following text is the property of Wizards of the Coast, Inc. and is Copyright © 2000 Wizards of the Coast, Inc. ("Wizards"). All Rights Reserved.
 
 1. Definitions:
 
@@ -56,66 +56,66 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
 
-15. COPYRIGHT NOTICE: Open Game License v 1.0 Copyright (c) 2000, Wizards of the Coast, Inc.
+15. COPYRIGHT NOTICE: Open Game License v 1.0 Copyright © 2000, Wizards of the Coast, Inc.
 
-_System Reference Document_ Copyright (c) 2000, Wizards of the Coast, Inc.; Authors Jonathon Tweet, Monte Cook, Skip Williams, based on original material by E. Gary Gygax and Dave Arneson.
+System Reference Document Copyright © 2000, Wizards of the Coast, Inc.; Authors Jonathon Tweet, Monte Cook, Skip Williams, based on original material by E. Gary Gygax and Dave Arneson.
 
-_System Reference Document_ Copyright (c) 2000-2003, Wizards of the Coast, Inc.; Authors Jonathon Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
+System Reference Document Copyright © 2000-2003, Wizards of the Coast, Inc.; Authors Jonathon Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
 
-_Modern System Reference Document_ Copyright (c) 2002-2004, Wizards of the Coast, Inc.; Authors Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, Eric Cagle, David Noonan, Stan!, Christopher Perkins, Rodney Thompson, and JD Wiker,  based on material by Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Bruce R. Cordell, John Tynes, Andy Collins, and JD Wiker.
+Modern System Reference Document Copyright © 2002-2004, Wizards of the Coast, Inc.; Authors Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, Eric Cagle, David Noonan, Stan!, Christopher Perkins, Rodney Thompson, and JD Wiker,  based on material by Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Bruce R. Cordell, John Tynes, Andy Collins, and JD Wiker.
 
-_Castles & Crusades: Players Handbook_, Copyright (c) 2004, Troll Lord Games; Authors Davis Chenault and Mac Golden.
+Castles & Crusades: Players Handbook, Copyright © 2004, Troll Lord Games; Authors Davis Chenault and Mac Golden.
 
-_Castles & Crusades: Monsters Product Support_, Copyright (c) 2005, Troll Lord Games.
+Castles & Crusades: Monsters Product Support, Copyright © 2005, Troll Lord Games.
 
-_Basic Fantasy Role-Playing Game_ Copyright (c) 2006--2008 Chris Gonnerman.
+Basic Fantasy Role-Playing Game Copyright © 2006–2008 Chris Gonnerman.
 
-_New Spells: A Basic Fantasy Supplement_ Copyright (c) 2007 Chris Gonnerman,Ola Berg, Angelo Bertolli, Jeff Querner, Everett Bradshaw, Emiliano Marchetti, Ethan Moore, Jim Bobb, and Scott Abraham.
+New Spells: A Basic Fantasy Supplement Copyright © 2007 Chris Gonnerman,Ola Berg, Angelo Bertolli, Jeff Querner, Everett Bradshaw, Emiliano Marchetti, Ethan Moore, Jim Bobb, and Scott Abraham.
 
-_OSRIC(tm)_ Copyright (c) 2006, Stuart Marshall, adapting material prepared by Matthew J. Finch, based upon the System Reference Document, and inspired by the works of E. Gary Gygax, Dave Arneson, and many others.
+OSRIC™ Copyright © 2006, Stuart Marshall, adapting material prepared by Matthew J. Finch, based upon the System Reference Document, and inspired by the works of E. Gary Gygax, Dave Arneson, and many others.
 
-_Swords & Wizardry Core Rules_, Copyright (c) 2008, Matthew J. Finch.
+Swords & Wizardry Core Rules, Copyright © 2008, Matthew J. Finch.
 
-_Eldritch Weirdness, Book One_, Copyright (c) 2008, Matthew J. Finch.
+Eldritch Weirdness, Book One, Copyright © 2008, Matthew J. Finch.
 
-_Darwin's World_ Copyright (c) 2002, RPGObjects; Authors Dominic Covey and Chris Davis.
+Darwin's World Copyright © 2002, RPGObjects; Authors Dominic Covey and Chris Davis.
 
-_Mutant Future(tm)_ Copyright (c) 2008, Daniel Proctor and Ryan Denison. Authors Daniel Proctor and Ryan Denison.
+Mutant Future™ Copyright © 2008, Daniel Proctor and Ryan Denison. Authors Daniel Proctor and Ryan Denison.
 
-_Advanced Edition Companion_, Copyright (c) 2009--2010, Daniel Proctor. Author Daniel Proctor.
+Advanced Edition Companion, Copyright © 2009–2010, Daniel Proctor. Author Daniel Proctor.
 
-_Lamentations of the Flame Princess: Weird Fantasy Role-Playing Deluxe Edition_, Copyright (c) 2010, LotFP. Author James Edward Raggi IV.
+Lamentations of the Flame Princess: Weird Fantasy Role-Playing Deluxe Edition, Copyright © 2010, LotFP. Author James Edward Raggi IV.
 
-_First Level Magic-User Spells Grindhouse Edition Spell Contest: Bookspeak_, Copyright (c) 2011 Daniel Smith
+First Level Magic-User Spells Grindhouse Edition Spell Contest: Bookspeak, Copyright © 2011 Daniel Smith
 
-_First Level Magic-User Spells Grindhouse Edition Spell Contest: Howl of the Moon_, Copyright (c) 2011 Joel Rojas.
+First Level Magic-User Spells Grindhouse Edition Spell Contest: Howl of the Moon, Copyright © 2011 Joel Rojas.
 
-_Lamentations of the Flame Princess: Weird Fantasy Role-Playing Grindhouse Edition_, Copyright (c) 2011, LotFP, Author James Edward Raggi IV.
+Lamentations of the Flame Princess: Weird Fantasy Role-Playing Grindhouse Edition, Copyright © 2011, LotFP, Author James Edward Raggi IV.
 
-_Lamentations of the Flame Princess: Weird Fantasy Role-Playing Player Core Book: Rules & Magic_ Copyright (c) 2013 LotFP, author James Edward Raggi IV.
+Lamentations of the Flame Princess: Weird Fantasy Role-Playing Player Core Book: Rules & Magic Copyright © 2013 LotFP, author James Edward Raggi IV.
 
-"Cave Cricket" from the _Tome of Horrors_, Copyright (c) 2002, Necromancer Games, Inc.; Authors Scott Greene and Clark Peterson, based on original material by Gary Gygax.
+"Cave Cricket" from the Tome of Horrors, Copyright © 2002, Necromancer Games, Inc.; Authors Scott Greene and Clark Peterson, based on original material by Gary Gygax.
 
-"Crab, Monstrous" from the _Tome of Horrors_, Copyright (c) 2002, Necromancer Games, Inc.; Author Scott Greene, based on original material by Gary Gygax.
+"Crab, Monstrous" from the Tome of Horrors, Copyright © 2002, Necromancer Games, Inc.; Author Scott Greene, based on original material by Gary Gygax.
 
-"Fly, Giant" from the _Tome of Horrors_, Copyright (c) 2002, Necromancer Games, Inc.; Author Scott Greene, based on original material by Gary Gygax.
+"Fly, Giant" from the Tome of Horrors, Copyright © 2002, Necromancer Games, Inc.; Author Scott Greene, based on original material by Gary Gygax.
 
-"Golem, Wood" from the _Tome of Horrors_, Copyright (c) 2002, Necromancer Games, Inc.; Authors Scott Greene and Patrick Lawinger.
+"Golem, Wood" from the Tome of Horrors, Copyright © 2002, Necromancer Games, Inc.; Authors Scott Greene and Patrick Lawinger.
 
-"Kamadan" from the _Tome of Horrors_, Copyright (c) 2002, Necromancer Games, Inc.; Author Scott Greene, based on original material by Nick Louth.
+"Kamadan" from the Tome of Horrors, Copyright © 2002, Necromancer Games, Inc.; Author Scott Greene, based on original material by Nick Louth.
 
-"Rot Grub" from the _Tome of Horrors_, Copyright (c) 2002, Necromancer Games, Inc.; Authors Scott Greene and Clark Peterson, based on original material by Gary Gygax.
+"Rot Grub" from the Tome of Horrors, Copyright © 2002, Necromancer Games, Inc.; Authors Scott Greene and Clark Peterson, based on original material by Gary Gygax.
 
-_Labyrinth Lord(tm)_ Copyright (c) 2007-2009, Daniel Proctor. Author Daniel Proctor.
+Labyrinth Lord™ Copyright © 2007-2009, Daniel Proctor. Author Daniel Proctor.
 
-_B/X Essentials(tm): Core Rules_ Copyright (c) 2017, Gavin Norman. Author Gavin Norman.
+B/X Essentials™: Core Rules Copyright © 2017, Gavin Norman. Author Gavin Norman.
 
-_B/X Essentials(tm): Classes and Equipment_ Copyright (c) 2017, Gavin Norman. Author Gavin Norman.
+B/X Essentials™: Classes and Equipment Copyright © 2017, Gavin Norman. Author Gavin Norman.
 
-_B/X Essentials(tm): Cleric and Magic-User Spells_ Copyright (c) 2017, Gavin Norman. Author Gavin Norman.
+B/X Essentials™: Cleric and Magic-User Spells Copyright © 2017, Gavin Norman. Author Gavin Norman.
 
-_B/X Essentials(tm): Adventures and Trasures_ Copyright (c) 2018, Gavin Norman. Author Gavin Norman.
+B/X Essentials™: Adventures and Trasures Copyright © 2018, Gavin Norman. Author Gavin Norman.
 
-_B/X Essentials(tm): Monsters_ Copyright (c) 2017, Gavin Norman. Author Gavin Norman.
+B/X Essentials™: Monsters Copyright © 2017, Gavin Norman. Author Gavin Norman.
 
 END OF LICENSE
