@@ -481,7 +481,7 @@ Less than 1 | 5 | 1
 
 The XP awards for treasures recovered and monsters defeated are totalled and divided evenly between all characters who survived the adventure. Note that total XP is divided evenly between all party members (including [**_Retainers_**](#retainers)), irrespective of how the players decide to divide the treasure.
 
-#### <a name="discretionary_bonuses_and_penalties"></a>Discretionary Bonuses and Penalties\0x200B
+#### <a name="discretionary_bonuses_and_penalties"></a>Discretionary Bonuses and Penalties
 
 The referee may grant XP bonuses to players who did particularly well. Likewise, players who did not do their share of the work in an adventure may be penalized.
 
@@ -781,7 +781,7 @@ When travelling upon **rivers**, the current may increase (moving downstream) or
 
 #### <a name="gales"></a>Gales
 
-During a gale, any vessel with sails can attempt to move with the wind to avoid damage. The vessel travels at three times its normal speed in a randomly determined direction. (The referee may roll 1d6, with 1 indicating the intended direction of travel, 2 indicating 60\0xB0 to the right, 3 indicating 120\0xB0 to the right, and so on.)
+During a gale, any vessel with sails can attempt to move with the wind to avoid damage. The vessel travels at three times its normal speed in a randomly determined direction. (The referee may roll 1d6, with 1 indicating the intended direction of travel, 2 indicating 60' to the right, 3 indicating 120' to the right, and so on.)
 
 If the ship encounters land during this travel, there is a 75% chance of it wrecking against the shore.
 
@@ -849,7 +849,7 @@ Instead of an initiative roll per side, a roll may be made for each individual P
 
 A character can move up to one third of his or her normal movement rate every round and can also attack (if an enemy is within that distance) or perform another action (except spell casting) during a round.
 
-#### <a name="without_another_action\0x200B"></a>Without Another Action\0x200B
+#### <a name="without_another_action"></a>Without Another Action
 
 A character who performs no other action in a round may run, moving up to his or her full movement rate.
 
@@ -865,7 +865,7 @@ A **full retreat** occurs when a character moves backwards at a rate faster than
 
 Characters can generally move and perform one action in a round. The most common actions are attacking, casting a spell, or using an item that is easily to hand, but many other actions are possible and must be adjudicated by the referee. The referee has the final say on what can or cannot be done in one round. Note that, when casting a spell, the character may not move as well.
 
-### <a name="attacking\0x200B"></a>Attacking\0x200B
+### <a name="attacking"></a>Attacking
 
 A character may attack if there is an enemy within striking range. Player characters can normally only attack once per round, but some monsters have multiple attacks.
 
@@ -903,7 +903,7 @@ All missile weapons have ranges, which must be taken into account when trying to
 - There is a penalty of -1 to strike an opponent at **long range**.
 - If an opponent is further away than the long range listed, the missile weapon cannot hit that opponent.
 
-### <a name="casting\0x200Ba_spell"></a>Casting\0x200Ba Spell
+### <a name="casting_a_spell"></a>Casting a Spell
 
 #### <a name="requirements"></a>Requirements
 
@@ -923,7 +923,7 @@ Attacks made on a character from behind ignore the influence of the attacked cha
 
 ### <a name="boarding_vessels"></a>Boarding Vessels
 
-When the occupants of a vessel wish to board another vessel, there is a 2-in-6 chance of being able to successfully manoeuvre the vessel into a boarding position and clamp onto the other vessel with grappling hooks. If the occupants of both vessels wish to board one another, their mutual intent makes the action succeed with no chance of failure. Once crew-members come into contact with one another, combat ensues following the standard combat rules. Characters who are in the act of boarding another vessel suffer a penalty of \0x20132 to attack rolls and Armour Class for one round.
+When the occupants of a vessel wish to board another vessel, there is a 2-in-6 chance of being able to successfully manoeuvre the vessel into a boarding position and clamp onto the other vessel with grappling hooks. If the occupants of both vessels wish to board one another, their mutual intent makes the action succeed with no chance of failure. Once crew-members come into contact with one another, combat ensues following the standard combat rules. Characters who are in the act of boarding another vessel suffer a penalty of -2 to attack rolls and Armour Class for one round.
 
 ### <a name="cover"></a>Cover
 
@@ -961,7 +961,7 @@ If a monster makes two successful morale checks in an encounter, it will fight u
 
 #### <a name="adjustments_to_morale"></a>Adjustments to Morale
 
-The referee may decide to apply bonuses or penalties to morale, with a range of \0x20132 to +2, depending on the circumstances. For example, if one side of an encounter is losing or winning, they might receive a penalty or bonus to morale of \0x20131 or +1, respectively.
+The referee may decide to apply bonuses or penalties to morale, with a range of -2 to +2, depending on the circumstances. For example, if one side of an encounter is losing or winning, they might receive a penalty or bonus to morale of -1 or +1, respectively.
 
 Adjustments are never applied to monsters with a morale of 2 or 12.
 
@@ -990,7 +990,7 @@ Unarmed combat is the same as melee combat, but all damage is 1 to 2 + STR modif
 Characters on an unstable surface, such as a ship in rough seas or riding a flying animal such as a griffon, are affected as follows:
 
 - Spells cannot be cast because the intricate hand gestures are not possible in that shaky environment.
-- Missile attacks suffer a penalty of \0x20134 to hit.
+- Missile attacks suffer a penalty of -4 to hit.
 - Magic items do not require the same concentration and gestures, and can be used as normal.
 
 Note that magical means of flight (e.g. a magic broom, carpet, or the fly spell) generally provide a smooth ride and do not count as unstable.
