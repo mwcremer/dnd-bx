@@ -393,7 +393,7 @@ A character's movement rate is determined by two factors: the armour he or she i
 The maximum amount of treasure any character can carry is 1,600 coins or equivalent. For this reason, the weight of treasure carried must be tracked. The encumbrance of common types of treasure is shown in the table above. The weight of the character's standard adventuring gear (including armour and weapons) is _not _counted.
 
 Armour | Without Treasure | Carrying Treasure
----|---
+---|---|---
 Unarmoured | 120' | 90'
 Leather armour | 90' | 60'
 Metal armour | 60' | 30'
@@ -1096,7 +1096,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 ### <a name="normal_human_saving_throw_chart"></a>Normal Human Saving Throw Chart
 
 Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
+---|----|----|----|----
 14 | 15 | 16 | 17 | 18
 
 ## <a name="magic"></a>Magic
