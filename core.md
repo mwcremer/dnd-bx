@@ -22,7 +22,7 @@ This product is released under the terms of the Open Game License Version 1.0a, 
 
 7. [**Magic**](#magic) Rules relating to spells and spell casting, spell books, magical research, and magic items.
 
-Aside from the inclusion of combat charts for the standard classes (which are required for monsters, as well), no reference is made to any specific character classes. Likewise, aside from the (optional) encumbrance rules, no specific equipment lists are assumed. This information may be found in the companion volume--[**_B/X Essentials(tm): Classes and Equipment_**](classes.html)--or in any number of other books inspired by this rule set.
+Aside from the inclusion of combat charts for the standard classes (which are required for monsters, as well), no reference is made to any specific character classes. Likewise, aside from the (optional) encumbrance rules, no specific equipment lists are assumed. This information may be found in the companion volume--[**_B/X Essentials(tm): Classes and Equipment_**](classes.md)--or in any number of other books inspired by this rule set.
 
 It is my hope that this book will play some small part in the furtherance of this timeless and beloved game and prove useful as a reference for those already familiar with its charms.
 
@@ -271,7 +271,7 @@ More than 120' per round slower than pursuer | 10%
 
 ### <a name="climbing"></a>Climbing
 
-When characters are climbing in a difficult or tense situation, the referee may specify a chance of failure (as a percentage or an x-in-6 chance) or may require an ability check versus DEX (if the optional **_Ability Checks_** rule is being used).
+When characters are climbing in a difficult or tense situation, the referee may specify a chance of failure (as a percentage or an x-in-6 chance) or may require an ability check versus DEX (if the optional [**_Ability Checks_**](#ability_checks) rule is being used).
 
 Note that very steep or sheer surfaces are normally impossible to climb without specialised equipment. Some characters may have class abilities which allow them to attempt to climb such surfaces unaided.
 
@@ -519,7 +519,7 @@ Healing may also occur through magic, such as potions or spells. This kind of he
 
 ### <a name="hirelings"></a>Hirelings
 
-Hirelings are NPCs hired by a character to perform certain services. Hirelings differ from **_Retainers_** in that they do not accompany characters on adventures. For this reason, they do not count toward a character's maximum number of retainers, since they are not the same kind of hired help.
+Hirelings are NPCs hired by a character to perform certain services. Hirelings differ from [**_Retainers_**](#retainers) in that they do not accompany characters on adventures. For this reason, they do not count toward a character's maximum number of retainers, since they are not the same kind of hired help.
 
 The most common types of hireling are:
 
@@ -529,7 +529,7 @@ The most common types of hireling are:
 
 Like hiring retainers, mercenaries and specialists can be located by frequenting pubs or through posting notices of help wanted. Also, in the case of professional specialists, these individuals may have shops or a reputation that the characters can follow. There may also be guilds of certain professions which can act as a contact point for locating specialists.
 
-Some of the most common kinds of hirelings that can be found are described in the companion booklet, [**_B/X Essentials(tm): Classes and Equipment_**](classes.html).
+Some of the most common kinds of hirelings that can be found are described in the companion booklet, [**_B/X Essentials(tm): Classes and Equipment_**](classes.md).
 
 ### <a name="light_vision_and_visibility"></a>Light, Vision, and Visibility
 
@@ -537,7 +537,7 @@ Some of the most common kinds of hirelings that can be found are described in th
 
 Characters will usually want to bring a source of light with them on underground expeditions. Typical light sources enable normal vision within a 30' radius.
 
-The adventuring equipment lists in the companion booklet, **_B/X Essentials(tm): Classes and Equipment_**, provide full information.
+The adventuring equipment lists in the companion booklet, [**_B/X Essentials(tm): Classes and Equipment_**](classes.md), provide full information.
 
 #### <a name="vision_in_the_wilderness"></a>In the Wilderness
 
@@ -639,7 +639,7 @@ If characters press on without resting, they suffer a penalty of -1 to hit and d
 
 ### <a name="retainers"></a>Retainers
 
-Retainers are NPCs that are hired by characters for extra hands during an adventure. Each character is limited to a finite number of retainers, which is indicated by the character's Charisma score (see **_Ability Scores_**). Retainers are not mindless slaves and, although they will usually share the party's risks, they will not willingly act as battle fodder. If abused in any way, retainers will typically warn others of this and the PCs will soon find it difficult to hire other retainers.
+Retainers are NPCs that are hired by characters for extra hands during an adventure. Each character is limited to a finite number of retainers, which is indicated by the character's Charisma score (see [**_Ability Scores_**](#ability_scores)). Retainers are not mindless slaves and, although they will usually share the party's risks, they will not willingly act as battle fodder. If abused in any way, retainers will typically warn others of this and the PCs will soon find it difficult to hire other retainers.
 
 #### <a name="locating"></a>Locating
 
@@ -686,7 +686,7 @@ Although retainers are "played" by the referee, they acquire experience in the s
 
 ### <a name="saving_throws"></a>Saving Throws
 
-All characters and monsters can make saving throws to avoid the full effects of spells or certain attacks. Characters and monsters have a rating for each saving throw category (death ray or poison; magic wands; paralysis or turn to stone; dragon breath; rods, staves, or spells). Saving throw tables for the standard classes (also used by monsters) are given in **_Standard Combat Charts_**.
+All characters and monsters can make saving throws to avoid the full effects of spells or certain attacks. Characters and monsters have a rating for each saving throw category (death ray or poison; magic wands; paralysis or turn to stone; dragon breath; rods, staves, or spells). Saving throw tables for the standard classes (also used by monsters) are given in [**_Standard Combat Charts_**](#standard_combat_charts).
 
 The appropriate saving throw to make and the effects of a success or failure will be indicated in the description of the spell, monster attack, or adventure scenario.
 
@@ -734,7 +734,7 @@ Aside from normal time increments (minutes, hours, days, and so on), the followi
 
 #### <a name="turns"></a>Turns
 
-When in the dungeon, characters take actions in time increments called turns. One turn is equal to 10 minutes. Character actions that take one turn include looking for secret doors or traps in a 10' &times; 10' area (see **_Searching_**) or moving up to the party's full movement rate (see [**_Movement_**](#movement)).
+When in the dungeon, characters take actions in time increments called turns. One turn is equal to 10 minutes. Character actions that take one turn include looking for secret doors or traps in a 10' &times; 10' area (see [**_Searching_**](#searching)) or moving up to the party's full movement rate (see [**_Movement_**](#movement)).
 
 #### <a name="rounds"></a>Rounds
 
@@ -967,7 +967,7 @@ Adjustments are never applied to monsters with a morale of 2 or 12.
 
 #### <a name="retainer_morale"></a>Retainer Morale
 
-Retainers signed up to work as adventurers, so are not frightened off at the first sign of danger. They only check morale in combat when confronted with extraordinary danger. See **_Retainers_** for details.
+Retainers signed up to work as adventurers, so are not frightened off at the first sign of danger. They only check morale in combat when confronted with extraordinary danger. See [**_Retainers_**](#retainers) for details.
 
 ### <a name="multiple_attackers"></a>Multiple Attackers
 
@@ -1191,7 +1191,7 @@ Cursed weapons have the opposite effect, incurring penalties to attack and damag
 
 Magic armour follows the same class restrictions as normal armour. A suit of magical armour has a "+" value indicating its degree of enchantment. The wearer's AC is improved (i.e. reduced) by the "+" value.
 
-Magic armour is also lighter and less cumbersome than normal. When using the optional rule for encumbrance by weight carried (see **_Encumbrance_**), enchanted leather armour weighs 75 coins, chainmail 150 coins, and plate mail 200 coins.
+Magic armour is also lighter and less cumbersome than normal. When using the optional rule for encumbrance by weight carried (see [**_Encumbrance_**](#encumbrence)), enchanted leather armour weighs 75 coins, chainmail 150 coins, and plate mail 200 coins.
 
 #### <a name="cursed_armour"></a>Cursed Armour
 
