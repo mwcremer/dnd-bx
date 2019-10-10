@@ -156,7 +156,7 @@ Score | XP Adjustment
 
 6. The day ends. The referee should update time records, with special attention to rations, spell durations, and the party's need to rest.
 
-### <a name="encounter_sequence_"></a>Encounter Sequence
+### <a name="encounter_sequence"></a>Encounter Sequence
 
 1. The referee rolls for surprise, if applicable, and determines how far away the monsters are.
 
@@ -184,7 +184,7 @@ Bonuses or penalties to the roll may be applied, with a modifier of -4 being a r
 
 An unmodified roll of 1 should be treated as a success and a 20 treated as a failure.
 
-### <a name="air_travel_"></a>Air Travel
+### <a name="air_travel"></a>Air Travel
 
 When travelling by air, the total number of miles a character can travel in a day is twice the distance he or she could travel overland (see [**_Movement_**](#movement)).
 
@@ -250,7 +250,7 @@ Fleeing group size | 10% | 25% | 35% | 50% | 70% | 90%
 13-24 | -- | 1-6 pursuers | 7-16 pursuers | 17+ pursuers | -- | --
 25+ | 1-10 pursuers | 11-30 pursuers | 31+ pursuers | -- | -- | --
 
-#### <a name="waterborne_chases_">Waterborne Chases
+#### <a name="waterborne_chases">Waterborne Chases
 
 When two waterborne sides (ships or swimming monsters) encounter one another, one side may choose to flee.
 
@@ -333,7 +333,7 @@ Each side that is not already aware of the other's presence rolls 1d6. The refer
 
 Note that aquatic monsters are usually not surprised by ships. Special circumstances (e.g. thick fog) may alter this.
 
-#### <a name="encounter_distance_"></a>Encounter Distance
+#### <a name="encounter_distance"></a>Encounter Distance
 
 The situation in which the encounter occurs often determines how far away the monster is. If there is uncertainty (for example, in the case of [**_Wandering Monsters_**](#wandering_monsters)):
 
@@ -440,7 +440,7 @@ Spear | 30
 Two-handed sword | 150
 Warhammer | 30
 
-### <a name="experience_points_"></a>Experience Points
+### <a name="experience_points"></a>Experience Points
 
 All characters that make it through an adventure alive receive experience points (XP). XP is gained from two sources: treasure recovered and monsters defeated.
 
@@ -543,7 +543,7 @@ The adventuring equipment lists in the companion booklet, [**_B/X Essentials(tm)
 
 Characters can usually see for three miles around them, in open terrain. This range may sometimes be reduced (e.g. in overgrown terrain such as a forest) or increased (e.g. looking out from the top of a mountain).
 
-#### <a name="vision_at_sea_"></a>At Sea
+#### <a name="vision_at_sea"></a>At Sea
 
 On a clear day, land can be spotted at a distance of 24 miles. This may be reduced based on light and weather conditions.
 
@@ -557,9 +557,9 @@ All non-human monsters and many demi-human races have infravision. Characters wh
 
 Infravision works within a limited range (60' for monsters) and only functions in darkness. Visible light (normal or magical) and large heat sources will disrupt it.
 
-### <a name="losing_direction_"></a>Losing Direction
+### <a name="losing_direction"></a>Losing Direction
 
-#### <a name="lost_at_sea_"></a>At Sea
+#### <a name="lost_at_sea"></a>At Sea
 
 Getting lost at sea is a serious risk. When in sight of land, the chance of getting lost is 2-in-6. Once out of sight of land, the chance of getting lost is 100%, unless a navigator is aboard--the chance of getting lost is then 2-in-6 per day.
 
