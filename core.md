@@ -579,7 +579,7 @@ It may take some time for a lost party to realise that it is moving in the wrong
 
 ### <a name="movement"></a>Movement
 
-See also: [**_Air Travel_**](#air_travel), [**_Climbing_**](#climbing), [**_Swimming_**](#swimming), [**_Water Travel_**](#water_travel_).
+See also: [**_Air Travel_**](#air_travel), [**_Climbing_**](#climbing), [**_Swimming_**](#swimming), [**_Water Travel_**](#water_travel).
 
 Each character has a base movement rate. The default is 120', but this may be modified by a character's class or by the amount of gear carried (if the optional [**_Encumbrance_**](#encumbrence) rules are used).
 
