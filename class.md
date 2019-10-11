@@ -423,7 +423,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 \* _Hit point modifiers from CON no longer apply._
 
-&dagger _Modified attack roll needed to hit Armour Class 0._
+&dagger; _Modified attack roll needed to hit Armour Class 0._
 
 #### <a name="elf_spell_casting"></a>Elf Spell Casting
 
@@ -531,7 +531,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 7 | 64,000 | 7d6 | 14 | 4 | 5 | 6 | 7 | 8
 8 | 120,000 | 8d6 | 14 | 4 | 5 | 6 | 7 | 8
 
-&dagger _Modified attack roll needed to hit Armour Class 0._
+&dagger; _Modified attack roll needed to hit Armour Class 0._
 
 ### <a name="magic_user"></a>Magic-User
 
@@ -580,7 +580,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 \* _Hit point modifiers from CON no longer apply._
 
-&dagger _Modified attack roll needed to hit Armour Class 0._
+&dagger; _Modified attack roll needed to hit Armour Class 0._
 
 #### <a name="magic_user_spell_casting"></a>Magic-User Spell Casting
 
@@ -666,7 +666,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 \* _Hit point modifiers from CON no longer apply._
 
-&dagger _Modified attack roll needed to hit Armour Class 0._
+&dagger; _Modified attack roll needed to hit Armour Class 0._
 
 #### <a name="thief_skills"></a>Thief Skills
 
@@ -1141,14 +1141,14 @@ Vessel | Requires Captain? | Req. Oarsmen | Row Miles/Day | Row Movement Rate | 
 -------------|----|---|----|------------|---|---|---
 Boat (river) | No | 8 | 36 | 180' (60') | - | - | -
 Boat (sailing) | No | - | - | - | 1 | 72 | 360' (120')
-Canoe | No | 1&dagger: | 18 | 90' (60') | - | - | -
+Canoe | No | 1&dagger; | 18 | 90' (60') | - | - | -
 Galley (large) | Yes | 180 | 18 | 90' (90') | 20 | 72 | 360' (120')
 Galley (small) | Yes | 60 | 18 | 90' (90') | 10 | 90 | 450' (150')
 Galley (war) | Yes | 300 | 12 | 60' (60') | 30 | 72 | 360' (120')
-Lifeboat | No | - | - | - | 1&dagger: | 18 | 90' (30')
+Lifeboat | No | - | - | - | 1&dagger; | 18 | 90' (30')
 Longship | Yes | 60* | 18 | 90' (90') | 75* | 90 | 450' (150')
-Raft (makeshift) | No | 1&dagger: | 12 | 60' (30') | - | - | -
-Raft (prof.) | No | 1&dagger: | 12 | 60' (30') | - | - | -
+Raft (makeshift) | No | 1&dagger; | 12 | 60' (30') | - | - | -
+Raft (prof.) | No | 1&dagger; | 12 | 60' (30') | - | - | -
 Sailing ship (lg.) | Yes | - | - | - | 20 | 72 | 360' (120')
 Sailing ship (sm.) | Yes | - | - | - | 10 | 90 | 450' (150')
 Troop trans. (lg.) | Yes | - | - | - | 20 | 72 | 360' (120')
