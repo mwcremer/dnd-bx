@@ -1,5 +1,7 @@
 # B/X Essentials(tm): Core Rules
 
+v1.0.1
+
 This is the plain text version of **_B/X Essentials(tm): Core Rules_**, provided as an aid to others who wish to create their own house rules documents or retro-clones (please read the [Open Game License](LICENSE) carefully!).
 
 Copyright (c) 2017 by Gavin Norman. _B/X Essentials(tm)_ is a trademark of Gavin Norman.
