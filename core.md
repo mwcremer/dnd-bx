@@ -4,7 +4,7 @@ v1.0.1
 
 This is the plain text version of **_B/X Essentials(tm): Core Rules_**, provided as an aid to others who wish to create their own house rules documents or retro-clones (please read the [Open Game License](LICENSE) carefully!).
 
-Copyright (c) 2017 by Gavin Norman. _B/X Essentials(tm)_ is a trademark of Gavin Norman.
+Copyright (c) 2017 by Gavin Norman. _B/X Essentials_ is a trademark of Gavin Norman.
 
 This product is released under the terms of the Open Game License Version 1.0a, Copyright (c) 2000, Wizards of the Coast, Inc. Based on the OGC text of _Labyrinth Lord_ by Dan Proctor and _Lamentations of the Flame Princess_ by James Raggi. Many thanks to both.
 
@@ -24,7 +24,7 @@ This product is released under the terms of the Open Game License Version 1.0a, 
 
 7. [**Magic**](#magic) Rules relating to spells and spell casting, spell books, magical research, and magic items.
 
-Aside from the inclusion of combat charts for the standard classes (which are required for monsters, as well), no reference is made to any specific character classes. Likewise, aside from the (optional) encumbrance rules, no specific equipment lists are assumed. This information may be found in the companion volume--[**_B/X Essentials(tm): Classes and Equipment_**](classes.md)--or in any number of other books inspired by this rule set.
+Aside from the inclusion of combat charts for the standard classes (which are required for monsters, as well), no reference is made to any specific character classes. Likewise, aside from the (optional) encumbrance rules, no specific equipment lists are assumed. This information may be found in the companion volume--[**_B/X Essentials: Classes and Equipment_**](classes.md)--or in any number of other books inspired by this rule set.
 
 It is my hope that this book will play some small part in the furtherance of this timeless and beloved game and prove useful as a reference for those already familiar with its charms.
 
@@ -531,7 +531,7 @@ The most common types of hireling are:
 
 Like hiring retainers, mercenaries and specialists can be located by frequenting pubs or through posting notices of help wanted. Also, in the case of professional specialists, these individuals may have shops or a reputation that the characters can follow. There may also be guilds of certain professions which can act as a contact point for locating specialists.
 
-Some of the most common kinds of hirelings that can be found are described in the companion booklet, [**_B/X Essentials(tm): Classes and Equipment_**](classes.md).
+Some of the most common kinds of hirelings that can be found are described in the companion booklet, [**_B/X Essentials: Classes and Equipment_**](classes.md).
 
 ### <a name="light_vision_and_visibility"></a>Light, Vision, and Visibility
 
@@ -539,7 +539,7 @@ Some of the most common kinds of hirelings that can be found are described in th
 
 Characters will usually want to bring a source of light with them on underground expeditions. Typical light sources enable normal vision within a 30' radius.
 
-The adventuring equipment lists in the companion booklet, [**_B/X Essentials(tm): Classes and Equipment_**](classes.md), provide full information.
+The adventuring equipment lists in the companion booklet, [**_B/X Essentials: Classes and Equipment_**](classes.md), provide full information.
 
 #### <a name="vision_in_the_wilderness"></a>In the Wilderness
 
