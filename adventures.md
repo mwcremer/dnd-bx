@@ -543,7 +543,8 @@ Patrols such as those described are only a small part of the ruler's garrison. F
 
 The reaction of the ruler to travellers in his or her domain depends on the class of the ruler, and can be determined by rolling 1d6 and consulting this table:
 
-**d6** | **Arcane Caster** | **Divine Caster** | **Warrior**
+d6 | Arcane Caster | Divine Caster | Warrior
+---|---------------|---------------|--------
 1 | Chase | Chase | Chase
 2 | Ignore | Chase | Chase
 3 | Ignore | Ignore | Chase
@@ -1846,6 +1847,7 @@ Has the power to grant the wielder's wishes (see [**_Wishes_**](#wishes)).
 ## <a name="wands_staves_and_rods"></a>Wands, Staves, and Rods
 
 B: d6 | X: d% | Item
+------|-------|-----
 1 | 1-8 | Rod of Cancellation
  | 9-11 | Staff of Commanding
 2 | 12-21 | Staff of Healing
