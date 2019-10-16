@@ -1470,7 +1470,7 @@ d6 | Reincarnation | HD
 
 d6 | Reincarnation | HD
 ---|---------------|---
-1 | [Pixie](monsters.md#) or [sprite](monsters.md#sprite) | 1
+1 | [Pixie](monsters.md#pixie) or [sprite](monsters.md#sprite) | 1
 2 | [Lizard man](monsters.md#lizard_man) | 2
 3 | [Rock baboon](monsters.md#rock_baboon) | 2
 4 | [Ape, white](monsters.md#ape_white) | 4
