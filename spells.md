@@ -31,52 +31,52 @@ This product is released under the terms of the Open Game License Version 1.0a, 
 
 ### <a name="cleric_1st_level_list"></a>1st Level
 
-1. Cure Light Wounds (Cause Light Wounds)
-2. Detect Evil
-3. Detect Magic
-4. Light (Darkness)
-5. Protection from Evil
-6. Purify Food and Water
-7. Remove Fear (Cause Fear)
-8. Resist Cold
+1. [Cure Light Wounds](#cure_light_wounds) (Cause Light Wounds)
+2. [Detect Evil](#cleric_detect_evil)
+3. [Detect Magic](#cleric_detect_magic)
+4. [Light (Darkness)](#cleric_light)
+5. [Protection from Evil](#cleric_protection_from_evil)
+6. [Purify Food and Water](#purify_food_and_water)
+7. [Remove Fear (Cause Fear)](#remove_fear)
+8. [Resist Cold](#resist_cold)
 
 ### <a name="cleric_2nd_level_list"></a>2nd Level
 
-1. Bless (Blight)
-2. Find Traps
-3. Hold Person
-4. Know Alignment
-5. Resist Fire
-6. Silence 15' Radius
-7. Snake Charm
-8. Speak with Animals
+1. [Bless (Blight)](#bless)
+2. [Find Traps](#find_traps)
+3. [Hold Person](#cleric_hold_person)
+4. [Know Alignment](#know_alignment)
+5. [Resist Fire](#resist_fire)
+6. [Silence 15' Radius](#silence)
+7. [Snake Charm](#snake_charm)
+8. [Speak with Animals](#speak_with_animals)
 
 ### <a name="cleric_3rd_level_list"></a>3rd Level
 
-1. Continual Light (Continual Darkness)
-2. Cure Disease (Cause Disease)
-3. Growth of Animal
-4. Locate Object
-5. Remove Curse (Curse)
-6. Striking
+1. [Continual Light (Continual Darkness)](#cleric_continual_light)
+2. [Cure Disease (Cause Disease)](#cure_disease)
+3. [Growth of Animal](#growth_of_animal)
+4. [Locate Object](#cleric_locate_object)
+5. [Remove Curse (Curse)](#cleric_remove_curse)
+6. [Striking](#striking)
 
 ### <a name="cleric_4th_level_list"></a>4th Level
 
-1. Create Water
-2. Cure Serious Wounds (Cause Serious Wounds)
-3. Neutralize Poison
-4. Protection from Evil 10' Radius
-5. Speak with Plants
-6. Sticks to Snakes
+1. [Create Water](#create_water)
+2. [Cure Serious Wounds (Cause Serious Wounds)](#cure_serious_wounds)
+3. [Neutralize Poison](#neutralize_poison)
+4. [Protection from Evil 10' Radius](#cleric_protection_from_evil_10_foot_radius)
+5. [Speak with Plants](#speak_with_plants)
+6. [Sticks to Snakes](#sticks_to_snakes)
 
 ### <a name="cleric_5th_level_list"></a>5th Level
 
-1. Commune
-2. Create Food
-3. Dispel Evil
-4. Insect Plague
-5. Quest (Remove Quest)
-6. Raise Dead (Finger of Death)
+1. [Commune](#commune)
+2. [Create Food](#create_food)
+3. [Dispel Evil](#dispel_evil)
+4. [Insect Plague](#insect_plague)
+5. [Quest (Remove Quest)](#quest)
+6. [Raise Dead (Finger of Death)](#raise_dead)
 
 ## <a name="magic_user_spell_list"></a>Magic-User Spell List
 
@@ -84,93 +84,93 @@ This product is released under the terms of the Open Game License Version 1.0a, 
 
 ### <a name="magic_user_1st_level_list"></a>1st Level
 
-1. Charm Person
-2. Detect Magic
-3. Floating Disc
-4. Hold Portal
-5. Light (Darkness)
-6. Magic Missile
-7. Protection from Evil
-8. Read Languages
-9. Read Magic
-10. Shield
-11. Sleep
-12. Ventriloquism
+1. [Charm Person](#charm_person)
+2. [Detect Magic](#magic_user_detect_magic)
+3. [Floating Disc](#floating_disc)
+4. [Hold Portal](#hold_portal)
+5. [Light (Darkness)](#magic_user_light)
+6. [Magic Missile](#magic_missile)
+7. [Protection from Evil](#magic_user_protection_from_evil)
+8. [Read Languages](#read_languages)
+9. [Read Magic](#read_magic)
+10. [Shield](#shield)
+11. [Sleep](#sleep)
+12. [Ventriloquism](#ventriloquism)
 
 ### <a name="magic_user_2nd_level_list"></a>2nd Level
 
-1. Continual Light (Continual Darkness)
-2. Detect Evil
-3. Detect Invisible
-4. ESP
-5. Invisibility
-6. Knock
-7. Levitate
-8. Locate Object
-9. Mirror Image
-10. Phantasmal Force
-11. Web
-12. Wizard Lock
+1. [Continual Light (Continual Darkness)](#magic_user_continual_light)
+2. [Detect Evil](#magic_user_detect_evil)
+3. [Detect Invisible](#detect_invisible)
+4. [ESP](#esp)
+5. [Invisibility](#invisibility)
+6. [Knock](#knock)
+7. [Levitate](#levitate)
+8. [Locate Object](#magic_user_locate_object)
+9. [Mirror Image](#mirror_image)
+10. [Phantasmal Force](#phantasmal_force)
+11. [Web](#web)
+12. [Wizard Lock](#wizard_lock)
 
 ### <a name="magic_user_3rd_level_list"></a>3rd Level
 
-1. Clairvoyance
-2. Dispel Magic
-3. Fire Ball
-4. Fly
-5. Haste
-6. Hold Person
-7. Infravision
-8. Invisibility 10' Radius
-9. Lightning Bolt
-10. Protection from Evil 10' Radius
-11. Protection from Normal Missiles
-12. Water Breathing
+1. [Clairvoyance](#clairvoyance)
+2. [Dispel Magic](#dispel_magic)
+3. [Fire Ball](#fire_ball)
+4. [Fly](#fly)
+5. [Haste](#haste)
+6. [Hold Person](#magic_user_hold_person)
+7. [Infravision](#infravision)
+8. [Invisibility 10' Radius](#invisibility_10_foot_radius)
+9. [Lightning Bolt](#lightning_bolt)
+10. [Protection from Evil 10' Radius](#magic_user_protection_from_evil_10_foot_radius)
+11. [Protection from Normal Missiles](#protection_from_normal_missiles)
+12. [Water Breathing](#water_breathing)
 
 ### <a name="magic_user_4th_level_list"></a>4th Level
 
-1. Charm Monster
-2. Confusion
-3. Dimension Door
-4. Growth of Plants
-5. Hallucinatory Terrain
-6. Massmorph
-7. Polymorph Others
-8. Polymorph Self
-9. Remove Curse (Curse)
-10. Wall of Fire
-11. Wall of Ice
-12. Wizard Eye
+1. [Charm Monster](#charm_monster)
+2. [Confusion](#confusion)
+3. [Dimension Door](#dimension_door)
+4. [Growth of Plants](#growth_of_plants)
+5. [Hallucinatory Terrain](#hallucinatory_terrain)
+6. [Massmorph](#massmorph)
+7. [Polymorph Others](#polymorph_others)
+8. [Polymorph Self](#polymorph_self)
+9. [Remove Curse (Curse)](#magic_user_remove_curse)
+10. [Wall of Fire](#wall_of_fire)
+11. [Wall of Ice](#wall_of_ice)
+12. [Wizard Eye](#wizard_eye)
 
 ### <a name="magic_user_5th_level_list"></a>5th Level
 
-1. Animate Dead
-2. Cloudkill
-3. Conjure Elemental
-4. Contact Higher Plane
-5. Feeblemind
-6. Hold Monster
-7. Magic Jar
-8. Pass-Wall
-9. Telekinesis
-10. Teleport
-11. Transmute Rock to Mud (Transmute Mud to Rock)
-12. Wall of Stone
+1. [Animate Dead](#animate_dead)
+2. [Cloudkill](#cloudkill)
+3. [Conjure Elemental](#conjure_elemental)
+4. [Contact Higher Plane](#contact_higher_plane)
+5. [Feeblemind](#feeblemind)
+6. [Hold Monster](#hold_monster)
+7. [Magic Jar](#magic_jar)
+8. [Pass-Wall](#pass_wall)
+9. [Telekinesis](#telekinesis)
+10. [Teleport](#teleport)
+11. [Transmute Rock to Mud (Transmute Mud to Rock)](#transmute_rock_to_mud)
+12. [Wall of Stone](#wall_of_stone)
 
 ### <a name="magic_user_6th_level_list"></a>6th Level
 
-1. Anti-Magic Shell
-2. Control Weather
-3. Death Spell
-4. Disintegrate
-5. Geas (Remove Geas)
-6. Invisible Stalker
-7. Lower Water
-8. Move Earth
-9. Part Water
-10. Projected Image
-11. Reincarnation
-12. Stone to Flesh (Flesh to Stone)
+1. [Anti-Magic Shell](#anti_magic_shell)
+2. [Control Weather](#control_weather)
+3. [Death Spell](#death_spell)
+4. [Disintegrate](#disintegrate)
+5. [Geas (Remove Geas)](#geas)
+6. [Invisible Stalker](#invisible_stalker)
+7. [Lower Water](#lower_water)
+8. [Move Earth](#move_earth)
+9. [Part Water](#part_water)
+10. [Projected Image](#projected_image)
+11. [Reincarnation](#reincarnation)
+12. [Stone to Flesh (Flesh to Stone)](#stone_to_flesh)
 
 ## 1st Level Cleric Spells
 
@@ -604,7 +604,7 @@ The charm lasts indefinitely, but the subject is allowed to make further **saves
 - A creature with an INT of 9-12 gains a new save each week
 - A creature with an INT of 13-18 gains a new save once every day.
 
-### <a name="detect_magic"></a>Detect Magic
+### <a name="magic_user_detect_magic"></a>Detect Magic
 
 Duration: 2 turns  
 Range: 60'
@@ -630,7 +630,7 @@ Range: 10'
 
 This spell magically holds shut a door, gate, window, or other kind of portal.
 
-- A _knock_ spell opens the held portal instantly.
+- A [_knock_](#knock) spell opens the held portal instantly.
 - Creatures with at least 3 Hit Dice more than the caster can open the held portal with one round of effort.
 
 ### <a name="magic_user_light"></a>Light
@@ -917,7 +917,7 @@ Up to 24 creatures in a 60' diameter area are enchanted to be able to move and a
 - The number of spells a subject may cast per round is not doubled.
 - The use of magical devices such as wands is also not doubled.
 
-### <a name="hold_person"></a>Hold Person
+### <a name="magic_user_hold_person"></a>Hold Person
 
 Duration: 1 turn per level  
 Range: 120'
@@ -934,7 +934,7 @@ Humanoids of greater than 4+1 HD and undead are not affected.
 Duration: 1 day  
 Range: The caster or a creature touched
 
-The subject is able to see 60' in the dark with infravision.
+The subject is able to see 60' in the dark with [infravision](core.md#infravision).
 
 ### <a name="invisibility_10_foot_radius"></a>Invisibility 10' Radius
 
@@ -1184,7 +1184,7 @@ A 16 Hit Dice [elemental](monsters.md#elemental) is summoned from an elemental p
 - Commanding an elemental requires great concentration: the caster may not take part in combat, cast other spells, or move at greater than half speed.
 - While control over the elemental is maintained, the caster may dismiss it at any time, sending it back to its plane of origin.
 - If the caster's concentration is disturbed, the spell's command of the elemental ends. It is, henceforth, a free-willed entity and will immediately try to kill the caster and any who get in its way.
-- A conjured elemental may be dispelled by _dispel magic_ or _dispel evil_.
+- A conjured elemental may be dispelled by [_dispel magic_](#dispel_magic) or [_dispel evil_](#dispel_evil).
 - The caster may summon at most one elemental from each plane in a single day.
 
 ### <a name="contact_higher_plane"></a>Contact Higher Plane
@@ -1252,7 +1252,7 @@ The following stipulations apply, when the caster's life-force is **_possessing 
 - The caster gains full control over the victim's body, but is not able to make the victim cast spells.
 - If the _magic jar_ is destroyed, the spell ends and the caster's life-force is trapped in the possessed body.
 - If the possessed victim is killed, the caster's life-force returns to the _magic jar_.
-- _Dispel evil_ also forces the caster's life-force back into the _magic jar_.
+- [_Dispel evil_](#dispel_evil) also forces the caster's life-force back into the _magic jar_.
 - If the caster's own body is destroyed, his or her life-force is stranded in the body of the creature being possessed.
 
 ### <a name="pass_wall"></a>Pass-Wall
@@ -1389,7 +1389,7 @@ An [invisible stalker](monsters.md#invisible_stalker) is summoned to the caster'
 
 - The caster must be careful with the wording of the mission. Invisible stalkers are treacherous and, unless the assigned mission can be easily and quickly accomplished, will follow the letter of the command while twisting the intent.
 - The creature is bound to attempt the mission until it succeeds or is destroyed.
-- The spell _dispel evil_ will banish an invisible stalker, ending the spell.
+- The spell [_dispel evil_](#dispel_evil) will banish an invisible stalker, ending the spell.
 
 ### <a name="lower_water"></a>Lower Water
 
