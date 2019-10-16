@@ -25,7 +25,7 @@ This product is released under the terms of the Open Game License Version 1.0a, 
 >
 >One prominent area of unclarity is worth discussing specifically: a number of spells have effects that depend on the caster maintaining concentration. No strict definition of the requirements for concentrating is given in the Basic/Expert rules, thus some degree of referee interpretation is required. One spell---_conjure elemental_---mentions that the caster may not engage in combat or cast other spells while concentrating. The referee may wish to apply these stipulations to other spells that require concentration.
 
-## Cleric Spell List
+## <a name="cleric_spell_list"></a>Cleric Spell List
 
 (Reversed versions of spells are listed in parentheses.)
 
@@ -78,7 +78,7 @@ This product is released under the terms of the Open Game License Version 1.0a, 
 5. Quest (Remove Quest)
 6. Raise Dead (Finger of Death)
 
-## Magic-User Spell List
+## <a name="magic_user_spell_list"></a>Magic-User Spell List
 
 (Reversed versions of spells are listed in parentheses.)
 
@@ -1178,7 +1178,7 @@ A poisonous fog streams from the caster's fingertips, filling a 30' diameter are
 Duration: Permanent (until dismissed or slain)  
 Range: 240'
 
-A 16 Hit Dice elemental (see **_B/X Essentials: Monsters_**) is summoned from an elemental plane of the caster's choice (air, earth, fire, water) to do his or her bidding.
+A 16 Hit Dice [elemental](monsters.md#elemental) is summoned from an elemental plane of the caster's choice (air, earth, fire, water) to do his or her bidding.
 
 - A large volume of the appropriate element is required for the summons to work.
 - Commanding an elemental requires great concentration: the caster may not take part in combat, cast other spells, or move at greater than half speed.
@@ -1345,7 +1345,7 @@ By concentrating (no movement allowed), the caster causes one of the following c
 - **_High winds:_** Movement rates are halved. Missile fire and flight are impossible. At sea, may be used to increase the sailing speed of ships by 50%, if they travel with the wind. In sandy areas, may cause a sandstorm, reducing visibility to 20'.
 - **_Rainy:_** -2 penalty to missile attacks. Mud forms in 3 turns, halving movement rates.
 - **_Snowy:_** Visibility drops to 20'. Movement rates are halved. Bodies of water may freeze. After the snow thaws, mud remains and still impedes movement.
-- **_Tornado:_** The caster can direct the tornado, which moves at 120' per round. The tornado can be directed to attack, using the stats for a 12 HD air elemental (see **_B/X Essentials: Monsters_**). Ships caught in a tornado have a 75% chance of suffering 12 points of hull damage.
+- **_Tornado:_** The caster can direct the tornado, which moves at 120' per round. The tornado can be directed to attack, using the stats for a 12 HD [air elemental](monsters.md#air_elemental). Ships caught in a tornado have a 75% chance of suffering 12 points of hull damage.
 
 ### <a name="death_spell"></a>Death Spell
 
@@ -1385,7 +1385,7 @@ Can dispel an active _geas_ spell and any incurred penalties. If the caster of t
 Duration: One mission  
 Range: Summoned to caster's presence
 
-An invisible stalker (see **_B/X Essentials: Monsters_**) is summoned to the caster's presence and magically bound to perform a mission of the caster's choosing.
+An [invisible stalker](monsters.md#invisible_stalker) is summoned to the caster's presence and magically bound to perform a mission of the caster's choosing.
 
 - The caster must be careful with the wording of the mission. Invisible stalkers are treacherous and, unless the assigned mission can be easily and quickly accomplished, will follow the letter of the command while twisting the intent.
 - The creature is bound to attempt the mission until it succeeds or is destroyed.
@@ -1439,7 +1439,7 @@ The roll indicates either a character class or a monster:
 - **_Character class:_** The character is of experience level 1d6 (or at most the same level as the character achieved before death). The reincarnated character can continue to gain experience and advance as normal, in the new class.
 - **_Monster:_** The type should be determined by the referee. The monster should be at least partially intelligent, have no greater Hit Dice than the level of the character being reincarnated (at most 6 HD), and be of the same alignment. The tables below may be used or the referee may create his or her own tables. Monsters cannot gain experience or advance in level.
 
-The descriptions and stats of the monsters listed in the standard tables given here can be found in **_B/X Essentials: Monsters_**.
+The descriptions and stats of the monsters listed in the standard tables given here can be found in [**_B/X Essentials: Monsters_**](monsters.md).
 
 **Reincarnated Class**
 
@@ -1459,38 +1459,38 @@ d10 | Reincarnation
 
 d6 | Reincarnation | HD
 ---|---------------|---
-1 | Gnome | 1
-2 | Neanderthal | 2
-3 | Pegasus | 2
-4 | Blink dog | 4
-5 | Unicorn | 4
-6 | Roc, small | 6
+1 | [Gnome](monsters.md#gnome) | 1
+2 | [Neanderthal](monsters.md#neanderthal) | 2
+3 | [Pegasus](monsters.md#pegasus) | 2
+4 | [Blink dog](monsters.md#blink_dog) | 4
+5 | [Unicorn](monsters.md#unicorn) | 4
+6 | [Roc, small](monsters.md#small_roc) | 6
 
 **Neutral Monsters**
 
 d6 | Reincarnation | HD
 ---|---------------|---
-1 | Pixie or sprite | 1
-2 | Lizard man | 2
-3 | Rock baboon | 2
-4 | Ape, white | 4
-5 | Centaur | 4
-6 | Werebear | 6
+1 | [Pixie](monsters.md#) or [sprite](monsters.md#sprite) | 1
+2 | [Lizard man](monsters.md#lizard_man) | 2
+3 | [Rock baboon](monsters.md#rock_baboon) | 2
+4 | [Ape, white](monsters.md#ape_white) | 4
+5 | [Centaur](monsters.md#centaur) | 4
+6 | [Werebear](monsters.md#werebear) | 6
 
 **Chaotic Monsters**
 
 d10 | Reincarnation | HD
 ----|---------------|---
-1 | Goblin | 1
-2 | Hobgoblin | 1
-3 | Kobold | 1
-4 | Orc | 1
-5 | Gnoll | 2
-6 | Bugbear | 3
-7 | Wererat | 3
-8 | Ogre | 4
-9 | Werewolf | 4
-10 | Minotaur | 6
+1 | [Goblin](monsters.md#goblin) | 1
+2 | [Hobgoblin](monsters.md#hobgoblin) | 1
+3 | [Kobold](monsters.md#kobold) | 1
+4 | [Orc](monsters.md#orc) | 1
+5 | [Gnoll](monsters.md#gnoll) | 2
+6 | [Bugbear](monsters.md#bugbear) | 3
+7 | [Wererat](monsters.md#wererat) | 3
+8 | [Ogre](monsters.md#ogre) | 4
+9 | [Werewolf](monsters.md#werewolf) | 4
+10 | [Minotaur](monsters.md#minotaur) | 6
 
 ### <a name="stone_to_flesh"></a>Stone to Flesh
 

@@ -160,7 +160,7 @@ Dexterity (DEX) measures hand-eye coordination, agility, reflexes, and balance. 
 
 - [**_Standard Adjustment_**](#standard_adjustment) is applied to attack rolls (but not damage rolls) made with a ranged weapon and modifies the character's Armour Class (a bonus lowers AC, a penalty raises it).
 
-- **_Initiative Adjustment_** modifies the character's initiative roll, if the optional rule for individual initiative is being used (see [**_Basic Combat Procedure_**](core.md#basic_combat_procedure) in [**_B/X Essentials: Core Rules_**](core.md)).
+- **_Initiative Adjustment_** modifies the character's initiative roll, if the optional rule for individual initiative is being used (see [**_Basic Combat Procedure_**](core.md#basic_combat_procedure)).
 
 DEX | Initiative Adjustment
 --|---
@@ -194,7 +194,7 @@ INT | Language Ability | Bonus Languages
 
 Strength (STR) rates a character's brawn, muscle, and physical power. This ability is especially important for characters who focus on melee combat.
 
-- [**_Standard Adjustment_**](#standard_adjustment) is applied to attack and damage rolls with melee weapons and to attempts to force open a stuck door (see [**_Doors_**](core.md#doors) in [**_B/X Essentials: Core Rules_**](core.md)).
+- [**_Standard Adjustment_**](#standard_adjustment) is applied to attack and damage rolls with melee weapons and to attempts to force open a stuck door (see [**_Doors_**](core.md#doors)).
 
 ### <a name="wis"></a>Wisdom
 
@@ -238,9 +238,9 @@ Clerics are humans who have sworn to serve a deity. They conduct their lives in 
 
 **_Combat:_** Clerics can use any form of armour, but strict holy doctrine prevents their use of weapons that have a sharp edge. Thus, only the following weapons from the standard lists in [**_Equipment_**](#equipment) may be used: club, mace, sling, staff, warhammer.
 
-**_Magical Research:_** A cleric of any level may spend time and money to research new spells associated with his or her deity. When a cleric reaches 9th level, he or she is also able to create magic items and research other magical effects. These rules are detailed in [**_B/X Essentials: Core Rules_**](core.md#magical_research).
+**_Magical Research:_** A cleric of any level may spend time and money to research new spells associated with his or her deity. When a cleric reaches 9th level, he or she is also able to create magic items and research other magical effects. These rules are detailed in [Magical Research](core.md#magical_research).
 
-**_Spell Casting:_** From 2nd level, a cleric may pray to receive spells from his or her deity. The power and number of spells available to a cleric are determined by the character's experience level. The rules for divine spell casting are found in [**_B/X Essentials: Core Rules_**](core.md#casting_a_spell). The list of spells available to clerics is found in [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md).
+**_Spell Casting:_** From 2nd level, a cleric may pray to receive spells from his or her deity. The power and number of spells available to a cleric are determined by the character's experience level. The rules for divine spell casting are found in [Casting a Spell](core.md#casting_a_spell). The list of spells available to clerics is found in [Cleric Spell List](spells.md#cleric_spell_list).
 
 **_Turning the Undead:_** Clerics are able to call upon the name and power of their deity to repel or even destroy undead. This ability is known as _turning the undead_. The chart below lists a dash, a "T", a "D", or a number corresponding to the Hit Dice of an undead creature and the level of the cleric:
 
@@ -339,11 +339,11 @@ Dwarves are stout, bearded demi-humans who average a height of approximately 4 f
 
 **_Detect Construction Tricks:_** From their experience underground, dwarves have a 2-in-6 chance of detecting false walls, hidden construction, or sloping passages. A dwarf must be actively searching for these abilities to function.
 
-**_Detect Traps:_** Due to their expertise with construction, dwarves have a 2-in-6 chance of detecting non-magical traps, when searching (see [**_Searching_**](core.md#searching) in [**_B/X Essentials: Core Rules_**](core.md)).
+**_Detect Traps:_** Due to their expertise with construction, dwarves have a 2-in-6 chance of detecting non-magical traps, when searching (see [**_Searching_**](core.md#searching)).
 
-**_Infravision:_** Due to their habit of living underground in great mines, dwarves have the ability to see in the dark with infravision up to 60' (see [**_Light, Vision, and Visibility_**](core.md#light_vision_and_visibility) in [**_B/X Essentials: Core Rules_**](core.md)).
+**_Infravision:_** Due to their habit of living underground in great mines, dwarves have the ability to see in the dark with infravision up to 60' (see [**_Light, Vision, and Visibility_**](core.md#light_vision_and_visibility)).
 
-**_Listening at Doors:_** Dwarves have a 2-in-6 chance of hearing noises (see [**_Doors_**](core.md#doors) in [**_B/X Essentials: Core Rules_**](core.md)).
+**_Listening at Doors:_** Dwarves have a 2-in-6 chance of hearing noises (see [**_Doors_**](core.md#doors)).
 
 #### <a name="dwarf_reaching_9th_level"></a>Reaching 9th Level
 
@@ -388,17 +388,17 @@ Elves are slender, fey demi-humans with pointed ears. They are very diverse in a
 
 **_Combat:_** Elves are able to use all forms of weapon and armour.
 
-**_Detect Secret Doors:_** Elves have keen eyes that allow them, when actively searching, to detect hidden and secret doors with a 2-in-6 chance (see [**_Searching_**](core.md#searching) in [**_B/X Essentials: Core Rules_**](core.md)).
+**_Detect Secret Doors:_** Elves have keen eyes that allow them, when actively searching, to detect hidden and secret doors with a 2-in-6 chance (see [**_Searching_**](core.md#searching)).
 
 **_Immunity to Ghoul Paralysis:_** Elves are completely unaffected by the paralysis ghouls can inflict.
 
-**_Infravision:_** Elves have infravision to 60' (see [**_Light, Vision, and Visibility_**](core.md#light_vision_and_visibility) in [**_B/X Essentials: Core Rules_**](core.md)).
+**_Infravision:_** Elves have infravision to 60' (see [**_Light, Vision, and Visibility_**](core.md#light_vision_and_visibility)).
 
-**_Listening at Doors:_** Elves have a 2-in-6 chance of hearing noises (see [**_Doors_**](core.md#doors), [**_B/X Essentials: Core Rules_**](core.md)).
+**_Listening at Doors:_** Elves have a 2-in-6 chance of hearing noises (see [**_Doors_**](core.md#doors)).
 
-**_Magical Research:_** An elf of any level may spend time and money to research new spells to add to his or her spell book. When an elf reaches 9th level, he or she is also able to create magic items and research other magical effects. These rules are detailed in the [**_Magic_**](core.md#magic) section of [**_B/X Essentials: Core Rules_**](core.md).
+**_Magical Research:_** An elf of any level may spend time and money to research new spells to add to his or her spell book. When an elf reaches 9th level, he or she is also able to create magic items and research other magical effects. These rules are detailed in [**_Magic_**](core.md#magic) section.
 
-**_Spell Casting:_** Elves carry spell books that hold the formulae for arcane spells written on their pages. An elf can only memorize a certain number of spells at any given time. The spell casting chart (below) shows both the number of spells in the elf's spell book and the number he or she may memorize, determined by the character's experience level. Thus, a 1st level elf has one spell in his or her spell book, selected by the referee (who may allow the player to choose). The rules for arcane spell casting and spell books are described in the [**_Magic_**](core.md#magic) section of [**_B/X Essentials: Core Rules_**](core.md). The list of spells available to elves is provided in [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md) (elves have the same spell selection as magic-users).
+**_Spell Casting:_** Elves carry spell books that hold the formulae for arcane spells written on their pages. An elf can only memorize a certain number of spells at any given time. The spell casting chart (below) shows both the number of spells in the elf's spell book and the number he or she may memorize, determined by the character's experience level. Thus, a 1st level elf has one spell in his or her spell book, selected by the referee (who may allow the player to choose). The rules for arcane spell casting and spell books are described in the [**_Magic_**](core.md#magic) section. The list of spells available to elves is provided in [**Magic-User Spell List_**](spells.md#magic_user_spell_list) (elves have the same spell selection as magic-users).
 
 **_Using Magic Items:_** As spell casters, elves are able to use magic scrolls of spells on their spell list. There are also items (e.g. magic wands) that may only be used by elves or magic-users.
 
@@ -510,9 +510,9 @@ Halflings are small, rotund demi-humans with furry feet and curly hair. They wei
 - In bushes or other outdoor cover, a halfling can hide with 90% ability.
 - In dungeons, a halfling can also hide in shadows or behind other forms of cover, so long as he or she remains silent and motionless. The chance of success is 2-in-6.
 
-**_Initiative Bonus (optional rule):_** If using the optional rule for individual initiative (see [**_Basic Combat Procedure_**](core.md#basic_combat_procedure) in [**_B/X Essentials: Core Rules_**](core.md)), halflings get a bonus of +1 to initiative rolls.
+**_Initiative Bonus (optional rule):_** If using the optional rule for individual initiative (see [**_Basic Combat Procedure_**](core.md#basic_combat_procedure)), halflings get a bonus of +1 to initiative rolls.
 
-**_Listening at Doors:_** Halflings have a 2-in-6 chance of hearing noises (see [**_Doors_**](core.md#doors), [**_B/X Essentials: Core Rules_**](core.md)).
+**_Listening at Doors:_** Halflings have a 2-in-6 chance of hearing noises (see [**_Doors_**](core.md#doors)).
 
 **_Missile Attack Bonus:_** Halflings' keen coordination grants them +1 on any missile attacks.
 
@@ -549,9 +549,9 @@ Sometimes called wizards, warlocks, or witches, magic-users are humans who study
 
 **_Combat:_** Magic-users may only use daggers and are unable to use shields or wear any kind of armour. For this reason, magic-users are weak at low levels and, in an adventuring group, should be protected.
 
-**_Magical Research:_** A magic-user of any level may spend time and money to research new spells to add to his or her spell book. When a magic-user reaches 9th level, he or she is also able to create magic items and research other magical effects. These rules are detailed in the [**_Magic_**](core.md#magic) section of [**_B/X Essentials: Core Rules_**](core.md).
+**_Magical Research:_** A magic-user of any level may spend time and money to research new spells to add to his or her spell book. When a magic-user reaches 9th level, he or she is also able to create magic items and research other magical effects. These rules are detailed in the [**_Magic_**](core.md#magic) section.
 
-**_Spell Casting:_** Magic-users carry spell books that hold the written formulae for arcane spells. A magic-user can only memorize a certain number of spells at any given time. The spell casting chart (below) shows both the number of spells in the magic-user's spell book and the number he or she may memorize, determined by the character's experience level. Thus, a 1st level magic-user has one spell in his or her spell book, selected by the referee (who may allow the player to choose). The rules for arcane spell casting and spell books are described in the [**_Magic_**](core.md#magic) section of [**_B/X Essentials: Core Rules_**](core.md). The list of spells available to magic-users is provided in [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md).
+**_Spell Casting:_** Magic-users carry spell books that hold the written formulae for arcane spells. A magic-user can only memorize a certain number of spells at any given time. The spell casting chart (below) shows both the number of spells in the magic-user's spell book and the number he or she may memorize, determined by the character's experience level. Thus, a 1st level magic-user has one spell in his or her spell book, selected by the referee (who may allow the player to choose). The rules for arcane spell casting and spell books are described in the [**_Magic_**](core.md#magic) section. The list of spells available to magic-users is provided in [**_Magic-User Spell List_**](spells.md#magic_user_spell_list).
 
 **_Using Magic Items:_** As spell casters, magic-users are able to use magic scrolls of spells on their spell list. There are also items (e.g. magic wands) that may only be used by magic-users or elves.
 
@@ -639,7 +639,7 @@ Thieves are humans who live by their wits and skills of deception and intrigue. 
 
 - **_Pick Locks:_** A thief is skilled in picking locks, but needs thieves' tools to do so (see [**_Equipment_**](#equipment)). He or she can only try to pick a lock one time and, if the roll fails, may not try the same lock again before gaining an experience level.
 
-- **_Pick Pockets:_** This skill is the bread and butter of non-adventuring thieves; it is a quick (if perilous) source of income. If the victim is above 5th level, the thief's roll is penalised by 5% for every level above 5th. There is always at least a 1% chance of failure. A roll of more than twice the percentage required for success means the intended target notices the thieving attempt. The referee will then roll 2d6 on the reaction table (see [**_Encounters_**](core.md#encounters) in [**_B/X Essentials: Core Rules_**](core.md)) to determine the target's reaction.
+- **_Pick Pockets:_** This skill is the bread and butter of non-adventuring thieves; it is a quick (if perilous) source of income. If the victim is above 5th level, the thief's roll is penalised by 5% for every level above 5th. There is always at least a 1% chance of failure. A roll of more than twice the percentage required for success means the intended target notices the thieving attempt. The referee will then roll 2d6 on the reaction table (see [**_Encounters_**](core.md#encounters)) to determine the target's reaction.
 
 #### <a name="thief_reaching_9th_level"></a>Reaching 9th Level
 
@@ -850,7 +850,7 @@ Chain mail | 5 | 40 | 400
 Plate mail | 3 | 60 | 500
 Shield | -1 bonus | 10 | 100
 
-**_Weight (Coins):_** The weight of armour is only tracked with [encumbrance option 2](core.md#encumbrance_by_weight) (see [**_B/X Essentials: Core Rules_**](core.md)).
+**_Weight (Coins):_** The weight of armour is only tracked with [encumbrance option 2](core.md#encumbrance_by_weight).
 
 ### <a name="weapons"></a>Weapons
 
@@ -876,7 +876,7 @@ Sword | 10 | 60
 Two-handed sword | 15 | 150
 Warhammer | 5 | 30
 
-**_Weight (Coins):_** The weight of weapons is only tracked with [encumbrance option 2](core.md#encumbrance_by_weight) (see [**_B/X Essentials: Core Rules_**](core.md)).
+**_Weight (Coins):_** The weight of weapons is only tracked with [encumbrance option 2](core.md#encumbrance_by_weight)).
 
 \* _Includes weight of ammunition/container._
 
@@ -918,7 +918,7 @@ Torch | 1d4 | Melee
 Two-handed sword | 1d10 | Melee, Slow, Two-handed
 Warhammer | 1d6 | Blunt, Melee
 
-**_Damage:_** _Die rolled when using the optional rule for [variable weapon damage](core.md#variable_weapon_damage) ([**_B/X Essentials: Core Rules_**](core.md))._
+**_Damage:_** _Die rolled when using the optional rule for [variable weapon damage](core.md#variable_weapon_damage)._
 
 &dagger; _Not defined in the traditional Basic/Expert rules; value extrapolated from similar items._
 
@@ -936,7 +936,7 @@ Warhammer | 1d6 | Blunt, Melee
 
 **_Reload (optional rule):_** Requires a round to reload between shots; can only be fired every second round.
 
-**_Slow:_** The character acts last in each combat round (see [**_Basic Combat Procedure_**](core.md#basic_combat_procedure) in [**_B/X Essentials: Core Rules_**](core.md)).
+**_Slow:_** The character acts last in each combat round (see [**_Basic Combat Procedure_**](core.md#basic_combat_procedure)).
 
 **_Splash weapon:_** On a successful missile attack, the container smashes and the target is doused in the liquid. Damage is inflicted over two rounds, as the liquid drips off.
 
@@ -956,7 +956,7 @@ Warhammer | 1d6 | Blunt, Melee
 
 **_Holy water:_** Water that has been blessed by a holy person. It is used in some religious rituals and is a formidable weapon against the undead. A vial of holy water must be thrown at an undead monster to harm it (see [**_Weapon Combat Stats_**](#weapon_combat_stats)). Holy water cannot retain its power if it is stored in any other container than the special vials it is placed in when blessed.
 
-**_Iron spikes:_** May be used for wedging doors open or shut (see [**_Doors_**](core.md#doors) in [**_B/X Essentials: Core Rules_**](core.md)), as an anchor to attach a rope to, and many other purposes.
+**_Iron spikes:_** May be used for wedging doors open or shut (see [**_Doors_**](core.md#doors)), as an anchor to attach a rope to, and many other purposes.
 
 **_Lantern:_** Lanterns can be closed to hide the light. They burn one oil flask for each four hours, or 24 turns, and have an effective light radius of 30 feet.
 
@@ -1095,7 +1095,7 @@ Raft (professional) | 1gp / square foot | 100 per square foot | Rivers, lakes | 
 
 #### <a name="high_winds"></a>High Winds
 
-Unseaworthy vessels are designed for use in rivers, lakes, or coastal waters, not on the open seas. They are thus not built to withstand high winds (see [**_Water Travel_**](core.md#water_travel) in [**_B/X Essentials: Core Rules_**](core.md)). These vessels suffer as follows in extreme winds:
+Unseaworthy vessels are designed for use in rivers, lakes, or coastal waters, not on the open seas. They are thus not built to withstand high winds (see [**_Water Travel_**](core.md#water_travel)). These vessels suffer as follows in extreme winds:
 
 **_Near gale:_** With the optional variable wind conditions rule, a result of 11 indicates near gale conditions. Unseaworthy vessels have a 20% chance (increased from the usual 10% chance) of taking on water.
 
@@ -1332,7 +1332,7 @@ Spy | 500gp (or more)
 
 #### <a name="alchemist"></a>Alchemist
 
-Alchemists dedicate their expertise to creating potions and other concoctions. Based on a sample or recipe, an alchemist can produce a potion at twice the normal speed and for half the normal cost (see [**_Magical Research_**](#magical_research) in [**_B/X Essentials: Core Rules_**](core.md)). An alchemist may also research new potions, but this takes twice as long and costs twice as much as normal.
+Alchemists dedicate their expertise to creating potions and other concoctions. Based on a sample or recipe, an alchemist can produce a potion at twice the normal speed and for half the normal cost (see [**_Magical Research_**](core.md#magical_research)). An alchemist may also research new potions, but this takes twice as long and costs twice as much as normal.
 
 #### <a name="animal_trainer"></a>Animal Trainer
 
@@ -1363,7 +1363,7 @@ Engineers plan and oversee large construction projects, such as building [**_Cas
 
 #### <a name="navigator"></a>Navigator
 
-A navigator is a sailor who understands how to read charts and navigate based on instruments and the position of the stars. Any time a ship ventures beyond sight of a coastline, it becomes lost if a navigator is not aboard. (See [**_Losing Direction_**](core.md#losing_direction) in [**_B/X Essentials: Core Rules_**](core.md).)
+A navigator is a sailor who understands how to read charts and navigate based on instruments and the position of the stars. Any time a ship ventures beyond sight of a coastline, it becomes lost if a navigator is not aboard. (See [**_Losing Direction_**](core.md#losing_direction).)
 
 #### <a name="oarsman"></a>Oarsman
 

@@ -567,7 +567,7 @@ This procedure generates parties of NPC adventurers. As the procedure is fairly 
 - **_Treasure:_** Treasure types U+V, shared among the group.
 - **_Marching order:_** Decided by referee.
 
-If the classes presented in [**_B/X Essentials: Classes and Equipment_**](classes.md) are not in use, the referee should replace the listed classes by equivalents in use in his or her campaign.
+If the classes presented in [**_B/X Essentials: Classes and Equipment_**](class.md) are not in use, the referee should replace the listed classes by equivalents in use in his or her campaign.
 
 ### <a name="basic_adventurers"></a>Basic Adventurers
 
@@ -1096,7 +1096,7 @@ Large war drums that induce panic in those who hear their sound.
 
 #### <a name="efreeti_bottle"></a>Efreeti Bottle
 
-A 3' tall, weighty jug with a sealed stopper. Breaking the seal and removing the stopper releases a trapped efreeti (see [**_B/X Essentials: Monsters_**](monsters.md)), who will serve the character.
+A 3' tall, weighty jug with a sealed stopper. Breaking the seal and removing the stopper releases a trapped [efreeti](monsters/md#efreeti_lesser), who will serve the character.
 
 - The efreeti will serve the one who freed it (and only that character) once per day.
 - After 101 days, its service ends. The creature then returns to its home---the legendary City of Brass.
@@ -1116,8 +1116,8 @@ The items may be used as follows:
 - The summoning power may only be used once per day.
 - Before use, the device must be prepared. This takes one turn.
 - Once prepared, activating the device takes one round.
-- A 12 Hit Dice elemental (see [**_B/X Essentials: Monsters_**](monsters.md)) is conjured to do the summoner's bidding.
-- Command over the elemental works as described in the magic-user spell _conjure elemental_ (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)).
+- A 12 Hit Dice [elemental](monsters.md#elemental) is conjured to do the summoner's bidding.
+- Command over the elemental works as described in the magic-user spell [_conjure elemental_](spells.md#conjure_elemental).
 
 #### <a name="elven_cloak_and_boots"></a>Elven Cloak and Boots
 
@@ -1182,7 +1182,7 @@ A beautifully crafted helmet that grants the magical ability of telepathy: readi
 
 #### <a name="helm_of_teleportation"></a>Helm of Teleportation
 
-A magical helm that gives an arcane spell caster the ability to cast the _teleport_ spell (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)).
+A magical helm that gives an arcane spell caster the ability to cast the [_teleport_](spells.md#teleport) spell.
 
 - The wearer may teleport him- or herself, another creature, or an object.
 - If used on another creature or object, a **save vs spells** is allowed to resist.
@@ -1209,7 +1209,7 @@ A medallion on a chain, enchanted with the power of reading thoughts.
 
 #### <a name="medallion_of_esp_90"></a>Medallion of ESP 90'
 
-A medallion on a chain, enchanted with the power of reading thoughts. This works in the same way as the magic-user spell _ESP_ (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)).
+A medallion on a chain, enchanted with the power of reading thoughts. This works in the same way as the magic-user spell [_ESP_](spells.md#esp).
 
 #### <a name="mirror_of_life_trapping"></a>Mirror of Life Trapping
 
@@ -1234,7 +1234,7 @@ A coil of thin, strong rope, 50' in length.
 Protects the bearer from baleful magic.
 
 - All kinds of curses are nullified.
-- _Finger of death_ (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)) is nullified.
+- [_Finger of Death_](spells.md#finger_of_death) is nullified.
 - The scarab's enchantment works 2d6 times before it is spent.
 
 ### <a name="potions"></a>Potions
@@ -1359,7 +1359,7 @@ The character shrinks to 6" high.
 
 #### <a name="esp"></a>ESP
 
-Grants the power of reading thoughts. This works in the same way as the magic-user spell _ESP_ (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)).
+Grants the power of reading thoughts. This works in the same way as the magic-user spell [_ESP_](spells.md#esp).
 
 #### <a name="fire_resistance"></a>Fire Resistance
 
@@ -1423,7 +1423,7 @@ Note that damage suffered while under the effects of this potion is first deduct
 
 #### <a name="invisibility"></a>Invisibility
 
-Drinking this potion, the character becomes invisible. This works the same as the magic-user spell _invisibility_ (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)).
+Drinking this potion, the character becomes invisible. This works the same as the magic-user spell [_invisibility_](spells.md#invisibility).
 
 At the referee's discretion, a _potion of invisibility_ may be consumed in six smaller doses, each with a reduced duration.
 
@@ -1457,7 +1457,7 @@ Appears the same as any other potion.
 
 #### <a name="polymorph_self"></a>Polymorph Self
 
-Upon drinking this potion, the character transforms into another being (of his or her choice). This works in the same way as the magic-user spell _polymorph self_ (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)).
+Upon drinking this potion, the character transforms into another being (of his or her choice). This works in the same way as the magic-user spell [_polymorph self_](spells.md#polymorph_self).
 
 #### <a name="speed"></a>Speed
 
@@ -1549,7 +1549,7 @@ The wearer believes he or she is under the effects of another type of magic ring
 
 #### <a name="djinni_summoning"></a>Djinni Summoning
 
-This ring grants the power to summon a djinni (**_B/X Essentials: Monsters, p13_**).
+This ring grants the power to summon a [djinni](monsters.md#djinni).
 
 - The djinni will serve the character who summoned it for up to 24 hours.
 - The djinni only obeys the one who summoned it---another character who takes the ring has no power over the djinni.
@@ -1726,7 +1726,7 @@ Casting spells from scrolls works as follows:
 - Only arcane spell casters can use scrolls of arcane spells. Only divine spell casters can use scrolls of divine spells.
 - The words on the scroll must be read out loud.
 - When a spell is cast, the inscription disappears from the scroll. (If a scroll contains multiple spells, only the spell cast disappears.)
-- Arcane spells are written in magical script that can only be read by magic (e.g. the _read magic_ spell, see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)).
+- Arcane spells are written in magical script that can only be read by magic (e.g. the [_read magic_](spells.md#read_magic) spell).
 - Divine spells are written in normal languages (usually Common), but can only be used by divine spell casters.
 
 The referee may choose the spells on a scroll, or may roll for them randomly. The following table may be used to randomly select the level of each spell on a scroll.
@@ -1831,11 +1831,11 @@ On command, produces light in a 30' radius.
 
 #### <a name="sword_charm_person"></a>Sword +2, Charm Person
 
-Grants the wielder the ability to charm other people, up to three times a week. This works in the same way as the magic-user spell _charm person_ (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)).
+Grants the wielder the ability to charm other people, up to three times a week. This works in the same way as the magic-user spell [_charm person_](spells.md#charm_person).
 
 #### <a name="sword_locate_objects"></a>Sword +1, Locate Objects
 
-Grants the wielder the ability to detect the presence of objects within 120', once per day. This works in the same way as the magic-user spell _locate object_ (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)).
+Grants the wielder the ability to detect the presence of objects within 120', once per day. This works in the same way as the magic-user spell [_locate object_](spells.md#locate_object).
 
 #### <a name="sword_wishes"></a>Sword +1, Wishes
 
@@ -1941,7 +1941,7 @@ An item of great wizardly power, this staff may be used as a weapon in melee, an
 - Usable by arcane spell casters only.
 - **_Melee:_** Expending one charge, inflicts 2d6 damage on a successful hit.
 - **_Cone of Cold:_** Conjures a cone of freezing energy, 60' long and 30' wide at the far end. Creatures caught in the cone suffer 8d6 damage (**save versus spells** for half damage).
-- **_Spells:_** Can cast: _continual light_, _fire ball_ (8d6 damage), _lightning bolt_ (8d6 damage), _telekinesis_ (up to 2,400 coins of weight). (For full spell descriptions, see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md).)
+- **_Spells:_** Can cast: [_continual light_](spells.md#continual_light), [_fire ball_](spells.md#fire_ball) (8d6 damage), [_lightning bolt_](spells.md#lightning_bolt) (8d6 damage), [_telekinesis_](spells.md#telekinesis) (up to 2,400 coins of weight).
 
 #### <a name="staff_of_snakes"></a>Staff of Snakes
 
@@ -1982,7 +1982,7 @@ An item of supreme wizardly power, this staff may be used as a weapon in melee, 
 - **_Striking:_** Expending one charge, inflicts 2d6 damage on a successful hit.
 - **_Cone of Cold:_** Conjures a cone of freezing energy, 60' long and 30' wide at the far end. Creatures caught in the cone suffer 8d6 damage, with a successful **save versus spells** indicating half damage.
 - **_Paralysation:_** Conjures a cone of magical energy, 60' long and 30' wide at the far end. Creatures caught in the cone are paralysed for 6 turns (**save versus spells** to avoid).
-- **_Spells:_** Can cast: _conjure elemental_ (8 HD), _continual light_, _fire ball_ (8d6 damage), _invisibility_, _lightning bolt_ (8d6 damage), _passwall_, _telekinesis _(up to 2,400 coins of weight), _web_. (For full spell descriptions, see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md).)
+- **_Spells:_** Can cast: _conjure elemental_ (8 HD), [_continual light_](spells.md#continual_light), [_fire ball_](spells.md#fire_ball) (8d6 damage), [_invisibility_](spells.md#invisibility), [_lightning bolt_](spells.md#lightning_bolt) (8d6 damage), [_passwall_](spells.md#passwall), [_telekinesis_](spells.md#telekinesis) (up to 2,400 coins of weight), [_web_](spells.md#web).
 - **_Whirlwind:_** Conjures a whirlwind 70' tall, 20' wide at the top, and 10' wide at the base. The whirlwind lasts for 3 rounds, and moves at 120' (40'), as the wielder of the staff directs. All in its path suffer 2d6 damage. Creatures with less than 2HD are swept aside (**save vs death** to avoid).
 - **_Sacrifice:_** The wielder may sacrifice the staff by breaking it in two. Doing so unleashes a 30' radius fireball that inflicts 8 points of damage per remaining charge in the staff. The wielder of the staff also suffers this damage.
 
@@ -2023,7 +2023,7 @@ Conjures fire balls:
 
 #### <a name="wand_of_illusion"></a>Wand of Illusion
 
-Expending a charge, an illusion of the character's choosing manifests. This works in the same way as the magic-user spell _phantasmal force_ (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)), except:
+Expending a charge, an illusion of the character's choosing manifests. This works in the same way as the magic-user spell [_phantasmal force_](spells.md#phantasmal_force), except:
 
 - Concentration is required to maintain the illusion: the wielder of the wand may move at up to half normal movement rate while concentrating. Concentration is broken if the wielder attacks or casts a spell, or if he or she is successfully attacked (damaged, targeted by a malicious spell, etc).
 
@@ -2068,7 +2068,7 @@ Conjures a cone of paralysing energy.
 
 #### <a name="wand_of_polymorph"></a>Wand of Polymorph
 
-By expending a charge, the wielder of the wand or another creature within 60' changes into another type of creature, as selected by the wielder. This works in the same way as the magic-user spells _polymorph self_ and _polymorph others_ (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)).
+By expending a charge, the wielder of the wand or another creature within 60' changes into another type of creature, as selected by the wielder. This works in the same way as the magic-user spells [_polymorph self_](spells.md#polymorph_self) and [_polymorph others_](spells.md#polymorph_others).
 
 An unwilling subject may make a **saving throw versus wands** to negate the effect.
 
@@ -2312,7 +2312,7 @@ The sword heals damage.
 
 #### <a name="illusion"></a>Illusion
 
-An illusion of the wielder's choosing manifests. This works in the same way as the magic-user spell _phantasmal force_ (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)).
+An illusion of the wielder's choosing manifests. This works in the same way as the magic-user spell [_phantasmal force_](spells.md#phantasmal_force).
 
 #### <a name="levitation"></a>Levitation
 
@@ -2344,7 +2344,7 @@ Enables the wielder to read the thoughts of another living creature.
 
 #### <a name="teleportation"></a>Teleportation
 
-The wielder is able to _teleport_, per the magic-user spell (see [**_B/X Essentials: Cleric and Magic-User Spells_**](spells.md)).
+The wielder is able to [_teleport_](spells.md#teleport), per the magic-user spell.
 
 #### <a name="x_ray_vision"></a>X-Ray Vision
 

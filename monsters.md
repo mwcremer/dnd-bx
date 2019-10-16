@@ -16,11 +16,11 @@ Some powerful monsters save as a fighter of greater than 14th level. In these ca
 
 ### <a name="infravision"></a>Infravision
 
-All non-human monsters have 60' infravision. (See **_B/X Essentials: Core Rules_**.)
+All non-human monsters have 60' [infravision](core.md#infravision).
 
 ### <a name="persons"></a>Persons
 
-Spells such as _charm person_, _hold person_, etc. only affect humanoids (including humans and demihumans) of up to 4+1HD. Monsters in this book that are affected by these spells are: acolyte, bandit, berserker, brigand, buccaneer, bugbear, dervish, dwarf, elf, gnoll, gnome, goblin, halfling, hobgoblin, kobold, lizard man, medium, merchant, neanderthal, nixie, noble, normal human, ogre, orc, pirate, pixie, sprite, trader, troglodyte, veteran. Other monsters may be affected at the referee's judgement.
+Spells such as [_charm person_](spells.md#charm_person), [_hold person_](spells.md#hold_person), etc. only affect humanoids (including humans and demihumans) of up to 4+1HD. Monsters in this book that are affected by these spells are: acolyte, bandit, berserker, brigand, buccaneer, bugbear, dervish, dwarf, elf, gnoll, gnome, goblin, halfling, hobgoblin, kobold, lizard man, medium, merchant, neanderthal, nixie, noble, normal human, ogre, orc, pirate, pixie, sprite, trader, troglodyte, veteran. Other monsters may be affected at the referee's judgement.
 
 ### <a name="xp_value_of_npcs"></a>XP Value of NPCs
 
@@ -64,9 +64,9 @@ When awarding XP for defeated NPCs, the referee may use the following guidelines
 - Wandering (wilderness): The second value indicates the number of monsters encountered roaming in the wilderness. If the listed value is zero, these monsters are not usually encountered in the wilderness.
 - Lair (wilderness): The second value multiplied by 5 indicates the number of monsters found in a lair in the wilderness. If the listed value is zero, these monsters are not usually encountered in the wilderness.
 
-**_TT:_** Treasure type. The letter code used to determine the amount and type of treasure possessed by the monster(s) (see **_B/X Essentials: Adventures and Treasures_**). The letters listed are used as follows:
+**_TT:_** Treasure type. The letter code used to determine the amount and type of treasure possessed by the monster(s) (see [**_Treasure Typess_**](adventures.md#treasure_types)). The letters listed are used as follows:
 
-- A to O: Indicate a hoard: the sum wealth of a large monster or a community of smaller monsters. Such hoards are usually hidden in the lair. For monsters with a lair encounter size (see NA, above) of greater than 1d4, the amount of treasure in the hoard may be reduced, if the number of monsters is below average.
+- A to O: Indicate a hoard: the sum wealth of a large monster or a community of smaller monsters. Such hoards are usually hidden in the lair. For monsters with a lair encounter size (see _NA_, above) of greater than 1d4, the amount of treasure in the hoard may be reduced, if the number of monsters is below average.
 - P to V: If listed for an intelligent monster, indicate treasure carried by individuals (P to T) or a group (U, V). If listed for an unintelligent monster, indicates treasure from the bodies of its former victims.
 
 ## <a name="monsters"></a>Monsters
@@ -251,7 +251,7 @@ _Sailors who make a living by raiding coastal settlements and robbing other ship
 
 AC 7 or 5, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120' (40'), SV D12 W13 P14 B15 S16 (F1), ML 6, AL Neutral, XP 10, NA 0 (see below), TT A
 
-- **_Ships and crew:_** Depends where encountered. Rivers or lakes: 1d8 river boats (1d2 &times; 10 buccaneers each); coastal waters: 1d6 small galleys (1d3+1 &times; 10 buccaneers each); any: 1d4 longships (1d3+2 &times; 10 buccaneers each); ocean: 1d3 small warships (1d5+3 &times; 10 buccaneers each). (See **_B/X Essentials: Classes and Equipment_** for details on ships.)
+- **_Ships and crew:_** Depends where encountered. Rivers or lakes: 1d8 river boats (1d2 &times; 10 buccaneers each); coastal waters: 1d6 small galleys (1d3+1 &times; 10 buccaneers each); any: 1d4 longships (1d3+2 &times; 10 buccaneers each); ocean: 1d3 small warships (1d5+3 &times; 10 buccaneers each). (See [**_B/X Essentials: Classes and Equipment_**](class.md#water_transportation) for details on ships.)
 - **_Arms:_** 60% of group have: leather armour, sword; 30% have: leather armour, sword, crossbow; 10% have: chainmail, sword, crossbow.
 - **_Leaders and captains:_** For every 30 buccaneers, there is a 4th level fighter. Each ship has a captain (7th level fighter).
 - **_Fleet commander:_** 9th level fighter. 30% chance of a magic-user (level 1d2 + 9); 25% chance of a cleric (8th level).
@@ -276,7 +276,7 @@ AC 6, HD 6* (27hp), Att 1 &times; bite (1d8), THAC0 14, MV 60' (20'), SV D12 W13
 
 ### <a name="camel"></a>Camel
 
-_Irascible animals that are adapted to life in dry climates. Often used for transportation in deserts. (See **B/X Essentials: Classes and Equipment**.)_
+_Irascible animals that are adapted to life in dry climates. Often used for transportation in deserts. (See [**B/X Essentials: Classes and Equipment**](class.md#vehicles).)_
 
 AC 7, HD 2 (9hp), Att 1 &times; bite (1), 1 &times; hoof (1d4), THAC0 18, MV 150' (50'), SV D12 W13 P14 B15 S16 (F1), ML 7, AL Neutral, XP 20, NA 0 (2d4), TT None
 
@@ -421,7 +421,7 @@ AC 5, HD 13* (58hp), Att 1 &times; club (3d10) or 1 &times; rock (3d6), THAC0 10
 - **_Attack penalty:_** -2 penalty on all hit rolls, due to limited depth perception.
 - **_Rock throwing:_** Up to 200'.
 - **_Slow-witted:_** Can be tricked by clever PCs.
-- **_Curse:_** 1-in-20 cyclops can cast curse once a week (see **_B/X Essentials: Cleric and Magic-User Spells_**).
+- **_Curse:_** 1-in-20 cyclops can cast [_curse_](spells.md#magic_user_remove_curse) once a week.
 
 ### <a name="dervish"></a>Dervish
 
@@ -481,7 +481,7 @@ _A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many
 - **_Energy immunity:_** Unharmed by their own breath weapon or lesser versions thereof. Automatically save versus similar attack forms. (For example, a red dragon is immune to flaming oil and suffers half damage from fire ball spells.)
 - **_Language and spells:_** Some dragons are able to speak (their own tongue plus Common). The chance is listed by subspecies. Those that can speak can also cast randomly selected magic-user spells (number and level of spells listed by subspecies).
 - **_Sleeping:_** The chance of a dragon being asleep when encountered on the ground is listed by subspecies. A sleeping dragon may be attacked for one round with a +2 bonus to hit. Dragons may sometimes pretend to be asleep!
-- **_Subduing:_** Will surrender if reduced to 0hp by non-lethal attacks (see **_Non-Lethal Combat in B/X Essentials: Core Rules_**), admitting that it has been defeated. (Subdual damage does not reduce the damage done by the breath weapon.) A subdued dragon will attempt to escape or attack its captors, if the opportunity presents itself or if given a suicidal command. A subdued dragon may be sold for at most 1,000gp per hit point.
+- **_Subduing:_** Will surrender if reduced to 0hp by [non-lethal attacks](core.md#non_lethal_combat), admitting that it has been defeated. (Subdual damage does not reduce the damage done by the breath weapon.) A subdued dragon will attempt to escape or attack its captors, if the opportunity presents itself or if given a suicidal command. A subdued dragon may be sold for at most 1,000gp per hit point.
 - **_Age:_** The following stats describe dragons of average size. Younger dragons may have up to 3 HD less and 1/4 or 1/2 as much treasure. Older dragons may have up to 3 HD more and twice as much treasure.
 - **_Lairs:_** A dragon's treasure is always kept in its well-hidden lair and is seldom unguarded.
 
@@ -597,7 +597,7 @@ _Short, stocky, bearded demihumans who dwell in mountains and subterranean realm
 
 AC 4, HD 1 (4hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 19, MV 60' (20'), SV D8 W9 P10 B13 S12 (D1), ML 8 (10 with leader), AL Lawful or Neutral, XP 10, NA 1d6 (5d8), TT G
 
-- **_Leader:_** A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have magic items: 5% chance per level for each magic item table (except Scrolls and Wands/Staves/Rods -- see **_B/X Essentials: Adventures and Treasures_**).
+- **_Leader:_** A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have magic items: 5% chance per level for each magic item table (except [Scrolls](adventures.md#scrolls_and_maps) and [Wands](adventures.md#wands)/[Staves](adventures.md#staves)/[Rods](adventures.md#rods).
 - **_Hate goblins:_** Normally attack on sight.
 
 ### <a name="efreeti_lesser"></a>Efreeti (Lesser)
@@ -689,8 +689,8 @@ _Slender, fey demihumans with pointed ears. Live in harmony with nature, in beau
 
 AC 5, HD 1+1* (5hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 18, MV 120' (40'), SV D12 W13 P13 B15 S15 (E1), ML 8 (10 with leader), AL Neutral, XP 19, NA 1d4 (2d12), TT E
 
-- **_Spells:_** Each individual has one random 1st level magic-user spell (see **_B/X Essentials: Cleric and Magic-User Spells_**).
-- **_Leader:_** Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table (see **_B/X Essentials: Adventures and Treasures_**).
+- **_Spells:_** Each individual has one random [1st level magic-user spell](spells.md#magic_user_1st_level_list).
+- **_Leader:_** Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table (see [**_B/X Essentials: Adventures and Treasures_**](adventures.md)).
 
 ### <a name="ferret_giant"></a>Ferret, Giant
 
@@ -1057,7 +1057,7 @@ AC 6, HD 1+1 (5hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 18, MV 90' (3
 
 ### <a name="horse"></a>Horse
 
-_Herd animals that are often used for transportation. (See **_B/X Essentials: Classes and Equipment_**.) Many different domesticated breeds exist._
+_Herd animals that are often used for transportation. (See [**Land Transportation**](class.md#land_transportation).) Many different domesticated breeds exist._
 
 #### <a name="draft_horse"></a>Draft Horse
 
@@ -1333,7 +1333,7 @@ _1st level NPC magic-users._
 
 AC 9, HD 1** (4hp), Att 1 &times; dagger (1d4) or 1 &times; spell, THAC0 19, MV 120' (40'), SV D13 W14 P13 B16 S15 (MU1), ML 7, AL Any, XP 16, NA 1d4 (1d12), TT V
 
-- **_Spells:_** Each individual has one 1st level magic-user spell memorized (see **_B/X Essentials: Cleric and Magic-User Spells_**). (Choose or select at random.)
+- **_Spells:_** Each individual has one [1st level magic-user spell](spells.md#magic_user_1st_level_list) memorized. (Choose or select at random.)
 - **_Master:_** 50% of groups are led by a magic-user of 3rd level. The master has two 1st level spells and one 2nd level spell. (Choose or select at random.)
 
 ### <a name="medusa"></a>Medusa
@@ -1386,7 +1386,7 @@ AC 6, HD 6 (27hp), Att [1 &times; gore (1d6), 1 &times; bite (1d6)] or 1 &times;
 
 ### <a name="mule"></a>Mule
 
-_Stubborn horse/donkey cross-breeds used as beasts of burden. (See _**_B/X Essentials: Classes and Equipment_**_.)_
+_Stubborn horse/donkey cross-breeds used as beasts of burden. (See [**Land Transportation**](class.md#land_transportation).)_
 
 AC 7, HD 2 (9hp), Att 1 &times; kick (1d4) or 1 &times; bite (1d3), THAC0 18, MV 120' (40'), SV D14 W15 P16 B17 S18 (NH), ML 8, AL Neutral, XP 20, NA 1d8 (2d6), TT None
 
@@ -1505,7 +1505,7 @@ AC 6, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120' (40
 - **_Orc chieftain:_** A 4HD (15hp) chieftain rules an orc tribe. The chieftain gains a +2 bonus to damage rolls.
 - **_Giant companions:_** For every 20 orcs, there is a 1-in-6 chance of an ogre accompanying them. There is a 1-in-10 chance of a troll living in the lair.
 - **_Tribal:_** Orcs of different tribes may fight among themselves, unless their leaders command them not to. Each tribe has its own lair and has as many females as males, and two whelps per two adults.
-- **_Mercenaries:_** Orcs may be hired to fight in Chaotic armies (see **_Mercenaries_** in **_B/X Essentials: Classes and Equipment_**). They delight in wanton killing and razing of settlements.
+- **_Mercenaries:_** Orcs may be hired to fight in Chaotic armies (see [**_Mercenaries_**](class.md#mercenaries)). They delight in wanton killing and razing of settlements.
 
 ### <a name="owl_bear"></a>Owl Bear
 
@@ -1531,7 +1531,7 @@ _Sailors who make a living by raiding coastal settlements, robbing other ships, 
 
 AC 7 or 5, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120' (40'), SV D12 W13 P14 B15 S16 (F1), ML 7, AL Chaotic, XP 10, NA 0 (see below), TT A
 
-- **_Ships and crew:_** Depends where encountered. Rivers or lakes: 1d8 river boats (1d2 &times; 10 pirates each); coastal waters: 1d6 small galleys (1d3+1 &times; 10 pirates each); any: 1d4 longships (1d3+2 &times; 10 pirates each); ocean: 1d3 small warships (1d5+3 &times; 10 pirates each). (See **_B/X Essentials: Classes and Equipment_** for details on ships.)
+- **_Ships and crew:_** Depends where encountered. Rivers or lakes: 1d8 river boats (1d2 &times; 10 pirates each); coastal waters: 1d6 small galleys (1d3+1 &times; 10 pirates each); any: 1d4 longships (1d3+2 &times; 10 pirates each); ocean: 1d3 small warships (1d5+3 &times; 10 pirates each). (See [**_Water Transportation_**](class.md#water_transportation) for details on ships.)
 - **_Arms:_** 50% of group have: leather armour, sword; 35% have: leather armour, sword, crossbow; 15% have: chainmail, sword.
 - **_Leaders:_** For every 30 pirates, there is a 4th level fighter. For every 50 pirates, and for each ship, there is a 5th level fighter. For every 100 pirates, and per fleet, there is an 8th level fighter.
 - **_Fleet commander:_** Fleets of 300 or more pirates are led by a pirate lord (11th level fighter). 75% chance of a magic-user (level 1d2+8).
@@ -1578,7 +1578,7 @@ AC 6, HD 15* (67hp), Att 1 &times; bite (2d8), 1 &times; sting (1d8 + poison), T
 
 ### <a name="rat"></a>Rat
 
-_Multitudinous, disease-ridden rodents that will eat anything. Avoid contact with humans, but may attack if defending their nest or if summoned and commanded by magic (e.g. see wererat)._
+_Multitudinous, disease-ridden rodents that will eat anything. Avoid contact with humans, but may attack if defending their nest or if summoned and commanded by magic (e.g. see [wererat](#wererat))._
 
 - **_Disease:_** Bite has a 1-in-20 chance of infecting the target (**save versus poison**). The disease has a 1-in-4 chance of being deadly (die in 1d6 days). Otherwise, the victim is sick and bedridden for one month.
 - **_Afraid of fire:_** Will flee fire, unless forced to fight by summoner.
