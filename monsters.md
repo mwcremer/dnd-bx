@@ -8,21 +8,21 @@ Copyright (c) 2017 by Gavin Norman. _B/X Essentials_ is a trademark of Gavin Nor
 
 This product is released under the terms of the Open Game License Version 1.0a, Copyright 2000, Wizards of the Coast, Inc.
 
-## Notes
+## <a name="notes"></a>Notes
 
-### High-Level Saves
+### <a name="high_level_saves"></a>High-Level Saves
 
 Some powerful monsters save as a fighter of greater than 14th level. In these cases, the monster's save values have been calculated by extrapolating the progression of the fighter saving throw chart to higher levels.
 
-### Infravision
+### <a name="infravision"></a>Infravision
 
 All non-human monsters have 60' infravision. (See **_B/X Essentials: Core Rules_**.)
 
-### Persons
+### <a name="persons"></a>Persons
 
 Spells such as _charm person_, _hold person_, etc. only affect humanoids (including humans and demihumans) of up to 4+1HD. Monsters in this book that are affected by these spells are: acolyte, bandit, berserker, brigand, buccaneer, bugbear, dervish, dwarf, elf, gnoll, gnome, goblin, halfling, hobgoblin, kobold, lizard man, medium, merchant, neanderthal, nixie, noble, normal human, ogre, orc, pirate, pixie, sprite, trader, troglodyte, veteran. Other monsters may be affected at the referee's judgement.
 
-### XP Value of NPCs
+### <a name="xp_value_of_npcs"></a>XP Value of NPCs
 
 Some monster entries make reference to NPCs with levels in a specific character class. The XP values for such characters are not pre-calculated, as the exact value depends on several variable factors.
 
@@ -32,7 +32,7 @@ When awarding XP for defeated NPCs, the referee may use the following guidelines
 - Spell casters are treated as having one special ability per two levels of spells they can cast (rounded up). For example, a character able to cast 1st, 2nd, and 3rd level spells would count as having two special abilities.
 - Magic items in the possession of the character may be counted as special abilities, if they play a direct role in combat.
 
-## Stat Block Format
+## <a name="stat_block_format"></a>Stat Block Format
 
 **_AC:_** Armour Class.
 
@@ -69,9 +69,9 @@ When awarding XP for defeated NPCs, the referee may use the following guidelines
 - A to O: Indicate a hoard: the sum wealth of a large monster or a community of smaller monsters. Such hoards are usually hidden in the lair. For monsters with a lair encounter size (see NA, above) of greater than 1d4, the amount of treasure in the hoard may be reduced, if the number of monsters is below average.
 - P to V: If listed for an intelligent monster, indicate treasure carried by individuals (P to T) or a group (U, V). If listed for an unintelligent monster, indicates treasure from the bodies of its former victims.
 
-## Monsters
+## <a name="monsters"></a>Monsters
 
-### Acolyte
+### <a name="acolyte"></a>Acolyte
 
 _1st level clerics on a quest for their deity._
 
@@ -79,7 +79,7 @@ AC 2, HD 1 (4hp), Att 1 &times; mace (1d6), THAC0 19, MV 60' (20'), SV D11 W12 P
 
 - **_Leader:_** Groups of 4+ are led by a higher level cleric (1d10: 1-4: 2nd level, 5-7: 3rd level, 8-9: 4th level, 10: 5th level). Choose or roll the leader's spells.
 
-### Ape, White
+### <a name="ape_white"></a>Ape, White
 
 _Albino, herbivorous, gorilla-like apes that live in caves and emerge at night to forage._
 
@@ -87,7 +87,7 @@ AC 6, HD 4 (18hp), Att 2 &times; claw (1d4) or 1 &times; thrown rock (1d6), THAC
 
 - **_Territorial:_** Defend their lair with threats and, if this is ignored, violence.
 
-### Bandit
+### <a name="bandit"></a>Bandit
 
 _NPC thieves who live by robbery._
 
@@ -97,7 +97,7 @@ AC 6, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120' (40
 - **_Leader:_** May have a leader of 2nd level or higher (any human class).
 - **_Hoard:_** Only have treasure type A when encountered in their wilderness lair.
 
-### Basilisk
+### <a name="basilisk"></a>Basilisk
 
 _10' long, serpentine lizards. Unintelligent, but highly magical. Dwell in caverns and twisted brambles._
 
@@ -109,26 +109,26 @@ AC 4, HD 6+1** (28hp), Att 1 &times; bite (1d10 + petrification), 1 &times; gaze
 - **_Averting eyes:_** -4 penalty to-hit; the basilisk gains a +2 bonus to attack.
 - **_Mirrors:_** The reflection of a basilisk is harmless. Fighting by looking in a mirror incurs a -1 penalty to attack. If a basilisk sees its own reflection (2-in-6 chance), it must save or be petrified.
 
-### Bat
+### <a name="bat"></a>Bat
 
 _Nocturnal, flying mammals that roost in caves or ruins._
 
 - **_Echolocation:_** Unaffected by effects that impair, modify, or rely on sight. Blinded by _silence 15' radius_.
 
-#### Giant Bat
+#### <a name="giant_bat"></a>Giant Bat
 
 _Carnivorous bats that may attack adventurers, if hungry. 1-in-20 groups of giant bats are vampiric (see below)._
 
 AC 6, HD 2 (9hp), Att 1 &times; bite (1d4), THAC0 18, MV 30' (10') / 180' (60') flying, SV D12 W13 P14 B15 S16 (F1), ML 8, AL Neutral, XP 20, NA 1d10 (1d10), TT None
 
-#### Giant Vampire Bat
+#### <a name="giant_vampire_bat"></a>Giant Vampire Bat
 
 AC 6, HD 2 (9hp), Att 1 &times; bite (1d4 + unconsciousness), THAC0 18, MV 30' (10') / 180' (60') flying, SV D12 W13 P14 B15 S16 (F1), ML 8, AL Neutral, XP 20, NA 1d10 (1d10), TT None
 
 - **_Unconsciousness:_** For 1d10 rounds (**save vs paralysis**).
 - **_Blood drain:_** A vampire bat may drain blood from an unconscious victim: 1d4 hit points automatic damage per round. A victim killed by blood drain becomes undead (possibly a vampire) after 24 hours (**save vs spells**).
 
-#### Normal Bat
+#### <a name="normal_bat"></a>Normal Bat
 
 AC 6, HD 1hp, Att 1 &times; swarm (confusion), THAC0 20, MV 9' (3') / 120' (40') flying, SV D14 W15 P16 B17 S18 (NH), ML 6, AL Neutral, XP 5, NA 1d100 (1d100), TT None
 
@@ -136,11 +136,11 @@ AC 6, HD 1hp, Att 1 &times; swarm (confusion), THAC0 20, MV 9' (3') / 120' (40')
 - **_Attacks:_** As normal human.
 - **_Flighty:_** Unless magically summoned or controlled, normal bats check morale every round.
 
-### Bear
+### <a name="bear"></a>Bear
 
 - **_Bear hug:_** If a victim is hit by both paws in the same round, the bear hugs for an extra 2d8 automatic damage.
 
-#### Black Bear
+#### <a name="black_bear"></a>Black Bear
 
 _6' tall; favour eating berries and roots._
 
@@ -149,7 +149,7 @@ AC 6, HD 4 (18hp), Att 2 &times; claw (1d3), 1 &times; bite (1d6), THAC0 16, MV 
 - **_Defensive:_** Adults will protect their young with their lives, but otherwise only attack if cornered.
 - **_Camp raids:_** Sometimes raid camps, for food (especially fish and sweet treats).
 
-#### Cave Bear
+#### <a name="cave_bear"></a>Cave Bear
 
 _Ferocious, 15' tall grizzly bears found in caves and Lost World settings. Omnivorous, but prefer meat, including humans._
 
@@ -157,13 +157,13 @@ AC 5, HD 7 (31hp), Att 2 &times; claw (1d8), 1 &times; bite (2d6), THAC0 13, MV 
 
 - **_Sense of smell:_** Poor eyesight, but keen sense of smell. When hungry, will follow a track of blood by scent.
 
-#### Grizzly Bear
+#### <a name="grizzly_bear"></a>Grizzly Bear
 
 _Aggressive, 9' tall. Silver-tipped fur, brown or reddish brown in colour. Live in forests and mountains. Favour eating meat._
 
 AC 6, HD 5 (22hp), Att 2 &times; claw (1d4), 1 &times; bite (1d8), THAC0 15, MV 120' (40'), SV D12 W13 P14 B15 S16 (F2), ML 8, AL Neutral, XP 175, NA 1 (1d4), TT U
 
-#### Polar Bear
+#### <a name="polar_bear"></a>Polar Bear
 
 _Aggressive, white-furred bears that stand 11' tall and live in cold regions. Favour eating fish._
 
@@ -172,9 +172,9 @@ AC 6, HD 6 (27hp), Att 2 &times; claw (1d6), 1 &times; bite (1d10), THAC0 14, MV
 - **_Swimming:_** Excellent swimmers.
 - **_Snow walk:_** Wide paws allow running on the surface of snow without sinking.
 
-### Beetle, Giant
+### <a name="beetle_giant"></a>Beetle, Giant
 
-#### Fire Beetle
+#### <a name="fire_beetle"></a>Fire Beetle
 
 _21/2' long. Commonly found underground._
 
@@ -182,7 +182,7 @@ AC 4, HD 1+2 (6hp), Att 1 &times; bite (2d4), THAC0 18, MV 120' (40'), SV D12 W1
 
 - **_Glowing nodules:_** Three glowing glands (two above the eyes, one on the abdomen) cast light in a 10' radius. If removed, keep glowing for 1d6 days.
 
-#### Oil Beetle
+#### <a name="oil_beetle"></a>Oil Beetle
 
 _3' long, burrowing beetles sometimes encountered below ground._
 
@@ -190,13 +190,13 @@ AC 4, HD 2* (9hp), Att 1 &times; bite (1d6), 1 &times; oil spray (blistering), T
 
 - **_Oil spray:_** Use when attacked. Targets one opponent within 5'. A hit causes painful blistering: -2 to attack rolls for 24 hours. _Cure light wounds_ can be used to cure this, instead of restoring hit points.
 
-#### Tiger Beetle
+#### <a name="tiger_beetle"></a>Tiger Beetle
 
 _Carnivorous, 4' long, tiger-striped beetles with powerful, crushing mandibles. Hunt robber flies, but sometimes eat humans._
 
 AC 3, HD 3+1 (14hp), Att 1 &times; bite (2d6), THAC0 16, MV 150' (50'), SV D12 W13 P14 B15 S16 (F1), ML 9, AL Neutral, XP 50, NA 1d6 (2d4), TT U
 
-### Berserker
+### <a name="berserker"></a>Berserker
 
 _Fighters who enter a rage in battle. They never take prisoners._
 
@@ -205,7 +205,7 @@ AC 7, HD 1+1* (5hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 18, MV 120' 
 - **_Battle rage:_** +2 to hit humans and similar humanoids (e.g. orcs, goblins). Rage sometimes makes them attack their allies.
 - **_Hoard:_** Only have treasure type B when encountered in the wilderness.
 
-### Black Pudding
+### <a name="black_pudding"></a>Black Pudding
 
 _Huge (5'-30' across), mindless blobs of amorphous black jelly. Driven by ravenous hunger._
 
@@ -217,7 +217,7 @@ AC 6, HD 10* (45hp), Att 1 &times; touch (3d8), THAC0 11, MV 60' (20'), SV D10 W
 - **_Cling:_** Can move across walls and ceilings.
 - **_Seep:_** Can squeeze through small holes and cracks.
 
-### Blink Dog
+### <a name="blink_dog"></a>Blink Dog
 
 _Highly intelligent, dingo-like dogs that live in packs. Have the innate ability to blink in and out of existence._
 
@@ -227,13 +227,13 @@ AC 5, HD 4* (18hp), Att 1 &times; bite (1d6), THAC0 16, MV 120' (40'), SV D10 W1
 - **_Disappear:_** If in serious danger, the pack can flee by entirely disappearing.
 - **_Hate warp beasts:_** Always attack.
 
-### Boar
+### <a name="boar"></a>Boar
 
 _Omnivorous wild boars that dwell primarily in forests. Can be irascible and dangerous, if disturbed._
 
 AC 7, HD 3 (13hp), Att 1 &times; tusk (2d4), THAC0 17, MV 150' (50'), SV D12 W13 P14 B15 S16 (F2), ML 9, AL Neutral, XP 35, NA 1d6 (1d6), TT None
 
-### Brigand
+### <a name="brigand"></a>Brigand
 
 _Outlaws and mercenaries who make a living by raiding settlements and attacking travellers._
 
@@ -245,7 +245,7 @@ AC 6, 4, or 3, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV
 - **_Fortified camps:_** Bands commonly combine and live in a camp of 5d6 &times; 10 brigands.
 - **_Camp leaders:_** Combined camps are led by a 9th level fighter, plus a 5th level fighter for every 50 brigands. Also 50% chance of a magic-user (level 1d3 + 8); 30% chance of a cleric (8th level).
 
-### Buccaneer
+### <a name="buccaneer"></a>Buccaneer
 
 _Sailors who make a living by raiding coastal settlements and robbing other ships. Typically ply rivers, lakes, and coastal waters; occasionally oceans._
 
@@ -258,7 +258,7 @@ AC 7 or 5, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120
 - **_Treasure:_** Divided between vessels. Instead of carrying aboard, may have a map to where it is buried.
 - **_Havens:_** Lawless, fortified, coastal towns may act as a haven for buccaneers and pirates.
 
-### Bugbear
+### <a name="bugbear"></a>Bugbear
 
 _Large, hairy goblins with an ungainly gait. Favour attacking by surprise._
 
@@ -266,7 +266,7 @@ AC 5, HD 3+1 (14hp), Att 1 &times; weapon (2d4 or by weapon +1), THAC0 16, MV 90
 
 - **_Surprise:_** On a 1-3, due to stealth.
 
-### Caecilia
+### <a name="caecilia"></a>Caecilia
 
 _Gigantic (30' long), grey, worm-like amphibians, with huge, toothed maws._
 
@@ -274,7 +274,7 @@ AC 6, HD 6* (27hp), Att 1 &times; bite (1d8), THAC0 14, MV 60' (20'), SV D12 W13
 
 - **_Swallow whole:_** On an attack roll of 19 or more. Inside the monster's belly: suffer 1d8 damage per round (until the caecilia is killed); may attack with a dagger at -4 to hit; body digested in 6 turns after death.
 
-### Camel
+### <a name="camel"></a>Camel
 
 _Irascible animals that are adapted to life in dry climates. Often used for transportation in deserts. (See **B/X Essentials: Classes and Equipment**.)_
 
@@ -286,7 +286,7 @@ AC 7, HD 2 (9hp), Att 1 &times; bite (1), 1 &times; hoof (1d4), THAC0 18, MV 150
 - **_Beast of burden:_** Carry up to 3,000 coins unencumbered; up to 6,000 at half speed.
 - **_Charge attacks:_** Are not possible, when mounted on a camel.
 
-### Carcass Crawler
+### <a name="carcass_crawler"></a>Carcass Crawler
 
 _9' long, 3' high, many-legged, segmented worms with a ring of 2' long tentacles around their mouths._
 
@@ -295,7 +295,7 @@ AC 7, HD 3+1* (14hp), Att 8 &times; tentacle (paralysis), THAC0 16, MV 120' (40'
 - **_Paralysis:_** A hit by a tentacle causes paralysis for 2d4 turns (**save vs paralysis**). Paralysed victims will be devoured, if the crawler is left in peace.
 - **_Cling:_** Can walk on walls and ceilings.
 
-### Cat, Great
+### <a name="cat_great"></a>Cat, Great
 
 _Cautious hunters that usually avoid combat with humans unless starving or cornered. Great cats may be playful, but are quick to anger. They remain outdoors, rarely venturing deep underground._
 
@@ -303,31 +303,31 @@ _Cautious hunters that usually avoid combat with humans unless starving or corne
 - **_Favoured prey:_** Often develop a taste for a certain type of meat (this may include humans!), hunting that creature with preference.
 - **_Inquisitive:_** May follow PCs out of curiosity.
 
-#### Lion
+#### <a name="lion"></a>Lion
 
 _Hunt in groups called "prides". Live in hot regions, typically in savannah or scrublands close to deserts._
 
 AC 6, HD 5 (22hp), Att 2 &times; claw (1d4+1), 1 &times; bite (1d10), THAC0 15, MV 150' (50'), SV D12 W13 P14 B15 S16 (F3), ML 9, AL Neutral, XP 175, NA 1d4 (1d8), TT U
 
-#### Mountain Lion
+#### <a name="mountain_lion"></a>Mountain Lion
 
 _Have yellow-brown fur and favour mountains, deserts, and forests. Will occasionally venture into dungeons._
 
 AC 6, HD 3+2 (15hp), Att 2 &times; claw (1d3), 1 &times; bite (1d6), THAC0 16, MV 150' (50'), SV D12 W13 P14 B15 S16 (F2), ML 8, AL Neutral, XP 50, NA 1d4 (1d4), TT U
 
-#### Panther
+#### <a name="panther"></a>Panther
 
 _High-speed hunters that live in plains and forests._
 
 AC 4, HD 4 (18hp), Att 2 &times; claw (1d4), 1 &times; bite (1d8), THAC0 16, MV 210' (70'), SV D12 W13 P14 B15 S16 (F2), ML 8, AL Neutral, XP 75, NA 1d2 (1d6), TT U
 
-#### Sabre-Toothed Tiger
+#### <a name="sabre_toothed_tiger"></a>Sabre-Toothed Tiger
 
 _Huge, aggressive cats with foot-long fangs. Normally only found in Lost World regions._
 
 AC 6, HD 8 (36hp), Att 2 &times; claw (1d8), 1 &times; bite (2d8), THAC0 12, MV 150' (50'), SV D10 W11 P12 B13 S14 (F4), ML 10, AL Neutral, XP 650,NA 1d4 (1d4), TT V
 
-#### Tiger
+#### <a name="tiger"></a>Tiger
 
 _Large, solitary hunters with striped camouflage markings. Favour woodlands and cooler regions._
 
@@ -335,7 +335,7 @@ AC 6, HD 6 (27hp), Att 2 &times; claw (1d6), 1 &times; bite (2d6), THAC0 14, MV 
 
 - **_Surprise:_** On a 1-4, in woodland, due to camouflage.
 
-### Cave Locust
+### <a name="cave_locust"></a>Cave Locust
 
 _2-3' long, herbivorous, giant crickets that dwell in caverns._
 
@@ -347,7 +347,7 @@ AC 4, HD 2 (9hp), Att 1 &times; bite (1d2) or 1 &times; jump (1d4) or 1 &times; 
 - **_Spit:_** Used defensively. 10' range. Target treated as AC 9. The affected character is covered in stinking spittle: unable to act for 1 turn (**save vs poison**). Until the goo is washed off, others who come within 5' must also **save vs poison** or be violently sick.
 - **_Poison immunity:_** Immune to yellow mould and most poisons, due to their habit of eating fungi.
 
-### Centaur
+### <a name="centaur"></a>Centaur
 
 _Fantastic creatures with the legs and body of a horse, and the upper body and head of a human. Live in small family or tribal groups, in wild meadows and isolated forests._
 
@@ -357,7 +357,7 @@ AC 5, HD 4 (18hp), Att 2 &times; hoof (1d6), 1 &times; weapon (1d6 or by weapon)
 - **_Lair:_** Hidden in dense woods, along twisting, guarded paths.
 - **_Females and young:_** Normally remain in the lair. Flee if attacked. Young have 2HD and make 2 hoof attacks (1d2) and 1 weapon attack (1d4 or by weapon).
 
-### Centipede, Giant
+### <a name="centipede_giant"></a>Centipede, Giant
 
 _1' long centipedes that dwell in dark, damp locations._
 
@@ -365,7 +365,7 @@ AC 9, HD 1/2 (2hp), Att 1 &times; bite (poison), THAC0 19, MV 60' (20'), SV D14 
 
 - **_Poison:_** Causes victims to become horribly sick for ten days (**save versus poison**): no physical activity possible except half speed movement.
 
-### Chimera
+### <a name="chimera"></a>Chimera
 
 _Horrific, hybrid monstrosities with the forequarters of a lion, the hindquarters of a goat, the wings of a dragon, and three heads: goat, lion, and dragon. Dwell in wild, hilly areas, or sometimes in dungeons._
 
@@ -374,7 +374,7 @@ AC 4, HD 9** (40hp), Att 2 &times; claw (1d3), goat: 1 &times; gore (2d4), lion:
 - **_Attack pattern:_** Dragon head: 50% chance of breath attack, otherwise bites.
 - **_Breath weapon:_** Cone of fire: end 10' wide, 50' long. Can be used up to three times per day.
 
-### Cockatrice
+### <a name="cockatrice"></a>Cockatrice
 
 _Small, magical, bird / reptile hybrids with long serpent tails and the head, legs, and wings of a cockerel. Live in all environments._
 
@@ -382,7 +382,7 @@ AC 6, HD 5** (22hp), Att 1 &times; beak (1d6 + petrification), THAC0 15, MV 90' 
 
 - **_Petrification:_** Anyone touched is turned to stone (**save vs petrify**).
 
-### Crab, Giant
+### <a name="crab_giant"></a>Crab, Giant
 
 _Unintelligent crustaceans that lurk in coastal waters and creep along beaches. Cannot swim._
 
@@ -390,29 +390,29 @@ AC 2, HD 3 (13hp), Att 2 &times; pincer (2d6), THAC0 17, MV 60' (20'), SV D12 W1
 
 - **_Ravenous:_** Attack any moving creature.
 
-### Crocodile
+### <a name="crocodile"></a>Crocodile
 
 _Large reptiles that are ungainly on land and live primarily in water, lurking just beneath the surface of subtropical swamps and lazy rivers. If hungry, attack any creatures that venture into the water._
 
 - **_Feeding frenzy:_** Attracted to the scent of blood or violent movement in the water.
 
-#### Giant Crocodile
+#### <a name="giant_crocodile"></a>Giant Crocodile
 
 _More than 50' long. Usually encountered in Lost World regions. Will attack small ships._
 
 AC 1, HD 15 (67hp), Att 1 &times; bite (3d8), THAC0 9, MV 90' (30') / 90' (30') swimming, SV D8 W9 P10 B10 S12 (F8), ML 9, AL Neutral, XP 1,350, NA 0 (1d3), TT None
 
-#### Large Crocodile
+#### <a name="large_crocodile"></a>Large Crocodile
 
 _20' or more long. May attack small watercraft (canoes, rafts)._
 
 AC 3, HD 6 (27hp), Att 1 &times; bite (2d8), THAC0 14, MV 90' (30') / 90' (30') swimming, SV D12 W13 P14 B15 S16 (F3), ML 7, AL Neutral, XP 275, NA 0 (1d4), TT None
 
-#### Normal Crocodile
+#### <a name="normal_crocodile"></a>Normal Crocodile
 
 AC 5, HD 2 (9hp), Att 1 &times; bite (1d8), THAC0 18, MV 90' (30') / 90' (30') swimming, SV D12 W13 P14 B15 S16 (F1), ML 7, AL Neutral, XP 20, NA 0 (1d8), TT None
 
-### Cyclops
+### <a name="cyclops"></a>Cyclops
 
 _20' tall humanoids with a single, central eye. Dwell in caves, alone or in small groups. Cultivate grapes and raise sheep._
 
@@ -423,7 +423,7 @@ AC 5, HD 13* (58hp), Att 1 &times; club (3d10) or 1 &times; rock (3d6), THAC0 10
 - **_Slow-witted:_** Can be tricked by clever PCs.
 - **_Curse:_** 1-in-20 cyclops can cast curse once a week (see **_B/X Essentials: Cleric and Magic-User Spells_**).
 
-### Dervish
+### <a name="dervish"></a>Dervish
 
 _Fanatically religious, nomadic people who wander steppes and desert regions, living in tents._
 
@@ -438,7 +438,7 @@ AC 6 or 4, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120
 
 >Author's note: Dervishes' equipment is adapted from the 1979 Advanced rules.
 
-### Djinni (Lesser)
+### <a name="djinni_lesser"></a>Djinni (Lesser)
 
 _Highly magical, free-willed, intelligent beings from the elemental plane of air. Tall humanoids wreathed in clouds._
 
@@ -456,7 +456,7 @@ AC 5, HD 7+1 (32hp), Att 1 &times; fists (2d8), magic, THAC0 12, MV 90' (30') / 
 - **_Carrying capacity:_** 6,000 coins without fatigue. Up to 12,000 coins for 3 turns walking / 1 turn flying. Must rest 1 turn afterwards.
 - **_If killed:_** Returns to the plane of air.
 
-### Doppelg&auml;nger
+### <a name="doppelganger"></a>Doppelg&auml;nger
 
 _Intelligent, human-sized shape-shifters of wicked character and highly magical nature._
 
@@ -467,7 +467,7 @@ AC 5, HD 4* (18hp), Att 1 &times; bite (1d12), THAC0 16, MV 90' (30'), SV D6 W7 
 - **_Reversion:_** If killed, reverts to its original form.
 - **_Spell immunity:_** Unaffected by sleep and charm spells.
 
-### Dragon
+### <a name="dragon"></a>Dragon
 
 _A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many subspecies of dragon, many of which are distinguished by the colour of their scales. All dragons are egg-layers and hoard treasure in their lairs, far from areas of human civilisation._
 
@@ -485,7 +485,7 @@ _A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many
 - **_Age:_** The following stats describe dragons of average size. Younger dragons may have up to 3 HD less and 1/4 or 1/2 as much treasure. Older dragons may have up to 3 HD more and twice as much treasure.
 - **_Lairs:_** A dragon's treasure is always kept in its well-hidden lair and is seldom unguarded.
 
-#### Black Dragon
+#### <a name="black_dragon"></a>Black Dragon
 
 _Dwell in swamps and marshes._
 AC 2, HD 7** (31hp), Att 2 &times; claw (1d4 + 1), 1 &times; bite (2d10) or breath, THAC0 13, MV 90' (30') / 240' (80') flying, SV D8 W9 P10 B10 S12 (F7), ML 8, AL Chaotic, XP 1,250, NA 1d4 (1d4), TT H
@@ -494,7 +494,7 @@ AC 2, HD 7** (31hp), Att 2 &times; claw (1d4 + 1), 1 &times; bite (2d10) or brea
 - **_Language and spells:_** 20%; 4 &times; 1st level.
 - **_Sleeping:_** 40%.
 
-#### Blue Dragon
+#### <a name="blue_dragon"></a>Blue Dragon
 
 _Favour open plains and deserts._
 
@@ -504,7 +504,7 @@ AC 0, HD 9** (40hp), Att 2 &times; claw (1d6 + 1), 1 &times; bite (3d10) or brea
 - **_Language and spells:_** 40%; 4 &times; 1st level, 4 &times; 2nd level.
 - **_Sleeping:_** 20%.
 
-#### Gold Dragon
+#### <a name="gold_dragon"></a>Gold Dragon
 
 _May be encountered in any terrain, often in the guise of a person or animal._
 
@@ -515,7 +515,7 @@ AC -2, HD 11** (49hp), Att 2 &times; claw (2d4), 1 &times; bite (6d6) or breath,
 - **_Sleeping:_** 5%.
 - **_Shape changing:_** May take on the form of a person or animal.
 
-#### Green Dragon
+#### <a name="green_dragon"></a>Green Dragon
 
 _Lair in jungles and forests._
 
@@ -525,7 +525,7 @@ AC 1, HD 8** (36hp), Att 2 &times; claw (1d6), 1 &times; bite (3d8) or breath, T
 - **_Language and spells:_** 30%; 3 &times; 1st level, 3 &times; 2nd level.
 - **_Sleeping:_** 30%.
 
-#### Red Dragon
+#### <a name="red_dragon"></a>Red Dragon
 
 _Dwell in hills and mountains._
 
@@ -535,7 +535,7 @@ AC -1, HD 10** (45hp), Att 2 &times; claw (1d8), 1 &times; bite (4d8) or breath,
 - **_Language and spells:_** 50%; 3 &times; 1st level, 3 &times; 2nd level, 3 &times; 3rd level.
 - **_Sleeping:_** 10%.
 
-#### Sea Dragon
+#### <a name="sea_dragon"></a>Sea Dragon
 
 _Intelligent, aquatic dragons with green scales, fin-like wings, and a yellowish crest. Dwell in the depths of the ocean, inhabiting caverns or shipwrecks. Sometimes attack vessels to steal their treasure and eat the crew._
 
@@ -548,7 +548,7 @@ AC 1, HD 8** (36hp), Att 1 &times; bite (3d8) or breath, THAC0 12, MV 180' (60')
 
 >Author's note: The sleeping percentage is extrapolated from dragons of like HD.
 
-#### White Dragon
+#### <a name="white_dragon"></a>White Dragon
 
 _Found in cold regions._
 
@@ -558,7 +558,7 @@ AC 3, HD 6** (27hp), Att 2 &times; claw (1d4), 1 &times; bite (2d8) or breath, T
 - **_Language and spells:_** 10%; 3 &times; 1st level.
 - **_Sleeping:_** 50%.
 
-### Dragon Turtle
+### <a name="dragon_turtle"></a>Dragon Turtle
 
 _Gargantuan sea monsters with the body and hard shell of a turtle and the head, tail, and legs of a dragon. Lurk in huge caves in the depths of the ocean, only rarely coming to the surface._
 
@@ -569,7 +569,7 @@ AC -2, HD 30 (135hp), Att 2 &times; claw (1d8), 1 &times; bite (1d6 &times; 10) 
 - **_Attack ships:_** Sometimes try to destroy ships and eat the crew by surfacing below.
 - **_Treasure:_** From sunken ships.
 
-### Driver Ant
+### <a name="driver_ant"></a>Driver Ant
 
 _Giant (6' long), omnivorous, black ants._
 
@@ -579,7 +579,7 @@ AC 3, HD 4* (18hp), Att 1 &times; bite (2d6), THAC0 16, MV 180' (60'), SV D12 W1
 - **_Morale:_** Attack relentlessly, once theyare engaged in melee (morale 12). Will even pursue through flames.
 - **_Miners:_** Lair may (30% chance) contain 1d10 &times; 1,000gp worth of gold nuggets.
 
-### Dryad
+### <a name="dryad"></a>Dryad
 
 _Shy, peaceful, yet wary tree spirits that can manifest as beautiful female humanoids. Live in deep forests._
 
@@ -591,7 +591,7 @@ AC 5, HD 2* (9hp), Att 1 &times; magic (charm), THAC0 18, MV 120' (40'), SV D10 
 - **_Charm:_** Victim compelled to approach the tree, vanishes inside it (**save versus spells with -2 penalty**). If not immediately rescued, the victim is lost forever.
 - **_Treasure:_** Hidden in roots of the tree.
 
-### Dwarf
+### <a name="dwarf"></a>Dwarf
 
 _Short, stocky, bearded demihumans who dwell in mountains and subterranean realms._
 
@@ -600,7 +600,7 @@ AC 4, HD 1 (4hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 19, MV 60' (20'
 - **_Leader:_** A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have magic items: 5% chance per level for each magic item table (except Scrolls and Wands/Staves/Rods -- see **_B/X Essentials: Adventures and Treasures_**).
 - **_Hate goblins:_** Normally attack on sight.
 
-### Efreeti (Lesser)
+### <a name="efreeti_lesser"></a>Efreeti (Lesser)
 
 _Highly magical, free-willed, intelligent beings from the elemental plane of fire. Manifest as giant men with demonic faces and an aura of heat and smoke. Solidify out of billowing smoke clouds._
 
@@ -619,7 +619,7 @@ AC 3, HD 10* (45hp), Att 1 &times; fists (2d8), magic, THAC0 11, MV 90' (30') / 
 - **_Hate djinn:_** Attack on sight.
 - **_Bound servitor:_** Efreet summoning spells can be researched by high-level magic-users. Can be bound to servitude for 101 days. Efreet are treacherous and will follow commands to the letter while subverting the intent.
 
-### Elemental
+### <a name="elemental"></a>Elemental
 
 _Beings formed of pure, elemental matter (air, earth, fire, or water) that can be summoned from their plane of origin to serve a magic-user._
 
@@ -629,7 +629,7 @@ There are three power levels of elemental. Each is typically summoned by differe
 - **_Intermediate:_** AC 0, HD 12, Dmg 2d8, SV D6 W7 P8 B8 S10 (F12). (Summoned by magic device.)
 - **_Greater:_** AC -2, HD 16, Dmg 3d8, SV D2 W3 P4 B3 S6 (F16). (Summoned by spell.)
 
-#### Air Elemental
+#### <a name="air_elemental"></a>Air Elemental
 
 _Huge vortexes of whirling air._
 
@@ -640,7 +640,7 @@ AC 2/0/-2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/1
 - **_Mundane damage immunity:_** Can only be harmed by magical attacks.
 - **_Harm flying creatures:_** Inflict extra 1d8 damage.
 
-#### Earth Elemental
+#### <a name="earth_elemental"></a>Earth Elemental
 
 _Huge, humanoid figures of earth or stone._
 
@@ -651,7 +651,7 @@ AC 2/0/-2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/1
 - **_Mundane damage immunity:_** Can only be harmed by magical attacks.
 - **_Harm creatures on the ground:_** Inflict extra 1d8 damage.
 
-#### Fire Elemental
+#### <a name="fire_elemental"></a>Fire Elemental
 
 _Whirling columns of fire_
 
@@ -662,7 +662,7 @@ AC 2/0/-2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/1
 - **_Mundane damage immunity:_** Can only be harmed by magical attacks.
 - **_Harm cold-based creatures:_** Inflict extra 1d8 damage.
 
-#### Water Elemental
+#### <a name="water_elemental"></a>Water Elemental
 
 _Huge waves of water._
 
@@ -673,7 +673,7 @@ AC 2/0/-2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/1
 - **_Mundane damage immunity:_** Can only be harmed by magical attacks.
 - **_Harm creatures in water:_** Inflict extra 1d8 damage.
 
-### Elephant
+### <a name="elephant"></a>Elephant
 
 _Massive, tusked animals that dwell near subtropical forests. Wandering individuals or complete herds may be encountered._
 
@@ -683,7 +683,7 @@ AC 5, HD 9 (40hp), Att 2 &times; tusk (2d4) or 1 &times; trample (4d8), THAC0 12
 - **_Trample:_** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 - **_Ivory:_** Each tusk is worth 1d6 &times; 100gp.
 
-### Elf
+### <a name="elf"></a>Elf
 
 _Slender, fey demihumans with pointed ears. Live in harmony with nature, in beautiful natural settings._
 
@@ -692,7 +692,7 @@ AC 5, HD 1+1* (5hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 18, MV 120' 
 - **_Spells:_** Each individual has one random 1st level magic-user spell (see **_B/X Essentials: Cleric and Magic-User Spells_**).
 - **_Leader:_** Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table (see **_B/X Essentials: Adventures and Treasures_**).
 
-### Ferret, Giant
+### <a name="ferret_giant"></a>Ferret, Giant
 
 _3' long ferrets that hunt giant rats in their burrows. Sometimes kept by humans for this aptitude._
 
@@ -700,9 +700,9 @@ AC 5, HD 1+1 (5hp), Att 1 &times; bite (1d8), THAC0 18, MV 150' (50'), SV D12 W1
 
 - **_Volatile:_** Unpredictable temper; may turn on trainers or other people.
 
-### Fish, Giant
+### <a name="fish_giant"></a>Fish, Giant
 
-#### Giant Bass
+#### <a name="giant_bass"></a>Giant Bass
 
 _Shy; only attack when seeing a bite-size (halfling-size or smaller) morsel close by._
 
@@ -710,13 +710,13 @@ AC 7, HD 2 (9hp), Att 1 &times; bite (1d6), THAC0 18, MV 120' (40'), SV D12 W13 
 
 >Author's note: In the original Expert rules, the giant bass is only mentioned inside the nixie monster description. Here, I have adapted it to a full monster, referring to a later edition of the game for the descriptive details.
 
-#### Giant Catfish
+#### <a name="giant_catfish"></a>Giant Catfish
 
 _15' long, pale white. Four feelers beside the mouth. Lurk in the mud at the bottom of rivers and lakes. Will attack creatures on the bottom or swimming above._
 
 AC 4, HD 8+3 (39hp), Att 1 &times; bite (2d8), 4 &times; feeler (1d4), THAC0 12, MV 90' (30'), SV D10 W11 P12 B13 S14 (F4), ML 8, AL Neutral, XP 650, NA0 (1d2), TT None
 
-#### Giant Piranha
+#### <a name="giant_piranha"></a>Giant Piranha
 
 _5' long piranhas with black and green scales. Live in rivers (occasionally lakes) and attack anything in the water._
 
@@ -725,7 +725,7 @@ AC 6, HD 3+3 (16hp), Att 1 &times; bite (1d8), THAC0 16, MV 150' (50'), SV D12 W
 - **_Surround opponents:_** A target can be attacked by up to 8 giant piranhas.
 - **_Morale:_** When blood is in the water, do not check morale.
 
-#### Giant Rockfish
+#### <a name="giant_rockfish"></a>Giant Rockfish
 
 _Spiny fish with lumpy, rock-like skin. Live in saltwater shallows. Normally passive, but highly aggressive if disturbed._
 
@@ -735,7 +735,7 @@ AC 7, HD 5+5* (27hp), Att 4 &times; spine (1d4 + poison), THAC0 14, MV 180' (60'
 - **_Grasping:_** If mistaken for a rock and grasped, all 4 spines automatically hit.
 - **_Poison:_** Causes death (**save vs poison**).
 
-#### Giant Sturgeon
+#### <a name="giant_sturgeon"></a>Giant Sturgeon
 
 _Huge (nearly 30' long), aggressive fish with armour plating._
 
@@ -743,7 +743,7 @@ AC 0, HD 10+2* (47hp), Att 1 &times; bite (2d10), THAC0 11, MV 180' (60'), SV D1
 
 - **_Swallow whole:_** On an attack roll of 18 or more. Inside the fish's belly: suffer 2d6 damage per round (until the fish dies); **save vs death** or be paralysed; may attack with sharp weapons at -4 to hit (inside belly has AC 7); body digested 6 turns after death.
 
-### Gargoyle
+### <a name="gargoyle"></a>Gargoyle
 
 _Magical monsters that look like hideous, horned, winged statues. Semi-intelligent and possessed of a great cunning._
 
@@ -754,7 +754,7 @@ AC 5, HD 4 (18hp), Att 2 &times; claw (1d3), 1 &times; bite (1d6), 1 &times; hor
 - **_Mundane damage immunity:_** Can only be harmed by magical attacks.
 - **_Spell immunity:_** Unaffected by _sleep_ or _charm_ spells.
 
-### Gelatinous Cube
+### <a name="gelatinous_cube"></a>Gelatinous Cube
 
 _10' cubes of transparent jelly. Move through dungeons, absorbing debris and living creatures they come across._
 
@@ -765,7 +765,7 @@ AC 8, HD 4* (18hp), Att 1 &times; touch (2d4 + paralysis), THAC0 16, MV 60' (20'
 - **_Energy immunity:_** Unharmed by cold or lightning.
 - **_Embedded items:_** Indigestible items (e.g. gems, coins) are carried around inside the cube.
 
-### Ghoul
+### <a name="ghoul"></a>Ghoul
 
 _Grotesque, animalistic, undead humans that crave the flesh of the living._
 
@@ -774,9 +774,9 @@ AC 6, HD 2* (9hp), Att 2 &times; claw (1d3 + paralysis), 1 &times; bite (1d3 + p
 - **_Paralysis:_** For 2d4 turns (**save vs paralysis**). Elves and creatures larger than ogres are unaffected. After paralysing a target, ghouls will attack others.
 - **_Undead:_** Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. _charm_, _hold_, _sleep_).
 
-### Giant
+### <a name="giant"></a>Giant
 
-#### Cloud Giant
+#### <a name="cloud_giant"></a>Cloud Giant
 
 _Aggressive, 20' tall humanoids with skin and hair ranging from grey to white. Dress in pale robes._
 
@@ -788,7 +788,7 @@ AC 4, HD 12+3 (57hp), Att 1 &times; weapon (6d6) or 1 &times; boulder (3d6), THA
 - **_Guardians:_** 3d6 giant hawks or 6d6 dire wolves (only in mountains).
 - **_Hate intruders:_** May block mountain passes to ensure isolation.
 
-#### Fire Giant
+#### <a name="fire_giant"></a>Fire Giant
 
 _16' tall humanoids with black hair and red skin. Dress in armour fashioned from golden metals (brass, bronze, copper). Dwell in places of extreme heat (e.g. near volcanoes)._
 
@@ -799,7 +799,7 @@ AC 4, HD 11+2 (51hp), Att 1 &times; weapon (5d6) or 1 &times; boulder (3d6), THA
 - **_Castle:_** Black, low-walled. Made of baked mud and raw iron.
 - **_Guardians:_** 20% chance of 1d3 hydras, 3d6 hellhounds otherwise.
 
-#### Frost Giant
+#### <a name="frost_giant"></a>Frost Giant
 
 _18' tall humanoids with pale skin and pale hair (yellow or blue hued). Dress in furs or iron armour. Males have long beards._
 
@@ -810,7 +810,7 @@ AC 4, HD 10+1 (46hp), Att 1 &times; weapon (4d6) or 1 &times; boulder (3d6), THA
 - **_Castle:_** High upon snowy mountains.
 - **_Guardians:_** 20% chance of 3d6 polar bears, 6d6 wolves otherwise.
 
-#### Hill Giant
+#### <a name="hill_giant"></a>Hill Giant
 
 _Hairy, brutish, 12' tall humanoids of low intelligence. Dwell in foothills. Known to attack human settlements to steal food._
 
@@ -818,7 +818,7 @@ AC 4, HD 8 (36hp), Att 1 &times; weapon (2d8), THAC0 12, MV 120' (40'), SV D8 W9
 
 - **_Weapons:_** Wield giant clubs and spears.
 
-#### Stone Giant
+#### <a name="stone_giant"></a>Stone Giant
 
 _14' tall humanoids with stone-like, grey skin. Dwell in natural caverns or primitive huts built of stone._
 
@@ -828,7 +828,7 @@ AC 4, HD 9 (40hp), Att 1 &times; weapon (3d6) or 1 &times; boulder (3d6), THAC0 
 - **_Boulder throwing:_** Up to 300'.
 - **_Guardians:_** 50% chance of 1d4 cave bears.
 
-#### Storm Giant
+#### <a name="storm_giant"></a>Storm Giant
 
 _22' tall humanoids with bronze-hued skin and garish hair (red or yellow)._
 
@@ -840,7 +840,7 @@ AC 2, HD 15 (67hp), Att 1 &times; weapon (8d6), 1 &times; lightning bolt, THAC0 
 - **_Castle:_** High among mountain peaks, atop banks of clouds, or in deep waters.
 - **_Guardians:_** 2d4 griffons. Underwater: 3d6 giant crabs.
 
-### Gnoll
+### <a name="gnoll"></a>Gnoll
 
 _Lazy, humanoid hyenas of low intelligence that live by intimidation and theft. Legends say that gnolls were magically created by a wizard who crossbred gnomes and trolls._
 
@@ -848,7 +848,7 @@ AC 5, HD 2 (9hp), Att 1 &times; weapon (2d4 or by weapon + 1), THAC0 18, MV 90' 
 
 - **_Leader:_** Groups of 20+ are led by a gnoll with 3HD (16hp).
 
-#### Gnome
+#### <a name="gnome"></a>Gnome
 
 _Short demihumans with long noses and beards. Smaller cousins of dwarves, whom they get along with. Prefer to live in burrows in non-mountainous country._
 
@@ -861,7 +861,7 @@ AC 5, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 60' (20'
 - **_Hate kobolds:_** Normally attack on sight.
 - **_Mines and machines:_** Love machinery, mining, gold, and gems. May make foolish decisions to obtain precious items. War with goblins and kobolds over precious metals.
 
-### Goblin
+### <a name="goblin"></a>Goblin
 
 _Small, grotesque humanoids with pallid, earth-coloured skin and glowing, red eyes. Dwell underground._
 
@@ -874,7 +874,7 @@ AC 6, HD 1-1 (3hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 60' (2
 - **_Goblin king and bodyguards:_** A 3HD (15hp) king and 2d6 2HD (2d6hp) bodyguards live in the goblin lair. They do not suffer attack penalties in daylight. The king gains a +1 bonus to damage.
 - **_Hoard:_** Only have treasure type C when encountered in the wilderness or in their lair.
 
-### Golem
+### <a name="golem"></a>Golem
 
 _Artificial beings constructed from different materials by mighty clerics or wizards._
 
@@ -883,7 +883,7 @@ _Artificial beings constructed from different materials by mighty clerics or wiz
 - **_Other materials:_** Golems formed of other materials are also possible.
 - **_Constructing:_** A very complex, expensive, and time-consuming process.
 
-#### Amber Golem
+#### <a name="amber_golem"></a>Amber Golem
 
 _Constructed in the form of giant cats (e.g. lions or tigers)._
 
@@ -892,7 +892,7 @@ AC 6, HD 10** (45hp), Att 2 &times; claw (2d6), 1 &times; bite (2d10), THAC0 11,
 - **_Tracking:_** Without error.
 - **_Detect invisible creatures:_** Within 60'.
 
-#### Bone Golem
+#### <a name="bone_golem"></a>Bone Golem
 
 _6' tall constructs of human bone, crafted into a humanoid shape. Have four arms, attached at different places on the torso._
 
@@ -902,7 +902,7 @@ AC 2, HD 8 (36hp), Att 2 or 4 &times; weapon (1d6 or by weapon), THAC0 12, MV 12
 - **_Attack multiple opponents:_** Up to 2 per round.
 - **_Energy immunity:_** Unharmed by fire, cold, and electricity.
 
-#### Bronze Golem
+#### <a name="bronze_golem"></a>Bronze Golem
 
 _Bronze constructs that resemble fire giants, possessing a great internal heat._
 
@@ -911,7 +911,7 @@ AC 0, HD 20** (90hp), Att 1 &times; fist (3d10 + 1d10 heat), THAC0 6, MV 240' (8
 - **_Flaming blood:_** If damaged by an edged weapon, emits a spurt of liquid fire: attacker suffers 2d6 damage (**save vs death** to avoid).
 - **_Fire immunity:_** Unharmed by fire.
 
-#### Wood Golem
+#### <a name="wood_golem"></a>Wood Golem
 
 _3' tall, roughly constructed, humanoid figures of wood._
 
@@ -920,7 +920,7 @@ AC 7, HD 2+2 (11hp), Att 1 &times; fist (1d8), THAC0 17, MV 120' (40'), SV D12 W
 - **_Initiative:_** -1 penalty due to stiff movement.
 - **_Flammable:_** -2 to saves against fire attacks; suffers one extra point of damage per die.
 
-### Gorgon
+### <a name="gorgon"></a>Gorgon
 
 _Magical monsters that resemble iron-scaled bulls. Dwell in plains or foothills._
 
@@ -929,7 +929,7 @@ AC 2, HD 8* (36hp), Att 1 &times; gore (2d6) or 1 &times; breath (petrify), THAC
 - **_Charge:_** When not in melee. Requires a clear run of at least 20 yards. Gore inflicts double damage.
 - **_Petrifying breath:_** Cloud 60' long, 10' wide. All in the cloud are turned to stone (**save vs petrify** to avoid). Unharmed by own breath.
 
-### Grey Ooze
+### <a name="grey_ooze"></a>Grey Ooze
 
 _Slimy horrors that lurk on stone surfaces or among boulders._
 
@@ -939,7 +939,7 @@ AC 8, HD 3* (13hp), Att 1 &times; touch (2d8), THAC0 17, MV 10' (3'), SV D12 W13
 - **_Acid:_** After a successful attack, sticks to the victim and exudes acid. The acid destroys normal armour immediately and inflicts 2d8 damage per round. (Magic armour is dissolved in one turn.)
 - **_Energy immunity:_** Unharmed by cold or fire.
 
-### Green Slime
+### <a name="green_slime"></a>Green Slime
 
 _Dripping, green slime that clings to walls and ceilings._
 
@@ -951,7 +951,7 @@ AC No hit roll required, HD 2* (9hp), Att 1 &times; touch (consume flesh), THAC0
 - **_Removing:_** Once stuck on a victim, can only be removed by fire. This inflicts half damage to the victim and half to the slime.
 - **_Immunity:_** Unharmed by all attacks except cold or fire.
 
-### Griffon
+### <a name="griffon"></a>Griffon
 
 _Large, rapacious predators combining the features of an eagle (head, wings, front claws) and a lion. Prey on horses._
 
@@ -961,7 +961,7 @@ AC 5, HD 7 (13hp), Att 2 &times; claw (1d4), 1 &times; bite (2d8), THAC0 13, MV 
 - **_Defend nest:_** Attack if it is approached.
 - **_Taming:_** Captured young can be trained as loyal mounts. Their fierce nature cannot be trained out: they still instinctively attack horses.
 
-### Halfling
+### <a name="halfling"></a>Halfling
 
 _Diminutive, furry-footed demihumans who dwell in small villages (30-300 inhabitants)._
 
@@ -970,7 +970,7 @@ AC 7, HD 1-1 (3hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 90' (3
 - **_Leader and militia:_** Villages are led by a halfling of level 1d6 + 1. A militia of 5d4 2HD guards is also present.
 - **_Hoard:_** Only have treasure type B when encountered in the wilderness.
 
-### Harpy
+### <a name="harpy"></a>Harpy
 
 _Hideous hags with the wings and lower bodies of giant eagles. Use their song to lure victims to their doom._
 
@@ -979,14 +979,14 @@ AC 7, HD 3* (13hp), Att 2 &times; claw (1d4), 1 &times; weapon (1d6 or by weapon
 - **_Charm:_** Anyone who hears the song of a group of harpies must **save versus spells** or be charmed: move towards the harpies (resisting those who try to prevent it); defend the harpies; obey the harpies' commands (if understood); unable to cast spells or use magic items; unable to harm the harpies. A character who saves is unaffected for the rest of the encounter. Killing the harpies breaks the charm.
 - **_Magic resistance:_** +2 to all saving throws.
 
-### Hawk
+### <a name="hawk"></a>Hawk
 
 _Birds of prey that drift on high currents of air and hunt prey on the ground._
 
 - **_Swoop:_** Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
 - **_Trainable:_** Can be trained as guards or hunting animals.
 
-#### Giant Hawk
+#### <a name="giant_hawk"></a>Giant Hawk
 
 _As big as a great dog. If hungry, may attack humans or similar-sized creatures._
 
@@ -994,13 +994,13 @@ AC 6, HD 3+3 (16hp), Att 1 &times; talons or beak (1d6), THAC0 16, MV 450' (150'
 
 - **_Carry prey:_** Up to halfling-sized.
 
-#### Normal Hawk
+#### <a name="normal_hawk"></a>Normal Hawk
 
 _Small birds of prey. Will only attack humans if they appear defenceless._
 
 AC 8, HD 1/2 (2hp), Att 1 &times; talons or beak (1d2), THAC0 19, MV 480' (160') flying, SV D14 W15 P16 B17 S18 (NH), ML 7, AL Neutral, XP 5, NA 0 (1d6), TT None
 
-### Hellhound
+### <a name="hellhound"></a>Hellhound
 
 _Monstrous, cunning, and very intelligent hounds, the size of a small pony. Breathe fire and love heat. Dwell in dungeons or near volcanoes._
 
@@ -1011,7 +1011,7 @@ AC 4, HD 3 to 7*, Att 1 &times; bite (1d6) or 1 &times; breath (1d6 per HD), THA
 - **_Detect invisible:_** 75% chance per round. 60' range.
 - **_Pets:_** Sometimes found with other creatures with an affinity for fire.
 
-### Herd Animal
+### <a name="herd_animal"></a>Herd Animal
 
 _Wild animals that live in large, grazing herds. The exact type depends on the terrain._
 
@@ -1019,25 +1019,25 @@ _Wild animals that live in large, grazing herds. The exact type depends on the t
 - **_Males:_** In groups of 3 or more, only 1-in-4 are males. These have 1d4 extra hit points and protect the herd.
 - **_Females and young:_** Flee from danger. Females do not have a butt attack. Young have half normal hit points.
 
-#### Large Herd Animal
+#### <a name="large_herd_animal"></a>Large Herd Animal
 
 _For example: elk or moose._
 
 AC 7, HD 4 (18hp), Att 1 &times; butt (1d8), THAC0 16, MV 240' (80'), SV D12 W13 P14 B15 S16 (F2), ML 5, AL Neutral, XP 75, NA 0 (3d10), TT None
 
-#### Medium Herd Animal
+#### <a name="medium_herd_animal"></a>Medium Herd Animal
 
 _For example: caribou or oxen._
 
 AC 7, HD 3 (13hp), Att 1 &times; butt (1d6), THAC0 17, MV 240' (80'), SV D12 W13 P14 B15 S16 (F2), ML 5, AL Neutral, XP 35, NA 0 (3d10), TT None
 
-#### Small Herd Animal
+#### <a name="small_herd_animal"></a>Small Herd Animal
 
 _For example: antelope, deer, goats._
 
 AC 7, HD 1 to 2 (4/9hp), Att 1 &times; butt (1d4), THAC0 19/18, MV 240' (80'), SV D12 W13 P14 B15 S16 (F1), ML 5, AL Neutral, XP 10/20, NA 0 (3d10), TT None
 
-### Hippogriff
+### <a name="hippogriff"></a>Hippogriff
 
 _Fantastic creatures combining the features of a giant eagle (head and forequarters) and a horse. Nest among craggy rocks._
 
@@ -1047,7 +1047,7 @@ AC 5, HD 3+1 (14hp), Att 2 &times; claw (1d6), 1 &times; bite (1d10), THAC0 16, 
 - **_Mount:_** Can carry a human-sized rider.
 - **_Taming:_** Can be trained as mounts.
 
-### Hobgoblin
+### <a name="hobgoblin"></a>Hobgoblin
 
 _Larger and nastier relatives of goblins. Dwell underground, but commonly seek prey above ground._
 
@@ -1055,11 +1055,11 @@ AC 6, HD 1+1 (5hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 18, MV 90' (3
 
 - **_Hobgoblin king and bodyguards:_** A 5HD (22hp) king and 1d4 4HD (3d6hp) bodyguards live in the hobgoblin lair. The king gains a +2 bonus to damage rolls. A thoul may sometimes be found among the king's bodyguards.
 
-### Horse
+### <a name="horse"></a>Horse
 
 _Herd animals that are often used for transportation. (See **_B/X Essentials: Classes and Equipment_**.) Many different domesticated breeds exist._
 
-#### Draft Horse
+#### <a name="draft_horse"></a>Draft Horse
 
 _Bred for great strength and endurance. Used to pull vehicles and ploughs, or as beasts of burden._
 
@@ -1069,7 +1069,7 @@ AC 7, HD 3 (13hp), Att None, THAC0 17, MV 90' (30'), SV D12 W13 P14 B15 S16 (F2)
 - **_Domestic:_** Not encountered in the wild.
 - **_Beast of burden:_** Carry up to 4,500 coins unencumbered; up to 9,000 at half speed.
 
-#### Riding Horse
+#### <a name="riding_horse"></a>Riding Horse
 
 _Lightly built horses adapted to run at high speed. Can survive purely on grass, wherever available._
 
@@ -1078,7 +1078,7 @@ AC 7, HD 2 (9hp), Att 2 &times; hoof (1d4), THAC0 18, MV 240' (80'), SV D12 W13 
 - **_Domestic:_** Not encountered in the wild.
 - **_Beast of burden:_** Carry up to 3,000 coins unencumbered; up to 6,000 at half speed.
 
-#### War Horse
+#### <a name="war_horse"></a>War Horse
 
 _Bred for strength and courage in battle. Adapted to short bursts of speed; not suited to long-distance riding._
 
@@ -1089,7 +1089,7 @@ AC 7, HD 3 (13hp), Att 2 &times; hoof (1d6), THAC0 17, MV 120' (40'), SV D12 W13
 - **_Domestic:_** Not encountered in the wild.
 - **_Beast of burden:_** Carry up to 4,000 coins unencumbered; up to 8,000 that at half speed.
 
-#### Wild Horse
+#### <a name="wild_horse"></a>Wild Horse
 
 _Lightly built horses adapted to run at high speed. Can survive purely on grass, wherever available._
 
@@ -1098,7 +1098,7 @@ AC 7, HD 2 (9hp), Att 2 &times; hoof (1d4), THAC0 18, MV 240' (80'), SV D12 W13 
 - **_Stampede:_** Herds of 20 or more can trample those in their path. 3-in-4 chance each round. +4 to-hit human-sized or smaller creatures. 1d20 damage.
 - **_Taming:_** Wild horses can be trained as mounts (riding horses).
 
-### Hydra
+### <a name="hydra"></a>Hydra
 
 _Large, dragon-like creatures with multiple, serpentine heads. Sea hydras (adapted to water, with fins) also exist._
 
@@ -1108,7 +1108,7 @@ AC 5, HD 5 to 12 (8hp per HD), Att 5 to 12 &times; bite (1d10), THAC0 By HD (15 
 - **_Disabling heads:_** For every 8hp damage taken, one head is disabled (cannot attack).
 - **_Variants:_** Special hydras sometimes found with venom, fiery breath, etc.
 
-### Insect Swarm
+### <a name="insect_swarm"></a>Insect Swarm
 
 _Swarms of many tiny insects that may be encountered protecting their nest. May also be drawn to light or unusual smells._
 
@@ -1123,7 +1123,7 @@ AC 7, HD 2 to 4 (9/13/18hp), Att 1 &times; swarm (2 or 4hp), THAC0 18/17/16, MV 
 - **_Diving into water:_** Suffer damage for one round, then attached insects drown.
 - **_Pursuit:_** An angry (i.e. damaged) swarm will pursue characters until they are out of sight or inaccessible.
 
-### Invisible Stalker
+### <a name="invisible_stalker"></a>Invisible Stalker
 
 _Highly intelligent, magical creatures summoned from another plane of existence to perform tasks for powerful magic-users._
 
@@ -1133,7 +1133,7 @@ AC 3, HD 8* (36hp), Att 1 &times; blow (4d4), THAC0 12, MV 120' (40'), SV D8 W9 
 - **_Surprise:_** 5-in-6, unless target can detect invisibility.
 - **_If killed:_** Returns to plane of origin.
 
-### Killer Bee
+### <a name="killer_bee"></a>Killer Bee
 
 _Giant (1' long) bees of aggressive temperament. Build hives underground._
 
@@ -1147,7 +1147,7 @@ AC 7, HD 1/2* (2hp), Att 1 &times; sting (1d3 + poison + lodged stinger), THAC0 
 - **_Guards:_** At least 10 bees (4 or more of which have 1HD) remain in or near the hive to protect the queen.
 - **_Honey:_** Magical honey (around 2 pints) may be found in the hive. It heals 1d4 hit points if eaten (in its entirety).
 
-### Kobold
+### <a name="kobold"></a>Kobold
 
 _Small, wicked, hairless, canine humanoids with scaly, rust-coloured skin. Dwell underground._
 
@@ -1159,7 +1159,7 @@ AC 7, HD 1/2 (2hp), Att 1 &times; weapon (1d4 or by weapon - 1), THAC0 19, MV 60
 - **_Chieftain and bodyguards:_** A 2HD (9hp) chieftain and 1d6 1+1HD (6hp) bodyguards live in the kobold lair.
 - **_Hoard:_** Only have treasure type J when encountered in the wilderness or in their lair.
 
-### Leech, Giant
+### <a name="leech_giant"></a>Leech, Giant
 
 _Horrid, 3-4' long, slug-like creatures with sucker mouths. Lurk in swamps._
 
@@ -1169,14 +1169,14 @@ AC 7, HD 6 (27hp), Att 1 &times; bite (1d6 + blood drain), THAC0 14, MV 90' (30'
 - **_Detaching:_** Must be killed.
 - **_If victim dies:_** Leech detaches and finds a hidden place to digest.
 
-### Living Statue
+### <a name="living_statue"></a>Living Statue
 
 _Animated statues of any size and material (three types described below; others may be invented by the referee)._
 
 - **_Immunity:_** Unaffected by _sleep_ spells.
 - **_Magical origins:_** Created by powerful wizards.
 
-#### Crystal Living Statue
+#### <a name="crystal_living_statue"></a>Crystal Living Statue
 
 _Formed of crystals. Often human in form._
 
@@ -1184,28 +1184,28 @@ AC 4, HD 3 (13hp), Att 2 &times; blow (1d6), THAC0 17, MV 90' (30'), SV D12 W13 
 
 - **_Attacks:_** Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
 
-#### Iron Living Statue
+#### <a name="iron_living_statue"></a>Iron Living Statue
 
 AC 2, HD 4 (18hp), Att 2 &times; blow (1d8), THAC0 16, MV 30' (10'), SV D10 W11 P12 B13 S14 (F4), ML 11, AL Neutral, XP 75, NA 1d4 (1d4), TT None
 
 - **_Absorb metals:_** Hits with non-magical, metal weapons cause damage, but the weapon may become stuck in the statue (**save versus spells**). Stuck weapons can be removed if the statue is killed.
 - **_Attacks:_** Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
 
-#### Rock Living Statue
+#### <a name="rock_living_statue"></a>Rock Living Statue
 
 _Stony crust filled with magma which they shoot from their fingertips._
 
 AC 4, HD 5** (22hp), Att 2 &times; magma jet (2d6), THAC0 15, MV 60' (20'), SV D10 W11 P12 B13 S14 (F5), ML 11, AL Chaotic, XP 425, NA 1d3 (1d3), TT None
 
-### Lizard, Giant
+### <a name="lizard_giant"></a>Lizard, Giant
 
-#### Draco
+#### <a name="draco"></a>Draco
 
 _6' long, carnivorous lizards with skin flaps between legs that enable gliding. Usually dwell above ground, but sometimes shelter in caves. Sometimes attack humans._
 
 AC 5, HD 4+2 (20hp), Att 1 &times; bite (1d10), THAC0 15, MV 120' (40') / 210' (70') gliding, SV D12 W13 P14 B15 S16 (F3), ML 7, AL Neutral, XP 125, NA 1d4 (1d8), TT U
 
-#### Gecko
+#### <a name="gecko"></a>Gecko
 
 _5' long, carnivorous, nocturnal lizards. Light blue scales with orange spots._
 
@@ -1213,7 +1213,7 @@ AC 5, HD 3+1 (14hp), Att 1 &times; bite (1d8), THAC0 16, MV 120' (40'), SV D12 W
 
 - **_Cling:_** Climb walls, trees, etc. and drop on victims.
 
-#### Horned Chameleon
+#### <a name="horned_chameleon"></a>Horned Chameleon
 
 _7' long lizards whose scales change colour as camouflage._
 
@@ -1223,7 +1223,7 @@ AC 2, HD 5* (22hp), Att 1 &times; tongue/bite (2d4), 1 &times; horn (1d6), 1 &ti
 - **_Sticky tongue:_** Can attack targets up to 5' away. If the attack succeeds, the victim is dragged to the mouth and bitten (2d4 damage).
 - **_Tail:_** Causes no damage, but knocks opponent down: cannot attack that round.
 
-#### Tuatara
+#### <a name="tuatara"></a>Tuatara
 
 _8' long, iguana-like, carnivorous lizards with olive scales and a ridge of white spikes along the back. Have been known to attack humans._
 
@@ -1231,7 +1231,7 @@ AC 4, HD 6 (27hp), Att 2 &times; claw (1d4), 1 &times; bite (2d6), THAC0 14, MV 
 
 - **_Infravision:_** 90'. Granted by retractable eye membranes.
 
-### Lizard Man
+### <a name="lizard_man"></a>Lizard Man
 
 _Semi-intelligent, tribal, aquatic humanoids with reptilian heads and tails. Often encountered in swamps and dungeons, or along rivers and coastlines._
 
@@ -1240,7 +1240,7 @@ AC 5, HD 2+1 (10hp), Att 1 &times; weapon (1d6+1 or by weapon + 1), THAC0 17, MV
 - **_Weapons:_** Favour spears or large clubs.
 - **_Man-eaters:_** Kidnap humans and demihumans, whose flesh they regard as a delicacy.
 
-### Lycanthrope
+### <a name="lycanthrope"></a>Lycanthrope
 
 _Shapechangers with a human and an animal form._
 
@@ -1254,7 +1254,7 @@ _Shapechangers with a human and an animal form._
 - **_Scent:_** Horses and some other animals can smell lycanthropes and will become afraid.
 - **_Infection:_** A character who loses more than half his or her hit points from the natural attacks of lycanthropes (i.e. bites, claws) contracts lycanthropy. Humans become were-creatures of the same type (run by the referee, henceforth); non-humans die. The disease takes full effect in 2d12 days, showing signs of infection after half the time.
 
-#### Devil Swine
+#### <a name="devil_swine"></a>Devil Swine
 
 _Corpulent humans who can change into huge swine. Love to eat human flesh. Lurk in isolated human settlements close to forests or marshes._
 
@@ -1265,7 +1265,7 @@ AC 3 (9 in human form), HD 9* (40hp),Att 1 &times; gore (2d6) or 1 &times; weapo
 - **_Charm person:_** 3 times a day. **Save versus spells at -2** or be charmed: move towards the devil swine (resisting those who try to prevent it); obey the devil swine's commands (if understood); defend the devil swine; unable to cast spells or use magic items; unable to harm the devil swine. Killing the swine breaks the charm.
 - **_Charmed victims:_** 1d4-1 accompany a devil swine.
 
-#### Werebear
+#### <a name="werebear"></a>Werebear
 
 _Highly intelligent, also in bear form. Dwell alone or among normal bears._
 
@@ -1274,7 +1274,7 @@ AC 2 (8 in human form), HD 6* (27hp), Att 2 &times; claw (2d4), 1 &times; bite (
 - **_Amiable:_** May be friendly, if approached peacefully.
 - **_Bear hug:_** If a victim is hit by both claws in the same round, the werebear can hug for an extra 2d8 automatic damage.
 
-#### Wereboar
+#### <a name="wereboar"></a>Wereboar
 
 _Semi-intelligent and irascible. In human form, often appear like berserkers._
 
@@ -1282,7 +1282,7 @@ AC 4 (9 in human form), HD 4+1* (19hp), Att 1 &times; tusk/bite (2d6), THAC0 15,
 
 - **_Battle rage:_** In human form, may enter a berserk rage: +2 to hit; fight to the death. Rage sometimes causes them to attack their allies.
 
-#### Wererat
+#### <a name="wererat"></a>Wererat
 
 _Intelligent, humanoid rats who can change into normal humans._
 
@@ -1292,7 +1292,7 @@ AC 7 (9 in human form), HD 3* (13hp), Att 1 &times; bite (1d4) or 1 &times; weap
 - **_Languages:_** Can speak Common in both forms.
 - **_Weapons:_** May use weapons in both forms.
 
-#### Weretiger
+#### <a name="weretiger"></a>Weretiger
 
 _Exhibit feline behaviour: curious, but dangerous when cornered. Talented swimmers and trackers._
 
@@ -1300,7 +1300,7 @@ AC 3 (9 in human form), HD 5* (22hp), Att 2 &times; claw (1d6), 1 &times; bite (
 
 - **_Surprise:_** On a 1-4, due to stealth.
 
-#### Werewolf
+#### <a name="werewolf"></a>Werewolf
 
 _Semi-intelligent pack hunters._
 
@@ -1308,7 +1308,7 @@ AC 5 (9 in human form), HD 4* (18hp), Att 1 &times; bite (2d4), THAC0 16, MV 180
 
 - **_Leader:_** Groups of 5+ are led by a werewolf with 5HD (30hp). The leader gains a +2 bonus to damage rolls.
 
-### Manticore
+### <a name="manticore"></a>Manticore
 
 _Monstrosities with the face of a man, the body of a lion, bat-like wings, and a tail bristling with spikes. Love eating humans. Dwell in wild, mountainous regions._
 
@@ -1317,7 +1317,7 @@ AC 4, HD 6+1 (28hp), Att [2 &times; claw (1d4), 1 &times; bite (2d4)] or 6 &time
 - **_Tail spikes:_** 180' range. 24 in total; 2 regrow each day.
 - **_Track and ambush:_** Follow humans and attack with tail spikes when they stop to rest.
 
-### Mastodon
+### <a name="mastodon"></a>Mastodon
 
 _Shaggy elephants with large tusks. Live in icy or Lost World regions._
 
@@ -1327,7 +1327,7 @@ AC 3, HD 15 (67hp), Att 2 &times; tusk (2d6) or 1 &times; trample (4d8), THAC0 9
 - **_Trample:_** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 - **_Ivory:_** Each tusk is worth 2d4 &times; 100gp.
 
-### Medium
+### <a name="medium"></a>Medium
 
 _1st level NPC magic-users._
 
@@ -1336,7 +1336,7 @@ AC 9, HD 1** (4hp), Att 1 &times; dagger (1d4) or 1 &times; spell, THAC0 19, MV 
 - **_Spells:_** Each individual has one 1st level magic-user spell memorized (see **_B/X Essentials: Cleric and Magic-User Spells_**). (Choose or select at random.)
 - **_Master:_** 50% of groups are led by a magic-user of 3rd level. The master has two 1st level spells and one 2nd level spell. (Choose or select at random.)
 
-### Medusa
+### <a name="medusa"></a>Medusa
 
 _Deadly creatures of a magical nature that look like women with writhing snakes in place of hair._
 
@@ -1349,7 +1349,7 @@ AC 8, HD 4** (18hp), Att 1 &times; snakebites (1d6 + poison), THAC0 16, MV 90' (
 - **_Poison:_** The snakes' bites are venomous: **save versus poison** or die in 1 turn.
 - **_Magic resistance:_** +2 to saves vs spells.
 
-### Merchant
+### <a name="merchant"></a>Merchant
 
 _Organized traders who travel between settlements in well-armed caravans, buying and selling trade goods (e.g. gold, jewels, silk, spices, wine, etc.)._
 
@@ -1364,7 +1364,7 @@ AC 5, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 90' (30'
 - **_Pack animals:_** 1d12 extra horses, mules, or camels.
 - **_Treasure:_** Should be reduced, if less than 10 merchants are in the group.
 
-### Merman
+### <a name="merman"></a>Merman
 
 _Aquatic humanoids with fish tails in place of legs. Live in coastal waters, farming seaweed and hunting fish._
 
@@ -1375,7 +1375,7 @@ AC 6, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120' (40
 - **_Underwater villages:_** Home to 1d3 &times; 100 individuals.
 - **_Guardians:_** Use trained sea creatures or monsters to guard their homes.
 
-### Minotaur
+### <a name="minotaur"></a>Minotaur
 
 _Large, brutish, bull-headed men with a craving for human flesh. Dwell in mazes and labyrinths._
 
@@ -1384,7 +1384,7 @@ AC 6, HD 6 (27hp), Att [1 &times; gore (1d6), 1 &times; bite (1d6)] or 1 &times;
 - **_Weapons:_** Prefer axes, clubs, or spears.
 - **_Aggressive:_** Attack same size or smaller creatures on sight. Pursue until the victims are out of sight.
 
-### Mule
+### <a name="mule"></a>Mule
 
 _Stubborn horse/donkey cross-breeds used as beasts of burden. (See _**_B/X Essentials: Classes and Equipment_**_.)_
 
@@ -1394,7 +1394,7 @@ AC 7, HD 2 (9hp), Att 1 &times; kick (1d4) or 1 &times; bite (1d3), THAC0 18, MV
 - **_Defensive:_** May attack if threatened, but cannot be trained to attack on command.
 - **_Beast of burden:_** Carry up to 2,000 coins unencumbered; up to 4,000 at half speed.
 
-### Mummy
+### <a name="mummy"></a>Mummy
 
 _Undead humanoids wrapped in funerary bandages. Haunt ruins and tombs._
 
@@ -1405,7 +1405,7 @@ AC 3, HD 5+1* (23hp), Att 1 &times; touch (1d12 + disease), THAC0 14, MV 60' (20
 - **_Damage immunity:_** Only harmed by fire or magic. All damage reduced by half.
 - **_Undead:_** Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. _charm_, _hold_, _sleep_).
 
-### Neanderthal (Caveman)
+### <a name="neanderthal"></a>Neanderthal (Caveman)
 
 _Squat, powerful, primitive demihumans with ape-like faces. Dwell in caverns and hunt cave bears. Shy of contact with humans (with whom they are related), but friendly with dwarves and gnomes._
 
@@ -1416,7 +1416,7 @@ AC 8, HD 2 (9hp), Att 1 &times; weapon (2d4 or by weapon + 1), THAC0 18, MV 120'
 - **_Racial animosity:_** Attack ogres on sight. Hate goblins and kobolds.
 - **_Pets:_** Sometimes keep white apes as pets.
 
-### Nixie
+### <a name="nixie"></a>Nixie
 
 _3' tall sprites that appear as attractive women with blueish, greenish, or greyish skin. Lair in the deepest parts of rivers and lakes._
 
@@ -1428,7 +1428,7 @@ AC 7, HD 1 (4hp), Att 1 &times; weapon (1d4) or 1 &times; group spell (charm), T
 - **_Summon giant bass:_** Each nixie can summon one fish to aid in combat.
 - **_Bestow water breathing:_** Can cast upon charmed slaves. Lasts for one day, then must be refreshed.
 
-### Noble
+### <a name="noble"></a>Noble
 
 _Powerful humans with noble titles (e.g. Count, Duke, Knight, etc.). Dwell in castles._
 
@@ -1437,7 +1437,7 @@ AC 2, HD 3 (13hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 17, MV 60' (20
 - **_Class:_** Usually treated as 3rd level fighters, but may be of any class and level.
 - **_Squire and retainers:_** Accompanied by a 2nd level fighter (a squire) and up to ten 1st level fighters (retainers).
 
-### Nomad
+### <a name="nomad"></a>Nomad
 
 _Superstitious tribes who wander steppes and desert regions, living in tents or temporary huts. Demeanour depends on the tribe: some are warlike, others peaceful._
 
@@ -1452,7 +1452,7 @@ AC 7 to 4, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120
 - **_Hoard:_** Only have treasure type A in the camp.
 - **_Traders:_** Often carry trade route tales of faraway lands.
 
-### Normal Human
+### <a name="normal_human"></a>Normal Human
 
 _Non-adventuring humans without a character class. Artists, beggars, children, craftspeople, farmers, fishermen, housewives, scholars, slaves._
 
@@ -1460,7 +1460,7 @@ AC 9, HD 1/2 (2hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 20, MV 120' (
 
 - **_Gaining XP:_** Must select a character class after gaining XP on an adventure.
 
-### Ochre Jelly
+### <a name="ochre_jelly"></a>Ochre Jelly
 
 _Giant, ochre amoeboids._
 
@@ -1473,7 +1473,7 @@ AC 8, HD 5* (22hp), Att 1 &times; touch (2d6), THAC0 15, MV 30' (10'), SV D12 W1
 
 >Author's note: The description of the ochre jelly in the original Basic rules is ambiguous on several points. I have attempted to resolve these ambiguities in a sensible and consistent way, based on the mechanics used for similar monsters, but other interpretations of the original monster are possible.
 
-### Octopus, Giant
+### <a name="octopus_giant"></a>Octopus, Giant
 
 _Giant, eight-armed cephalopods. Lurk in coastal waters, close to settlements._
 
@@ -1483,7 +1483,7 @@ AC 7, HD 8 (36hp), Att 8 &times; tentacle (1d3 + constriction), 1 &times; bite (
 - **_Severing tentacles:_** Requires a hit with a cutting weapon that does 6 or more damage.
 - **_Ink cloud:_** When escaping, can emit a cloud of black ink (80' diameter) and jet away at 3 times normal speed.
 
-### Ogre
+### <a name="ogre"></a>Ogre
 
 _Frightful humanoids, 8-10' tall, dressed in animal hides. Often dwell in caves._
 
@@ -1492,7 +1492,7 @@ AC 5, HD 4+1 (19hp), Att 1 &times; club (1d10), THAC0 15, MV 90' (30'), SV D10 W
 - **_Sack:_** Outside of the lair, carry a sack containing 1d6 &times; 100gp.
 - **_Hate neanderthals:_** Attack on sight.
 
-### Orc
+### <a name="orc"></a>Orc
 
 _Ugly, bad-tempered, animalistic humanoids who live underground and are active at night. Sadistic bullies who hate other living creatures and delight in killing._
 
@@ -1507,7 +1507,7 @@ AC 6, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120' (40
 - **_Tribal:_** Orcs of different tribes may fight among themselves, unless their leaders command them not to. Each tribe has its own lair and has as many females as males, and two whelps per two adults.
 - **_Mercenaries:_** Orcs may be hired to fight in Chaotic armies (see **_Mercenaries_** in **_B/X Essentials: Classes and Equipment_**). They delight in wanton killing and razing of settlements.
 
-### Owl Bear
+### <a name="owl_bear"></a>Owl Bear
 
 _Huge (8' tall, 1,500 pounds), ill-tempered, carnivorous bear-like creature with the face of an owl. Owl bears are found in dense forests and underground._
 
@@ -1515,7 +1515,7 @@ AC 5, HD 5 (22hp), Att 2 &times; claw (1d8), 1 &times; bite (1d8), THAC0 15, MV 
 
 - **_Bear hug:_** If a victim is hit by both paws in the same round, the owl bear hugs for an extra 2d8 automatic damage.
 
-### Pegasus
+### <a name="pegasus"></a>Pegasus
 
 _Semi-intelligent winged horses that are wilful and timid._
 
@@ -1525,7 +1525,7 @@ AC 6, HD 2+2 (11hp), Att 2 &times; hoof (1d6), THAC0 17, MV 240' (80') / 480' (1
 - **_Mount:_** Can carry a human-sized rider.
 - **_Training:_** If captured when young, will serve Lawful characters.
 
-### Pirate
+### <a name="pirate"></a>Pirate
 
 _Sailors who make a living by raiding coastal settlements, robbing other ships, and illegal slaving. Typically ply the open seas. Renowned for their ruthless and evil ways._
 
@@ -1540,7 +1540,7 @@ AC 7 or 5, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120
 - **_Treasure:_** Divided between vessels. Instead of carrying with them, may have a map to where it is buried.
 - **_Havens:_** Lawless, fortified, coastal towns may act as a haven for pirates.
 
-### Pixie
+### <a name="pixie"></a>Pixie
 
 _1-2' tall humanoids with insectoid wings. Distant relatives of elves._
 
@@ -1550,23 +1550,23 @@ AC 3, HD 1* (4hp), Att 1 &times; dagger (1d4), THAC0 19, MV 90' (30') / 180' (60
 - **_Surprise:_** Always surprise, if invisible.
 - **_Limited flight:_** Small wings only allow 3 turns of flight. Must rest 1 turn after flying.
 
-### Pterosaur
+### <a name="pterosaur"></a>Pterosaur
 
 _Predatory, winged reptiles that live in warm climes, hunting creatures on the ground by gliding on air currents. Often found in Lost World regions._
 
-#### Pteranodon
+#### <a name="pteranodon"></a>Pteranodon
 
 _Wingspan of up to 50'. Highly aggressive; often prey on humanoids._
 
 AC 6, HD 5 (22hp), Att 1 &times; bite (1d12), THAC0 15, MV 240' (80') flying, SV D12 W13 P14 B15 S16 (F3), ML 8, AL Neutral, XP 175, NA 0 (1d4), TT V
 
-#### Pterodactyl
+#### <a name="pterodactyl"></a>Pterodactyl
 
 _8-10' wingspan. Prey on small to medium animals, but will attack humanoids, if very hungry._
 
 AC 7, HD 1 (4hp), Att 1 &times; bite (1d3), THAC0 19, MV 180' (60') flying, SV D12 W13 P14 B15 S16 (F1), ML 7, AL Neutral, XP 10, NA 0 (2d4), TT None
 
-### Purple Worm
+### <a name="purple_worm"></a>Purple Worm
 
 _Gigantic, slimy worms with bodies 100' long and 8-10' thick. Bore tunnels through the earth and come to the surface to eat other creatures._
 
@@ -1576,7 +1576,7 @@ AC 6, HD 15* (67hp), Att 1 &times; bite (2d8), 1 &times; sting (1d8 + poison), T
 - **_Poison:_** Causes death (**save vs poison**).
 - **_In restricted spaces:_** May not always be able to bite and sting at once.
 
-### Rat
+### <a name="rat"></a>Rat
 
 _Multitudinous, disease-ridden rodents that will eat anything. Avoid contact with humans, but may attack if defending their nest or if summoned and commanded by magic (e.g. see wererat)._
 
@@ -1584,13 +1584,13 @@ _Multitudinous, disease-ridden rodents that will eat anything. Avoid contact wit
 - **_Afraid of fire:_** Will flee fire, unless forced to fight by summoner.
 - **_Attacking in water:_** May attack without penalty; excellent swimmers.
 
-#### Giant Rat
+#### <a name="giant_rat"></a>Giant Rat
 
 _3' long (or larger), with black or grey fur. Often live in dark, dungeon areas and close to undead monsters._
 
 AC 7, HD 1/2 (2hp), Att 1 &times; bite (1d3 + disease), THAC0 19, MV 120' (40') / 60' (20') swimming, SV D12 W13 P14 B15 S16 (F1), ML 8, AL Neutral, XP 5, NA 3d6 (3d10), TT C
 
-#### Normal Rat
+#### <a name="normal_rat"></a>Normal Rat
 
 _Swarming packs of 6" to 2' long individuals, with brown or grey fur._
 
@@ -1599,7 +1599,7 @@ AC 9, HD 1hp, Att 1 &times; bite per pack (1d6 + disease), THAC0 19, MV 60' (20'
 - **_Pack:_** Each group of 5-10 rats attacks as a pack. Each pack makes a single attack roll against one creature.
 - **_Engulf:_** The creature attacked must **save vs death** or fall prone, unable to attack until able to stand up again.
 
-### Rhagodessa
+### <a name="rhagodessa"></a>Rhagodessa
 
 _Huge, hairy, nocturnal arachnid carnivores with large heads and mandibles and 10 legs. Yellow head and abdomen, dark brown thorax. Dwell in caves, hunt voraciously._
 
@@ -1609,24 +1609,24 @@ AC 5, HD 4+2 (20hp), Att 1 &times; sucker (grab), 1 &times; bite (2d8), THAC0 15
 - **_Grab:_** When hit with a sucker, the victim is stuck and will be bitten automatically next round.
 - **_Cling:_** Can walk on walls.
 
-### Rhinoceros
+### <a name="rhinoceros"></a>Rhinoceros
 
 _Armoured, herbivorous mammals of low intelligence._
 
 - **_Charge:_** If disturbed or threatened, will charge in a random direction. Requires a clear run of at least 20 yards. Make a horn attack on all in the path: inflicts double damage.
 - **_Trample:_** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 
-#### Normal Rhinoceros
+#### <a name="normal_rhinoceros"></a>Normal Rhinoceros
 
 AC 5, HD 6 (27hp), Att 1 &times; horn (2d4) or 1 &times; trample (2d8), THAC0 14, MV 120' (40'), SV D12 W13 P14 B15 S16 (F3), ML 6, AL Neutral, XP 275, NA 0 (1d12), TT None
 
-#### Woolly Rhinoceros
+#### <a name="woolly_rhinoceros"></a>Woolly Rhinoceros
 
 _Giant rhinoceroses adapted for cold climates: their bodies covered with shaggy, white fur. Live in herds, in cold Lost World areas._
 
 AC 4, HD 8 (36hp), Att 1 &times; horn (2d6) or 1 &times; trample (2d12), THAC0 12, MV 120' (40'), SV D10 W11 P12 B13 S14 (F4), ML 6, AL Neutral, XP 650, NA 0 (1d8), TT None
 
-### Robber Fly
+### <a name="robber_fly"></a>Robber Fly
 
 _3' long, carnivorous flies with yellow and black stripes. Look similar to killer bees, which they hunt. Sometimes also attack humans._
 
@@ -1636,7 +1636,7 @@ AC 6, HD 2 (9hp), Att 1 &times; bite (1d8), THAC0 18, MV 90' (30') / 180' (60') 
 - **_Poison immunity:_** Unharmed by killer bees' poison.
 - **_Leap:_** Can leap up to 30' and attack.
 
-### Roc
+### <a name="roc"></a>Roc
 
 _Gigantic birds of prey that nest in the highest peaks of isolated mountain ranges. Will attack intruders, if approached carelessly._
 
@@ -1645,19 +1645,19 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 - **_Eggs:_** 1d6 eggs or chicks in 50% of nests.
 - **_Trainable:_** Can be trained, if captured when young.
 
-#### Giant Roc
+#### <a name="giant_roc"></a>Giant Roc
 
 AC 0, HD 36 (162hp), Att 2 &times; claw (3d6), 1 &times; bite (8d6), THAC0 5, MV 60' (20') / 480' (160') flying, SV D2 W3 P4 B3 S6 (F18), ML 10 (12 in lair), AL Lawful, XP 6,250, NA 0 (1), TT I
 
-#### Large Roc
+#### <a name="large_roc"></a>Large Roc
 
 AC 2, HD 12 (54hp), Att 2 &times; claw (1d8), 1 &times; bite (2d10), THAC0 10, MV 60' (20') / 480' (160') flying, SV D10 W11 P12 B13 S14 (F6), ML 9 (12 in lair), AL Lawful, XP 1,100, NA 0 (1d8), TT I
 
-#### Small Roc
+#### <a name="small_roc"></a>Small Roc
 
 AC 4, HD 6 (27hp), Att 2 &times; claw (1d4+1), 1 &times; bite (2d6), THAC0 14, MV 60' (20') / 480' (160') flying, SV D12 W13 P14 B15 S16 (F3), ML 8 (12 in lair), AL Lawful, XP 275, NA 0 (1d12), TT I
 
-### Rock Baboon
+### <a name="rock_baboon"></a>Rock Baboon
 
 _Large, ferocious, semi-intelligent baboons that live in packs led by a powerful male. Communicate with screams. Omnivorous, but prefer flesh._
 
@@ -1665,7 +1665,7 @@ AC 6, HD 2 (9hp), Att 1 &times; club (1d6), 1 &times; bite (1d3), THAC0 18, MV 1
 
 - **_Weapons:_** Wield bones or branches as clubs. (Do not use other tools.)
 
-### Rust Monster
+### <a name="rust_monster"></a>Rust Monster
 
 _Magical, armadillo-like creatures with long tails and two long, antennae-like feelers. Feed on rusted metal._
 
@@ -1675,11 +1675,11 @@ AC 2, HD 5 (22hp), Att 1 &times; feeler (rusting), THAC0 15, MV 120' (40'), SV D
 - **_Mundane damage immunity:_** Can only be harmed by magical attacks.
 - **_Smell metal:_** Attracted by the scent.
 
-### Salamander
+### <a name="salamander"></a>Salamander
 
 _Giant, magical reptiles with an affinity for extreme heat or cold._
 
-#### Flame Salamander
+#### <a name="flame_salamander"></a>Flame Salamander
 
 _12'-16' long, intelligent serpents with lizard-like heads and legs. Bright orange/yellow/red scales. Natives of the plane of elemental fire, but also live in volcanoes and scorching deserts._
 
@@ -1690,7 +1690,7 @@ AC 2, HD 8* (36hp), Att 2 &times; claw (1d4), 1 &times; bite (1d8), 1 &times; he
 - **_Fire immunity:_** Unharmed by fire.
 - **_Hate frost salamanders:_** Will attack on sight.
 
-#### Frost Salamander
+#### <a name="frost_salamander"></a>Frost Salamander
 
 _Giant, 6-legged lizards with blue/white scales. Dwell in icy, wilderness regions._
 
@@ -1701,7 +1701,7 @@ AC 3, HD 12* (54hp), Att 4 &times; claw (1d6), 1 &times; bite (2d6), 1 &times; c
 - **_Cold immunity:_** Unharmed by cold-based attacks.
 - **_Hate flame salamanders:_** Will attack on sight.
 
-### Scorpion, Giant
+### <a name="scorpion_giant"></a>Scorpion, Giant
 
 _Huge arachnids, as big as a small horse, with pincers and deadly stingers. Dwell in caverns, ruins, and deserts._
 
@@ -1711,7 +1711,7 @@ AC 2, HD 4* (18hp), Att 2 &times; claw (1d10), 1 &times; sting (1d4 + poison), T
 - **_Poison:_** Causes death (**save vs poison**).
 - **_Grab and sting:_** +2 bonus to sting attack, if a claw hits.
 
-### Sea Serpent (Lesser)
+### <a name="sea_serpent_lesser"></a>Sea Serpent (Lesser)
 
 _20'-30' long, serpent-like sea monsters with rows of many fins._
 
@@ -1720,7 +1720,7 @@ AC 5, HD 6 (27hp), Att 1 &times; bite (2d6) or 1 &times; squeeze (1d10 hull dama
 - **_Lunge:_** Up to 20' out of water to use bite attack.
 - **_Squeeze:_** Coil around and crush a vessel (of equal size or smaller).
 
-### Shadow
+### <a name="shadow"></a>Shadow
 
 _Intelligent, incorporeal (but not undead) monsters that look like shadows. Able to slightly change their shape._
 
@@ -1731,14 +1731,14 @@ AC 7, HD 2+2* (11hp), Att 1 &times; touch (1d4 + strength drain), THAC0 17, MV 9
 - **_Mundane damage immunity:_** Can only be harmed by magical attacks.
 - **_Spell immunity:_** Unaffected by _charm_ and _sleep_ spells.
 
-### Shark
+### <a name="shark"></a>Shark
 
 _Aggressive, predatory fish of low intelligence and unpredictable behaviour. Live in saltwater._
 
 - **_Blood scent:_** Can detect blood in water up to 300' away.
 - **_Feeding frenzy:_** Triggered by the scent of blood: always attack; no morale checks.
 
-#### Bull Shark
+#### <a name="bull_shark"></a>Bull Shark
 
 _8' long; brown colouration. Attack by ramming, then biting the stunned prey._
 
@@ -1748,13 +1748,13 @@ AC 4, HD 2 (9hp), Att 1 &times; bite (2d4) or 1 &times; ram (stun), THAC0 18, MV
 
 >Author's note: The original rules state that bull sharks use a ram attack to stun prey, but do not give mechanics for it. The rule here is derived from a later edition.
 
-#### Great White Shark
+#### <a name="great_white_shark"></a>Great White Shark
 
 _30' long (or bigger!); grey colouration with white belly. Sometimes attack small boats._
 
 AC 4, HD 8 (36hp), Att 1 &times; bite (2d10), THAC0 12, MV 180' (60'), SV D10 W11 P12 B13 S14 (F4), ML 7, AL Neutral, XP 650, NA 0 (1d4), TT None
 
-#### Mako Shark
+#### <a name="mako_shark"></a>Mako Shark
 
 _15' long; bluish-grey or tan colouration._
 
@@ -1762,7 +1762,7 @@ AC 4, HD 4 (18hp), Att 1 &times; bite (2d6), THAC0 16, MV 180' (60'), SV D12 W13
 
 - **_Unpredictable:_** May ignore other creatures, only to attack moments later.
 
-### Shrew, Giant
+### <a name="shrew_giant"></a>Shrew, Giant
 
 _Brown-furred, mole-like, insectivores with long snouts. Dwell underground; skilled burrowers._
 
@@ -1774,7 +1774,7 @@ AC 4, HD 1 (4hp), Att 2 &times; bite (1d6), THAC0 19, MV 180' (60'), SV D12 W13 
 - **_Territorial:_** Ferociously defend their hunting area from all intruders.
 - **_Echolocation:_** Perceive their surroundings up to 60'. Unaffected by lack of light. If unable to hear (e.g. silence, 15' radius): AC reduced to 8, -4 penalty to attacks.
 
-### Shrieker
+### <a name="shrieker"></a>Shrieker
 
 _Giant, subterranean mushrooms that can creep around slowly._
 
@@ -1782,7 +1782,7 @@ AC 7, HD 3 (13hp), Att None, THAC0 17, MV 9' (3'), SV D12 W13 P14 B15 S16 (F1), 
 
 - **_Shriek:_** Triggered by light (up to 60' away) or movement (up to 30' away). Shriek lasts for 1d3 rounds. Each round of the shriek, there is a 50% chance of a wandering monster being attracted (will arrive in 2d6 rounds).
 
-### Skeleton
+### <a name="skeleton"></a>Skeleton
 
 _Skeletal remains of humanoids, reanimated as guardians by powerful magic-users or clerics. Often encountered in cemeteries, crypts, or other forlorn places._
 
@@ -1790,11 +1790,11 @@ AC 7, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 60' (20'
 
 - **_Undead:_** Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. _charm_, _hold_, _sleep_).
 
-### Snake
+### <a name="snake"></a>Snake
 
 _Dwell in all but the most extreme climes. Will usually only attack if cornered or surprised._
 
-#### Giant Rattler
+#### <a name="giant_rattler"></a>Giant Rattler
 
 _10' long snakes with brown and white diamond patterns on their scales, and a rattle of rasping scales on their tails._
 
@@ -1804,7 +1804,7 @@ AC 5, HD 4* (18hp), Att 2 &times; bite (1d4 + poison), THAC0 16, MV 120' (40'), 
 - **_Poison:_** Causes death in 1d6 turns (**save vs poison**).
 - **_Speed:_** Attack twice per round. Second attack at the end of each round.
 
-#### Pit Viper
+#### <a name="pit_viper"></a>Pit Viper
 
 _5' long snakes with grey/green scales._
 
@@ -1814,7 +1814,7 @@ AC 6, HD 2* (9hp), Att 1 &times; bite (1d4 + poison), THAC0 18, MV 90' (30'), SV
 - **_Initiative:_** Always gains initiative (no roll), due to special senses.
 - **_Poison:_** Causes death (**save vs poison**).
 
-#### Rock Python
+#### <a name="rock_python"></a>Rock Python
 
 _20' long snakes with spiralling brown and yellow patterns on their scales._
 
@@ -1822,7 +1822,7 @@ AC 6, HD 5* (22hp), Att 1 &times; bite (1d4 + constriction), THAC0 15, MV 90' (3
 
 - **_Constriction:_** When a bite attackis successful, the python wraps around the victim and begins to squeeze, inflicting 2d4 automatic damage immediately and on each subsequent round.
 
-#### Sea Snake
+#### <a name="sea_snake"></a>Sea Snake
 
 _6' long snakes that live underwater, coming up for breath only once per hour. Will prey on humans._
 
@@ -1834,7 +1834,7 @@ AC 6, HD 3* (13hp), Att 1 &times; bite (1hp + poison), THAC0 17, MV 90' (30'), S
 
 >Author's note: The original rules do not specify the effects of sea snakes' poison. It is assumed to cause death shortly after the indicated delay.
 
-#### Spitting Cobra
+#### <a name="spitting_cobra"></a>Spitting Cobra
 
 _3' long snakes with grey/white scales. Prefer to attack from a distance with their spit._
 
@@ -1843,7 +1843,7 @@ AC 7, HD 1* (4hp), Att 1 &times; spit (blindness) or 1 &times; bite (1d3 + poiso
 - **_Blinding spit:_** Range: 6'. A hit causes permanent blindness (**save vs poison**).
 - **_Poison:_** Causes death in 1d10 turns (**save vs poison**).
 
-### Spectre
+### <a name="spectre"></a>Spectre
 
 _Incorporeal phantoms; one of the most powerful undead monsters._
 
@@ -1853,9 +1853,9 @@ AC 2, HD 6** (27hp), Att 1 &times; touch (1d8 + energy drain), THAC0 14, MV 150'
 - **_Mundane damage immunity:_** Can only be harmed by magical attacks.
 - **_Energy drain:_** A successfully hit target permanently loses two experience levels (or Hit Dice). This incurs a loss of two Hit Dice of hit points, as well as all other benefits due to the drained levels (e.g. spells, saving throws, etc.). A character's XP is reduced to the lowest amount for the new level. A person drained of all levels becomes a spectre next night, under the control of the spectre that killed him or her.
 
-### Spider, Giant
+### <a name="spider_giant"></a>Spider, Giant
 
-#### Black Widow
+#### <a name="black_widow"></a>Black Widow
 
 _6' long, black spiders with a red hourglass pattern on their abdomens. Dwell in web-filled lairs and sometimes prey on humans._
 
@@ -1864,7 +1864,7 @@ AC 6, HD 3* (13hp), Att 1 &times; bite (2d6 + poison), THAC0 17, MV 60' (20') / 
 - **_Poison:_** Causes death in 1 turn (**save vs poison**).
 - **_Webs:_** Creatures caught in webs become entangled and unable to move. Breaking free depends on Strength: 2d4 turns for strength in the normal human range; 4 rounds for strength above 18; 2 rounds for creatures with giant strength. The webs can be destroyed by fire in two rounds. All creatures in a flaming web suffer 1d6 points of damage.
 
-#### Crab Spider
+#### <a name="crab_spider"></a>Crab Spider
 
 _5' long hunting spiders that can change their colour to match their surroundings._
 
@@ -1875,7 +1875,7 @@ AC 7, HD 2* (9hp), Att 1 &times; bite (1d8 + poison), THAC0 18, MV 120' (40'), S
 - **_Cling:_** Can walk on walls and ceilings.
 - **_Poison:_** Causes death in 1d4 turns (**save vs poison with a +2 bonus**).
 
-#### Tarantella
+#### <a name="tarantella"></a>Tarantella
 
 _7' long, hairy hunting spiders that resemble tarantulas. Magical in nature._
 
@@ -1885,7 +1885,7 @@ AC 5, HD 4* (18hp), Att 1 &times; bite (1d8 + poison), THAC0 16, MV 120' (40'), 
 - **_Onlookers:_** Viewers of one affected by the poison must **save vs spells** or begin dancing in the same fashion, for as long as the poisoned victim.
 - **_Dancing:_** Those affected suffer a -4 penalty to attack rolls and AC. After 5 turns of dancing, they become exhausted: fall to the ground, helpless.
 
-### Sprite
+### <a name="sprite"></a>Sprite
 
 _1' tall, winged humanoids, related to pixies and elves. They are shy, but driven by curiosity and their odd sense of humour._
 
@@ -1894,7 +1894,7 @@ AC 5, HD 1/2* (2hp), Att 1 &times; spell (curse), THAC0 19, MV 60' (20') / 180' 
 - **_Curse:_** Five sprites can collectively curse a target (no attack roll; **save vs spells**). The effect is determined by the referee, but will always be used to comical effect (e.g. target trips, target's nose grows).
 - **_Pranksters:_** Even if attacked, sprites have no interest in killing, merely in making practical jokes.
 
-### Squid, Giant
+### <a name="squid_giant"></a>Squid, Giant
 
 _Giant, ten-armed cephalopods. Two of the ten arms are larger, and may be used to attack ships. Dwell in the depths of the sea, only surface to find prey._
 
@@ -1907,7 +1907,7 @@ AC 7, HD 6 (27hp), Att 8 &times; small tentacle (1d4 + constriction), 2 &times; 
 - **_Ink cloud:_** When escaping, can emit a cloud of black ink (60' diameter) and jet away at 3 times normal speed. Maximum twice a day.
 - **_Gargantuan specimens:_** Two or three times larger can be encountered.
 
-### Stegosaurus
+### <a name="stegosaurus"></a>Stegosaurus
 
 _Stocky, herbivorous dinosaurs with a ridge of plates along their backs, and a tail studded with spikes (used to deter attackers). Dwell in sub-tropical Lost World environments._
 
@@ -1915,7 +1915,7 @@ AC 3, HD 11 (49hp), Att 1 &times; tail (2d8) or 1 &times; trample (2d8), THAC0 1
 
 - **_Trample:_** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 
-### Stirge
+### <a name="stirge"></a>Stirge
 
 _Feathered, bird-like creatures with long, sharp beaks._
 
@@ -1925,7 +1925,7 @@ AC 7, HD 1* (4hp), Att 1 &times; beak (1d3 + blood sucking), THAC0 19, MV 30' (1
 - **_Blood sucking:_** Upon a successful attack, attaches to the victim and drains its blood: 1d3 automatic damage per round.
 - **_Detaching:_** If stirge or victim dies.
 
-### Thoul
+### <a name="thoul"></a>Thoul
 
 _Magical monstrosities that look like hobgoblins (except on close inspection), but combine the powers of ghouls and trolls. Sometimes live among hobgoblins._
 
@@ -1934,7 +1934,7 @@ AC 6, HD 3** (13hp), Att 2 &times; claw (1d3 + paralysis) or 1 &times; weapon (1
 - **_Paralysis:_** Successful attacks cause paralysis for 2d4 turns (**save vs paralysis** negates). Elves and creatures larger than ogres are unaffected. After paralysing a target, thouls will attack others.
 - **_Regeneration:_** A damaged thoul gains 1 hit point at the start of each round, as long as it is alive.
 
-### Titanothere
+### <a name="titanothere"></a>Titanothere
 
 _Giant (12' at the shoulder), ancient relatives of the rhinoceros, with massive, blunt horns. Eat grass and tree leaves. Dwell in small herds in Lost World grasslands._
 
@@ -1943,7 +1943,7 @@ AC 5, HD 12 (54hp), Att 1 &times; butt (2d6) or 1 &times; trample (3d8), THAC0 1
 - **_Peaceful grazers:_** Will not attack if left alone.
 - **_Trample:_** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 
-### Toad, Giant
+### <a name="toad_giant"></a>Toad, Giant
 
 _Warty amphibians with long, sticky tongues. As large as a great hound, weighing 150 to 250 pounds._
 
@@ -1953,7 +1953,7 @@ AC 7, HD 2+2 (11hp), Att 1 &times; bite (1d4+1), THAC0 17, MV 90' (30'), SV D12 
 - **_Sticky tongue:_** Attack up to 15' away. On a hit, prey (up to dwarf size) is dragged to the mouth and bitten.
 - **_Swallow whole:_** An attack roll of 20 indicates a small victim is swallowed. Inside the toad's belly: suffer 1d6 damage per round (until the toad dies); may attack with sharp weapons at -4 to hit; body digested in 6 turns after death.
 
-### Trader
+### <a name="trader"></a>Trader
 
 _1st level fighters who live by trading in borderland areas._
 
@@ -1962,7 +1962,7 @@ AC 6, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120' (40
 - **_Arms:_** Usually carry: hand-axe, sword, shield, furs (equivalent to leather armour).
 - **_Mules:_** In the wilderness, have 1d4 mules loaded with trade goods (e.g. carved wooden items, furs, spices).
 
-### Treant
+### <a name="treant"></a>Treant
 
 _Giant (18' tall) humanoids that look like trees. Dwell in forests. Are concerned only with protecting the plants of their home. Speak their own long-winded and circuitous language._
 
@@ -1972,7 +1972,7 @@ AC 2, HD 8 (36hp), Att 2 &times; fist (2d6), THAC0 12, MV 60' (20'), SV D8 W9 P1
 - **_Surprise:_** On a 1-3, in a forest, due to being mistaken for a tree. Encounter occurs at 30 yards or less.
 - **_Animate trees:_** Each individual can animate 2 trees (within 60'; may switch trees at will). These fight as treants with movement rate 30' (10').
 
-### Triceratops
+### <a name="triceratops"></a>Triceratops
 
 _Massive (12' to the shoulder, almost 40' long), aggressive, herbivorous dinosaurs with a protective crest behind the head, and three long horns. Dwell in Lost World grasslands._
 
@@ -1982,7 +1982,7 @@ AC 2, HD 11 (49hp), Att 1 &times; gore (3d6) or 1 &times; trample (3d6), THAC0 1
 - **_Charge:_** In first round of combat, when not in melee. Requires a clear run of at least 20 yards. Horns inflict double damage.
 - **_Trample:_** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 
-### Troglodyte
+### <a name="troglodyte"></a>Troglodyte
 
 _Intelligent, reptilian humanoids with agile hands, long legs, short tails, and spiky combs on their heads and arms._
 
@@ -1992,7 +1992,7 @@ AC 5, HD 2* (9hp), Att 2 &times; claw (1d4), 1 &times; bite (1d4), THAC0 18, MV 
 - **_Surprise:_** On a 1-4, due to the ability to change colour to match their surroundings. Lurk by rock walls and await victims.
 - **_Nauseating stench:_** Oils on the skin have a smell that sickens humans and demihumans: **save vs poison** or suffer -2 to hit, while in melee with troglodytes.
 
-### Troll
+### <a name="troll"></a>Troll
 
 _Intelligent, wicked, 8' tall humanoids with emaciated, rubbery bodies. Consume the flesh of other humanoids. Dwell underground, in barren wilderness, and in the ruined homes of former victims._
 
@@ -2004,7 +2004,7 @@ B13 S14 (F6), ML 10 (8 fear of fire), AL Chaotic, XP 650, NA 1d8 (1d8), TT D
 - **_Fire and acid:_** Cannot regenerate damage from these sources. The only way to permanently kill a troll.
 - **_Fear of fire:_** Morale 8 when attacked with fire or acid.
 
-### Tyrannosaurus Rex
+### <a name="tyrannosaurus_rex"></a>Tyrannosaurus Rex
 
 _Great (over 20' tall), two-legged, predatory dinosaurs with huge jaws. Hunt human-sized or larger prey. Dwell in Lost World regions._
 
@@ -2012,7 +2012,7 @@ AC 3, HD 20 (90hp), Att 1 &times; bite (6d6), THAC0 6, MV 120' (40'), SV D6 W7 P
 
 - **_Large prey:_** Attack largest target first.
 
-### Unicorn
+### <a name="unicorn"></a>Unicorn
 
 _Fantastic creatures that appear as elegant horses with a long horn. Unicorns are timid, but proud and wilful._
 
@@ -2021,7 +2021,7 @@ AC 2, HD 4* (18hp), Att 2 &times; hoof (1d8), 1 &times; horn (1d8), THAC0 16, MV
 - **_Empathy with maidens:_** A pure-hearted maiden can communicate with and ride a unicorn.
 - **_Teleport:_** Once per day, up to 360' (including rider).
 
-### Vampire
+### <a name="vampire"></a>Vampire
 
 _Greatly feared undead monsters that live by drinking the blood of mortals. Dwell in ruins, tombs, and deserted locales._
 
@@ -2052,7 +2052,7 @@ AC 2, HD 7 to 9** (31/36/40hp) Att 1 &times; touch (1d10 + energy drain) or 1 &t
     -  **_Immersion in water:_** For 1 turn permanently kills.
     -  **_Destroying coffins:_** Permanently killed if all hit points lost when unable to rest (see coffins).
 
-### Veteran
+### <a name="veteran"></a>Veteran
 
 _Low level fighters, often on their way to or from war._
 
@@ -2060,7 +2060,7 @@ AC 2, HD 1 to 3 (4/9/13hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 19, M
 
 - **_Level and alignment:_** A group may all be of the same level and alignment, or these may be determined randomly, per individual.
 
-### Warp Beast
+### <a name="warp_beast"></a>Warp Beast
 
 _Large, black, six-legged, semi-intelligent monsters. Look similar to panthers with a tentacle growing from each front shoulder. Tentacles ridged with razor-sharp edges._
 
@@ -2070,7 +2070,7 @@ AC 4, HD 6* (18hp), Att 2 &times; tentacle (2d4), THAC0 14, MV 150' (50'), SV D1
 - **_Save bonus:_** +2 to all saves.
 - **_Hate blink dogs:_** Always attack them and their companions.
 
-### Water Termite
+### <a name="water_termite"></a>Water Termite
 
 _Giant (1'-5' long), wood-eating, aquatic insects with a sack to take in and jet out water. Prone to feeding on passing ships. Only attack creatures if cornered._
 
@@ -2079,19 +2079,19 @@ _Giant (1'-5' long), wood-eating, aquatic insects with a sack to take in and jet
 - **_Eat ships:_** Cling to bottom of vessel. Each individual inflicts 1d3 hull damage then drops off.
 - **_Noticing ship damage:_** 50% chance per round of spotting leaks.
 
-#### Freshwater Termite
+#### <a name="freshwater_termite"></a>Freshwater Termite
 
 AC 6, HD 2+1 (10hp), Att 1 &times; bite (1d4) or 1 &times; spray (stun), THAC0 17, MV 120' (40'), SV D12 W13 P14 B15 S16 (F2), ML 8, AL Neutral, XP 25, NA 0 (1d3), TT None
 
-#### Saltwater Termite
+#### <a name="saltwater_termite"></a>Saltwater Termite
 
 AC 5, HD 4 (18hp), Att 1 &times; bite (1d6) or 1 &times; spray (stun), THAC0 16, MV 180' (60'), SV D12 W13 P14 B15 S16 (F3), ML 11, AL Neutral, XP 75, NA 0 (1d6+1), TT None
 
-#### Swamp Termite
+#### <a name="swamp_termite"></a>Swamp Termite
 
 AC 4, HD 1+1 (5hp), Att 1 &times; bite (1d3) or 1 &times; spray (stun), THAC0 18, MV 90' (30'), SV D12 W13 P14 B15 S16 (F1), ML 10, AL Neutral, XP 15, NA 0 (1d4), TT None
 
-### Weasel, Giant
+### <a name="weasel_giant"></a>Weasel, Giant
 
 _8' to 9' long, vicious, predatory mammals with rich fur of brown, gold, or white. Dwell in subterranean tunnels, hunting alone or in small groups._
 
@@ -2103,9 +2103,9 @@ AC 7, HD 4+4 (22hp), Att 1 &times; bite (2d4 + blood sucking), THAC0 15, MV 150'
 - **_Tracking:_** By scent, favouring wounded prey.
 - **_Treasure:_** Found in lair on bodies of victims.
 
-### Whale
+### <a name="whale"></a>Whale
 
-#### Killer Whale
+#### <a name="killer_whale"></a>Killer Whale
 
 _25' long, carnivorous whales. Dwell in cold waters and hunt sea creatures (including other whales)._
 
@@ -2113,7 +2113,7 @@ AC 6, HD 6 (27hp), Att 1 &times; bite (1d20), THAC0 14, MV 240' (80'), SV D12 W1
 
 - **_Swallow whole:_** An attack roll of 20 indicates a halfling-sized (or smaller) victim is swallowed. Inside the whale's belly: suffer 1d6 damage per round (until the whale dies); may attack with sharp weapons at -4 to hit; drown after 10 rounds; body digested in 6 turns after death.
 
-#### Narwhal
+#### <a name="narwhal"></a>Narwhal
 
 _15' long, intelligent, magical whales with grey to white skin and an 8' long, spiralling horn on their nose. Live independent and secretive lives in arctic waters._
 
@@ -2121,7 +2121,7 @@ AC 7, HD 12 (54hp), Att 1 &times; bite (1d8), 1 &times; horn (2d6), THAC0 10, MV
 
 - **_Horn:_** Is worth 1d6 &times; 1,000gp. Rumours say a narwhal's horn vibrates when evil is near.
 
-#### Sperm Whale
+#### <a name="sperm_whale"></a>Sperm Whale
 
 _Gargantuan whales up to 60' long. Dwell in open oceans and hunt deep sea monsters (e.g. giant squids)._
 
@@ -2130,7 +2130,7 @@ AC 6, HD 36 (162hp), Att 1 &times; bite (3d20) or 1 &times; ram (6d6 hull damage
 - **_Swallow whole:_** An attack roll of 4 or more than the target number required indicates a human-sized (or smaller) victim is swallowed. Inside the whale's belly: suffer 3d6 damage per round (until the whale dies); may attack with sharp weapons at -4 to hit; body digested in 6 turns after death.
 - **_Ram ships:_** 10% likely to attack vessels.
 
-### Wight
+### <a name="wight"></a>Wight
 
 _Corpses of humans or demihumans, possessed by malevolent spirits._
 
@@ -2140,11 +2140,11 @@ AC 5, HD 3* (13hp), Att 1 &times; touch (energy drain), THAC0 17, MV 90' (30'), 
 - **_Mundane weapon immunity:_** Only harmed by silver weapons or magic.
 - **_Energy drain:_** A successfully hit target permanently loses one experience level (or Hit Die). This incurs a loss of one Hit Die of hit points, as well as all other benefits due to the drained level (e.g. spells, saving throws, etc.). A character's XP is reduced to halfway between the former and new levels. A person drained of all levels becomes a wight in 1d4 days, under the control of the wight that killed him or her.
 
-### Wolf
+### <a name="wolf"></a>Wolf
 
 _Carnivorous relatives of dogs that hunt in packs._
 
-#### Dire Wolf
+#### <a name="dire_wolf"></a>Dire Wolf
 
 _Large, savage, semi-intelligent wolves. Dwell in caves, mountains, and forests._
 
@@ -2153,7 +2153,7 @@ AC 6, HD 4+1 (19hp), Att 1 &times; bite (2d4), THAC0 15, MV 150' (50'), SV D12 W
 - **_Training:_** At the referee's discretion, captured cubs may be trained like dogs. Dire wolves are ferocious and extremely difficult to train.
 - **_Mounts:_** Sometimes trained as mounts by goblins.
 
-#### Normal Wolf
+#### <a name="normal_wolf"></a>Normal Wolf
 
 _Dwell primarily in wild lands, but occasionally lair in caves._
 
@@ -2162,7 +2162,7 @@ AC 7, HD 2+2 (11hp), Att 1 &times; bite (1d6), THAC0 17, MV 180' (60'), SV D12 W
 - **_Training:_** At the referee's discretion, captured cubs may be trained like dogs. Wolves are difficult to train.
 - **_Strength in numbers:_** Packs of 4 or more wolves have morale 8. If the pack is reduced to less than 50% of its original size, this morale bonus is lost.
 
-### Wraith
+### <a name="wraith"></a>Wraith
 
 _Incorporeal, undead monsters that appear as pale, human-like forms of coalescing mist. Dwell in deserted regions or in the homes of former victims._
 
@@ -2173,7 +2173,7 @@ AC 3, HD 4** (18hp), Att 1 &times; touch (1d6 + energy drain), THAC0 16, MV 120'
 - **_Damage reduction:_** Half damage from silver weapons.
 - **_Energy drain:_** A successfully hit target permanently loses one experience level (or Hit Die). This incurs a loss of one Hit Die of hit points, as well as all other benefits due to the drained level (e.g. spells, saving throws, etc.). A character's XP is reduced to the lowest amount for the new level. A person drained of all levels becomes a wraith in one day, under the control of the wraith that killed him or her.
 
-### Wyvern
+### <a name="wyvern"></a>Wyvern
 
 _Winged, two-legged, dragon-like monsters with a long tail tipped with a venomous stinger. Dwell in any terrain, but favour cliffs and forests._
 
@@ -2181,7 +2181,7 @@ AC 3, HD 7* (31hp), Att 1 &times; bite (2d8), 1 &times; sting (1d6 + poison), TH
 
 - **_Poison:_** Causes death (**save vs poison**).
 
-### Yellow Mould
+### <a name="yellow_mould"></a>Yellow Mould
 
 _Deadly fungus that covers walls, ceilings, and other surfaces._
 
@@ -2193,7 +2193,7 @@ AC No hit roll required, HD 2 (9hp), Att 1 &times; spores (1d6 + choking), THAC0
 - **_Choking:_** **Save vs death** or die within 6 rounds.
 - **_Erosion:_** Wood or leather in contact with the mould will be eaten away.
 
-### Zombie
+### <a name="zombie"></a>Zombie
 
 _Listless, humanoid corpses, reanimated as guardians by powerful clerics or wizards._
 
