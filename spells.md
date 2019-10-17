@@ -2,7 +2,7 @@
 
 v1.0.0
 
-This is the plain text version of **_B/X Essentials: Cleric and Magic-User Spells_**, provided as an aid to others who wish to create their own house rules documents or retro-clones (please read the [Open Game License](LICENSE) carefully!).
+This is the plain text version of **_B/X Essentials(tm): Cleric and Magic-User Spells_**, provided as an aid to others who wish to create their own house rules documents or retro-clones (please read the [Open Game License](LICENSE) carefully!).
 
 Copyright (c) 2017 by Gavin Norman. _B/X Essentials_ is a trademark of Gavin Norman.
 

@@ -24,12 +24,6 @@ This product is released under the terms of the Open Game License Version 1.0a, 
 
 7. [**Magic**](#magic) Rules relating to spells and spell casting, spell books, magical research, and magic items.
 
-Aside from the inclusion of combat charts for the standard classes (which are required for monsters, as well), no reference is made to any specific character classes. Likewise, aside from the (optional) encumbrance rules, no specific equipment lists are assumed. This information may be found in the companion volume--[**_B/X Essentials: Classes and Equipment_**](class.md)--or in any number of other books inspired by this rule set.
-
-It is my hope that this book will play some small part in the furtherance of this timeless and beloved game and prove useful as a reference for those already familiar with its charms.
-
-Gavin Norman, Summer 2017, Berlin.
-
 ## <a name="ability_scores"></a>Ability Scores
 
 ### <a name="standard_adjustments"></a>Standard Adjustments
