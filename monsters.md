@@ -456,7 +456,7 @@ AC 5, HD 7+1 (32hp), Att 1 &times; fists (2d8), magic, THAC0 12, MV 90' (30') / 
 - **_Carrying capacity:_** 6,000 coins without fatigue. Up to 12,000 coins for 3 turns walking / 1 turn flying. Must rest 1 turn afterwards.
 - **_If killed:_** Returns to the plane of air.
 
-### <a name="doppelganger"></a>Doppelg&auml;nger
+### <a name="doppelganger"></a>Doppelgänger
 
 _Intelligent, human-sized shape-shifters of wicked character and highly magical nature._
 

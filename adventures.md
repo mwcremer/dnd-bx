@@ -2015,7 +2015,7 @@ Conjures a cone of magical energy that terrifies those within it.
 - The cone is 60' long and 30' wide at the far end.
 - Creatures in the cone are struck with terror, and will flee from the wielder of the wand at maximum speed for 30 rounds. (A **save vs wands** negates the effect).
 
-## <a name="wand_of_fire_balls"></a>Wand of Fire Balls
+#### <a name="wand_of_fire_balls"></a>Wand of Fire Balls
 Conjures fire balls:
 
 - A streak of flame shoots towards an area up to 240' distant and detonates in a 40' diameter sphere of fire.

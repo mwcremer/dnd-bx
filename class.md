@@ -722,7 +722,7 @@ All intelligent beings know a secret, unwritten language of gestures, signs, and
 All PCs know the common tongue and their alignment language. Some classes grant further languages, as noted in the class descriptions, and characters with high Intelligence receive additional languages, chosen at the referee's discretion. The following list of languages may be used:
 
 1. Bugbear
-2. Doppelgaenger
+2. Doppelgänger
 3. Dragon
 4. Dwarvish
 5. Elvish
@@ -1057,7 +1057,7 @@ _(Full descriptions and stats for animals are found in [**B/X Essentials: Monste
 
 The vessels described in this section span various historical periods from ancient galleys to medieval sailing ships. Vessels are propelled by rowing or sailing, with some able to use either means. The necessary crew and the resulting speeds are given on the following pages. The pay rates for crew are given in [**_Specialists_**](#specialists).
 
-#### <a name="seaworthiness"></a>Seaworthiness
+### <a name="seaworthiness"></a>Seaworthiness
 
 Water vessels are divided into two broad categories: those which are suitable for use on the high seas and those which are restricted to rivers, lakes, or coastal waters.
 
@@ -1065,7 +1065,7 @@ Water vessels are divided into two broad categories: those which are suitable fo
 
 A ship's _beam_ is its width and its _draft_ is the depth it extends beneath the water.
 
-### <a name="seaworthy_vessels"></a>Seaworthy Vessels
+#### <a name="seaworthy_vessels"></a>Seaworthy Vessels
 
 Vessel | Cost (gp) | Maximum Cargo (Coins) | Usage | Length | Beam | Draft
 ---------|-------|--------|-----|-----|-------|------
@@ -1078,7 +1078,7 @@ Troop transport (small) | 6,600 | 100,000 | Coastal waters, open seas | 60'-80' 
 Warship (large) | 26,600 | 300,000 | Coastal waters, open seas | 100'-150' | 25'-30' | 10'-12'
 Warship (small) | 6,600 | 100,000 | Coastal waters, open seas | 60'-80' | 20'-30' | 5'-8'
 
-### <a name="unseaworthy_vessels"></a>Unseaworthy Vessels
+#### <a name="unseaworthy_vessels"></a>Unseaworthy Vessels
 
 Vessel | Cost (gp) | Maximum Cargo (Coins) | Usage | Length | Beam | Draft
 ---------|-------|--------|-----|-----|-------|------
