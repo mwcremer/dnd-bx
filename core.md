@@ -444,7 +444,7 @@ All characters that make it through an adventure alive receive experience points
 
 Characters gain XP from treasure at the rate of 1 XP per 1 gold piece (gp) value of the item. The values of all items are added together and converted to gold piece units. Only treasure of a non-magical nature grants XP in this way.
 
-#### <a name="defeated_monsters">Defeated Monsters
+#### <a name="defeated_monsters"></a>Defeated Monsters
 
 All monsters defeated by the party (slain, outsmarted, captured, scared away, etc.) grant XP based on how powerful they are. The XP value of a monster is determined by its Hit Dice plus a bonus for each special ability it has (e.g. breath attacks, spell-like abilities, etc.). See the chart below. A monster defeated under especially dangerous circumstances may be treated as one Hit Dice category higher on the chart.
 
