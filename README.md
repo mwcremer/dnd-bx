@@ -1,8 +1,17 @@
 # dnd-bx
 
-Markdown/HTML Versions of Gavin Norman's "B/X Essentials"
+Markdown/HTML Versions of Gavin Norman's _B/X Essentials&trade;_
 
-The original "plain text" RTF files are available for free from DriveThruRPG.com: https://www.drivethrurpg.com/browse/pub/5606/Necrotic-Gnome/subcategory/26251_28663/B-X-Essentials
+_B/X Essentials_ is a trademark of Gavin Norman.  
+_B/X Essentials&trade;: Adventures and Treasures_ Copyright &copy; 2018 by Gavin Norman.  
+_B/X Essentials&trade;: Classes and Equipment_ Copyright &copy; 2017 by Gavin Norman.  
+_B/X Essentials&trade;: Cleric and Magic-User Spells_ Copyright &copy; 2017 by Gavin Norman.  
+_B/X Essentials&trade;: Core Rules_ Copyright &copy; 2017 by Gavin Norman.  
+_B/X Essentials&trade;: Monsters_ Copyright &copy; 2017 by Gavin Norman.
+
+The original "plain text" RTF files are archived in the [originals](originals) directory.
+
+The _Old-School Essentials: Basic Rules_ preview containing only player-facing rules is available for free from [Necrotic Gnome](https://necroticgnome.com/collections/free-downloads/products/old-school-essentials-basic-rules) and [DriveThruRPG](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules)
 
 From Gavin:
 
@@ -22,4 +31,4 @@ From Gavin:
 >
 >During the research and writing of this book, I noticed (indeed, for the first time!) that there are ambiguities, omissions, and even contradictions in several areas of the original Expert rules. The rules for water vessels and stronghold construction are especially bad, in this regard. As one of the aims of the B/X Essentials line is the presentation of a clarified rule set, I did not feel comfortable simply presenting these ambiguous and contradictory rules “as-is”. The rules you will find in this book thus contain my own slight reworkings, in an attempt to resolve the problems present in the original books. While I have made a great effort to update these rules in a sensible and consistent way, cleaving as closely as possible to the original rules, other interpretations and untanglings of the original rules are certainly possible.
 
-Gavin published [_Author's Notes on the Rules_](https://necroticgnome.com/collections/free-downloads/products/rules-archaeology)
+Gavin also published [_Author's Notes on the Rules_](https://necroticgnome.com/collections/free-downloads/products/rules-archaeology)
