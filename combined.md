@@ -12,7 +12,9 @@ Copyright (c) 2017-18 by Gavin Norman. _B/X Essentials_ is a trademark of Gavin 
 
 This product is released under the terms of the [Open Game License](LICENSE) Version 1.0a, Copyright (c) 2000, Wizards of the Coast, Inc. Based on the OGC text of _Labyrinth Lord_ by Dan Proctor and _Lamentations of the Flame Princess_ by James Raggi. Many thanks to both.
 
-The original "plain text" RTF files are available for free from DriveThruRPG.com: https://www.drivethrurpg.com/browse/pub/5606/Necrotic-Gnome/subcategory/26251_28663/B-X-Essentials, provided as an aid to others who wish to create their own house rules documents or retro-clones.
+The original "plain text" RTF files are archived in the [originals](originals) directory.
+
+The _Old-School Essentials: Basic Rules_ preview containing only player-facing rules is available for free from [Necrotic Gnome](https://necroticgnome.com/collections/free-downloads/products/old-school-essentials-basic-rules) and [DriveThruRPG](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules)
 
 # Introduction
 
