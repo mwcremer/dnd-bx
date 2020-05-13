@@ -417,7 +417,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 ----|----|----|----|----|---
 1-5 | 13 | 14 | 13 | 16 | 15
 6-10 | 11 | 12 | 11 | 14 | 12
-11-15 | 8 | 9 | 8 | 11 | 8
+11-14 | 8 | 9 | 8 | 11 | 8
 
 #### <a name="magic_user_spell_casting"></a> Magic-User Spell Casting
 
