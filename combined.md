@@ -34,6 +34,8 @@ From Gavin:
 >
 >During the research and writing of this book, I noticed (indeed, for the first time!) that there are ambiguities, omissions, and even contradictions in several areas of the original Expert rules. The rules for water vessels and stronghold construction are especially bad, in this regard. As one of the aims of the B/X Essentials line is the presentation of a clarified rule set, I did not feel comfortable simply presenting these ambiguous and contradictory rules "as-is". The rules you will find in this book thus contain my own slight reworkings, in an attempt to resolve the problems present in the original books. While I have made a great effort to update these rules in a sensible and consistent way, cleaving as closely as possible to the original rules, other interpretations and untanglings of the original rules are certainly possible.
 
+This version was created by converting the RTF files to Markdown then combining them into a single document. I have taken the liberty of rearranging the sections to match the presentation found in the _Rules Cyclopedia_ and _The Classic Dungeons & Dragons Game_.
+
 # Creating a Character
 
 ## <a name="character_creation"></a> Character Creation Checklist
@@ -68,13 +70,13 @@ Ability | Standard Modifier
 16-17 | +2
 18 | +3
 
-#### <a name="str"></a> Strength
+### <a name="str"></a> Strength
 
 Strength (STR) rates a character's brawn, muscle, and physical power. This ability is especially important for characters who focus on melee combat.
 
-- The [***standard modifier***](#ability_score_modifiers) is applied to attack and damage rolls with melee weapons and to attempts to force open a stuck [door](#doors).
+- The [***Standard Modifier***](#ability_score_modifiers) is applied to attack and damage rolls with melee weapons and to attempts to force open a stuck [door](#doors).
 
-#### <a name="int"></a> Intelligence
+### <a name="int"></a> Intelligence
 
 Intelligence (INT) determines how well a character learns, remembers, and reasons.
 
@@ -91,17 +93,17 @@ INT | Language Ability | Bonus Languages
 16-17 | Can read and write native languages | 2
 18 | Can read and write native languages | 3
 
-#### <a name="wis"></a> Wisdom
+### <a name="wis"></a> Wisdom
 
 Wisdom (WIS) encompasses a character's willpower, common sense, perception, and intuition. While Intelligence represents one's ability to analyse information, Wisdom represents being in tune with and aware of one's surroundings.
 
-- [***standard modifier***](#ability_score_modifiers) is applied to saving throws versus magical effects. This normally does not include saves against breath attacks, but may apply to any other saving throw category.
+- The [***Standard Modifier***](#ability_score_modifiers) is applied to saving throws versus magical effects. This normally does not include saves against breath attacks, but may apply to any other saving throw category.
 
-#### <a name="dex"></a> Dexterity
+### <a name="dex"></a> Dexterity
 
 Dexterity (DEX) measures hand-eye coordination, agility, reflexes, and balance. This ability is important for combat-oriented classes, as it affects Armour Class, and for characters who focus on missile combat.
 
-- [***standard modifier***](#ability_score_modifiers) is applied to attack rolls (but not damage rolls) made with a ranged weapon and modifies the character's Armour Class (a bonus lowers AC, a penalty raises it).
+- The [***Standard Modifier***](#ability_score_modifiers) is applied to attack rolls (but not damage rolls) made with a ranged weapon and modifies the character's Armour Class (a bonus lowers AC, a penalty raises it).
 - ***Initiative Adjustment*** modifies the character's initiative roll, if the optional rule for individual initiative is being used (see [***Basic Combat Procedure***](#basic_combat_procedure)).
 
 DEX | Initiative Adjustment
@@ -114,13 +116,13 @@ DEX | Initiative Adjustment
 16-17 | +1
 18 | +2
 
-#### <a name="con"></a> Constitution
+### <a name="con"></a> Constitution
 
 Constitution (CON) represents a character's health and stamina. A Constitution bonus increases a character's hit points, making this ability important for all classes.
 
-- [***standard modifier***](#ability_score_modifiers) applies when rolling a character's hit points (i.e. at 1st level and every time a level is gained thereafter). A character always gains at least 1 hit point per Hit Die, regardless of CON modifier.
+- The [***Standard Modifier***](#ability_score_modifiers) applies when rolling a character's hit points (i.e. at 1st level and every time a level is gained thereafter). A character always gains at least 1 hit point per Hit Die, regardless of CON modifier.
 
-#### <a name="cha"></a> Charisma
+### <a name="cha"></a> Charisma
 
 Charisma (CHA) measures a character's force of personality, persuasiveness, personal magnetism, physical attractiveness, and ability to lead. This ability is important for how NPCs or monsters will respond to a character in an encounter. Charisma also determines the number of retainers a character may have and their morale.
 
@@ -164,8 +166,6 @@ Optionally, the prime requisite(s) of your character (determined by the chosen c
 - Some classes may have extra constraints.
 
 ## <a name="character_classes"></a> Character Classes
-
-### <a name="choose_a_class"></a> Choose a Class
 
 Select one of the classes available, bearing in mind the minimum ability score requirements of some classes.
 
@@ -212,6 +212,26 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
+
+#### <a name="fighter_attack_chart"></a> Fighter Attack Chart
+
+| Level | -3 | -2 | -1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|   1-3 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
+|   4-6 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |
+|   7-9 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
+| 10-12 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |
+| 13-14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  2 |
+
+#### <a name="fighter_saving_throw_chart"></a> Fighter Saving Throw Chart
+
+Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
+----|----|----|----|----|---
+1-3 | 12 | 13 | 14 | 15 | 16
+4-6 | 10 | 11 | 12 | 13 | 14
+7-9 | 8 | 9 | 10 | 10 | 12
+10-12 | 6 | 7 | 8 | 8 | 10
+13-14 | 4 | 5 | 6 | 5 | 8
 
 ### <a name="cleric"></a> Cleric
 
@@ -278,15 +298,33 @@ Level | XP | Hit Dice | AC0 | Death | Wands | Paralysis | Breath | Spells
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
+#### <a name="cleric_attack_chart"></a> Cleric Attack Chart
+
+| Level | -3 | -2 | -1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|   1-4 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
+|   5-8 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |
+|  9-12 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
+| 13-14 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |
+
+#### <a name="cleric_saving_throw_chart"></a> Cleric Saving Throw Chart
+
+Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
+----|----|----|----|----|---
+1-4 | 11 | 12 | 14 | 16 | 15
+5-8 | 9 | 10 | 12 | 14 | 12
+9-12 | 6 | 7 | 9 | 11 | 9
+13-14 | 3 | 5 | 7 | 8 | 7
+
 #### <a name="cleric_spell_casting"></a> Cleric Spell Casting
 
 Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level
 --|---|---|---|---|--
-1 | -- | - | -- | - | --
-2 | 1 | -- | - | -- | --
-3 | 2 | -- | - | -- | --
-4 | 2 | 1 | -- | - | --
-5 | 2 | 2 | -- | - | --
+1 | -- | -- | -- | -- | --
+2 | 1 | -- | -- | -- | --
+3 | 2 | -- | -- | -- | --
+4 | 2 | 1 | -- | -- | --
+5 | 2 | 2 | -- | -- | --
 6 | 2 | 2 | 1 | 1 | --
 7 | 2 | 2 | 2 | 1 | 1
 8 | 3 | 3 | 2 | 2 | 1
@@ -301,9 +339,9 @@ Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level
 
 Level | 1 HD | 2 HD | 2 HD* | 3 HD | 4 HD | 5 HD | 6 HD | 7+ HD
 --|---|---|----|---|---|---|---|---
-1 | 7 | 9 | 11 | -- | - | -- | - | --
-2 | T | 7 | 9 | 11 | -- | - | -- | --
-3 | T | T | 7 | 9 | 11 | -- | - | --
+1 | 7 | 9 | 11 | -- | -- | -- | -- | --
+2 | T | 7 | 9 | 11 | -- | -- | -- | --
+3 | T | T | 7 | 9 | 11 | -- | -- | --
 4 | D | T | T | 7 | 9 | 11 | -- | --
 5 | D | D | T | T | 7 | 9 | 11 | --
 6 | D | D | D | T | T | 7 | 9 | 11
@@ -363,16 +401,32 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
+#### <a name="magic_user_attack_chart"></a> Magic-User Attack Chart
+
+| Level | -3 | -2 | -1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|   1-5 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
+|  6-10 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |
+| 11-14 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
+
+#### <a name="magic_user_saving_throw_chart"></a> Magic-User Saving Throw Chart
+
+Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
+----|----|----|----|----|---
+1-5 | 13 | 14 | 13 | 16 | 15
+6-10 | 11 | 12 | 11 | 14 | 12
+11-15 | 8 | 9 | 8 | 11 | 8
+
 #### <a name="magic_user_spell_casting"></a> Magic-User Spell Casting
 
 Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level | 6th Level
 --|---|---|---|---|---|---
-1 | 1 | -- | - | -- | - | --
-2 | 2 | -- | - | -- | - | --
-3 | 2 | 1 | -- | - | -- | --
-4 | 2 | 2 | -- | - | -- | --
-5 | 2 | 2 | 1 | -- | - | --
-6 | 2 | 2 | 2 | -- | - | --
+1 | 1 | -- | -- | -- | -- | --
+2 | 2 | -- | -- | -- | -- | --
+3 | 2 | 1 | -- | -- | -- | --
+4 | 2 | 2 | -- | -- | -- | --
+5 | 2 | 2 | 1 | -- | -- | --
+6 | 2 | 2 | 2 | -- | -- | --
 7 | 3 | 2 | 2 | 1 | -- | --
 8 | 3 | 3 | 2 | 2 | -- | --
 9 | 3 | 3 | 3 | 2 | 1 | --
@@ -410,7 +464,6 @@ Thieves are humans who live by their wits and skills of deception and intrigue. 
 
 - ***Climb Sheer Surfaces:*** Thieves are adept at scaling sheer surfaces, including walls or steep cliffs. A skill roll is required for each 100 feet to be climbed. If the roll fails, the thief falls a distance equal to half the attempted distance, taking 1d6 points of damage per 10 feet.
 - ***Find or Remove Traps:*** A thief may only try one time to find or remove a trap in an area. Note that these are separate skills, for a thief must find a trap before he or she can remove it!
-
 - ***Hear Noise:*** Thieves can attempt to listen for noises in a cave or hallway, at a door, or in other locations, but the thief must be quiet and in a quiet environment. Unlike the other thief abilities, this ability is rolled using 1d6.
 - ***Hide in Shadows:*** A thief will always think he or she is successful in this skill and will not know otherwise until others react to his or her presence. A thief must remain motionless when hiding.
 - ***Move Silently:*** When successful, others will not hear the movements of a thief. However, the thief always thinks he or she is moving silently and will only know otherwise by others' reaction.
@@ -442,6 +495,24 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 \* _Hit point modifiers from CON no longer apply._
 &dagger; _Modified attack roll needed to hit Armour Class 0._
+
+#### <a name="thief_attack_chart"></a> Thief Attack Chart
+
+| Level | -3 | -2 | -1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|   1-4 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
+|   5-8 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |
+|  9-12 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
+| 13-14 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |
+
+#### <a name="thief_saving_throw_chart"></a> Thief Saving Throw Chart
+
+Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
+----|----|----|----|----|---
+1-4 | 13 | 14 | 13 | 16 | 15
+5-8 | 12 | 13 | 11 | 14 | 13
+9-12 | 10 | 11 | 9 | 12 | 10
+13-14 | 8 | 9 | 7 | 10 | 8
 
 #### <a name="thief_skills"></a> Thief Skills
 
@@ -510,6 +581,24 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
+#### <a name="dwarf_attack_chart"></a> Dwarf Attack Chart
+
+| Level | -3 | -2 | -1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|   1-3 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
+|   4-6 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |
+|   7-9 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
+| 10-12 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |
+
+## <a name="dwarf_saving_throw_chart"></a> Dwarf Saving Throw Chart
+
+Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
+----|----|----|----|----|---
+1-3 | 8 | 9 | 10 | 13 | 12
+4-6 | 6 | 7 | 8 | 10 | 10
+7-9 | 4 | 5 | 6 | 7 | 8
+10-12 | 2 | 3 | 4 | 4 | 6
+
 ### <a name="elf"></a> Elf
 
 **Requirements**: Minimum INT 9  
@@ -565,14 +654,32 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
+#### <a name="elf_attack_chart"></a> Elf Attack Chart
+
+| Level | -3 | -2 | -1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|   1-3 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
+|   4-6 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |
+|   7-9 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
+|    10 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |
+
+## <a name="elf_saving_throw_chart"></a> Elf Saving Throw Chart
+
+Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
+----|----|----|----|----|---
+1-3 | 12 | 13 | 13 | 15 | 15
+4-6 | 10 | 11 | 11 | 13 | 12
+7-9 | 8 | 9 | 9 | 10 | 10
+10 | 6 | 7 | 8 | 8 | 8
+
 #### <a name="elf_spell_casting"></a> Elf Spell Casting
 
 Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level
 --|---|---|---|---|---
-1 | 1 | -- | - | -- | --
-2 | 2 | -- | - | -- | --
-3 | 2 | 1 | -- | - | --
-4 | 2 | 2 | -- | - | --
+1 | 1 | -- | -- | -- | --
+2 | 2 | -- | -- | -- | --
+3 | 2 | 1 | -- | -- | --
+4 | 2 | 2 | -- | -- | --
 5 | 2 | 2 | 1 | -- | --
 6 | 2 | 2 | 2 | -- | --
 7 | 3 | 2 | 2 | 1 | --
@@ -628,6 +735,21 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
+#### <a name="halfling_attack_chart"></a> Halfling Attack Chart
+
+| Level | -3 | -2 | -1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|   1-3 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
+|   4-6 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |
+|   7-8 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
+
+## <a name="halfling_saving_throw_chart"></a> Halfling Saving Throw Chart
+
+Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
+----|----|----|----|----|---
+1-3 | 8 | 9 | 10 | 13 | 12
+4-6 | 6 | 7 | 8 | 10 | 10
+7-8 | 4 | 5 | 6 | 7 | 8
 
 ## <a name="roll_hit_points"></a> Hit Points
 
@@ -656,6 +778,7 @@ Value in cp | 500 | 100 | 50 | 10 | 1
 ### <a name="starting_money"></a> Starting Money
 
 Player characters begin play with 3d6 &times; 10 gold pieces. You may spend as much of this money as you wish to equip your character for adventure, consulting the lists in [***Equipment***](#water_transportation).
+
 Remember that your chosen class may restrict your use of some equipment (e.g. weapons and armour).
 
 ### <a name="inheritance"></a> Inheritance
@@ -3411,15 +3534,15 @@ Type | Weapons | AC | Base Morale | Human | Dwarf | Elf | Orc | Goblin
 Archer | Shortbow | 6 | 8 | 5gp | -- | 10gp | 3gp | 2gp
 Archer, mounted | Shortbow | 9 | 9 | 15gp | -- | 30gp | -- | --
 Crossbowman | Crossbow | 5 | 8 | 4gp | 6gp | -- | 2gp | --
-Crossbowman, mounted | Crossbow | 9 | 9 | -- | 15gp | -- | - | --
+Crossbowman, mounted | Crossbow | 9 | 9 | -- | 15gp | -- | -- | --
 Footman, light | Sword | 6 | 8 | 2gp | -- | 4gp | 1gp | 5sp
 Footman, heavy | Sword | 4 | 8 | 3gp | 5gp | 6gp | 15sp | --
 Horseman, light | Lance | 7 | 9 | 10gp | -- | 20gp | -- | --
-Horseman, med. | Lance | 5 | 9 | 15gp | -- | - | -- | --
-Horseman, heavy | Lance, sword | 3 | 9 | 20gp | -- | - | -- | --
+Horseman, med. | Lance | 5 | 9 | 15gp | -- | -- | -- | --
+Horseman, heavy | Lance, sword | 3 | 9 | 20gp | -- | -- | -- | --
 Longbowman | Longbow, sword | 5 | 8 | 10gp | -- | 20gp | -- | --
-Peasant | None | 9 | 6 | 1gp | -- | - | -- | --
-Wolf rider | Spear | 7 | 9 | -- | - | -- | - | 5gp
+Peasant | None | 9 | 6 | 1gp | -- | -- | -- | --
+Wolf rider | Spear | 7 | 9 | -- | -- | -- | -- | 5gp
 
 ***Wage per Month:*** This is the rate of pay out of wartime. In wartime, all wages are doubled.  
 ***AC:*** 9 = no armour; 7 = leather; 6 = leather + shield; 5 = chainmail; 4 = chainmail + shield; 3 = plate mail.
@@ -3893,22 +4016,22 @@ Unseaworthy vessels are designed for use in rivers, lakes, or coastal waters, no
 
 Vessel | Requires Captain? | Req. Oarsmen | Row Miles/Day | Row Movement Rate | Req. Sailors | Sail Miles/Day | Sail Movement Rate
 -------------|----|---|----|------------|---|---|---
-Boat (river) | No | 8 | 36 | 180' (60') | -- | - | --
-Boat (sailing) | No | -- | - | -- | 1 | 72 | 360' (120')
-Canoe | No | 1&dagger; | 18 | 90' (60') | -- | - | --
+Boat (river) | No | 8 | 36 | 180' (60') | -- | -- | --
+Boat (sailing) | No | -- | -- | -- | 1 | 72 | 360' (120')
+Canoe | No | 1&dagger; | 18 | 90' (60') | -- | -- | --
 Galley (large) | Yes | 180 | 18 | 90' (90') | 20 | 72 | 360' (120')
 Galley (small) | Yes | 60 | 18 | 90' (90') | 10 | 90 | 450' (150')
 Galley (war) | Yes | 300 | 12 | 60' (60') | 30 | 72 | 360' (120')
-Lifeboat | No | -- | - | -- | 1&dagger; | 18 | 90' (30')
+Lifeboat | No | -- | -- | -- | 1&dagger; | 18 | 90' (30')
 Longship | Yes | 60* | 18 | 90' (90') | 75* | 90 | 450' (150')
-Raft (makeshift) | No | 1&dagger; | 12 | 60' (30') | -- | - | --
-Raft (prof.) | No | 1&dagger; | 12 | 60' (30') | -- | - | --
-Sailing ship (lg.) | Yes | -- | - | -- | 20 | 72 | 360' (120')
-Sailing ship (sm.) | Yes | -- | - | -- | 10 | 90 | 450' (150')
-Troop trans. (lg.) | Yes | -- | - | -- | 20 | 72 | 360' (120')
-Troop trans. (sm.) | Yes | -- | - | -- | 10 | 90 | 450' (150')
-Warship (large) | Yes | -- | - | -- | 20 | 72 | 360' (120')
-Warship (small) | Yes | -- | - | -- | 10 | 90 | 360' (150')
+Raft (makeshift) | No | 1&dagger; | 12 | 60' (30') | -- | -- | --
+Raft (prof.) | No | 1&dagger; | 12 | 60' (30') | -- | -- | --
+Sailing ship (lg.) | Yes | -- | -- | -- | 20 | 72 | 360' (120')
+Sailing ship (sm.) | Yes | -- | -- | -- | 10 | 90 | 450' (150')
+Troop trans. (lg.) | Yes | -- | -- | -- | 20 | 72 | 360' (120')
+Troop trans. (sm.) | Yes | -- | -- | -- | 10 | 90 | 450' (150')
+Warship (large) | Yes | -- | -- | -- | 20 | 72 | 360' (120')
+Warship (small) | Yes | -- | -- | -- | 10 | 90 | 360' (150')
 
 \* _Crew may take on the roles of oarsmen, sailors, and fighters._  
 &dagger; _Specialist crew not required. Unskilled characters (e.g. PCs) may pilot the vessel._
