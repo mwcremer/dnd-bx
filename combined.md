@@ -257,7 +257,7 @@ Clerics are humans who have sworn to serve a deity. They conduct their lives in 
 
 ***Magical Research:*** A cleric of any level may spend time and money to research new spells associated with his or her deity. When a cleric reaches 9th level, he or she is also able to create magic items and research other magical effects. These rules are detailed in [Magical Research](#magical_research).
 
-***Spell Casting:*** From 2nd level, a cleric may pray to receive spells from his or her deity. The power and number of spells available to a cleric are determined by the character's experience level. The rules for divine spell casting are found in [Casting a Spell](#cleric_spell_list).
+***Spell Casting:*** From 2nd level, a cleric may pray to receive spells from his or her deity. The power and number of spells available to a cleric are determined by the character's experience level. The rules for divine spell casting are found in [Casting a Spell](#casting_a_spell).
 
 ***Turning the Undead:*** Clerics are able to call upon the name and power of their deity to repel or even destroy undead. This ability is known as _turning the undead_. The chart below lists a dash, a "T", a "D", or a number corresponding to the Hit Dice of an undead creature and the level of the cleric:
 
@@ -371,9 +371,9 @@ Sometimes called wizards, warlocks, or witches, magic-users are humans who study
 
 ***Combat:*** Magic-users may only use daggers and are unable to use shields or wear any kind of armour. For this reason, magic-users are weak at low levels and, in an adventuring group, should be protected.
 
-***Magical Research:*** A magic-user of any level may spend time and money to research new spells to add to his or her spell book. When a magic-user reaches 9th level, he or she is also able to create magic items and research other magical effects. These rules are detailed in the [***Magic***](#magic) section.
+***Magical Research:*** A magic-user of any level may spend time and money to research new spells to add to his or her spell book. When a magic-user reaches 9th level, he or she is also able to create magic items and research other magical effects. These rules are detailed in the [***Magical Research***](#magical_research) section.
 
-***Spell Casting:*** Magic-users carry spell books that hold the written formulae for arcane spells. A magic-user can only memorize a certain number of spells at any given time. The spell casting chart (below) shows both the number of spells in the magic-user's spell book and the number he or she may memorize, determined by the character's experience level. Thus, a 1st level magic-user has one spell in his or her spell book, selected by the referee (who may allow the player to choose). The rules for arcane spell casting and spell books are described in the [***Magic***](#magic_user_spell_list).
+***Spell Casting:*** Magic-users carry spell books that hold the written formulae for arcane spells. A magic-user can only memorize a certain number of spells at any given time. The spell casting chart (below) shows both the number of spells in the magic-user's spell book and the number he or she may memorize, determined by the character's experience level. Thus, a 1st level magic-user has one spell in his or her spell book, selected by the referee (who may allow the player to choose). The rules for arcane spell casting and spell books are described in the [***Magic***](#magic) section.
 
 ***Using Magic Items:*** As spell casters, magic-users are able to use magic scrolls of spells on their spell list. There are also items (e.g. magic wands) that may only be used by magic-users or elves.
 
@@ -628,9 +628,9 @@ detect hidden and secret doors with a 2-in-6 chance (see [***Searching***](#sear
 
 ***Listening at Doors:*** Elves have a 2-in-6 chance of hearing noises (see [***Doors***](#doors)).
 
-***Magical Research:*** An elf of any level may spend time and money to research new spells to add to his or her spell book. When an elf reaches 9th level, he or she is also able to create magic items and research other magical effects. These rules are detailed in [***Magic***](#magic) section.
+***Magical Research:*** An elf of any level may spend time and money to research new spells to add to his or her spell book. When an elf reaches 9th level, he or she is also able to create magic items and research other magical effects. These rules are detailed in [***Magical Research***](#magical_research) section.
 
-***Spell Casting:*** Elves carry spell books that hold the formulae for arcane spells written on their pages. An elf can only memorize a certain number of spells at any given time. The spell casting chart (below) shows both the number of spells in the elf's spell book and the number he or she may memorize, determined by the character's experience level. Thus, a 1st level elf has one spell in his or her spell book, selected by the referee (who may allow the player to choose). The rules for arcane spell casting and spell books are described in the [***Magic***](#magic_user_spell_list) (elves have the same spell selection as magic-users).
+***Spell Casting:*** Elves carry spell books that hold the formulae for arcane spells written on their pages. An elf can only memorize a certain number of spells at any given time. The spell casting chart (below) shows both the number of spells in the elf's spell book and the number he or she may memorize, determined by the character's experience level. Thus, a 1st level elf has one spell in his or her spell book, selected by the referee (who may allow the player to choose). The rules for arcane spell casting and spell books are described in the [***Magic***](#magic) section (elves have the same spell selection as magic-users).
 
 ***Using Magic Items:*** As spell casters, elves are able to use magic scrolls of spells on their spell list. There are also items (e.g. magic wands) that may only be used by elves or magic-users.
 
@@ -779,7 +779,7 @@ Value in cp | 500 | 100 | 50 | 10 | 1
 
 ### <a name="starting_money"></a> Starting Money
 
-Player characters begin play with 3d6 &times; 10 gold pieces. You may spend as much of this money as you wish to equip your character for adventure, consulting the lists in [***Equipment***](#water_transportation).
+Player characters begin play with 3d6 &times; 10 gold pieces. You may spend as much of this money as you wish to equip your character for adventure, consulting the lists in [***Equipment***](#equipment).
 
 Remember that your chosen class may restrict your use of some equipment (e.g. weapons and armour).
 
@@ -980,7 +980,7 @@ The items detailed in this section are those most commonly available for purchas
 
 Your character's Armour Class is determined by two factors:
 
-- The armour worn (see [***Armour***](#equipment)). If your character has no armour, his or her base AC is 9.
+- The armour worn (see [***Armour***](#armour)). If your character has no armour, his or her base AC is 9.
 - Modifiers for high or low Dexterity (see [***Ability Scores***](#ability_scores)).
 
 ### <a name="note_attack_values"></a> Attack Values
@@ -1145,6 +1145,7 @@ Arcane spell casters begin play with one 1st level spell in their spell book. Th
 ### <a name="adding_spells"></a> Adding Spells
 
 When an arcane spell caster gains a level, he or she may consult a wizard's guild or mentor to learn new spells. In this way, the character can add spells to his or her spell books, so that the books contain the same number of spells the characters is able to cast. This process takes about a week of game time. (The spells a character learns in this way are determined by the referee, who may decide to let the player to choose.)
+
 It is also possible to add spells to a spell book by means of [***Magical Research***](#magical_research).
 
 ## <a name="magic_items"></a> Magic Items
@@ -2468,14 +2469,14 @@ This spell causes one or more creatures (except undead) to be paralysed if they 
 
 The caster's body enters a comatose trance as his or her life-force is transferred into a receptacle (any inanimate object within 30'), known as a _magic jar_. From there, the caster may attempt to possess the bodies of other creatures.
 
-The following stipulations apply, when the caster's life-force is **_in the magic jar_**:
+The following stipulations apply, when the caster's life-force is ***in the magic jar***:
 
 - The caster may attempt to possess the body of another creature within 120'. The victim may **save versus spells** to resist possession. If the save is successful, the caster may not make another attempt to possess that victim for one turn. If the save fails, the caster's life-force leaves the _magic jar_ and enters the victim, possessing it.
 - The caster may choose to return to his or her own body at any time, ending the spell.
 - If the _magic jar_ is destroyed, the caster dies.
 - If the caster's own body is destroyed, his or her life-force is stranded in the _magic jar_.
 
-The following stipulations apply, when the caster's life-force is **_possessing a victim_**:
+The following stipulations apply, when the caster's life-force is ***possessing a victim***:
 
 - The caster gains full control over the victim's body, but is not able to make the victim cast spells.
 - If the _magic jar_ is destroyed, the spell ends and the caster's life-force is trapped in the possessed body.
@@ -2521,15 +2522,15 @@ Scant | 01-50 | 51-75 | 76-00
 Moderate | 01-80 | 81-90 | 91-00
 Exact | 01-95 | 96-99 | 00
 
-- **_Ground level:_** The subject appears at the desired destination.
-- **_Too high:_** The subject appears 1d10×10 feet above the intended destination. Should this location already be occupied by solid matter, the subject is instantly killed. Otherwise, the subject falls (suffering 1d6 damage per 10' fallen).
-- **_Too low:_** The subject appears in the ground and is killed instantly.
+- ***Ground level:*** The subject appears at the desired destination.
+- ***Too high:*** The subject appears 1d10×10 feet above the intended destination. Should this location already be occupied by solid matter, the subject is instantly killed. Otherwise, the subject falls (suffering 1d6 damage per 10' fallen).
+- ***Too low:*** The subject appears in the ground and is killed instantly.
 
 The caster's knowledge of the destination is rated as follows:
 
-- **_Scant:_** A location that the caster has visited once or twice, has seen by magical scrying, or has heard of from descriptions.
-- **_Moderate:_** A location that the caster has visited often or has studied via scrying for several weeks.
-- **_Exact:_** A location that the caster has made a detailed study of, in person.
+- ***Scant:*** A location that the caster has visited once or twice, has seen by magical scrying, or has heard of from descriptions.
+- ***Moderate:*** A location that the caster has visited often or has studied via scrying for several weeks.
+- ***Exact:*** A location that the caster has made a detailed study of, in person.
 
 ### <a name="transmute_rock_to_mud"></a>Transmute Rock to Mud
 
@@ -2567,13 +2568,13 @@ An anti-magic barrier is created around the caster. No spells or spell effects c
 
 By concentrating (no movement allowed), the caster causes one of the following conditions to manifest around him or her. This spell only functions outdoors.
 
-- **_Calm:_** Clears bad weather (though side-effects---e.g. mud after rain---remain.)
-- **_Extreme heat:_** Dries up snow or mud (including _transmute rock to mud_). Creatures in the area move at half normal rate.
-- **_Foggy:_** Visibility drops to 20'. Creatures in the fog move at half their normal rate. At the referee's option, they may also have a chance of getting lost.
-- **_High winds:_** Movement rates are halved. Missile fire and flight are impossible. At sea, may be used to increase the sailing speed of ships by 50%, if they travel with the wind. In sandy areas, may cause a sandstorm, reducing visibility to 20'.
-- **_Rainy:_** -2 penalty to missile attacks. Mud forms in 3 turns, halving movement rates.
-- **_Snowy:_** Visibility drops to 20'. Movement rates are halved. Bodies of water may freeze. After the snow thaws, mud remains and still impedes movement.
-- **_Tornado:_** The caster can direct the tornado, which moves at 120' per round. The tornado can be directed to attack, using the stats for a 12 HD [air elemental](#air_elemental). Ships caught in a tornado have a 75% chance of suffering 12 points of hull damage.
+- ***Calm:*** Clears bad weather (though side-effects---e.g. mud after rain---remain.)
+- ***Extreme heat:*** Dries up snow or mud (including _transmute rock to mud_). Creatures in the area move at half normal rate.
+- ***Foggy:*** Visibility drops to 20'. Creatures in the fog move at half their normal rate. At the referee's option, they may also have a chance of getting lost.
+- ***High winds:*** Movement rates are halved. Missile fire and flight are impossible. At sea, may be used to increase the sailing speed of ships by 50%, if they travel with the wind. In sandy areas, may cause a sandstorm, reducing visibility to 20'.
+- ***Rainy:*** -2 penalty to missile attacks. Mud forms in 3 turns, halving movement rates.
+- ***Snowy:*** Visibility drops to 20'. Movement rates are halved. Bodies of water may freeze. After the snow thaws, mud remains and still impedes movement.
+- ***Tornado:*** The caster can direct the tornado, which moves at 120' per round. The tornado can be directed to attack, using the stats for a 12 HD [air elemental](#air_elemental). Ships caught in a tornado have a 75% chance of suffering 12 points of hull damage.
 
 ### <a name="death_spell"></a>Death Spell
 
@@ -2664,10 +2665,10 @@ A dead character is returned to life in a new physical form that manifests in th
 
 The roll indicates either a character class or a monster:
 
-- **_Character class:_** The character is of experience level 1d6 (or at most the same level as the character achieved before death). The reincarnated character can continue to gain experience and advance as normal, in the new class.
-- **_Monster:_** The type should be determined by the referee. The monster should be at least partially intelligent, have no greater Hit Dice than the level of the character being reincarnated (at most 6 HD), and be of the same alignment. The tables below may be used or the referee may create his or her own tables. Monsters cannot gain experience or advance in level.
+- ***Character class:*** The character is of experience level 1d6 (or at most the same level as the character achieved before death). The reincarnated character can continue to gain experience and advance as normal, in the new class.
+- ***Monster:*** The type should be determined by the referee. The monster should be at least partially intelligent, have no greater Hit Dice than the level of the character being reincarnated (at most 6 HD), and be of the same alignment. The tables below may be used or the referee may create his or her own tables. Monsters cannot gain experience or advance in level.
 
-The descriptions and stats of the monsters listed in the standard tables given here can be found in [**Monsters_**](#monsters).
+The descriptions and stats of the monsters listed in the standard tables given here can be found in [***Monsters***](#monsters).
 
 **Reincarnated Class**
 
@@ -2744,7 +2745,7 @@ Turns one creature into a statue, including all gear and any items currently hel
 ## <a name="day"></a> One Wilderness Day
 
 1. The players decide on their course of travel for the day.
-2. The referee determines whether the party gets lost (see [***Losing Direction***](#water_travel)).
+2. The referee determines whether the party gets lost (see [***Losing Direction***](#losing_direction)).
 3. The referee checks for [***Wandering Monsters***](#wandering_monsters), if applicable.
 4. The referee describes the terrain passed through and any sites of interest that the party comes across, asking players for their actions, as required.
 5. If no encounters occur, the day is over, continue to step 6. If monsters are encountered, first follow the encounter sequence, below.
@@ -2755,9 +2756,9 @@ Turns one creature into a statue, including all gear and any items currently hel
 1. The referee rolls for surprise, if applicable, and determines how far away the monsters are.
 2. Any sides that are not surprised roll initiative (see [***Basic Combat Procedure***](#basic_combat_procedure)) to determine who acts first.
 3. The referee determines the monsters' reaction to the party. The players decide how they will act:
-    a. If both sides wish to talk, the negotiation may be role-played. The referee may make reaction rolls, as applicable.
-    b. If the players decide to flee, the referee determines whether the monsters pursue.
-    c. If combat breaks out, follow the steps listed in [***Basic Combat Procedure***](#basic_combat_procedure).
+    1. If both sides wish to talk, the negotiation may be role-played. The referee may make reaction rolls, as applicable.
+    2. If the players decide to flee, the referee determines whether the monsters pursue.
+    3. If combat breaks out, follow the steps listed in [***Basic Combat Procedure***](#basic_combat_procedure).
 
 See [***Encounters***](#encounters) for a full description on all elements of running an encounter, including encounter distance, surprise, and monster reactions.
 
@@ -2770,11 +2771,11 @@ The sequence of actions in each round is broken down as follows:
 1. Characters who wish to cast a spell or perform a full retreat from melee must declare it.
 2. Initiative: 1d6 is rolled by each opposing side.
 3. The winner of initiative acts first:
-    a. The referee may check [***Morale***](#morale) for monsters.
-    b. Movements are made.
-    c. Missile attacks are made, accounting for DEX modifiers, cover, range, and magic adjustments.
-    d. Spells are cast and applicable saving throws are made.
-    e. Melee combat and other actions occur; attacks are made, accounting for STR modifiers and magic adjustments.
+    1. The referee may check [***Morale***](#morale) for monsters.
+    2. Movements are made.
+    3. Missile attacks are made, accounting for DEX modifiers, cover, range, and magic adjustments.
+    4. Spells are cast and applicable saving throws are made.
+    5. Melee combat and other actions occur; attacks are made, accounting for STR modifiers and magic adjustments.
 4. Other sides act through step 3, in order of initiative.
 5. When all sides of a conflict have acted, the round is over. If the combat has not come to an end, the sequence begins again at step 1.
 
@@ -2856,9 +2857,9 @@ All missile weapons have ranges, which must be taken into account when trying to
 
 ### <a name="requirements"></a> Requirements
 
-1.The caster must be able to speak and to move his or her hands, in order to bring a magic effect into being. As a result, a spell caster cannot cast spells if gagged, bound, or in an area of magical silence.
-2.Spell casters may take no other actions (including movement!) during the same round they intend to cast a spell.
-3.Unless otherwise noted in a spell's description, a spell caster must have the intended target (a specific monster, character, or area of effect) within visual range.
+1. The caster must be able to speak and to move his or her hands, in order to bring a magic effect into being. As a result, a spell caster cannot cast spells if gagged, bound, or in an area of magical silence.
+2. Spell casters may take no other actions (including movement!) during the same round they intend to cast a spell.
+3. Unless otherwise noted in a spell's description, a spell caster must have the intended target (a specific monster, character, or area of effect) within visual range.
 
 ### <a name="disrupting_spells"></a> Disrupting Spells
 
@@ -2900,8 +2901,8 @@ The referee rolls 2d6 and, if the roll is higher than the morale of the monster,
 
 The referee usually makes a morale checkfor monsters under two conditions:
 
-1.When one side of the encounter first loses a member due to death.
-2.When half the monsters are either killed or otherwise incapacitated.
+1. When one side of the encounter first loses a member due to death.
+2. When half the monsters are either killed or otherwise incapacitated.
 
 If a monster makes two successful morale checks in an encounter, it will fight until killed.
 
@@ -3168,7 +3169,7 @@ It is common for monsters to chase the whole party, as a group. In this case, it
 
 One side can always successfully flee if its movement rate (see [***Movement***](#movement)) is higher than the other side's and if combat has not commenced. A pursuit is possible if the pursuing side's movement rate is greater than or equal to the fleeing side's.
 
-Time in a chase is measured in rounds (see [***Time***](#movement)). Most monsters will not continue a chase if the characters manage to get out of the monster's range of vision.
+Time in a chase is measured in rounds (see [***Time***](#time)). Most monsters will not continue a chase if the characters manage to get out of the monster's range of vision.
 
 If the monsters enjoy treasure, there is a 3-in-6 probability that they will stop pursuit to collect any treasure the characters drop. Hungry or less intelligent monsters may do the same if the characters drop food. Burning oil or other obstacles may also slow or stop a pursuit.
 
@@ -3182,8 +3183,8 @@ The following procedure is followed, day by day, until the chase is over:
 1. Roll for escape (see table, below). If the roll succeeds, the fleeing party has escaped; the chase is over.
 2. If the roll fails, the fleeing party must choose either to be caught (ending the chase) or to flee in a random direction, determined by the referee (no mapping is possible).
 3. If the chase continues, compare the speeds of the fleeing and pursuing sides:
-    a. If the fleeing side is at least as fast as the pursuing side, it has another chance to escape; return to step 1.
-    b. If the pursuing side is faster, there is a 50% chance of them catching up. If the roll succeeds, the fleeing side has been caught; the chase is over. If the roll fails, the fleeing party has another chance to escape; return to step 1.
+    1. If the fleeing side is at least as fast as the pursuing side, it has another chance to escape; return to step 1.
+    2. If the pursuing side is faster, there is a 50% chance of them catching up. If the roll succeeds, the fleeing side has been caught; the chase is over. If the roll fails, the fleeing party has another chance to escape; return to step 1.
 
 Fleeing group size | 10% | 25% | 35% | 50% | 70% | 90%
 ---|---|---|---|---|---|---
@@ -3263,7 +3264,7 @@ An encounter begins when the characters stumble onto a monster, either because t
 
 ### <a name="time_in_encounters"></a> Time in Encounters
 
-When an encounter begins, action is measured in rounds (see [***Time***](#basic_combat_procedure)) determine which side acts first.
+When an encounter begins, action is measured in rounds (see [***Time***](#time)) determine which side acts first.
 
 ### <a name="surprise"></a> Surprise
 
@@ -3295,7 +3296,7 @@ Very often, circumstances make it obvious how a monster will react when encounte
 
 ### <a name="evasion"></a> Evasion
 
-The characters may decide they are outmatched and flee an encounter or a monster might flee. Characters may choose whether they chase a fleeing monster. The referee will decide if monsters chase fleeing characters. A low roll on the [***Monster Reactions***](#chases) for complete rules on handling pursuit.
+The characters may decide they are outmatched and flee an encounter or a monster might flee. Characters may choose whether they chase a fleeing monster. The referee will decide if monsters chase fleeing characters. A low roll on the [***Monster Reactions***](#monster_reactions) for complete rules on handling pursuit.
 
 ### <a name="encounter_duration"></a> Encounter Duration
 
@@ -3570,7 +3571,7 @@ At the referee's discretion, the morale score of a group of mercenaries may be m
 
 ## <a name="movement"></a> Movement
 
-See also: [***Air Travel***]air_travel), [***Water Travel***]water_travel).
+See also: [***Air Travel***](#air_travel), [***Water Travel***](#water_travel).
 
 Each character has a base movement rate. The default is 120', but this may be modified by a character's class or by the amount of gear carried (if the optional [***Encumbrance***](#encumbrance) rules are used).
 
@@ -3811,11 +3812,11 @@ Aside from normal time increments (minutes, hours, days, and so on), the followi
 
 ### <a name="turns"></a> Turns
 
-When in the dungeon, characters take actions in time increments called turns. One turn is equal to 10 minutes. Character actions that take one turn include looking for secret doors or traps in a 10' &times; 10' area (see [***Searching***](#movement)).
+When in the dungeon, characters take actions in time increments called turns. One turn is equal to 10 minutes. Character actions that take one turn include looking for secret doors or traps in a 10' &times; 10' area (see [***Searching***](#searching)).
 
 ### <a name="rounds"></a> Rounds
 
-Rounds are ten seconds of game time each, so there are 60 rounds in a turn. Time is only measured in rounds during encounters, especially in combat (see [***Encounters***](#basic_combat_procedure)).
+Rounds are ten seconds of game time each, so there are 60 rounds in a turn. Time is only measured in rounds during encounters, especially in combat (see [***Encounters***](#encounters)).
 
 ## <a name="traps"></a> Traps
 
@@ -5941,7 +5942,7 @@ Conjures a cone of paralysing energy.
 
 #### <a name="wand_of_polymorph"></a> Wand of Polymorph
 
-By expending a charge, the wielder of the wand or another creature within 60' changes into another type of creature, as selected by the wielder. This works in the same way as the magic-user spells [_polymorph self_](#polymorph_others).
+By expending a charge, the wielder of the wand or another creature within 60' changes into another type of creature, as selected by the wielder. This works in the same way as the magic-user spells [_polymorph self_](#polymorph_self).
 
 An unwilling subject may make a **saving throw versus wands** to negate the effect.
 
@@ -6120,12 +6121,12 @@ Some magic swords possess sentience (see [***Swords***](#swords) for the chances
 
 #### <a name="rolling_a_sentient_sword"></a> Rolling a Sentient Sword
 
-1. ***Special purpose:*** If the sword is imbued with a special purpose (see [***Swords***](#special_purpose), later.
+1. ***Special purpose:*** If the sword is imbued with a special purpose (see [***Special Purpose***](#special_purpose), later.
 2. ***Intelligence:*** The sword's INT is 1d6+6. Swords imbued with a special purpose always have INT 12.
 3. ***Communication:*** The sword's INT determines the means by which it can communicate. See the table below.
-    a. ***Empathy:*** The sword cannot communicate directly, but empathically informs the wielder of its powers and how to use them.
-    b. ***Speech:*** The sword is able to speak out loud. It knows its alignment tongue, plus the number of languages indicated by rolling on the ***Languages ***table. Languages should be selected by the referee.
-    c. ***Reading:*** The sword can read all languages it is able to speak, and is also able to read magical inscriptions.
+    1. ***Empathy:*** The sword cannot communicate directly, but empathically informs the wielder of its powers and how to use them.
+    2. ***Speech:*** The sword is able to speak out loud. It knows its alignment tongue, plus the number of languages indicated by rolling on the ***Languages*** table. Languages should be selected by the referee.
+    3. ***Reading:*** The sword can read all languages it is able to speak, and is also able to read magical inscriptions.
 4. ***Alignment:*** Is determined randomly by rolling on the table below.
 5. ***Powers:*** The sword's INT determines the number of powers it has. See the table below. Powers are described below.
 6. ***Ego:*** In addition to INT, sentient swords have an Ego rating---a measure of their force of personality. This is rolled on 1d12. Swords imbued with a special purpose always have an Ego of 12.
@@ -6201,12 +6202,12 @@ A sentient sword has its own personality, and can, at times, attempt to exercise
 When one of the aforementioned circumstances occurs, a control check is required:
 
 1. Determine the sword's Will score:
-    a. The sum of its INT and Ego.
-    b. Plus one for each extraordinary power the sword has.
-    c. Plus 1d10, if the sword and the wielder of are different alignments.
+    1. The sum of its INT and Ego.
+    2. Plus one for each extraordinary power the sword has.
+    3. Plus 1d10, if the sword and the wielder of are different alignments.
 2. Determine the wielder's Will score:
-    a. The sum of STR and WIS scores.
-    b. If the character has less than full hit points, Will is reduced by 1d4 (or 2d4, if the character has less than half hit points).
+    1. The sum of STR and WIS scores.
+    2. If the character has less than full hit points, Will is reduced by 1d4 (or 2d4, if the character has less than half hit points).
 3. Compare the Will scores. If the sword's Will score is higher, it takes control of the character's actions.
 
 ##### <a name="when_the_sword_takes_control"></a> When the Sword Takes Control
@@ -6797,7 +6798,7 @@ _Sailors who make a living by raiding coastal settlements and robbing other ship
 
 AC 7 or 5, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120' (40'), SV D12 W13 P14 B15 S16 (F1), ML 6, AL Neutral, XP 10, NA 0 (see below), TT A
 
-- ***Ships and crew:*** Depends where encountered. Rivers or lakes: 1d8 river boats (1d2 &times; 10 buccaneers each); coastal waters: 1d6 small galleys (1d3+1 &times; 10 buccaneers each); any: 1d4 longships (1d3+2 &times; 10 buccaneers each); ocean: 1d3 small warships (1d5+3 &times; 10 buccaneers each). (See [***B/X Essentials: Classes and Equipment***](#water_transportation) for details on ships.)
+- ***Ships and crew:*** Depends where encountered. Rivers or lakes: 1d8 river boats (1d2 &times; 10 buccaneers each); coastal waters: 1d6 small galleys (1d3+1 &times; 10 buccaneers each); any: 1d4 longships (1d3+2 &times; 10 buccaneers each); ocean: 1d3 small warships (1d5+3 &times; 10 buccaneers each). (See [***Water Transportation***](#water_transportation) for details on ships.)
 - ***Arms:*** 60% of group have: leather armour, sword; 30% have: leather armour, sword, crossbow; 10% have: chainmail, sword, crossbow.
 - ***Leaders and captains:*** For every 30 buccaneers, there is a 4th level fighter. Each ship has a captain (7th level fighter).
 - ***Fleet commander:*** 9th level fighter. 30% chance of a magic-user (level 1d2 + 9); 25% chance of a cleric (8th level).
@@ -6822,7 +6823,7 @@ AC 6, HD 6* (27hp), Att 1 &times; bite (1d8), THAC0 14, MV 60' (20'), SV D12 W13
 
 ## <a name="camel"></a> Camel
 
-_Irascible animals that are adapted to life in dry climates. Often used for transportation in deserts. (See [**B/X Essentials: Classes and Equipment**](#vehicles).)_
+_Irascible animals that are adapted to life in dry climates. Often used for transportation in deserts. (See [**Vehicles**](#vehicles).)_
 
 AC 7, HD 2 (9hp), Att 1 &times; bite (1), 1 &times; hoof (1d4), THAC0 18, MV 150' (50'), SV D12 W13 P14 B15 S16 (F1), ML 7, AL Neutral, XP 20, NA 0 (2d4), TT None
 
@@ -7145,7 +7146,7 @@ _Short, stocky, bearded demihumans who dwell in mountains and subterranean realm
 
 AC 4, HD 1 (4hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 19, MV 60' (20'), SV D8 W9 P10 B13 S12 (D1), ML 8 (10 with leader), AL Lawful or Neutral, XP 10, NA 1d6 (5d8), TT G
 
-- ***Leader:*** A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have magic items: 5% chance per level for each magic item table (except [Scrolls](#rods).
+- ***Leader:*** A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have magic items: 5% chance per level for each magic item table (except [Scrolls](#scrolls).
 - ***Hate goblins:*** Normally attack on sight.
 
 ## <a name="efreeti_lesser"></a> Efreeti (Lesser)
