@@ -2166,7 +2166,7 @@ Humanoids of greater than 4+1 HD and undead are not affected.
 **Duration:** 1 day  
 **Range:** The caster or a creature touched
 
-The subject is able to see 60' in the dark with [infravision](#infravision).
+The subject is able to see 60' in the dark with _infravision_.
 
 ### <a name="invisibility_10_foot_radius"></a>Invisibility 10' Radius
 
@@ -2307,7 +2307,7 @@ A living subject is transformed into another type of creature, as chosen by the 
 - The spell cannot be used to duplicate the appearance of a specific individual.
 - If the subject dies, it returns to its original form.
 
-An unwilling subject may make a **saving throw versus spells **to negate the effect.
+An unwilling subject may make a **saving throw versus spells** to negate the effect.
 
 ### <a name="polymorph_self"></a>Polymorph Self
 
