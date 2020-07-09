@@ -1798,7 +1798,7 @@ The cleric commands a single subject to perform a specific quest or task.
 
 <a name="remove_quest"></a> **Reversed: Remove Quest**
 
-Can dispel an active _quest_ spell. If the cleric who cast the _quest _spell to be nullified is higher level than the cleric casting _remove quest_, there is a chance of the spell having no effect. The probability of failure is 5% per level the cleric is below the caster of _quest_.
+Can dispel an active _quest_ spell. If the cleric who cast the _quest_ spell to be nullified is higher level than the cleric casting _remove quest_, there is a chance of the spell having no effect. The probability of failure is 5% per level the cleric is below the caster of _quest_.
 
 ### <a name="raise_dead"></a>Raise Dead
 
@@ -3331,7 +3331,7 @@ Wand | 10
 This rule may be used by groups who want a simple system for determining the movement rates of different characters.
 A character's movement rate is determined by two factors: the armour he or she is wearing and whether he or she is carrying a significant amount of treasure or not (at the referee's discretion).
 
-The maximum amount of treasure any character can carry is 1,600 coins or equivalent. For this reason, the weight of treasure carried must be tracked. The encumbrance of common types of treasure is shown in the table above. The weight of the character's standard adventuring gear (including armour and weapons) is _not _counted.
+The maximum amount of treasure any character can carry is 1,600 coins or equivalent. For this reason, the weight of treasure carried must be tracked. The encumbrance of common types of treasure is shown in the table above. The weight of the character's standard adventuring gear (including armour and weapons) is _not_ counted.
 
 Armour | Without Treasure | Carrying Treasure
 ---|---|---
