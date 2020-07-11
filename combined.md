@@ -2,7 +2,7 @@
 
 Copyright (c) 2020 by $mike cremer.
 
-This product is released under the terms of the [Open Game License](LICENSE) Version 1.0a, Copyright (c) 2000, Wizards of the Coast, Inc. Based on the Open Game Content text of  _B/X Essentials(tm)_ by Gavin Norman, _Labyrinth Lord(tm)_ by Dan Proctor and _Lamentations of the Flame Princess(tm)_ by James Raggi. Many thanks to all.
+This product is released under the terms of the [Open Game License](#license) Version 1.0a, Copyright (c) 2000, Wizards of the Coast, Inc. Based on the Open Game Content text of  _B/X Essentials(tm)_ by Gavin Norman, _Labyrinth Lord(tm)_ by Dan Proctor and _Lamentations of the Flame Princess(tm)_ by James Raggi. Many thanks to all.
 
 # Creating a Character
 
@@ -8731,7 +8731,7 @@ AC 8, HD 2 (9hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 18, MV 60' (20'
 
 ----
 
-# OPEN GAME LICENSE
+# [OPEN GAME LICENSE](name:license)
 
 ## DESIGNATION OF PRODUCT IDENTITY
 
