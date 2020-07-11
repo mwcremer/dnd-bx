@@ -215,7 +215,7 @@ Clerics are humans who have sworn to serve a deity. They conduct their lives in 
 
 ***Holy Symbol:*** A cleric must carry a holy symbol (see [***Equipment***](#equipment)).
 
-***Deity Disfavour:*** If a cleric ever falls from favour, due to violating the beliefs or strictures of his or her deity or clergy, penalties (determined by the referee) may be imposed upon the cleric. These may include penalties to attack (-1) or even a reduction in spells.
+***Deity Disfavour:*** If a cleric ever falls from favour, due to violating the beliefs or strictures of his or her deity or clergy, penalties (determined by the referee) may be imposed upon the cleric. These may include penalties to attack (&minus;1) or even a reduction in spells.
 
 #### [Abilities](name:cleric_abilities)
 
@@ -577,7 +577,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 **Allowed Weapons**: Any  
 **Languages**: Alignment language, Common, elvish, gnoll, hobgoblin, and orcish
 
-Elves are slender, fey demi-humans with pointed ears. They are very diverse in appearance, much like humans, and there are said to be different kinds of elves in distant locations. They typically weigh about 120 pounds and are between 5 and 5 1/2 feet tall. Though a peaceful people who enjoy good, light food and play, elves are very talented fighters and users of magic.
+Elves are slender, fey demi-humans with pointed ears. They are very diverse in appearance, much like humans, and there are said to be different kinds of elves in distant locations. They typically weigh about 120 pounds and are between 5 and 5<!-- -->1/2 feet tall. Though a peaceful people who enjoy good, light food and play, elves are very talented fighters and users of magic.
 
 ***Prime Requisites:*** An elf must have at least 13 in both prime requisites in order to get the +5% bonus to experience. An elf with an INT of at least 16 and a STR of at least 13 receives a +10% XP bonus.
 
@@ -672,7 +672,7 @@ Halflings are small, rotund demi-humans with furry feet and curly hair. They wei
 
 ***Combat:*** Halflings may use any type of armour, though it must be tailored to their small size. Similarly, they may use any weapon which is appropriate to their stature. They cannot use longbows or two-handed swords.
 
-***Defensive Bonus:*** Because they are so small, halflings have a lower Armour Class (-2 bonus) when attacked by creatures greater than human sized.
+***Defensive Bonus:*** Because they are so small, halflings have a lower Armour Class (&minus;2 bonus) when attacked by creatures greater than human sized.
 
 ***Hiding:*** Halflings have an uncanny ability to disappear from sight:
 
@@ -875,7 +875,7 @@ Warhammer | 1d6 | Blunt, Melee
 
 ***Melee:*** Close quarters weapon (5' or less).
 
-***Missile:*** Thrown or fired weapon (greater than 5' distance). The distances for short (+1 to hit), medium, and long (-1 to hit) range are shown in parentheses.
+***Missile:*** Thrown or fired weapon (greater than 5' distance). The distances for short (+1 to hit), medium, and long (&minus;1 to hit) range are shown in parentheses.
 
 ***Reload (optional rule):*** Requires a round to reload between shots; can only be fired every second round.
 
@@ -1847,7 +1847,7 @@ This spell conjures a glowing dart of energy that the caster may choose to shoot
 
 - The missile hits unerringly (no attack roll or saving throw is required).
 - The missile inflicts 1d6+1 damage.
-- Higher level casters may conjure more missiles: two additional missiles are conjured per five experience levels the caster has gained (i.e. three missiles at 6th-10th level, five missiles at 11th-15th level, etc). Multiple missiles may be directed at a single target.
+- Higher level casters may conjure more missiles: two additional missiles are conjured per five experience levels the caster has gained (i.e. three missiles at 6th--10th level, five missiles at 11th--15th level, etc). Multiple missiles may be directed at a single target.
 
 ### [Protection from Evil](name:magic_user_protection_from_evil)
 
@@ -5832,7 +5832,7 @@ An item of supreme wizardly power, this staff may be used as a weapon in melee, 
 - ***Striking:*** Expending one charge, inflicts 2d6 damage on a successful hit.
 - ***Cone of Cold:*** Conjures a cone of freezing energy, 60' long and 30' wide at the far end. Creatures caught in the cone suffer 8d6 damage, with a successful **save versus spells** indicating half damage.
 - ***Paralysation:*** Conjures a cone of magical energy, 60' long and 30' wide at the far end. Creatures caught in the cone are paralysed for 6 turns (**save versus spells** to avoid).
-- ***Spells:*** Can cast: _conjure elemental_ (8 HD), [_continual light_](#web).
+- ***Spells:*** Can cast: _conjure elemental_ (8 HD), [_continual light_](#magic_user_continual_light).
 - ***Whirlwind:*** Conjures a whirlwind 70' tall, 20' wide at the top, and 10' wide at the base. The whirlwind lasts for 3 rounds, and moves at 120' (40'), as the wielder of the staff directs. All in its path suffer 2d6 damage. Creatures with less than 2HD are swept aside (**save vs death** to avoid).
 - ***Sacrifice:*** The wielder may sacrifice the staff by breaking it in two. Doing so unleashes a 30' radius fireball that inflicts 8 points of damage per remaining charge in the staff. The wielder of the staff also suffers this damage.
 
@@ -5840,7 +5840,7 @@ An item of supreme wizardly power, this staff may be used as a weapon in melee, 
 
 ### [Wands](name:wands)
 
-- Thin, 1 1/2' long.
+- Thin, 1<!-- -->1/2' long.
 - Usable by arcane spell casters.
 - Unless noted, contain 2d10 charges when found.
 
@@ -6701,7 +6701,7 @@ AC 6, HD 6 (27hp), Att 2 &times; claw (1d6), 1 &times; bite (1d10), THAC0 14, MV
 
 ### [Fire Beetle](name:fire_beetle)
 
-_2 1/2' long. Commonly found underground._
+_2<!-- -->1/2' long. Commonly found underground._
 
 AC 4, HD 1+2 (6hp), Att 1 &times; bite (2d4), THAC0 18, MV 120' (40'), SV D12 W13 P14 B15 S16 (F1), ML 7, AL Neutral, XP 15, NA 1d8 (2d6), TT None
 
@@ -7160,7 +7160,7 @@ There are three power levels of elemental. Each is typically summoned by differe
 
 _Huge vortexes of whirling air._
 
-AC 2/0/-2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/10/8, MV 360' (120') flying, SV Fighter 8/12/16, ML 10, AL Neutral, XP 650/1,100/1,350, NA 1 (1), TT None
+AC 2/0/&minus;2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/10/8, MV 360' (120') flying, SV Fighter 8/12/16, ML 10, AL Neutral, XP 650/1,100/1,350, NA 1 (1), TT None
 
 - ***Size:*** 16' tall, 4' across / 24' tall, 6' across / 32' tall, 8' across.
 - ***Whirlwind:*** Creatures with less than 2HD swept aside (**save vs death**).
@@ -7171,7 +7171,7 @@ AC 2/0/-2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/1
 
 _Huge, humanoid figures of earth or stone._
 
-AC 2/0/-2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/10/8, MV 60' (20'), SV Fighter 8/12/16, ML 10, AL Neutral, XP 650/1,100/1,350, NA 1 (1), TT None
+AC 2/0/&minus;2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/10/8, MV 60' (20'), SV Fighter 8/12/16, ML 10, AL Neutral, XP 650/1,100/1,350, NA 1 (1), TT None
 
 - ***Size:*** 8' tall / 12' tall / 16' tall.
 - ***Blocked by water:*** Cannot cross a channel wider than own height.
@@ -7182,7 +7182,7 @@ AC 2/0/-2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/1
 
 _Whirling columns of fire_
 
-AC 2/0/-2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/10/8, MV 120' (40'), SV Fighter 8/12/16, ML 10, AL Neutral, XP 650/1,100/1,350, NA 1 (1), TT None
+AC 2/0/&minus;2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/10/8, MV 120' (40'), SV Fighter 8/12/16, ML 10, AL Neutral, XP 650/1,100/1,350, NA 1 (1), TT None
 
 - ***Size:*** 8' tall, 8' across / 12' tall, 12' across / 16' tall, 16' across.
 - ***Blocked by water:*** Cannot cross a channel wider than own diameter.
@@ -7193,7 +7193,7 @@ AC 2/0/-2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/1
 
 _Huge waves of water._
 
-AC 2/0/-2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/10/8, MV 60' (20') / 180' (60') swimming, SV Fighter 8/12/16, ML 10, AL Neutral, XP 650/1,100/1,350, NA 1 (1), TT None
+AC 2/0/&minus;2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC0 12/10/8, MV 60' (20') / 180' (60') swimming, SV Fighter 8/12/16, ML 10, AL Neutral, XP 650/1,100/1,350, NA 1 (1), TT None
 
 - ***Size:*** 4' tall, 16' across / 6' tall, 24' across / 8' tall, 32' across.
 - ***Water-bound:*** Must remain within 60' of water.
@@ -7886,7 +7886,7 @@ AC 5, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 90' (30'
 - ***Mounted:*** On horse, camel, or mule (by terrain).
 - ***Wagons:*** 2 per merchant. Pulled by horses, mules, or camels (by terrain).
 - ***Caravan guards:*** For every merchant, 4 guards are present (1st level fighters). AC 4, with crossbows, swords, daggers.
-- ***Guard lieutenants:*** For every 5 merchants, 2 lieutenants are present (2nd-3rd level fighters). AC 4. Equipped as guards.
+- ***Guard lieutenants:*** For every 5 merchants, 2 lieutenants are present (2nd---3rd level fighters). AC 4. Equipped as guards.
 - ***Guard captain:*** Guards are led by a 5th level fighter. AC 4. Equipped as guards.
 - ***Pack animals:*** 1d12 extra horses, mules, or camels.
 - ***Treasure:*** Should be reduced, if less than 10 merchants are in the group.
@@ -8571,7 +8571,7 @@ AC 2, HD 7 to 9** (31/36/40hp) Att 1 &times; touch (1d10 + energy drain) or 1 &t
     -  ***Holy symbols:*** If presented, will keep a vampire at bay (10'). May attack wielder from another direction.
     -  ***Running water:*** Cannot cross (in any form), except by a bridge or carried inside a coffin.
     -  ***Mirrors:*** Avoid; do not cast a reflection.
-    -  ***Continual light:*** Partly blinded by the light from this spell (-4 to attacks).
+    -  ***Continual light:*** Partly blinded by the light from this spell (&minus;4 to attacks).
 - ***Destroying:***
     -  ***Sunlight:*** Save vs death each round or be disintegrated.
     -  ***Stake through the heart:*** Permanently kills.
@@ -8793,9 +8793,9 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 _System Reference Document_ Copyright (c) 2000, Wizards of the Coast, Inc.; Authors Jonathon Tweet, Monte Cook, Skip Williams, based on original material by E. Gary Gygax and Dave Arneson.
 
-_System Reference Document_ Copyright (c) 2000-2003, Wizards of the Coast, Inc.; Authors Jonathon Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
+_System Reference Document_ Copyright (c) 2000--2003, Wizards of the Coast, Inc.; Authors Jonathon Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
 
-_Modern System Reference Document_ Copyright (c) 2002-2004, Wizards of the Coast, Inc.; Authors Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, Eric Cagle, David Noonan, Stan!, Christopher Perkins, Rodney Thompson, and JD Wiker,  based on material by Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Bruce R. Cordell, John Tynes, Andy Collins, and JD Wiker.
+_Modern System Reference Document_ Copyright (c) 2002--2004, Wizards of the Coast, Inc.; Authors Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, Eric Cagle, David Noonan, Stan!, Christopher Perkins, Rodney Thompson, and JD Wiker,  based on material by Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Bruce R. Cordell, John Tynes, Andy Collins, and JD Wiker.
 
 _Castles & Crusades: Players Handbook_, Copyright (c) 2004, Troll Lord Games; Authors Davis Chenault and Mac Golden.
 
@@ -8839,7 +8839,7 @@ _Lamentations of the Flame Princess: Weird Fantasy Role-Playing Player Core Book
 
 "Rot Grub" from the _Tome of Horrors_, Copyright (c) 2002, Necromancer Games, Inc.; Authors Scott Greene and Clark Peterson, based on original material by Gary Gygax.
 
-_Labyrinth Lord(tm)_ Copyright (c) 2007-2009, Daniel Proctor. Author Daniel Proctor.
+_Labyrinth Lord(tm)_ Copyright (c) 2007--2009, Daniel Proctor. Author Daniel Proctor.
 
 _B/X Essentials(tm): Core Rules_ Copyright (c) 2017, Gavin Norman. Author Gavin Norman.
 
