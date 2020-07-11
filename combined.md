@@ -4666,7 +4666,7 @@ This procedure generates parties of NPC adventurers. As the procedure is fairly 
 - ***Treasure:*** Treasure types U+V, shared among the group.
 - ***Marching order:*** Decided by referee.
 
-If the classes presented in [***Charater Classes***](#character_classes) are not in use, the referee should replace the listed classes by equivalents in use in his or her campaign.
+If the classes presented in [***Character Classes***](#character_classes) are not in use, the referee should replace the listed classes by equivalents in use in his or her campaign.
 
 ## [Basic Adventurers](name:basic_adventurers)
 
