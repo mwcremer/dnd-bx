@@ -139,13 +139,13 @@ Select one of the classes available, bearing in mind the minimum ability score r
 
 ### [Fighter](name:fighter)
 
-**Requirements**: None  
-**Prime Requisite**: STR  
-**Hit Dice**: 1d8  
-**Maximum Level**: 14  
-**Allowed Armour**: Any, including shields  
-**Allowed Weapons**: Any  
-**Languages**: Alignment language, Common
+**Requirements:** None  
+**Prime Requisite:** STR  
+**Hit Dice:** 1d8  
+**Maximum Level:** 14  
+**Allowed Armour:** Any, including shields  
+**Allowed Weapons:** Any  
+**Languages:** Alignment language, Common
 
 Fighters are humans who dedicate themselves to mastering the arts of combat and war. In a group of adventurers, fighters are often particularly burdened because they are tougher and must take the lead to defend other characters.
 
@@ -203,13 +203,13 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 
 ### [Cleric](name:cleric)
 
-**Requirements**: None  
-**Prime Requisite**: WIS  
-**Hit Dice**: 1d6  
-**Maximum Level**: 14  
-**Allowed Armour**: Any, including shields  
-**Allowed Weapons**: Any blunt weapons  
-**Languages**: Alignment language, Common
+**Requirements:** None  
+**Prime Requisite:** WIS  
+**Hit Dice:** 1d6  
+**Maximum Level:** 14  
+**Allowed Armour:** Any, including shields  
+**Allowed Weapons:** Any blunt weapons  
+**Languages:** Alignment language, Common
 
 Clerics are humans who have sworn to serve a deity. They conduct their lives in a way to further the will of their deity and channel the power of their deity. Clerics are trained for combat; they should be thought of as fighting holy crusaders, not as passive priests.
 
@@ -323,13 +323,13 @@ Level | 1 HD | 2 HD | 2 HD* | 3 HD | 4 HD | 5 HD | 6 HD | 7+ HD
 
 ### [Magic-User](name:magic_user)
 
-**Requirements**: None  
-**Prime Requisite**: INT  
-**Hit Dice**: 1d4  
-**Maximum Level**: 14  
-**Allowed Armour**: None  
-**Allowed Weapons**: Dagger only  
-**Languages**: Alignment language, Common
+**Requirements:** None  
+**Prime Requisite:** INT  
+**Hit Dice:** 1d4  
+**Maximum Level:** 14  
+**Allowed Armour:** None  
+**Allowed Weapons:** Dagger only  
+**Languages:** Alignment language, Common
 
 Sometimes called wizards, warlocks, or witches, magic-users are humans who study arcane secrets and cast spells. Magic-users are able to cast a greater number of increasingly powerful spells as they advance in level.
 
@@ -406,13 +406,13 @@ Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level | 6th Level
 
 ### [Thief](name:thief)
 
-**Requirements**: None  
-**Prime Requisite**: DEX  
-**Hit Dice**: 1d4  
-**Maximum Level**: 14  
-**Allowed Armour**: Leather armour, no shields  
-**Allowed Weapons**: Any  
-**Languages**: Alignment language, Common
+**Requirements:** None  
+**Prime Requisite:** DEX  
+**Hit Dice:** 1d4  
+**Maximum Level:** 14  
+**Allowed Armour:** Leather armour, no shields  
+**Allowed Weapons:** Any  
+**Languages:** Alignment language, Common
 
 Thieves are humans who live by their wits and skills of deception and intrigue. Their range of unique skills makes them very handy companions in adventures. However, thieves are not always to be trusted.
 
@@ -503,13 +503,13 @@ Level | Climb Sheer Surfaces | Find or Remove Traps | Hear Noise | Hide in Shado
 
 ### [Dwarf](name:dwarf)
 
-**Requirements**: Minimum CON 9  
-**Prime Requisite**: STR  
-**Hit Dice**: 1d8  
-**Maximum Level**: 12  
-**Allowed Armour**: Any, including shields  
-**Allowed Weapons**: Small or normal sized (see below)  
-**Languages: Alignment** language, Common, dwarvish, gnome, goblin, kobold
+**Requirements:** Minimum CON 9  
+**Prime Requisite:** STR  
+**Hit Dice:** 1d8  
+**Maximum Level:** 12  
+**Allowed Armour:** Any, including shields  
+**Allowed Weapons:** Small or normal sized (see below)  
+**Languages:** Alignment language, Common, dwarvish, gnome, goblin, kobold
 
 Dwarves are stout, bearded demi-humans who average a height of approximately 4 feet and weigh about 150 pounds. Dwarves live underground and value precious metals, fine craftsmanship, and stones. Perhaps not surprisingly, they have skin, hair, and eye colours in earth tones. Dwarves have a reputation for having surly attitudes and are particularly gruff with elves. Dwarves are particularly hardy people and have a strong resistance to magic, as reflected in their saving throws.
 
@@ -569,13 +569,13 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 
 ### [Elf](name:elf)
 
-**Requirements**: Minimum INT 9  
-**Prime Requisite**: INT and STR  
-**Hit Dice**: 1d6  
-**Maximum Level**: 10  
-**Allowed Armour**: Any, including shields  
-**Allowed Weapons**: Any  
-**Languages**: Alignment language, Common, elvish, gnoll, hobgoblin, and orcish
+**Requirements:** Minimum INT 9  
+**Prime Requisite:** INT and STR  
+**Hit Dice:** 1d6  
+**Maximum Level:** 10  
+**Allowed Armour:** Any, including shields  
+**Allowed Weapons:** Any  
+**Languages:** Alignment language, Common, elvish, gnoll, hobgoblin, and orcish
 
 Elves are slender, fey demi-humans with pointed ears. They are very diverse in appearance, much like humans, and there are said to be different kinds of elves in distant locations. They typically weigh about 120 pounds and are between 5 and 5<!-- -->1/2 feet tall. Though a peaceful people who enjoy good, light food and play, elves are very talented fighters and users of magic.
 
@@ -656,13 +656,13 @@ Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level
 
 ### [Halfling](name:halfling)
 
-**Requirements**: Minimum CON and DEX 9  
-**Prime Requisite**: DEX and STR  
-**Hit Dice**: 1d6  
-**Maximum Level**: 8  
-**Allowed Armour**: Any appropriate to size, including shields  
-**Allowed Weapons**: Appropriate to size (see below)  
-**Languages**: Alignment language, Common, halfling
+**Requirements:** Minimum CON and DEX 9  
+**Prime Requisite:** DEX and STR  
+**Hit Dice:** 1d6  
+**Maximum Level:** 8  
+**Allowed Armour:** Any appropriate to size, including shields  
+**Allowed Weapons:** Appropriate to size (see below)  
+**Languages:** Alignment language, Common, halfling
 
 Halflings are small, rotund demi-humans with furry feet and curly hair. They weigh about 60 pounds and only attain a height of around 3 feet. They are as diverse in appearance as humans. Halflings are gentle-natured and value relaxation, good food, and good drink. They love comfort and will spend their riches on the most extravagant items.
 
@@ -952,7 +952,7 @@ Your character's Armour Class is determined by two factors:
 
 The level progression chart for your character's class lists the modified attack roll needed to hit an opponent with Armour Class 0. The attack roll you need to hit opponents of other AC ratings can be calculated from this value by subtracting the target AC from the value to hit AC 0.
 
-For example, a character who needs a 17 to hit AC 0 could hit AC 5 on a roll of 12 or greater (17 - 5 = 12).
+For example, a character who needs a 17 to hit AC 0 could hit AC 5 on a roll of 12 or greater (17 &minus; 5 = 12).
 
 It is usual to pre-calculate the modified attack values required to hit AC 0--9 and record them in a matrix. 1st level characters need to roll a 19 to hit AC 0, resulting in an attack matrix like this:
 
@@ -6574,7 +6574,7 @@ When awarding XP for defeated NPCs, the referee may use the following guidelines
 
 ***SV:*** The monster's saving throw values: D=death/poison, W=wands, P=paralysis/petrification, B=breath attacks, S=spells/rods/staves. The equivalent character class and level are listed in parentheses afterwards (C=Cleric, D=Dwarf, E=Elf, F=Fighter, H=Halfling, MU=Magic-User, NH=Normal Human, T=Thief).
 
-***THAC0:*** Value required "to hit AC 0". This value may optionally be used to resolve the monster's attack rolls, instead of referring to the attack chart based on its HD. To calculate the AC hit by an attack, subtract the result of the attack roll from the THAC0 score. For example, if a monster with THAC0 12 makes an attack roll of 9, it hits AC 3 (12 - 9).
+***THAC0:*** Value required "to hit AC 0". This value may optionally be used to resolve the monster's attack rolls, instead of referring to the attack chart based on its HD. To calculate the AC hit by an attack, subtract the result of the attack roll from the THAC0 score. For example, if a monster with THAC0 12 makes an attack roll of 9, it hits AC 3 (12 &minus; 9).
 
 ***MV:*** Base movement rate; encounter movement rate in parentheses. If the monster has multiple modes of movement, they are listed individually, separated by slashes.
 
@@ -6971,13 +6971,13 @@ AC 5, HD 7+1 (32hp), Att 1 &times; fists (2d8), magic, THAC0 12, MV 90' (30') / 
 
 - ***Mundane damage immunity:*** Can only be harmed by magical attacks.
 - ***Magic powers:*** Each can be used three times per day:
-    -  ***Whirlwind form:*** 5 rounds to transform (or change back). 70' tall, 20' wide at top, 10' wide at base. Moves at 120' (40'). 2d6 damage to all in path. Creatures with less than 2HD swept aside (**save vs death**).
-    -  ***Gaseous form***
-    -  ***Invisibility***
-    -  ***Illusion:*** Visual and audial. No concentration required. Remains until touched or dispelled.
-    -  ***Create food and drink:*** For 12 humans and mounts for one day.
-    -  ***Conjure metallic objects:*** Up to 1,000 coins weight. Temporary: hardness determines duration (gold: 1 day; iron: 1 round).
-    -  ***Conjure soft goods / wooden objects:*** Up to 1,000 coins weight. Permanent.
+    - ***Whirlwind form:*** 5 rounds to transform (or change back). 70' tall, 20' wide at top, 10' wide at base. Moves at 120' (40'). 2d6 damage to all in path. Creatures with less than 2HD swept aside (**save vs death**).
+    - ***Gaseous form***
+    - ***Invisibility***
+    - ***Illusion:*** Visual and audial. No concentration required. Remains until touched or dispelled.
+    - ***Create food and drink:*** For 12 humans and mounts for one day.
+    - ***Conjure metallic objects:*** Up to 1,000 coins weight. Temporary: hardness determines duration (gold: 1 day; iron: 1 round).
+    - ***Conjure soft goods / wooden objects:*** Up to 1,000 coins weight. Permanent.
 - ***Carrying capacity:*** 6,000 coins without fatigue. Up to 12,000 coins for 3 turns walking / 1 turn flying. Must rest 1 turn afterwards.
 - ***If killed:*** Returns to the plane of air.
 
@@ -7000,9 +7000,9 @@ _A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many
 - ***Pride:*** Dragons are immensely proud creatures and will always listen to flattery.
 - ***Attack pattern:*** A dragon always attacks first with its breath weapon, then either breathes again or makes melee attacks (equal chance of either).
 - ***Breath weapon:*** Can be used up to three times per day. All caught in the area suffer damage equal to the dragon's current hit points (**save vs breath** for half). Shapes of breath weapon:
-    -  ***Cloud:*** 50' long, 40' wide, 20' high.
-    -  ***Cone:*** 2' wide at the mouth, 30' wide at far end.
-    -  ***Line:*** 5' wide along whole length.
+    - ***Cloud:*** 50' long, 40' wide, 20' high.
+    - ***Cone:*** 2' wide at the mouth, 30' wide at far end.
+    - ***Line:*** 5' wide along whole length.
 - ***Energy immunity:*** Unharmed by their own breath weapon or lesser versions thereof. Automatically save versus similar attack forms. (For example, a red dragon is immune to flaming oil and suffers half damage from fire ball spells.)
 - ***Language and spells:*** Some dragons are able to speak (their own tongue plus Common). The chance is listed by subspecies. Those that can speak can also cast randomly selected magic-user spells (number and level of spells listed by subspecies).
 - ***Sleeping:*** The chance of a dragon being asleep when encountered on the ground is listed by subspecies. A sleeping dragon may be attacked for one round with a +2 bonus to hit. Dragons may sometimes pretend to be asleep!
@@ -7135,13 +7135,13 @@ AC 3, HD 10* (45hp), Att 1 &times; fists (2d8), magic, THAC0 11, MV 90' (30') / 
 
 - ***Mundane damage immunity:*** Can only be harmed by magical attacks.
 - ***Magic powers:*** Each can be used three times per day:
-    -  ***Pillar of flame:*** Transform into a column of fire for up to 3 rounds. Flammable items within 5' are ignited. Attacks do additional 1d8 damage (3d8 total).
-    -  ***Invisibility***
-    -  ***Illusion:*** Visual and audial. No concentration required. Remains until touched or dispelled.
-    -  ***Create wall of fire***
-    -  ***Create food and drink:*** For 12 humans and mounts for one day.
-    -  ***Conjure metallic objects:*** Up to 1,000 coins weight. Temporary: hardness determines duration (gold: 1 day; iron: 1 round).
-    -  ***Conjure soft goods / wooden objects:*** Up to 1,000 coins weight. Permanent.
+    - ***Pillar of flame:*** Transform into a column of fire for up to 3 rounds. Flammable items within 5' are ignited. Attacks do additional 1d8 damage (3d8 total).
+    - ***Invisibility***
+    - ***Illusion:*** Visual and audial. No concentration required. Remains until touched or dispelled.
+    - ***Create wall of fire***
+    - ***Create food and drink:*** For 12 humans and mounts for one day.
+    - ***Conjure metallic objects:*** Up to 1,000 coins weight. Temporary: hardness determines duration (gold: 1 day; iron: 1 round).
+    - ***Conjure soft goods / wooden objects:*** Up to 1,000 coins weight. Permanent.
 - ***Carrying capacity:*** Up to 10,000 coins (flying).
 - ***Hate djinn:*** Attack on sight.
 - ***Bound servitor:*** Efreet summoning spells can be researched by high-level magic-users. Can be bound to servitude for 101 days. Efreet are treacherous and will follow commands to the letter while subverting the intent.
@@ -7678,7 +7678,7 @@ AC 7, HD 1/2* (2hp), Att 1 &times; sting (1d3 + poison + lodged stinger), THAC0 
 
 _Small, wicked, hairless, canine humanoids with scaly, rust-coloured skin. Dwell underground._
 
-AC 7, HD 1/2 (2hp), Att 1 &times; weapon (1d4 or by weapon - 1), THAC0 19, MV 60' (20'), SV D14 W15 P16 B17 S18 (NH), ML 6 (8 with chieftain), AL Chaotic, XP 5 (bodyguard: 15, chieftain: 20), NA 4d4 (6d10), TT P (J)
+AC 7, HD 1/2 (2hp), Att 1 &times; weapon (1d4 or by weapon &minus; 1), THAC0 19, MV 60' (20'), SV D14 W15 P16 B17 S18 (NH), ML 6 (8 with chieftain), AL Chaotic, XP 5 (bodyguard: 15, chieftain: 20), NA 4d4 (6d10), TT P (J)
 
 - ***Ambush:*** Set up surprise attacks.
 - ***Infravision:*** 90'.
@@ -8560,23 +8560,23 @@ AC 2, HD 7 to 9** (31/36/40hp) Att 1 &times; touch (1d10 + energy drain) or 1 &t
 - ***Regeneration:*** A damaged vampire gains 3hp at the start of each round, as long as it is alive.
 - ***At 0hp:*** Change into gaseous form; flee to coffin.
 - ***Change form:*** At will; takes 1 round:
-    -  ***Humanoid:*** Standard form.
-    -  ***Dire wolf:*** Att 1 &times; bite (2d4), MV 150' (50'). AC, HD, morale, saves as vampire.
-    -  ***Giant bat:*** Att 1 &times; bite (1d4), MV 30' (10') / 180' (60') flying. AC, HD, morale, saves as vampire.
-    -  ***Gaseous cloud:*** MV 180' (60') flying. Immune to all weapons. Cannot attack.
+    - ***Humanoid:*** Standard form.
+    - ***Dire wolf:*** Att 1 &times; bite (2d4), MV 150' (50'). AC, HD, morale, saves as vampire.
+    - ***Giant bat:*** Att 1 &times; bite (1d4), MV 30' (10') / 180' (60') flying. AC, HD, morale, saves as vampire.
+    - ***Gaseous cloud:*** MV 180' (60') flying. Immune to all weapons. Cannot attack.
 - ***Summon beasts:*** In human form only. Creatures from the surrounding area: 1d10 &times; 10 rats, 5d4 giant rats, 1d10 &times; 10 bats, 3d6 giant bats, 3d6 wolves, or 2d4 dire wolves.
 - ***Coffins:*** Must rest in a coffin during the day or lose 2d6hp (only regenerated by resting a full day). Cannot rest in a blessed coffin. Always keep multiple coffins in hidden locations.
 - ***Vulnerabilities:***
-    -  ***Garlic:*** Odour repels: save vs poison or unable to attack this round.
-    -  ***Holy symbols:*** If presented, will keep a vampire at bay (10'). May attack wielder from another direction.
-    -  ***Running water:*** Cannot cross (in any form), except by a bridge or carried inside a coffin.
-    -  ***Mirrors:*** Avoid; do not cast a reflection.
-    -  ***Continual light:*** Partly blinded by the light from this spell (&minus;4 to attacks).
+    - ***Garlic:*** Odour repels: save vs poison or unable to attack this round.
+    - ***Holy symbols:*** If presented, will keep a vampire at bay (10'). May attack wielder from another direction.
+    - ***Running water:*** Cannot cross (in any form), except by a bridge or carried inside a coffin.
+    - ***Mirrors:*** Avoid; do not cast a reflection.
+    - ***Continual light:*** Partly blinded by the light from this spell (&minus;4 to attacks).
 - ***Destroying:***
-    -  ***Sunlight:*** Save vs death each round or be disintegrated.
-    -  ***Stake through the heart:*** Permanently kills.
-    -  ***Immersion in water:*** For 1 turn permanently kills.
-    -  ***Destroying coffins:*** Permanently killed if all hit points lost when unable to rest (see coffins).
+    - ***Sunlight:*** Save vs death each round or be disintegrated.
+    - ***Stake through the heart:*** Permanently kills.
+    - ***Immersion in water:*** For 1 turn permanently kills.
+    - ***Destroying coffins:*** Permanently killed if all hit points lost when unable to rest (see coffins).
 
 ## [Veteran](name:veteran)
 
