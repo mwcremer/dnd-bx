@@ -2,12 +2,13 @@
 
 Markdown Versions of Gavin Norman's _B/X Essentials&trade;_
 
-_B/X Essentials_ is a trademark of Gavin Norman.  
 _B/X Essentials&trade;: Adventures and Treasures_ Copyright &copy; 2018 by Gavin Norman.  
 _B/X Essentials&trade;: Classes and Equipment_ Copyright &copy; 2017 by Gavin Norman.  
 _B/X Essentials&trade;: Cleric and Magic-User Spells_ Copyright &copy; 2017 by Gavin Norman.  
 _B/X Essentials&trade;: Core Rules_ Copyright &copy; 2017 by Gavin Norman.  
 _B/X Essentials&trade;: Monsters_ Copyright &copy; 2017 by Gavin Norman.
+
+_B/X Essentials_ is a trademark of Gavin Norman.  
 
 The original "plain text" RTF files are archived in the [originals](originals) directory.
 
