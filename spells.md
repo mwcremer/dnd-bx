@@ -2,28 +2,9 @@
 
 v1.0.0
 
-This is the plain text version of **_B/X Essentials(tm): Cleric and Magic-User Spells_**, provided as an aid to others who wish to create their own house rules documents or retro-clones (please read the [Open Game License](LICENSE) carefully!).
+This is a Markdown version of **_B/X Essentials(tm): Cleric and Magic-User Spells_**, Copyright (c) 2017 by Gavin Norman. _B/X Essentials_ is a trademark of Gavin Norman.
 
-Copyright (c) 2017 by Gavin Norman. _B/X Essentials_ is a trademark of Gavin Norman.
-
-This product is released under the terms of the Open Game License Version 1.0a, Copyright 2000, Wizards of the Coast, Inc. Includes elements of the OGC text of _Labyrinth Lord_ by Dan Proctor. Many thanks.
-
->Author's Note
->
->In contrast to the usual "block of text" style of spell presentation, I have broken down each spell's description into logical chunks:
->
->- Different mechanical aspects of a spell are separated out into bullet points for quick reference.
->- If a spell has multiple possible uses, these are separated out and numbered. (For example, the humble _light_ spell has three separate usages: conjuring light, blinding a creature, and dispelling _darkness_.)
->In addition, I have made the following usability enhancements:
->
->- All uses of spells that allow a saving throw are highlighted with **bold text**.
->- Spell ranges of 0 or 0' (which are applied somewhat inconsistently in the Basic/Expert rules) are replaced with a clear verbal description. (e.g. "Range: The caster", instead of "Range: 0".)
->- Likewise, spells with touch range have the additional clarification that the caster may cast the spell upon him- or herself.
->- I have taken the liberty of including a description for the mythical _detect invisible_ spell, famously missing from the Basic rules (an error that was, curiously, not corrected in the Expert rules!).
->
->It is important to note, however, that I have not attempted to clarify all ambiguities in the spell descriptions. The relatively minimal descriptions of the Basic/Expert spells sometimes lead to areas of uncertainty, where the effects or limitations of a spell are not thoroughly specified. This is regarded as a charming feature of the rule set and an encouragement for the referee to make rulings as to how each spell works in his or her campaign. I have been careful to not resolve such uncertainties, except in rare cases where an actual contradiction was present.
->
->One prominent area of unclarity is worth discussing specifically: a number of spells have effects that depend on the caster maintaining concentration. No strict definition of the requirements for concentrating is given in the Basic/Expert rules, thus some degree of referee interpretation is required. One spell---_conjure elemental_---mentions that the caster may not engage in combat or cast other spells while concentrating. The referee may wish to apply these stipulations to other spells that require concentration.
+This product is released under the terms of the Open Game License Version 1.0a, Copyright 2000, Wizards of the Coast, Inc. See the [LICENSE](LICENSE) file for details.
 
 ## <a name="cleric_spell_list"></a>Cleric Spell List
 

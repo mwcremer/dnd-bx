@@ -2,11 +2,9 @@
 
 v1.0.4
 
-This is the plain text version of **_B/X Essentials(tm): Classes and Equipment_**, provided as an aid to others who wish to create their own house rules documents or retro-clones (please read the [Open Game License](LICENSE) carefully!).
+This is a Markdown version of **_B/X Essentials(tm): Classes and Equipment_**, Copyright (c) 2017 by Gavin Norman. _B/X Essentials_ is a trademark of Gavin Norman.
 
-Copyright (c) 2017 by Gavin Norman. _B/X Essentials_ is a trademark of Gavin Norman.
-
-This product is released under the terms of the Open Game License Version 1.0a, Copyright (c) 2000, Wizards of the Coast, Inc. Based on the OGC text of _Labyrinth Lord_ by Dan Proctor and _Lamentations of the Flame Princess_ by James Raggi. Many thanks to both.
+This product is released under the terms of the Open Game License Version 1.0a, Copyright 2000, Wizards of the Coast, Inc. See the [LICENSE](LICENSE) file for details.
 
 ## <a name="contents"></a>Contents
 

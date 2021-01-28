@@ -1,12 +1,20 @@
-# [BXCombined](name:bxcombined)
+# [BXCombined](@bxcombined)
 
-Copyright (c) 2020 by $mike cremer.
+This is a single document combining Gavin Norman's excellent B/X Essentials(tm):
 
-This product is released under the terms of the [Open Game License](#license) Version 1.0a, Copyright (c) 2000, Wizards of the Coast, Inc. Based on the Open Game Content text of  _B/X Essentials(tm)_ by Gavin Norman, _Labyrinth Lord(tm)_ by Dan Proctor and _Lamentations of the Flame Princess(tm)_ by James Raggi. Many thanks to all.
+- _B/X Essentials(tm): Adventures and Treasures_ Copyright (c) 2018 by Gavin Norman.
+- _B/X Essentials(tm): Classes and Equipment_ Copyright (c) 2017 by Gavin Norman.
+- _B/X Essentials(tm): Cleric and Magic-User Spells_ Copyright (c) 2017 by Gavin Norman.
+- _B/X Essentials(tm): Core Rules_ Copyright (c) 2017 by Gavin Norman.
+- _B/X Essentials(tm): Monsters_ Copyright (c) 2017 by Gavin Norman.
+
+_B/X Essentials_ is a trademark of Gavin Norman.
+
+This product is released under the terms of the [Open Game License](#license) Version 1.0a, Copyright (c) 2000, Wizards of the Coast, Inc. Based on the Open Game Content text of _B/X Essentials(tm)_ by Gavin Norman, _Labyrinth Lord(tm)_ by Dan Proctor and _Lamentations of the Flame Princess(tm)_ by James Raggi. Many thanks to all.
 
 # Creating a Character
 
-## [Character Creation Checklist](name:character_creation)
+## [Character Creation Checklist](@character_creation)
 
 1. Roll Ability Scores
 2. Choose a Class
@@ -18,13 +26,13 @@ This product is released under the terms of the [Open Game License](#license) Ve
 8. Choose Alignment
 9. Note Known Languages
 
-## [Ability Scores](name:ability_scores)
+## [Ability Scores](@ability_scores)
 
-### [Roll Ability Scores](name:roll_ability_scores)
+### [Roll Ability Scores](@roll_ability_scores)
 
 Character ability scores are determined by rolling randomly. Roll 3d6 for your character's Strength, Intelligence, Wisdom, Dexterity, Constitution, and Charisma.
 
-### [Ability Score Modifiers](name:ability_score_modifiers)
+### [Ability Score Modifiers](@ability_score_modifiers)
 
 Below are the standard ability score modifiers.
 
@@ -38,13 +46,13 @@ Ability | Standard Modifier
 16--17 | +2
 18 | +3
 
-### [Strength](name:str)
+### [Strength](@str)
 
 Strength (STR) rates a character's brawn, muscle, and physical power. This ability is especially important for characters who focus on melee combat.
 
 - The [***Standard Modifier***](#ability_score_modifiers) is applied to attack and damage rolls with melee weapons and to attempts to force open a stuck [door](#doors).
 
-### [Intelligence](name:int)
+### [Intelligence](@int)
 
 Intelligence (INT) determines how well a character learns, remembers, and reasons.
 
@@ -61,13 +69,13 @@ INT | Language Ability | Bonus Languages
 16--17 | Can read and write native languages | 2
 18 | Can read and write native languages | 3
 
-### [Wisdom](name:wis)
+### [Wisdom](@wis)
 
 Wisdom (WIS) encompasses a character's willpower, common sense, perception, and intuition. While Intelligence represents one's ability to analyse information, Wisdom represents being in tune with and aware of one's surroundings.
 
 - The [***Standard Modifier***](#ability_score_modifiers) is applied to saving throws versus magical effects. This normally does not include saves against breath attacks, but may apply to any other saving throw category.
 
-### [Dexterity](name:dex)
+### [Dexterity](@dex)
 
 Dexterity (DEX) measures hand-eye coordination, agility, reflexes, and balance. This ability is important for combat-oriented classes, as it affects Armour Class, and for characters who focus on missile combat.
 
@@ -84,13 +92,13 @@ DEX | Initiative Adjustment
 16--17 | +1
 18 | +2
 
-### [Constitution](name:con)
+### [Constitution](@con)
 
 Constitution (CON) represents a character's health and stamina. A Constitution bonus increases a character's hit points, making this ability important for all classes.
 
 - The [***Standard Modifier***](#ability_score_modifiers) applies when rolling a character's hit points (i.e. at 1st level and every time a level is gained thereafter). A character always gains at least 1 hit point per Hit Die, regardless of CON modifier.
 
-### [Charisma](name:cha)
+### [Charisma](@cha)
 
 Charisma (CHA) measures a character's force of personality, persuasiveness, personal magnetism, physical attractiveness, and ability to lead. This ability is important for how NPCs or monsters will respond to a character in an encounter. Charisma also determines the number of retainers a character may have and their morale.
 
@@ -107,11 +115,11 @@ CHA | Reaction Adjustment | Max # of Retainers | Retainer Morale
 16--17 | +1 | 6 | 9
 18 | +2 | 7 | 10
 
-### [Sub-Par Characters](name:sub_par_characters)
+### [Sub-Par Characters](@sub_par_characters)
 
 If you roll a character with very poor ability scores---for example an 8 or less in every score or an extremely low rating in one ability---the referee may sometimes allow you to discard the character and start again.
 
-### [Prime Requisite](name:prime_requisite)
+### [Prime Requisite](@prime_requisite)
 
 Each character class has one or more prime requisites, that is, an ability score or scores that are of especial importance to characters of that class. A character's score in his or her class' prime requisite(s) affects how quickly the character is able to gain experience points.
 
@@ -125,7 +133,7 @@ Score | XP Adjustment
 13--15 | +5%
 16--18 | +10%
 
-### [Adjust Ability Scores](name:adjust_ability_scores)
+### [Adjust Ability Scores](@adjust_ability_scores)
 
 Optionally, the prime requisite(s) of your character (determined by the chosen class) may be raised by lowering other (non-prime requisite) ability scores. For every two points by which an ability score is reduced, one point may be added to your prime requisite. The following restrictions apply:
 
@@ -133,11 +141,11 @@ Optionally, the prime requisite(s) of your character (determined by the chosen c
 - No score may be lowered below 9.
 - Some classes may have extra constraints.
 
-## [Character Classes](name:character_classes)
+## [Character Classes](@character_classes)
 
 Select one of the classes available, bearing in mind the minimum ability score requirements of some classes.
 
-### [Fighter](name:fighter)
+### [Fighter](@fighter)
 
 **Requirements:** None  
 **Prime Requisite:** STR  
@@ -149,17 +157,17 @@ Select one of the classes available, bearing in mind the minimum ability score r
 
 Fighters are humans who dedicate themselves to mastering the arts of combat and war. In a group of adventurers, fighters are often particularly burdened because they are tougher and must take the lead to defend other characters.
 
-#### [Abilities](name:fighter_abilities)
+#### [Abilities](@fighter_abilities)
 
 ***Combat:*** Fighters can use all forms of weapon and armour.
 
 ***Stronghold:*** Any time a fighter wishes (and has sufficient money), he or she can build a castle or stronghold and control the surrounding lands.
 
-#### [Reaching 9th Level](name:fighter_reaching_9th_level)
+#### [Reaching 9th Level](@fighter_reaching_9th_level)
 
 Upon achieving 9th level, a fighter may be granted a title such as Baron or Baroness. The land under the fighter's control is then known as a Barony.
 
-#### [Fighter Level Progression](name:fighter_level_progression)
+#### [Fighter Level Progression](@fighter_level_progression)
 
 Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
 --|---|-----|----|----|----|----|----|---
@@ -181,7 +189,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
-#### [Fighter Attack Chart](name:fighter_attack_chart)
+#### [Fighter Attack Chart](@fighter_attack_chart)
 
 | Level | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
 |-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -191,7 +199,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 | 10--12 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |
 | 13--14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  2 |
 
-#### [Fighter Saving Throw Chart](name:fighter_saving_throw_chart)
+#### [Fighter Saving Throw Chart](@fighter_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -201,7 +209,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 10--12 | 6 | 7 | 8 | 8 | 10
 13--14 | 4 | 5 | 6 | 5 | 8
 
-### [Cleric](name:cleric)
+### [Cleric](@cleric)
 
 **Requirements:** None  
 **Prime Requisite:** WIS  
@@ -217,7 +225,7 @@ Clerics are humans who have sworn to serve a deity. They conduct their lives in 
 
 ***Deity Disfavour:*** If a cleric ever falls from favour, due to violating the beliefs or strictures of his or her deity or clergy, penalties (determined by the referee) may be imposed upon the cleric. These may include penalties to attack (&minus;1) or even a reduction in spells.
 
-#### [Abilities](name:cleric_abilities)
+#### [Abilities](@cleric_abilities)
 
 ***Combat:*** Clerics can use any form of armour, but strict holy doctrine prevents their use of weapons that have a sharp edge. Thus, only the following weapons from the standard lists in [***Weapons***](#weapons) may be used: club, mace, sling, staff, warhammer.
 
@@ -238,13 +246,13 @@ If _turn undead_ is used against a mixed group of undead monsters of different t
 
 ***Using Magic Items:*** As spell casters, clerics can use magic scrolls of spells on their spell list. There are also items (e.g. some staves) that only clerics can use.
 
-#### [Reaching 9th Level](name:cleric_reaching_9th_level)
+#### [Reaching 9th Level](@cleric_reaching_9th_level)
 
 Once attaining 9th level, a cleric may establish or build a stronghold. So long as the cleric is currently in favour with his or her god, a stronghold may be bought or built at half the normal price, due to divine intervention.
 
 Once a stronghold is established, the cleric will attract followers (5d6 &times; 10 fighters of 1st or 2nd level). These troops are completely devoted to the cleric (never checking morale). The referee chooses which proportions of followers are 1st and 2nd level and which are bowmen, infantry, etc.
 
-#### [Cleric Level Progression](name:cleric_level_progression)
+#### [Cleric Level Progression](@cleric_level_progression)
 
 Level | XP | Hit Dice | AC0 | Death | Wands | Paralysis | Breath | Spells
 --|---|-----|----|----|----|----|----|---
@@ -266,7 +274,7 @@ Level | XP | Hit Dice | AC0 | Death | Wands | Paralysis | Breath | Spells
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
-#### [Cleric Attack Chart](name:cleric_attack_chart)
+#### [Cleric Attack Chart](@cleric_attack_chart)
 
 | Level | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
 |-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -275,7 +283,7 @@ Level | XP | Hit Dice | AC0 | Death | Wands | Paralysis | Breath | Spells
 |  9--12 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
 | 13--14 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |
 
-#### [Cleric Saving Throw Chart](name:cleric_saving_throw_chart)
+#### [Cleric Saving Throw Chart](@cleric_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -284,7 +292,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 9--12 | 6 | 7 | 9 | 11 | 9
 13--14 | 3 | 5 | 7 | 8 | 7
 
-#### [Cleric Spell Casting](name:cleric_spell_casting)
+#### [Cleric Spell Casting](@cleric_spell_casting)
 
 Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level
 --|---|---|---|---|--
@@ -303,7 +311,7 @@ Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level
 13 | 5 | 5 | 5 | 4 | 4
 14 | 6 | 5 | 5 | 5 | 4
 
-#### [Turning the Undead](name:turning_the_undead)
+#### [Turning the Undead](@turning_the_undead)
 
 Level | 1 HD | 2 HD | 2 HD* | 3 HD | 4 HD | 5 HD | 6 HD | 7+ HD
 --|---|---|----|---|---|---|---|---
@@ -321,7 +329,7 @@ Level | 1 HD | 2 HD | 2 HD* | 3 HD | 4 HD | 5 HD | 6 HD | 7+ HD
 
 \* _2 Hit Dice monsters with a special ability (e.g. paralysing touch, immunity to normal weapons, etc.) are more difficult to turn, as indicated by this column of the chart. Such monsters will have an asterisk next to their HD rating, in the monster description._
 
-### [Magic-User](name:magic_user)
+### [Magic-User](@magic_user)
 
 **Requirements:** None  
 **Prime Requisite:** INT  
@@ -333,7 +341,7 @@ Level | 1 HD | 2 HD | 2 HD* | 3 HD | 4 HD | 5 HD | 6 HD | 7+ HD
 
 Sometimes called wizards, warlocks, or witches, magic-users are humans who study arcane secrets and cast spells. Magic-users are able to cast a greater number of increasingly powerful spells as they advance in level.
 
-#### [Abilities](name:magic_user_abilities)
+#### [Abilities](@magic_user_abilities)
 
 ***Combat:*** Magic-users may only use daggers and are unable to use shields or wear any kind of armour. For this reason, magic-users are weak at low levels and, in an adventuring group, should be protected.
 
@@ -343,11 +351,11 @@ Sometimes called wizards, warlocks, or witches, magic-users are humans who study
 
 ***Using Magic Items:*** As spell casters, magic-users are able to use magic scrolls of spells on their spell list. There are also items (e.g. magic wands) that may only be used by magic-users or elves.
 
-#### [Reaching 11th Level](name:reaching_11th_level)
+#### [Reaching 11th Level](@reaching_11th_level)
 
 A magic-user may build a stronghold, often a great tower, when he or she reaches level 11. 1d6 apprentices of levels 1--3 will then arrive to study under the magic-user.
 
-#### [Magic-User Level Progression](name:magic_user_level_progression)
+#### [Magic-User Level Progression](@magic_user_level_progression)
 
 Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
 --|---|-----|----|----|----|----|----|---
@@ -369,7 +377,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
-#### [Magic-User Attack Chart](name:magic_user_attack_chart)
+#### [Magic-User Attack Chart](@magic_user_attack_chart)
 
 | Level | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
 |-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -377,7 +385,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 |  6--10 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |
 | 11--14 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
 
-#### [Magic-User Saving Throw Chart](name:magic_user_saving_throw_chart)
+#### [Magic-User Saving Throw Chart](@magic_user_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -385,7 +393,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 6--10 | 11 | 12 | 11 | 14 | 12
 11--14 | 8 | 9 | 8 | 11 | 8
 
-#### [Magic-User Spell Casting](name:magic_user_spell_casting)
+#### [Magic-User Spell Casting](@magic_user_spell_casting)
 
 Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level | 6th Level
 --|---|---|---|---|---|---
@@ -404,7 +412,7 @@ Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level | 6th Level
 13 | 4 | 4 | 4 | 3 | 3 | 3
 14 | 4 | 4 | 4 | 4 | 3 | 3
 
-### [Thief](name:thief)
+### [Thief](@thief)
 
 **Requirements:** None  
 **Prime Requisite:** DEX  
@@ -418,7 +426,7 @@ Thieves are humans who live by their wits and skills of deception and intrigue. 
 
 ***Note:*** in step 3 of character creation ([***adjust ability scores***](#adjust_ability_scores)), thieves may not lower Strength.
 
-#### [Abilities](name:thief_abilities)
+#### [Abilities](@thief_abilities)
 
 ***Back-stab:*** When attacking an unaware opponent from behind, a thief receives a +4 bonus to hit and doubles any damage dealt.
 
@@ -438,11 +446,11 @@ Thieves are humans who live by their wits and skills of deception and intrigue. 
 - ***Pick Locks:*** A thief is skilled in picking locks, but needs thieves' tools to do so (see [***Equipment***](#equipment)). He or she can only try to pick a lock one time and, if the roll fails, may not try the same lock again before gaining an experience level.
 - ***Pick Pockets:*** This skill is the bread and butter of non-adventuring thieves; it is a quick (if perilous) source of income. If the victim is above 5th level, the thief's roll is penalised by 5% for every level above 5th. There is always at least a 1% chance of failure. A roll of more than twice the percentage required for success means the intended target notices the thieving attempt. The referee will then roll 2d6 on the reaction table (see [***Encounters***](#encounters)) to determine the target's reaction.
 
-#### [Reaching 9th Level](name:thief_reaching_9th_level)
+#### [Reaching 9th Level](@thief_reaching_9th_level)
 
 When a thief attains level 9, he or she can establish a thief den. 2d6 thief apprentices of 1st level will come to work with the character. These thieves will serve the character with some reliability; however, should any be arrested or killed, the character will not be able to attract more followers of this type to replace them. A successful thief might use these followers to start a Thieves' Guild.
 
-#### [Thief Level Progression](name:thief_level_progression)
+#### [Thief Level Progression](@thief_level_progression)
 
 Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
 --|---|-----|----|----|----|----|----|---
@@ -464,7 +472,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 \* _Hit point modifiers from CON no longer apply._
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
-#### [Thief Attack Chart](name:thief_attack_chart)
+#### [Thief Attack Chart](@thief_attack_chart)
 
 | Level | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
 |-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -473,7 +481,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 |  9--12 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
 | 13--14 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |
 
-#### [Thief Saving Throw Chart](name:thief_saving_throw_chart)
+#### [Thief Saving Throw Chart](@thief_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -482,7 +490,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 9--12 | 10 | 11 | 9 | 12 | 10
 13--14 | 8 | 9 | 7 | 10 | 8
 
-#### [Thief Skills](name:thief_skills)
+#### [Thief Skills](@thief_skills)
 
 Level | Climb Sheer Surfaces | Find or Remove Traps | Hear Noise | Hide in Shadows | Move Silently | Pick Locks | Pick Pockets
 --|-----|-----|--------|-----|-----|-----|----
@@ -501,7 +509,7 @@ Level | Climb Sheer Surfaces | Find or Remove Traps | Hear Noise | Hide in Shado
 13 | 99% | 97% | 5-in-6 | 95% | 98% | 97% | 115%
 14 | 99% | 99% | 5-in-6 | 99% | 99% | 99% | 125%
 
-### [Dwarf](name:dwarf)
+### [Dwarf](@dwarf)
 
 **Requirements:** Minimum CON 9  
 **Prime Requisite:** STR  
@@ -513,7 +521,7 @@ Level | Climb Sheer Surfaces | Find or Remove Traps | Hear Noise | Hide in Shado
 
 Dwarves are stout, bearded demi-humans who average a height of approximately 4 feet and weigh about 150 pounds. Dwarves live underground and value precious metals, fine craftsmanship, and stones. Perhaps not surprisingly, they have skin, hair, and eye colours in earth tones. Dwarves have a reputation for having surly attitudes and are particularly gruff with elves. Dwarves are particularly hardy people and have a strong resistance to magic, as reflected in their saving throws.
 
-#### [Abilities](name:dwarf_abilities)
+#### [Abilities](@dwarf_abilities)
 
 ***Combat:*** Dwarves may use any type of armour, however, due to their short height, may only use small or normal sized weapons. This means that dwarves cannot use longbows or two-handed swords.
 
@@ -525,11 +533,11 @@ Dwarves are stout, bearded demi-humans who average a height of approximately 4 f
 
 ***Listening at Doors:*** Dwarves have a 2-in-6 chance of hearing noises (see [***Doors***](#doors)).
 
-#### [Reaching 9th Level](name:dwarf_reaching_9th_level)
+#### [Reaching 9th Level](@dwarf_reaching_9th_level)
 
 When a dwarf reaches level 9, he or she has the option of creating an underground stronghold that will attract dwarves from far and wide. Dwarves usually live in clans, so dwarves of the character's clan will be attracted to live under his or her roof. Dwarves from other clans will also come and live nearby to be ruled by the character. A dwarf ruler is able to hire dwarven soldiers or mercenaries, but may only hire members of other races for other tasks, such as human alchemists or elves for spell casting.
 
-#### [Dwarf Level Progression](name:dwarf_level_progression)
+#### [Dwarf Level Progression](@dwarf_level_progression)
 
 Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
 --|---|-----|----|---|---|----|----|---
@@ -549,7 +557,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
-#### [Dwarf Attack Chart](name:dwarf_attack_chart)
+#### [Dwarf Attack Chart](@dwarf_attack_chart)
 
 | Level | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
 |-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -558,7 +566,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 |   7--9 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
 | 10--12 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |
 
-## [Dwarf Saving Throw Chart](name:dwarf_saving_throw_chart)
+## [Dwarf Saving Throw Chart](@dwarf_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -567,7 +575,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 7--9 | 4 | 5 | 6 | 7 | 8
 10--12 | 2 | 3 | 4 | 4 | 6
 
-### [Elf](name:elf)
+### [Elf](@elf)
 
 **Requirements:** Minimum INT 9  
 **Prime Requisite:** INT and STR  
@@ -581,7 +589,7 @@ Elves are slender, fey demi-humans with pointed ears. They are very diverse in a
 
 ***Prime Requisites:*** An elf must have at least 13 in both prime requisites in order to get the +5% bonus to experience. An elf with an INT of at least 16 and a STR of at least 13 receives a +10% XP bonus.
 
-#### [Abilities](name:elf_abilities)
+#### [Abilities](@elf_abilities)
 
 ***Combat:*** Elves are able to use all forms of weapon and armour.
 
@@ -599,11 +607,11 @@ Elves are slender, fey demi-humans with pointed ears. They are very diverse in a
 
 ***Using Magic Items:*** As spell casters, elves are able to use magic scrolls of spells on their spell list. There are also items (e.g. magic wands) that may only be used by elves or magic-users.
 
-#### [Reaching 9th Level](name:elf_reaching_9th_level)
+#### [Reaching 9th Level](@elf_reaching_9th_level)
 
 An elf can establish a stronghold in a natural setting, such as a forest or glen, upon reaching 9th level. Rather than impose upon nature, this keep must blend seamlessly with it. Even if the stronghold is not constructed of stone, the cost is the same due to the quality and artistry of elven craft. Because of the elven connection to nature, all ordinary animals within 5 miles of the stronghold will be kind and helpful to the elves. This helpfulness includes the ability to warn of dangers and pass information or even messages to others nearby. However, in exchange, an elven ruler must always defend the animals within his or her territory. Elven rulers can hire members of other races in the capacity of retainers or specialists, but only soldiers of elven stock may be hired.
 
-#### [Elf Level Progression](name:elf_level_progression)
+#### [Elf Level Progression](@elf_level_progression)
 
 Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
 --|---|-----|----|----|----|----|----|---
@@ -621,7 +629,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
-#### [Elf Attack Chart](name:elf_attack_chart)
+#### [Elf Attack Chart](@elf_attack_chart)
 
 | Level | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
 |-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -630,7 +638,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 |   7--9 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
 |    10 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |
 
-## [Elf Saving Throw Chart](name:elf_saving_throw_chart)
+## [Elf Saving Throw Chart](@elf_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -639,7 +647,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 7--9 | 8 | 9 | 9 | 10 | 10
 10 | 6 | 7 | 8 | 8 | 8
 
-#### [Elf Spell Casting](name:elf_spell_casting)
+#### [Elf Spell Casting](@elf_spell_casting)
 
 Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level
 --|---|---|---|---|---
@@ -654,7 +662,7 @@ Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level
 9 | 3 | 3 | 3 | 2 | 1
 10 | 3 | 3 | 3 | 3 | 2
 
-### [Halfling](name:halfling)
+### [Halfling](@halfling)
 
 **Requirements:** Minimum CON and DEX 9  
 **Prime Requisite:** DEX and STR  
@@ -668,7 +676,7 @@ Halflings are small, rotund demi-humans with furry feet and curly hair. They wei
 
 ***Prime Requisites:*** A halfling must have at least 13 in one or the other prime requisite in order to get a +5% to experience. The character must have a STR and DEX of 13 or higher to get a +10% bonus.
 
-#### [Abilities](name:halfling_abilities)
+#### [Abilities](@halfling_abilities)
 
 ***Combat:*** Halflings may use any type of armour, though it must be tailored to their small size. Similarly, they may use any weapon which is appropriate to their stature. They cannot use longbows or two-handed swords.
 
@@ -687,7 +695,7 @@ Halflings are small, rotund demi-humans with furry feet and curly hair. They wei
 
 ***Stronghold:*** Any time a halfling wishes (and has sufficient money), he or she can build a stronghold. These strongholds will be in serene, beautiful valleys and halflings will come from great distances to settle there. The character becomes the leader of the people (called the sheriff) and must rule them wisely and well.
 
-#### [Halfling Level Progression](name:halfling_level_progression)
+#### [Halfling Level Progression](@halfling_level_progression)
 
 Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
 --|---|-----|----|---|---|----|----|---
@@ -702,7 +710,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
-#### [Halfling Attack Chart](name:halfling_attack_chart)
+#### [Halfling Attack Chart](@halfling_attack_chart)
 
 | Level | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
 |-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -710,7 +718,7 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 |   4--6 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |
 |   7--8 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |
 
-## [Halfling Saving Throw Chart](name:halfling_saving_throw_chart)
+## [Halfling Saving Throw Chart](@halfling_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -718,21 +726,21 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 4--6 | 6 | 7 | 8 | 10 | 10
 7--8 | 4 | 5 | 6 | 7 | 8
 
-## [Hit Points](name:roll_hit_points)
+## [Hit Points](@roll_hit_points)
 
 Determine your character's hit points by rolling the die type appropriate to the chosen class. Modifiers for high or low Constitution apply (see [***Ability Scores***](#ability_scores)). Your character always starts with at least 1 hit point, regardless of CON modifier.
 
-### [Re-Rolling 1s and 2s (Optional Rule)](name:re_rolling_1s_and_2s)
+### [Re-Rolling 1s and 2s (Optional Rule)](@re_rolling_1s_and_2s)
 
 If your roll for hit points comes up 1 or 2 (_before_ applying any CON modifier), the referee may allow you to re-roll. This is in order to increase the survivability of 1st level PCs.
 
-## [Money and Wealth](name:money_and_wealth)
+## [Money and Wealth](@money_and_wealth)
 
-### [Coinage](name:coinage)
+### [Coinage](@coinage)
 
 The most common coin is the gold piece (gp). Coins made of other types of precious metals---platinum, electrum, silver, and copper---are also used. Platinum is more valuable than gold: a platinum piece (pp) is worth 5 gold pieces. Coins of the other metals are less valuable than gold: a gold piece is worth 2 electrum pieces (ep), 10 silver pieces (sp), or 100 copper pieces (cp).
 
-#### [Coin Conversion Rates](name:coin_conversion_rates)
+#### [Coin Conversion Rates](@coin_conversion_rates)
 
 Coin | 1 pp | 1 gp | 1 ep | 1 sp | 1 cp
 -----|------|------|------|------|-----
@@ -742,13 +750,13 @@ Value in ep | 10 | 2 | 1 | 1/5 | 1/50
 Value in sp | 50 | 10 | 5 | 1 | 1/10
 Value in cp | 500 | 100 | 50 | 10 | 1
 
-### [Starting Money](name:starting_money)
+### [Starting Money](@starting_money)
 
 Player characters begin play with 3d6 &times; 10 gold pieces. You may spend as much of this money as you wish to equip your character for adventure, consulting the lists in [***Equipment***](#equipment).
 
 Remember that your chosen class may restrict your use of some equipment (e.g. weapons and armour).
 
-### [Inheritance](name:inheritance)
+### [Inheritance](@inheritance)
 
 Faced with the possibility of character death, players may take efforts to ensure the amassed wealth of their PCs is not simply lost if the PC dies. The referee may allow players to create a will for their characters, to leave treasure behind for an heir.
 
@@ -756,9 +764,9 @@ Faced with the possibility of character death, players may take efforts to ensur
 - A character's heir must be a new, 1st level character.
 - A player is only allowed to leave a character inheritance one time.
 
-## [Equipment](name:equipment)
+## [Equipment](@equipment)
 
-### [Adventuring Gear](name:adventuring_gear)
+### [Adventuring Gear](@adventuring_gear)
 
 Item | Cost (gp)
 -----|----------
@@ -787,7 +795,7 @@ Waterskin | 1
 Wine (2 pints) | 1
 Wolfsbane (1 bunch) | 10
 
-### [Armour](name:armour)
+### [Armour](@armour)
 
 Armour | AC | Cost (gp) | Weight (Coins)
 -------|----|-----------|---------------
@@ -798,7 +806,7 @@ Shield | &minus;1 bonus | 10 | 100
 
 ***Weight (Coins):*** The weight of armour is only tracked with [encumbrance option 2](#encumbrance_by_weight).
 
-### [Weapons](name:weapons)
+### [Weapons](@weapons)
 
 Weapon | Cost (gp) | Weight (Coins)#
 -------|-----------|-----------------
@@ -826,7 +834,7 @@ Warhammer | 5 | 30
 \* _Includes weight of ammunition/container._  
 &dagger; _Not defined in the traditional Basic/Expert rules; value extrapolated from similar items._
 
-### [Ammunition](name:ammunition)
+### [Ammunition](@ammunition)
 
 Ammunition | Cost (gp)
 -----------|----------
@@ -835,7 +843,7 @@ Arrows (quiver of 20) | 5
 Silver tipped arrow (1) | 5
 Sling stones | Free
 
-### [Weapon Combat Stats](name:weapon_combat_stats)
+### [Weapon Combat Stats](@weapon_combat_stats)
 
 Weapon | Damage | Qualities
 -------|--------|----------
@@ -865,7 +873,7 @@ Warhammer | 1d6 | Blunt, Melee
 ***Damage:*** _Die rolled when using the optional rule for [variable weapon damage](#variable_weapon_damage)._  
 &dagger; _Not defined in the traditional Basic/Expert rules; value extrapolated from similar items._
 
-#### [Qualities](name:qualities)
+#### [Qualities](@qualities)
 
 ***Blunt:*** May be used by clerics.
 
@@ -885,7 +893,7 @@ Warhammer | 1d6 | Blunt, Melee
 
 ***Two-handed:*** The weapon requires both hands; the character cannot use a shield.
 
-### [Descriptions](name:equipment_descriptions)
+### [Descriptions](@equipment_descriptions)
 
 ***Backpack:*** Has two straps and can be worn on the back, keeping the hands free. Holds up to 400 coins.
 
@@ -935,20 +943,20 @@ Warhammer | 1d6 | Blunt, Melee
 
 ***Wolfsbane:*** This herb can be used to repel lycanthropes. The creature must be hit with the herb in melee combat.
 
-### [Other Equipment](name:other_equipment)
+### [Other Equipment](@other_equipment)
 
 The items detailed in this section are those most commonly available for purchase by adventurers. Should PCs wish to purchase items not on these lists, the referee may use the listed items as guidelines for determining new items' price and characteristics, including combat statistics (if appropriate).
 
 ## Combat Details
 
-### [Armour Class](name:note_armour_class)
+### [Armour Class](@note_armour_class)
 
 Your character's Armour Class is determined by two factors:
 
 - The armour worn (see [***Armour***](#armour)). If your character has no armour, his or her base AC is 9.
 - Modifiers for high or low Dexterity (see [***Ability Scores***](#ability_scores)).
 
-### [Attack Values](name:note_attack_values)
+### [Attack Values](@note_attack_values)
 
 The level progression chart for your character's class lists the modified attack roll needed to hit an opponent with Armour Class 0. The attack roll you need to hit opponents of other AC ratings can be calculated from this value by subtracting the target AC from the value to hit AC 0.
 
@@ -960,11 +968,11 @@ Opponent's AC        |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9
 ---------------------|----|----|----|----|----|----|----|----|----|----
 Attack roll required | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10
 
-### [Saving Throws and Class Abilities](name:note_saving_throws_and_class_abilities)
+### [Saving Throws and Class Abilities](@note_saving_throws_and_class_abilities)
 
 Record any special abilities possessed by your character as a result of his or her class, as well as your character's saving throws. If your character has a spell book, ask your referee which spells are recorded in it. The referee may allow you to choose.
 
-## [Alignment](name:alignment)
+## [Alignment](@alignment)
 
 All beings, whether player characters, NPCs, or monsters, adhere to one of three philosophies or spheres of behaviour, known as _alignments_. These spheres are Law, Neutrality, and Chaos. A player must choose one of these paths when his or her character is created.
 
@@ -976,29 +984,29 @@ All beings, whether player characters, NPCs, or monsters, adhere to one of three
 
 Decide whether your character is Lawful, Neutral, or Chaotic and note this on your character sheet.
 
-### [Player Characters](name:player_characters)
+### [Player Characters](@player_characters)
 
 The player must inform the referee of his or her character's alignment, but does not have to tell other players. When determining the character's actions, players should do their best to adhere to their chosen alignment. The referee will take note when behaviour deviates too much and may assign a new alignment more appropriate to actual character actions. Deviation from alignment may also be penalised, as the referee sees fit.
 
-## [Languages](name:languages)
+## [Languages](@languages)
 
 Every character begins play knowing one or more languages, determined by the character's class. Characters with high Intelligence may also choose additional languages.
 
-### [The Common Tongue](name:the_common_tongue)
+### [The Common Tongue](@the_common_tongue)
 
 The common tongue (sometimes simply called _Common_) is a language which is widespread among intelligent species. All player character races---as well as many monsters (see below)---are able to speak Common.
 
 It is assumed that the common tongue is a language common to all humans and used by other intelligent races. However, the referee may rule that different human cultures in the campaign world have different languages, in which case a particular human language must be chosen instead of Common.
 
-### [Alignment Languages](name:alignment_languages)
+### [Alignment Languages](@alignment_languages)
 
 All intelligent beings know a secret, unwritten language of gestures, signs, and code words associated with their alignment. This secret language allows beings of the same alignment to communicate. Beings of another alignment will recognise when an alignment language is being used, but will not understand. It is not possible to learn another alignment language except by changing alignment, in which case the former language is forgotten.
 
-### [Monster Languages](name:monster_languages)
+### [Monster Languages](@monster_languages)
 
 20% of intelligent monsters speak Common (unless the monster description states otherwise). Many intelligent monster species also have their own tongue.
 
-### [Player Character Languages](name:player_character_languages)
+### [Player Character Languages](@player_character_languages)
 
 All PCs know the common tongue and their alignment language. Some classes grant further languages, as noted in the class descriptions, and characters with high Intelligence receive additional languages, chosen at the referee's discretion. The following list of languages may be used:
 
@@ -1023,13 +1031,13 @@ All PCs know the common tongue and their alignment language. Some classes grant 
 19. Pixie
 20. Human dialect
 
-## [Character Advancement and Death](name:character_advancement_and_death)
+## [Character Advancement and Death](@character_advancement_and_death)
 
-### [Parties of Mixed Levels](name:parties_of_mixed_levels)
+### [Parties of Mixed Levels](@parties_of_mixed_levels)
 
 As new player characters join play (either due to the death of old characters or due to new players joining the group), the experience levels of the characters in the party may begin to diverge. It is recommended that characters more than four levels apart should adventure separately, as challenges which are suitable for higher level characters will be too dangerous for those of lower level. The opposite is also true: low-level adventures will not provide an interesting challenge to characters of higher level.
 
-### [Level Titles (Optional Rule)](name:level_titles)
+### [Level Titles (Optional Rule)](@level_titles)
 
 In some campaigns, characters are not merely referred to by their numerical experience level (e.g. "2nd level magic-user"), but also gain the right to bear certain titles as they advance in level. Such titles may be granted by the guilds, colleges, or temples that PCs are associates of.
 
@@ -1049,7 +1057,7 @@ Level titles often vary greatly between campaign worlds, but the following lists
 
 ***Thief:*** Apprentice, Footpad, Robber, Burglar, Cutpurse, Sharper, Pilferer, Thief, Master Thief.
 
-### [High Level Play (Optional Rule)](name:high_level_play)
+### [High Level Play (Optional Rule)](@high_level_play)
 
 Human character classes are listed as having a maximum level of 14. This range of levels presents the best play experience, in terms of challenge and reward. Some groups, however, may wish to continue play into the extremely high levels beyond. In this case, human characters may continue advancing to a maximum of 36th level. This must be carefully considered, as PCs of some classes will be left behind, due to their strict level limits. If the referee allows continued play into higher levels, the following guidelines may be used. Additionally, other rule books are available which detail high level play.
 
@@ -1063,13 +1071,13 @@ Note that however far a character's ability to hit in combat advances, the minim
 
 ***Thieves*** require an additional 120,000 XP per level beyond 14th and gain 2 hit points per level gained. Their chance to hit in combat improves by 2 every 4 levels. Additional skills become available to high level thieves, including the ability to climb upside down or horizontally, voice skills such as mimicry and ventriloquism, and other skills of deception.
 
-# [Magic](name:magic)
+# [Magic](@magic)
 
-## [Spells](name:spells)
+## [Spells](@spells)
 
 Some character classes have the ability to memorize and cast magical spells. There are two types of magic: **divine magic**, which a deity or higher power grants, and **arcane magic**, which is learned by esoteric study.
 
-## [Memorizing Spells](name:memorizing_spells)
+## [Memorizing Spells](@memorizing_spells)
 
 A spell consists of a pattern of magical energy stored in a character's mind. A spell caster is able to memorize a certain number of spells of different spell levels, depending on his or her experience level. A character can memorize the same spell more than once if he or she is capable of memorizing more than one spell of the given level.
 
@@ -1077,21 +1085,21 @@ Arcane spell casters memorize spells from spell books and are thus limited to ch
 
 Divine spell casters do not study from books, but instead receive the knowledge of how to cast spells through prayer to their gods. When praying for spells, divine spell casters have access to all spells in their class' spell list that they are of high enough level to cast.
 
-### [Rest and Time Requirements](name:rest_and_time_requirements)
+### [Rest and Time Requirements](@rest_and_time_requirements)
 
 All spell casters can memorize new spells after an uninterrupted night's sleep. It takes one hour to memorize all spells the character is capable of learning.
 
-## [Casting Spells](name:casting_spells)
+## [Casting Spells](@casting_spells)
 
 A memorized spell may be cast by precisely replicating the required set of hand gestures and mystical spoken words. When a spell is cast, knowledge of the spell is erased from the mind of the caster.
 
-### [Spell Casting Constraints](name:spell_casting_constraints)
+### [Spell Casting Constraints](@spell_casting_constraints)
 
 All spell casters need to be able to move their hands and speak in order to make the gestures and speak the magical phrases that bring magic effects into being. As a result, a spell caster cannot cast spells if gagged, bound, or in an area of magical silence.
 
 When casting spells in combat, it is possible for spell casting to be disrupted. See [***Basic Combat Procedure***](#basic_combat_procedure).
 
-## [Reversible Spells](name:reversible_spells)
+## [Reversible Spells](@reversible_spells)
 
 Some spells are reversible; this is indicated in each spell's description.
 
@@ -1099,79 +1107,79 @@ For arcane spell casters, the normal or reversed form of a spell must be selecte
 
 A divine spell caster can use either form of a spell without having to pray for the different versions separately; the character may decide which version (normal or reversed) to use when the spell is cast. However, a divine spell caster may draw dissatisfaction from his or her deity when casting spells (or their reversed versions) whose effects go against the deity's alignment.
 
-## [Cumulative Spell Effects](name:cumulative_spell_effects)
+## [Cumulative Spell Effects](@cumulative_spell_effects)
 
 Multiple spells cannot be used to increase the same ability (e.g. bonuses to attack rolls, Armour Class, damage rolls, saving throws, etc.). Spells that affect _different_ abilities can be combined. In addition, spells can be combined with the effects of magical items.
 
-## [Spell Books](name:spell_books)
+## [Spell Books](@spell_books)
 
 Arcane spell casters record the spells that they know in a spell book (or set of spell books). A character's spell book contains exactly the number of spells that the character is capable of memorizing. For example, a character who is able to memorize two 1st level spells and one 2nd level spell would have exactly that number of spells in his or her spell book.
 
-### [Lost Spell Books](name:lost_spell_books)
+### [Lost Spell Books](@lost_spell_books)
 
 Sometimes a spell book will either be lost or destroyed. An arcane spell caster can rewrite the spells through research and memory at a cost of 1 week of game time and 1,000 gp for each spell level. For instance, if two first level spells and one 2nd level spell are replaced, it will take 4 weeks and 4,000 gp. This activity requires complete concentration and a character doing this work may not engage in any other activity for the time required.
 
-### [Captured Spell Books](name:captured_spell_books)
+### [Captured Spell Books](@captured_spell_books)
 
 Each arcane spell caster's spell books are written in such a way that only the owner is able to read the spells without the use of _read magic_.
 
-### [Beginning Spells](name:beginning_spells)
+### [Beginning Spells](@beginning_spells)
 
 Arcane spell casters begin play with one 1st level spell in their spell book. The referee may choose this spell or may allow the player to select one.
 
-### [Adding Spells](name:adding_spells)
+### [Adding Spells](@adding_spells)
 
 When an arcane spell caster gains a level, he or she may consult a wizard's guild or mentor to learn new spells. In this way, the character can add spells to his or her spell books, so that the books contain the same number of spells the characters is able to cast. This process takes about a week of game time. (The spells a character learns in this way are determined by the referee, who may decide to let the player to choose.)
 
 It is also possible to add spells to a spell book by means of [***Magical Research***](#magical_research).
 
-## [Magic Items](name:magic_items)
+## [Magic Items](@magic_items)
 
-### [Identifying](name:identifying)
+### [Identifying](@identifying)
 
 Most magic items are not labelled, so characters must discover their exact properties through trial and error. Powerful wizards may be able to identify magic items, but it can take many weeks to do so. Alchemists are also able to identify some items, such as potions.
 
-### [Using](name:using)
+### [Using](@using)
 
 In order to use a magic item, a character must follow the procedures indicated in the item's description. The item must be worn or held in the usual manner. Some magic items (e.g. an enchanted suit of armour) are always active, but others must be consciously activated--this requires a round of concentration, during which the character may do nothing else. Some items have special activation conditions, such as command words.
 
-### [Charges](name:magic_item_charges)
+### [Charges](@magic_item_charges)
 
 Some magic items have limited uses, called "charges". Each charge can be spent to bring about one instance of the item's magical effect. A character cannot know how many charges an item has and, when the charges are all spent, the item becomes a normal, non-magical object--it cannot be recharged.
 
-### [Cursed Items](name:cursed_items)
+### [Cursed Items](@cursed_items)
 
 Cursed items, once possessed by a character, can only be disposed of if the curse is dispelled by magic. The owner of a cursed item will not believe the item is cursed and will resist efforts to get rid of the item until the curse is dispelled.
 
-### [Magic Weapons](name:magic_weapons)
+### [Magic Weapons](@magic_weapons)
 
 Magic weapons follow the same class restrictions as normal weapons. A magic weapon has a "+" value, indicating the degree of its enchantment. This value is applied to attack and damage rolls using the weapon.
 
-### [Cursed Weapons](name:cursed_weapons)
+### [Cursed Weapons](@cursed_weapons)
 
 Cursed weapons have the opposite effect, incurring penalties to attack and damage equal to the "+" value specified. The possessor of a cursed weapon will prefer to use this weapon in combat above any other weapon.
 
-### [Magic Armour](name:magic_armour)
+### [Magic Armour](@magic_armour)
 
 Magic armour follows the same class restrictions as normal armour. A suit of magical armour has a "+" value indicating its degree of enchantment. The wearer's AC is improved (i.e. reduced) by the "+" value.
 
 Magic armour is also lighter and less cumbersome than normal. When using the optional rule for encumbrance by weight carried (see [***Encumbrance***](#encumbrance)), enchanted leather armour weighs 75 coins, chainmail 150 coins, and plate mail 200 coins.
 
-### [Cursed Armour](name:cursed_armour)
+### [Cursed Armour](@cursed_armour)
 
 Cursed armour appears to be armour +1, but actually has an Armour Class rating of 9. It has the same weight as normal, non-magical armour of the same type.
 
-### [Potions](name:potions)
+### [Potions](@potions)
 
 Most potions are found as a single dose that imbues the potion's effects on one individual. Potions usually bear no label and vary in their appearance, aroma, etc. Even two potions of the same type will differ. A potion may be identified by sampling a small amount.
 
 Unless a potion's description specifies otherwise, potions take effect in the same round as their consumption and last for 1d6+6 turns.
 
-### [Mixing Potions](name:mixing_potions)
+### [Mixing Potions](@mixing_potions)
 
 If a potion is consumed while the character is still under the effects of another potion, the effects of both potions are nullified and the character becomes sick, unable to do anything for three turns.
 
-### [Scrolls](name:scrolls)
+### [Scrolls](@scrolls)
 
 Scrolls are pieces of parchment, imbued with potent magical writings. Simply pronouncing the words releases their power.
 
@@ -1179,27 +1187,27 @@ Some scrolls can be deciphered and read by any class, while others have restrict
 
 Once a scroll is used, the magical writing disappears. (In the case of scrolls containing multiple spells, only the spell cast disappears.)
 
-### [Rings](name:rings)
+### [Rings](@rings)
 
 Magical rings are usable by any character class. They must be worn on a finger or thumb. It is only possible to wear two magical rings: one on each hand. If more than two are worn, none of them will function.
 
-### [Cursed Rings](name:cursed_rings)
+### [Cursed Rings](@cursed_rings)
 
 Cursed rings are always active. Their effects are not nullified, no matter how many other rings are worn.
 
-### [Rods, Staves, and Wands](name:rods_staves_and_wands)
+### [Rods, Staves, and Wands](@rods_staves_and_wands)
 
 Rods are generally usable by characters of any class. Wands are only usable by arcane spell casters. Staves are only usable by spell casters--either divine or arcane, depending on the item.
 
 These magic items generally have a limited number of "charges" which are spent to trigger the item's magical effect. When found, a rod has 1d10 charges, a wand has 2d10 charges, and a staff has 3d10 charges.
 
-## [Magical Research](name:magical_research)
+## [Magical Research](@magical_research)
 
-### [Creating New Spells](name:creating_new_spells)
+### [Creating New Spells](@creating_new_spells)
 
 Spell casting characters of any level are able to research and create new spells. The player must describe in detail the kind of spell he or she wants to create and the effects it has. The referee will then decide if the spell can be created and, if so, what the spell level will be. The character must be capable of casting spells of the spell level the potential new spell will be, otherwise the player must wait until the character attains a high enough level to research and cast the spell. If the character can create the spell, it will take two weeks of game time and 1,000 gp per spell level.
 
-### [Magic Item Creation](name:magic_item_creation)
+### [Magic Item Creation](@magic_item_creation)
 
 A spell casting character of 9th level or higher may attempt to create magical items. Divine spell casters may only create items usable by their class, while arcane spell casters may create any item except those that may only be used by divine spell casters. The player should inform the referee of the item that he or she wishes to construct and the referee will decide whether this is possible and, if so, what kinds of materials are required. Materials will often include rare components such as expensive and hard to obtain gems or ingredients from rare animals and monsters. Often, the character will have to go on adventures just to acquire these materials.
 
@@ -1207,19 +1215,19 @@ Many magic items duplicate the effects of a spell, generally costing one week of
 
 Some magic items do not mimic spell effects precisely and for these the referee will have to use discretion. The more powerful the item, the more difficult it should be to construct. As a general rule, items should cost from 10,000 to 100,000 gp and from 1 month to 1 year of game time to complete. Some examples are: a dagger +1 (2 months, 10,000 gp), chainmail armour +1 (4 months, 10,000 gp), a displacer cloak (100,000 gp, 1 year).
 
-### [Other Magical Research](name:other_magical_research)
+### [Other Magical Research](@other_magical_research)
 
 Other kinds of magic effects--for which a magic item or spell is not appropriate--may be researched. Creating magic traps, magical constructs, magical portals, or other effects will need to be given a gp cost and time cost at the referee's discretion.
 
-### [Chance of Failure](name:chance_of_failure)
+### [Chance of Failure](@chance_of_failure)
 
 No attempt to create a magic item, spell, or other effect is guaranteed to succeed. There is a minimum probability of 15% that any such endeavour fails. This chance may be raised depending on the circumstances. The referee rolls for failure after the character has spent the money and time on the project--these are lost regardless of the result.
 
-## [Cleric Spell List](name:cleric_spell_list)
+## [Cleric Spell List](@cleric_spell_list)
 
 (Reversed versions of spells are listed in parentheses.)
 
-### [1st Level](name:cleric_1st_level_list)
+### [1st Level](@cleric_1st_level_list)
 
 1. [Cure Light Wounds](#cure_light_wounds) (Cause Light Wounds)
 2. [Detect Evil](#cleric_detect_evil)
@@ -1230,7 +1238,7 @@ No attempt to create a magic item, spell, or other effect is guaranteed to succe
 7. [Remove Fear (Cause Fear)](#remove_fear)
 8. [Resist Cold](#resist_cold)
 
-### [2nd Level](name:cleric_2nd_level_list)
+### [2nd Level](@cleric_2nd_level_list)
 
 1. [Bless (Blight)](#bless)
 2. [Find Traps](#find_traps)
@@ -1241,7 +1249,7 @@ No attempt to create a magic item, spell, or other effect is guaranteed to succe
 7. [Snake Charm](#snake_charm)
 8. [Speak with Animals](#speak_with_animals)
 
-### [3rd Level](name:cleric_3rd_level_list)
+### [3rd Level](@cleric_3rd_level_list)
 
 1. [Continual Light (Continual Darkness)](#cleric_continual_light)
 2. [Cure Disease (Cause Disease)](#cure_disease)
@@ -1250,7 +1258,7 @@ No attempt to create a magic item, spell, or other effect is guaranteed to succe
 5. [Remove Curse (Curse)](#cleric_remove_curse)
 6. [Striking](#striking)
 
-### [4th Level](name:cleric_4th_level_list)
+### [4th Level](@cleric_4th_level_list)
 
 1. [Create Water](#create_water)
 2. [Cure Serious Wounds (Cause Serious Wounds)](#cure_serious_wounds)
@@ -1259,7 +1267,7 @@ No attempt to create a magic item, spell, or other effect is guaranteed to succe
 5. [Speak with Plants](#speak_with_plants)
 6. [Sticks to Snakes](#sticks_to_snakes)
 
-### [5th Level](name:cleric_5th_level_list)
+### [5th Level](@cleric_5th_level_list)
 
 1. [Commune](#commune)
 2. [Create Food](#create_food)
@@ -1268,11 +1276,11 @@ No attempt to create a magic item, spell, or other effect is guaranteed to succe
 5. [Quest (Remove Quest)](#quest)
 6. [Raise Dead (Finger of Death)](#raise_dead)
 
-## [Magic-User Spell List](name:magic_user_spell_list)
+## [Magic-User Spell List](@magic_user_spell_list)
 
 (Reversed versions of spells are listed in parentheses.)
 
-### [1st Level](name:magic_user_1st_level_list)
+### [1st Level](@magic_user_1st_level_list)
 
 1. [Charm Person](#charm_person)
 2. [Detect Magic](#magic_user_detect_magic)
@@ -1287,7 +1295,7 @@ No attempt to create a magic item, spell, or other effect is guaranteed to succe
 11. [Sleep](#sleep)
 12. [Ventriloquism](#ventriloquism)
 
-### [2nd Level](name:magic_user_2nd_level_list)
+### [2nd Level](@magic_user_2nd_level_list)
 
 1. [Continual Light (Continual Darkness)](#magic_user_continual_light)
 2. [Detect Evil](#magic_user_detect_evil)
@@ -1302,7 +1310,7 @@ No attempt to create a magic item, spell, or other effect is guaranteed to succe
 11. [Web](#web)
 12. [Wizard Lock](#wizard_lock)
 
-### [3rd Level](name:magic_user_3rd_level_list)
+### [3rd Level](@magic_user_3rd_level_list)
 
 1. [Clairvoyance](#clairvoyance)
 2. [Dispel Magic](#dispel_magic)
@@ -1317,7 +1325,7 @@ No attempt to create a magic item, spell, or other effect is guaranteed to succe
 11. [Protection from Normal Missiles](#protection_from_normal_missiles)
 12. [Water Breathing](#water_breathing)
 
-### [4th Level](name:magic_user_4th_level_list)
+### [4th Level](@magic_user_4th_level_list)
 
 1. [Charm Monster](#charm_monster)
 2. [Confusion](#confusion)
@@ -1332,7 +1340,7 @@ No attempt to create a magic item, spell, or other effect is guaranteed to succe
 11. [Wall of Ice](#wall_of_ice)
 12. [Wizard Eye](#wizard_eye)
 
-### [5th Level](name:magic_user_5th_level_list)
+### [5th Level](@magic_user_5th_level_list)
 
 1. [Animate Dead](#animate_dead)
 2. [Cloudkill](#cloudkill)
@@ -1347,7 +1355,7 @@ No attempt to create a magic item, spell, or other effect is guaranteed to succe
 11. [Transmute Rock to Mud (Transmute Mud to Rock)](#transmute_rock_to_mud)
 12. [Wall of Stone](#wall_of_stone)
 
-### [6th Level](name:magic_user_6th_level_list)
+### [6th Level](@magic_user_6th_level_list)
 
 1. [Anti-Magic Shell](#anti_magic_shell)
 2. [Control Weather](#control_weather)
@@ -1364,7 +1372,7 @@ No attempt to create a magic item, spell, or other effect is guaranteed to succe
 
 ## 1st Level Cleric Spells
 
-### [Cure Light Wounds](name:cure_light_wounds)
+### [Cure Light Wounds](@cure_light_wounds)
 
 **Duration:** Instant  
 **Range:** The cleric or a creature touched
@@ -1374,11 +1382,11 @@ This spell has two uses:
 1. Healing a living subject of 1d6+1 hit points of damage. This cannot grant more hit points than the subject's normal maximum.
 2. Curing the subject of paralysis.
 
-[**Reversed: Cause Light Wounds**](name:cause_light_wounds)
+[**Reversed: Cause Light Wounds**](@cause_light_wounds)
 
 Inflicts 1d6+1 hit points of damage to a touched creature. In combat, a melee attack roll is required.
 
-### [Detect Evil](name:cleric_detect_evil)
+### [Detect Evil](@cleric_detect_evil)
 
 **Duration:** 6 turns  
 **Range:** 120'
@@ -1388,14 +1396,14 @@ Objects enchanted for evil purposes or living beings with evil intentions are ca
 - This spell does not grant the ability to read minds, but only grants a general sense of evil intent.
 - The referee must decide what is "evil". Some things that are potentially harmful, like traps, are not "evil."
 
-### [Detect Magic](name:cleric_detect_magic)
+### [Detect Magic](@cleric_detect_magic)
 
 **Duration:** 2 turns  
 **Range:** 60'
 
 Enchanted objects, areas, or creatures are caused to glow. Both permanent and temporary enchantments are revealed.
 
-### [Light](name:cleric_light)
+### [Light](@cleric_light)
 
 **Duration:** 12 turns  
 **Range:** 120'
@@ -1406,11 +1414,11 @@ This spell has three usages:
 2. Blinding a creature by casting the spell upon its eyes. If the target fails a **saving throw versus spells**, it is blinded for the duration. A blind creature cannot attack.
 3. Cancelling a _darkness_ spell (see below).
 
-[**Reversed: Darkness**](name:cleric_darkness)
+[**Reversed: Darkness**](@cleric_darkness)
 
 Creates a 15' radius area of magical blackness, preventing normal sight (but not infravision). Like _light_, it may alternatively be used to blind creatures or to dispel a _light_ spell.
 
-### [Protection from Evil](name:cleric_protection_from_evil)
+### [Protection from Evil](@cleric_protection_from_evil)
 
 **Duration:** 12 turns  
 **Range:** The cleric
@@ -1422,7 +1430,7 @@ This spell wards the cleric from attacks by creatures of another alignment, as f
 
 Additionally, the spell prevents enchanted, constructed, or summoned creatures from attacking the cleric in melee, though they may still make ranged attacks. If the cleric engages such a creature in melee, this protection is broken (the cleric still gains the bonuses to saving throws and attack rolls mentioned above).
 
-### [Purify Food and Water](name:purify_food_and_water)
+### [Purify Food and Water](@purify_food_and_water)
 
 **Duration:** Permanent  
 **Range:** 10'
@@ -1433,18 +1441,18 @@ This spell makes spoiled, rotten, poisonous, or otherwise contaminated food and 
 - One trail ration (iron or standard).
 - A quantity of unpreserved food for 12 human-sized beings.
 
-### [Remove Fear](name:remove_fear)
+### [Remove Fear](@remove_fear)
 
 **Duration:** 2 turns  
 **Range:** The cleric or a creature touched
 
 The creature touched is calmed and purged of fear. Magically induced fear may be dispelled, but this requires the subject to make a **saving throw versus spells**. The save is modified by +1 per level of the cleric.
 
-[**Reversed: Cause Fear**](name:cause_fear)
+[**Reversed: Cause Fear**](@cause_fear)
 
 Will cause a target within 120' to flee for the duration unless it **saves versus spells**.
 
-### [Resist Cold](name:resist_cold)
+### [Resist Cold](@resist_cold)
 
 **Duration:** 6 turns  
 **Range:** 30'
@@ -1457,7 +1465,7 @@ All creatures within range are protected from cold, as follows:
 
 ## 2nd Level Cleric Spells
 
-### [Bless](name:bless)
+### [Bless](@bless)
 
 **Duration:** 6 turns  
 **Range:** 60'
@@ -1467,11 +1475,11 @@ May be used in one of two ways:
 1. Allies within a 20' square area who are not yet in melee gain a +1 bonus to attack and damage rolls and a +1 bonus to morale.
 2. Casting _bless_ may also form part of rituals of purification or consecration, at the referee's discretion.
 
-[**Reversed: Blight**](name:blight)
+[**Reversed: Blight**](@blight)
 
 Incurs a &minus;1 penalty to morale checks, attacks rolls, and damage rolls of enemies within a 20' square area. A **save versus spells** is allowed to resist the _blight_.
 
-### [Find Traps](name:find_traps)
+### [Find Traps](@find_traps)
 
 **Duration:** 2 turns  
 **Range:** 30'
@@ -1481,7 +1489,7 @@ Trapped objects or areas within range of the cleric glow with a magical blue lig
 - Both magical and mechanical traps are detected.
 - No knowledge about the nature of the trap or how to deactivate it is granted.
 
-### [Hold Person](name:cleric_hold_person)
+### [Hold Person](@cleric_hold_person)
 
 **Duration:** 9 turns  
 **Range:** 180'
@@ -1493,14 +1501,14 @@ This spell causes one or more humans, demihumans, or humanoid monsters to be par
 
 Humanoids of greater than 4+1 HD and undead are not affected.
 
-### [Know Alignment](name:know_alignment)
+### [Know Alignment](@know_alignment)
 
 **Duration:** 1 round  
 **Range:** 10'
 
 The cleric gains immediate knowledge of the alignment of one character, monster, object, or location within range. (Most objects or locations do not have an alignment, but magic items or holy places might.)
 
-### [Resist Fire](name:resist_fire)
+### [Resist Fire](@resist_fire)
 
 **Duration:** 2 turns  
 **Range:** 30'
@@ -1511,7 +1519,7 @@ A single creature is bestowed with supernatural resistance to fire, as follows:
 - Gain a +2 bonus to all saving throws versus fire-based magical or breath attacks.
 - Fire-based damage is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 hit point damage.)
 
-### [Silence 15' Radius](name:silence)
+### [Silence 15' Radius](@silence)
 
 **Duration:** 12 turns  
 **Range:** 180'
@@ -1522,7 +1530,7 @@ A 15' radius area is rendered utterly silent.
 - Noise originating from outside the silenced area can be heard by those within it.
 - _Silence_ may be cast upon a creature, which must **save versus spells**. If the save fails, the 15' radius area of _silence_ moves with the creature. If the save succeeds, the spell's effect remains stationary---the targeted creature may move out of it.
 
-### [Snake Charm](name:snake_charm)
+### [Snake Charm](@snake_charm)
 
 **Duration:** 1d4+1 rounds or turns  
 **Range:** 60'
@@ -1532,7 +1540,7 @@ One or more snakes are rendered non-hostile, rearing up and swaying to and fro b
 - The spell affects snakes whose total Hit Dice do not exceed the cleric's level. For example, a 7th level cleric can affect 7 HD of snakes, which can equal seven 1 HD snakes, or two 3 HD snakes and one 1 HD snake, or any other combination.
 - When cast on snakes that are already attacking, the spell lasts for 1d4+1 rounds. Otherwise, it lasts for 1d4+1 turns.
 
-### [Speak with Animals](name:speak_with_animals)
+### [Speak with Animals](@speak_with_animals)
 
 **Duration:** 6 turns  
 **Range:** 30'
@@ -1545,7 +1553,7 @@ The cleric can communicate with one type of animal within range when the spell i
 
 ## 3rd Level Cleric Spells
 
-### [Continual Light](name:cleric_continual_light)
+### [Continual Light](@cleric_continual_light)
 
 **Duration:** Permanent  
 **Range:** 120'
@@ -1556,11 +1564,11 @@ This spell has three usages:
 2. Blinding a creature by casting the spell upon its eyes. If the target fails a **saving throw versus spells**, it is blinded. A blind creature cannot attack.
 3. Cancelling a _continual darkness_ spell (see below).
 
-[**Reversed: Continual Darkness**](name:cleric_continual_darkness)
+[**Reversed: Continual Darkness**](@cleric_continual_darkness)
 
 Creates a 30' radius area of magical blackness, preventing both normal sight and infravision. Light sources brought within the area of darkness do not illuminate it. Like _continual light_, it may alternatively be used to blind creatures or to dispel a _continual light_ spell.
 
-### [Cure Disease](name:cure_disease)
+### [Cure Disease](@cure_disease)
 
 **Duration:** Instant  
 **Range:** 30'
@@ -1570,7 +1578,7 @@ This spell has two uses:
 1. Cure a subject of any disease, including those of magical origin.
 2. Instantly kill green slime.
 
-[**Reversed: Cause Disease**](name:cause_disease)
+[**Reversed: Cause Disease**](@cause_disease)
 
 Inflicts a terrible withering disease on a victim, if a **saving throw versus spells** is failed. The disease has the following effects:
 
@@ -1581,7 +1589,7 @@ Inflicts a terrible withering disease on a victim, if a **saving throw versus sp
 
 This disease can be cured with a casting of _cure disease_.
 
-### [Growth of Animal](name:growth_of_animal)
+### [Growth of Animal](@growth_of_animal)
 
 **Duration:** 12 turns  
 **Range:** 120'
@@ -1591,7 +1599,7 @@ One non-magical, normal animal is doubled in size when this spell is cast upon i
 - The animal's strength is doubled, along with the damage inflicted by its attacks and the amount of weight it can carry.
 - This spell may be used on giant versions of normal animals, but intelligent animals and fantastic monsters are unaffected.
 
-### [Locate Object](name:cleric_locate_object)
+### [Locate Object](@cleric_locate_object)
 
 **Duration:** 6 turns  
 **Range:** 120'
@@ -1603,14 +1611,14 @@ The cleric can sense the direction (but not distance) of an object. One of two t
 
 This spell cannot be used to locate creatures.
 
-### [Remove Curse](name:cleric_remove_curse)
+### [Remove Curse](@cleric_remove_curse)
 
 **Duration:** Instant / Permanent  
 **Range:** The cleric or a creature touched
 
 _Remove curse_ instantaneously removes one curse from a creature. It may allow a character to discard a cursed magic item.
 
-[**Reversed: Curse**](name:cleric_curse)
+[**Reversed: Curse**](@cleric_curse)
 
 Places a deleterious effect upon a creature, if it fails a **saving throw versus spells**.
 
@@ -1619,7 +1627,7 @@ Places a deleterious effect upon a creature, if it fails a **saving throw versus
 - Multiple curses may afflict a creature, as long as each has a different effect.
 - The referee should judge the effects of this spell and may turn overly powerful curses back onto the cleric!
 
-### [Striking](name:striking)
+### [Striking](@striking)
 
 **Duration:** 1 turn  
 **Range:** 30'
@@ -1631,7 +1639,7 @@ A single weapon is enchanted:
 
 ## 4th Level Cleric Spells
 
-### [Create Water](name:create_water)
+### [Create Water](@create_water)
 
 **Duration:** Permanent  
 **Range:** Touch
@@ -1641,18 +1649,18 @@ This spell causes a magical fount to spring forth from the ground or a wall.
 - The fount produces approximately 50 gallons of water---enough to sustain twelve humans and twelve mounts for one day.
 - If the cleric is higher than 8th level, water sufficient for an additional twelve humans and mounts is produced for each level beyond 8th.
 
-### [Cure Serious Wounds](name:cure_serious_wounds)
+### [Cure Serious Wounds](@cure_serious_wounds)
 
 **Duration:** Instant  
 **Range:** The cleric or a creature touched
 
 The cleric's touch heals 2d6+2 hit points of damage in one living subject. This cannot grant more hit points than the subject's normal maximum.
 
-[**Reversed: Cause Serious Wounds**](name:cause_serious_wounds)
+[**Reversed: Cause Serious Wounds**](@cause_serious_wounds)
 
 Inflicts 2d6+2 hit points of damage to a touched creature. In combat, a melee attack roll is required.
 
-### [Neutralize Poison](name:neutralize_poison)
+### [Neutralize Poison](@neutralize_poison)
 
 **Duration:** Instant  
 **Range:** The cleric or a creature or object touched
@@ -1662,7 +1670,7 @@ This spell has two uses:
 1. Neutralize the effects of poison on a character. A character who has died from poisoning can be revived, if neutralize poison is cast within ten rounds.
 2. Remove poison from an item.
 
-### [Protection from Evil 10' Radius](name:cleric_protection_from_evil_10_foot_radius)
+### [Protection from Evil 10' Radius](@cleric_protection_from_evil_10_foot_radius)
 
 **Duration:** 12 turns  
 **Range:** 10' around the cleric
@@ -1674,7 +1682,7 @@ This spell wards the cleric and all allies within 10' from attacks by creatures 
 
 Additionally, the spell prevents enchanted, constructed, or summoned creatures from attacking those warded in melee, though they may still make ranged attacks. If any of the warded party engages such a creature in melee, this protection is broken (those warded still gain the bonuses to saving throws and attack rolls mentioned above).
 
-### [Speak with Plants](name:speak_with_plants)
+### [Speak with Plants](@speak_with_plants)
 
 **Duration:** 3 turns  
 **Range:** 30'
@@ -1684,7 +1692,7 @@ This spell has two uses:
 1. Communication with normal plants. The cleric is able to ask questions and receive answers and may ask for simple favours. Plants may comply, if the request is within their ability to understand and perform. For example, densely overgrown plants may clear a passageway through which the cleric and party may travel.
 2. Communication with plant-like or plant-based monsters.
 
-### [Sticks to Snakes](name:sticks_to_snakes)
+### [Sticks to Snakes](@sticks_to_snakes)
 
 **Duration:** 6 turns  
 **Range:** 120'
@@ -1697,7 +1705,7 @@ This spell has two uses:
 
 ## 5th Level Cleric Spells
 
-### [Commune](name:commune)
+### [Commune](@commune)
 
 **Duration:** 3 turns  
 **Range:** The cleric
@@ -1708,14 +1716,14 @@ The cleric calls upon divine powers in order to seek knowledge.
 - Each question receives a simple "yes" or "no" answer.
 - _Commune_ may only be cast once per week. If the referee feels this spell is being overused, its usage may be limited to once per month.
 
-### [Create Food](name:create_food)
+### [Create Food](@create_food)
 
 **Duration:** Permanent  
 **Range:** Appears in the cleric's presence
 
 Food sufficient for twelve humans and twelve mounts for one day is conjured from thin air. For each level of the cleric beyond 8th, food sufficient for an additional twelve humans and mounts is produced.
 
-### [Dispel Evil](name:dispel_evil)
+### [Dispel Evil](@dispel_evil)
 
 **Duration:** Concentration (up to 1 turn) or instant (see below)  
 **Range:** 30'
@@ -1726,7 +1734,7 @@ This spell has three uses:
 2. Instantly banish or destroy a single enchanted or undead monster within range. The monster may **save versus spells (with a &minus;2 penalty)** to avoid banishment or destruction. If the monster's save succeeds, it flees the affected area.
 3. Instantly dispel the hold that a cursed item has over a being within range.
 
-### [Insect Plague](name:insect_plague)
+### [Insect Plague](@insect_plague)
 
 **Duration:** Concentration (up to 1 day)  
 **Range:** 480'
@@ -1741,7 +1749,7 @@ If the cleric moves or loses concentration, the swarm dissipates, ending the spe
 
 The spell has no effect if cast underground.
 
-### [Quest](name:quest)
+### [Quest](@quest)
 
 **Duration:** Until quest is completed / Instant  
 **Range:** 30'
@@ -1754,11 +1762,11 @@ The cleric commands a single subject to perform a specific quest or task.
 - Otherwise, the subject must undertake the quest or fall under a curse (per the curse spell, with the exact nature of the curse determined by the referee).
 - Once the task is completed, the spell ends.
 
-[**Reversed: Remove Quest**](name:remove_quest)
+[**Reversed: Remove Quest**](@remove_quest)
 
 Can dispel an active _quest_ spell. If the cleric who cast the _quest_ spell to be nullified is higher level than the cleric casting _remove quest_, there is a chance of the spell having no effect. The probability of failure is 5% per level the cleric is below the caster of _quest_.
 
-### [Raise Dead](name:raise_dead)
+### [Raise Dead](@raise_dead)
 
 **Duration:** Instant  
 **Range:** 120'
@@ -1768,13 +1776,13 @@ This spell has two uses:
 1. Restore life to a recently deceased human or demihuman. The cleric can raise a person that has been dead for no longer than four days per level of the cleric above 7th. For example, a 10th level cleric can revive a character that has been dead for twelve days (three levels above 7th × four days). Coming back from the dead is an ordeal. Until the subject gets two full weeks of bed rest, he or she has 1 hit point, moves at half the normal rate, cannot carry heavy items, and cannot attack, cast spells, or use other class abilities. This period of weakness may not be shortened by any magical healing.
 2. Destroy an undead monster, if it fails a **saving throw versus spells**.
 
-[**Reversed: Finger of Death**](name:finger_of_death)
+[**Reversed: Finger of Death**](@finger_of_death)
 
 Directs a ray of deadly magic at a single target. If the target fails a **saving throw versus death**, it dies instantly. Casting _finger of death_ is a chaotic act; it will only be used by lawful clerics in desperate situations.
 
 ## 1st Level Magic-User Spells
 
-### [Charm Person](name:charm_person)
+### [Charm Person](@charm_person)
 
 **Duration:** One or more days (see below)  
 **Range:** 120'
@@ -1794,14 +1802,14 @@ The charm lasts indefinitely, but the subject is allowed to make further **saves
 - A creature with an INT of 9--12 gains a new save each week
 - A creature with an INT of 13--18 gains a new save once every day.
 
-### [Detect Magic](name:magic_user_detect_magic)
+### [Detect Magic](@magic_user_detect_magic)
 
 **Duration:** 2 turns  
 **Range:** 60'
 
 Enchanted objects, areas, or creatures are caused to glow. Both permanent and temporary enchantments are revealed.
 
-### [Floating Disc](name:floating_disc)
+### [Floating Disc](@floating_disc)
 
 **Duration:** 6 turns  
 **Range:** 6'
@@ -1813,7 +1821,7 @@ The caster conjures a slightly concave, circular disc of magical force that foll
 - The disc floats at waist height and remains level, floating along horizontally within spell range.
 - When the disc winks out at the end of the spell's duration, anything it was supporting is dropped.
 
-### [Hold Portal](name:hold_portal)
+### [Hold Portal](@hold_portal)
 
 **Duration:** 2d6 turns  
 **Range:** 10'
@@ -1823,7 +1831,7 @@ This spell magically holds shut a door, gate, window, or other kind of portal.
 - A [_knock_](#knock) spell opens the held portal instantly.
 - Creatures with at least 3 Hit Dice more than the caster can open the held portal with one round of effort.
 
-### [Light](name:magic_user_light)
+### [Light](@magic_user_light)
 
 **Duration:** 6 turns +1 per level  
 **Range:** 120'
@@ -1834,11 +1842,11 @@ This spell has three usages:
 2. Blinding a creature by casting the spell upon its eyes. If the target fails a **saving throw versus spells**, it is blinded for the duration. A blind creature cannot attack.
 3. Cancelling a _darkness_ spell (see below).
 
-[**Reversed: Darkness**](name:magic_user_darkness)
+[**Reversed: Darkness**](@magic_user_darkness)
 
 Creates a 15' radius area of magical blackness, preventing normal sight (but not infravision). Like _light_, it may alternatively be used to blind creatures or to dispel a _light_ spell.
 
-### [Magic Missile](name:magic_missile)
+### [Magic Missile](@magic_missile)
 
 **Duration:** 1 turn  
 **Range:** 150'
@@ -1849,7 +1857,7 @@ This spell conjures a glowing dart of energy that the caster may choose to shoot
 - The missile inflicts 1d6+1 damage.
 - Higher level casters may conjure more missiles: two additional missiles are conjured per five experience levels the caster has gained (i.e. three missiles at 6th--10th level, five missiles at 11th--15th level, etc). Multiple missiles may be directed at a single target.
 
-### [Protection from Evil](name:magic_user_protection_from_evil)
+### [Protection from Evil](@magic_user_protection_from_evil)
 
 **Duration:** 6 turns  
 **Range:** The caster
@@ -1861,14 +1869,14 @@ This spell wards the caster from attacks by creatures of another alignment, as f
 
 Additionally, the spell prevents enchanted, constructed, or summoned creatures from attacking the caster in melee, though they may still make ranged attacks. If the caster engages such a creature in melee, this protection is broken (the caster still gains the bonuses to saving throws and attack rolls mentioned above).
 
-### [Read Languages](name:read_languages)
+### [Read Languages](@read_languages)
 
 **Duration:** 2 turns  
 **Range:** The caster
 
 For the duration of this spell, the caster may read any language, coded message, map, or other set of written instructions. This spell does not grant any ability to speak unknown languages.
 
-### [Read Magic](name:read_magic)
+### [Read Magic](@read_magic)
 
 **Duration:** 1 turn  
 **Range:** The caster
@@ -1881,14 +1889,14 @@ By means of _read magic_, the caster can decipher magical inscriptions or runes,
 
 Once the caster has read a magical inscription using _read magic_, he or she is thereafter able to read that particular writing without recourse to the use of this spell.
 
-### [Shield](name:shield)
+### [Shield](@shield)
 
 **Duration:** 2 turns  
 **Range:** The caster
 
 _Shield_ creates an invisible field of force that protects the caster, granting an AC of 2 against missile attacks and AC 4 against other attacks.
 
-### [Sleep](name:sleep)
+### [Sleep](@sleep)
 
 **Duration:** 4d4 turns  
 **Range:** 240'
@@ -1906,7 +1914,7 @@ When targeting creatures of 4 HD or less, the following rules apply:
 
 Creatures enchanted by this spell are helpless and can be killed instantly with a bladed weapon. Slapping or wounding awakens an affected creature.
 
-### [Ventriloquism](name:ventriloquism)
+### [Ventriloquism](@ventriloquism)
 
 **Duration:** 2 turns  
 **Range:** 60'
@@ -1915,7 +1923,7 @@ The caster may make his or her voice appear to come from any location or source 
 
 ## 2nd Level Magic-User Spells
 
-### [Continual Light](name:magic_user_continual_light)
+### [Continual Light](@magic_user_continual_light)
 
 **Duration:** Permanent  
 **Range:** 120'
@@ -1926,11 +1934,11 @@ This spell has three usages:
 2. Blinding a creature by casting the spell upon its eyes. If the target fails a **saving throw versus spells**, it is blinded. A blind creature cannot attack.
 3. Cancelling _continual darkness_.
 
-[**Reversed: Continual Darkness**](name:magic_user_continual_darkness)
+[**Reversed: Continual Darkness**](@magic_user_continual_darkness)
 
 Creates a 30' radius area of magical blackness, preventing both normal sight and infravision. Light sources brought within the area of darkness do not illuminate it. Like _continual light_, it may alternatively be used to blind creatures or to dispel a _continual light_ spell.
 
-### [Detect Evil](name:magic_user_detect_evil)
+### [Detect Evil](@magic_user_detect_evil)
 
 **Duration:** 2 turns  
 **Range:** 60'
@@ -1940,14 +1948,14 @@ Objects enchanted for evil purposes or living beings with evil intentions are ca
 - This spell does not grant the ability to read minds, but only grants a general sense of evil intent.
 - The referee must decide what is "evil". Some things that are potentially harmful, like traps, are not "evil."
 
-### [Detect Invisible](name:detect_invisible)
+### [Detect Invisible](@detect_invisible)
 
 **Duration:** 6 turns  
 **Range:** 10' per level
 
 Invisible creatures or items in range are revealed to the caster.
 
-### [ESP](name:esp)
+### [ESP](@esp)
 
 **Duration:** 12 turns  
 **Range:** 60'
@@ -1960,7 +1968,7 @@ This spell grants the caster the ability to perceive and understand the thoughts
 - The caster understands the meaning of all thoughts even if he or she does not share the creature's language.
 - The ability to perceive thoughts is obstructed by a thin layer of lead or by rock of 2' thick or greater.
 
-### [Invisibility](name:invisibility)
+### [Invisibility](@invisibility)
 
 **Duration:** Permanent (but may be broken, see below)  
 **Range:** 240'
@@ -1971,7 +1979,7 @@ The caster or another creature or object within range becomes invisible:
 - If cast on an object, the invisibility is permanent.
 - Note that if a light source is made invisible (either as part of a creature's gear or as an individual object), the light it casts is unaffected.
 
-### [Knock](name:knock)
+### [Knock](@knock)
 
 **Duration:** 1 round  
 **Range:** 60'
@@ -1981,7 +1989,7 @@ The _knock_ spell opens stuck, barred, or locked doors, gates, chests, and so fo
 - Magically held doors (for example with [_hold portal_](#hold_portal), [_wizard lock_](#wizard_lock)) are affected.
 - Secret doors may be opened, but they must be known to the caster.
 
-### [Levitate](name:levitate)
+### [Levitate](@levitate)
 
 **Duration:** 6 turns +1 per level  
 **Range:** The caster
@@ -1992,7 +2000,7 @@ This enchantment allows the caster to move up and down through the air:
 - The spell does not allow horizontal movement, but the caster can push against solid objects to move laterally.
 - A normal amount of weight can be carried while levitating.
 
-### [Locate Object](name:magic_user_locate_object)
+### [Locate Object](@magic_user_locate_object)
 
 **Duration:** 2 turns  
 **Range:** 60' +10' per level
@@ -2004,7 +2012,7 @@ The caster can sense the direction (but not distance) of an object. One of two t
 
 This spell cannot be used to locate creatures.
 
-### [Mirror Image](name:mirror_image)
+### [Mirror Image](@mirror_image)
 
 **Duration:** 6 turns  
 **Range:** The caster
@@ -2014,7 +2022,7 @@ This spell cannot be used to locate creatures.
 - The mirror images look and behave exactly as the caster.
 - Any attack (whether successful or not) on the caster will destroy one of the mirror images.
 
-### [Phantasmal Force](name:phantasmal_force)
+### [Phantasmal Force](@phantasmal_force)
 
 **Duration:** Concentration  
 **Range:** 240'
@@ -2031,7 +2039,7 @@ The following stipulations apply:
 - Illusionary monsters or attacks may appear to be harmful but no real damage is ever inflicted. A character who appears to die actually falls unconscious, a character turned to stone will actually be paralysed, and so on. Such effects last for 1d4 turns.
 - If the illusion is of something the caster has not personally seen, the referee should grant targets a bonus to any applicable saving throws.
 
-### [Web](name:web)
+### [Web](@web)
 
 **Duration:** 48 turns  
 **Range:** 10'
@@ -2044,7 +2052,7 @@ _Web_ conjures a many-layered mass of strong, sticky threads, blocking a 10' cub
 
 The strands of the web are flammable and can be destroyed by fire in two rounds. All creatures caught within flaming webs suffer 1d6 points of damage from the flames.
 
-### [Wizard Lock](name:wizard_lock)
+### [Wizard Lock](@wizard_lock)
 
 **Duration:** Permanent  
 **Range:** 10'
@@ -2059,7 +2067,7 @@ Bypassing a _wizard lock_ does not destroy it.
 
 ## 3rd Level Magic-User Spells
 
-### [Clairvoyance](name:clairvoyance)
+### [Clairvoyance](@clairvoyance)
 
 **Duration:** 12 turns  
 **Range:** 60'
@@ -2071,7 +2079,7 @@ This spell grants the caster the ability to see through the eyes of other living
 - Once a connection has been established, the caster may choose to maintain it or to change to another subject.
 - _Clairvoyance_ is obstructed by a thin layer of lead or by rock of 2' thick or greater.
 
-### [Dispel Magic](name:dispel_magic)
+### [Dispel Magic](@dispel_magic)
 
 **Duration:** Instant  
 **Range:** 120'
@@ -2081,21 +2089,21 @@ _Dispel magic_ ends ongoing spells (i.e. those with a non-instantaneous duration
 - If the level of the caster of the effect to be dispelled is higher than the level of the caster of _dispel magic_, there is a 5% chance per level difference that the attempt to dispel will fail.
 - Magic items are unaffected.
 
-### [Fire Ball](name:fire_ball)
+### [Fire Ball](@fire_ball)
 
 **Duration:** Instant  
 **Range:** 240'
 
 This spell conjures a streak of flame that shoots towards an area within range and detonates in a 40' diameter sphere of fire. Creatures caught in the fire ball suffer 1d6 damage per level of the caster, with a successful **save versus spells** indicating half damage.
 
-### [Fly](name:fly)
+### [Fly](@fly)
 
 **Duration:** 1d6 turns +1 per level  
 **Range:** The caster or a creature touched
 
 The subject gains the ability to fly with a movement rate of up to 360' (120'). Free movement in any direction is possible, including the ability to levitate and to hover in mid-air.
 
-### [Haste](name:haste)
+### [Haste](@haste)
 
 **Duration:** 3 turns  
 **Range:** 240'
@@ -2107,7 +2115,7 @@ Up to 24 creatures in a 60' diameter area are enchanted to be able to move and a
 - The number of spells a subject may cast per round is not doubled.
 - The use of magical devices such as wands is also not doubled.
 
-### [Hold Person](name:magic_user_hold_person)
+### [Hold Person](@magic_user_hold_person)
 
 **Duration:** 1 turn per level  
 **Range:** 120'
@@ -2119,14 +2127,14 @@ This spell causes one or more humans, demihumans, or humanoid monsters to be par
 
 Humanoids of greater than 4+1 HD and undead are not affected.
 
-### [Infravision](name:infravision)
+### [Infravision](@infravision)
 
 **Duration:** 1 day  
 **Range:** The caster or a creature touched
 
 The subject is able to see 60' in the dark with _infravision_.
 
-### [Invisibility 10' Radius](name:invisibility_10_foot_radius)
+### [Invisibility 10' Radius](@invisibility_10_foot_radius)
 
 **Duration:** Permanent (but may be broken, see below)  
 **Range:** 120'
@@ -2139,7 +2147,7 @@ A selected creature and all creatures within 10' of it become invisible:
 - Any gear a subject is carrying is also rendered invisible (this includes clothing and armour). Items dropped or put down by an invisible creature become visible.
 - If a subject attacks or casts a spell, the invisibility is broken for that subject.
 
-### [Lightning Bolt](name:lightning_bolt)
+### [Lightning Bolt](@lightning_bolt)
 
 **Duration:** Instant  
 **Range:** 180'
@@ -2148,7 +2156,7 @@ A powerful stroke of electrical energy, 60' long and 5' wide, is conjured. Creat
 
 If the _lightning bolt_ hits a solid barrier before its full length is reached, it is reflected and travels for any remaining distance of its full length in the direction of the caster.
 
-### [Protection from Evil 10' Radius](name:magic_user_protection_from_evil_10_foot_radius)
+### [Protection from Evil 10' Radius](@magic_user_protection_from_evil_10_foot_radius)
 
 **Duration:** 12 turns  
 **Range:** 10' around the caster
@@ -2160,14 +2168,14 @@ This spell wards the caster and all allies within 10' from attacks by creatures 
 
 Additionally, the spell prevents enchanted, constructed, or summoned creatures from making melee attacks against those warded, though they may still make ranged attacks. If any of the warded party engages such a creature in melee, this protection is broken (those warded still gain the bonuses to saving throws and attack rolls mentioned above).
 
-### [Protection from Normal Missiles](name:protection_from_normal_missiles)
+### [Protection from Normal Missiles](@protection_from_normal_missiles)
 
 **Duration:** 12 turns  
 **Range:** 30'
 
 A single subject in range is completely unharmed by small, non-magical missiles (e.g. no protection is granted against hurled boulders or enchanted arrows).
 
-### [Water Breathing](name:water_breathing)
+### [Water Breathing](@water_breathing)
 
 **Duration:** 1 day  
 **Range:** 30'
@@ -2176,7 +2184,7 @@ The subject can breathe water freely by means of this spell. The spell does not 
 
 ## 4th Level Magic-User Spells
 
-### [Charm Monster](name:charm_monster)
+### [Charm Monster](@charm_monster)
 
 **Duration:** One or more days (see below)  
 **Range:** 120'
@@ -2194,7 +2202,7 @@ The charm lasts indefinitely, but subjects are allowed to make further **saves v
 - A creature with an INT of 9--12 gains a new save each week
 - A creature with an INT of 13--18 gains a new save once every day.
 
-### [Confusion](name:confusion)
+### [Confusion](@confusion)
 
 **Duration:** 12 rounds  
 **Range:** 120'
@@ -2211,7 +2219,7 @@ This spell causes 3d6 targets within 60' of one another to become confused, maki
 6--8 | No action
 9--12 | Attack creature's group
 
-### [Dimension Door](name:dimension_door)
+### [Dimension Door](@dimension_door)
 
 **Duration:** 1 round  
 **Range:** 10'
@@ -2224,14 +2232,14 @@ The caster or a single creature is instantly transferred to another location up 
 
 If the target is unwilling, it may **save vs spells** to resist the teleportation.
 
-### [Growth of Plants](name:growth_of_plants)
+### [Growth of Plants](@growth_of_plants)
 
 **Duration:** Permanent  
 **Range:** 120'
 
 This spell causes vigorous growth of normal vegetation in an area within range of up to 3,000 square feet, as selected by the caster (e.g. 150' × 20', 100' × 30', etc). Plants in the affected area become thick and overgrown, entwining to form a thorny jungle that only very large creatures can force their way through.
 
-### [Hallucinatory Terrain](name:hallucinatory_terrain)
+### [Hallucinatory Terrain](@hallucinatory_terrain)
 
 **Duration:** Until touched  
 **Range:** 240'
@@ -2241,7 +2249,7 @@ An illusionary terrain feature (e.g. a hill, wood, marsh, etc.) is brought into 
 - The illusion must fit completely within the spell's range.
 - If the illusion is touched by an intelligent being, the spell is negated.
 
-### [Massmorph](name:massmorph)
+### [Massmorph](@massmorph)
 
 **Duration:** Permanent  
 **Range:** 240'
@@ -2252,7 +2260,7 @@ A force of human-sized creatures within a 240' diameter area is veiled by illusi
 - Subjects who leave the affected area cease to be veiled.
 - The caster may dismiss the illusion in its entirety at any time.
 
-### [Polymorph Others](name:polymorph_others)
+### [Polymorph Others](@polymorph_others)
 
 **Duration:** Permanent  
 **Range:** 60'
@@ -2267,7 +2275,7 @@ A living subject is transformed into another type of creature, as chosen by the 
 
 An unwilling subject may make a **saving throw versus spells** to negate the effect.
 
-### [Polymorph Self](name:polymorph_self)
+### [Polymorph Self](@polymorph_self)
 
 **Duration:** 6 turns +1 per level  
 **Range:** The caster
@@ -2282,14 +2290,14 @@ The caster transforms himself or herself into another being:
 - The spell cannot be used to duplicate the appearance of a specific individual.
 - If the caster dies while polymorphed, he or she returns to his or her original form.
 
-### [Remove Curse](name:magic_user_remove_curse)
+### [Remove Curse](@magic_user_remove_curse)
 
 **Duration:** Instant / Permanent  
 **Range:** The caster or a creature touched
 
 _Remove Curse_ instantaneously removes one curse from a creature. It may allow a character to discard a cursed magic item.
 
-[**Reversed: Curse**](name:magic_user_curse)
+[**Reversed: Curse**](@magic_user_curse)
 
 Places a deleterious effect upon a creature, if it fails a **saving throw versus spells**.
 
@@ -2298,7 +2306,7 @@ Places a deleterious effect upon a creature, if it fails a **saving throw versus
 - Multiple curses may afflict a creature, as long as each has a different effect.
 - The referee should judge the effects of this spell and may turn overly powerful curses back onto the caster!
 
-### [Wall of Fire](name:wall_of_fire)
+### [Wall of Fire](@wall_of_fire)
 
 **Duration:** Concentration  
 **Range:** 60'
@@ -2310,7 +2318,7 @@ An immobile, opaque, blazing curtain of shimmering violet fire springs into exis
 - The wall of flames is impenetrable to monsters with fewer than 4 HD.
 - Monsters with more than 4 HD suffer 1d6 hit points of damage when they pass through the wall. The wall deals double damage to undead creatures or creatures that use cold or are accustomed to cold.
 
-### [Wall of Ice](name:wall_of_ice)
+### [Wall of Ice](@wall_of_ice)
 
 **Duration:** 12 turns  
 **Range:** 120'
@@ -2322,7 +2330,7 @@ An immobile, translucent, wall of ice springs into existence.
 - The wall of ice is impenetrable to monsters with fewer than 4 HD.
 - Monsters with more than 4 HD can break through the wall but suffer 1d6 hit points of damage when doing so. The wall deals double damage to creatures that use fire or are accustomed to fire.
 
-### [Wizard Eye](name:wizard_eye)
+### [Wizard Eye](@wizard_eye)
 
 **Duration:** 6 turns  
 **Range:** 240'
@@ -2336,7 +2344,7 @@ An invisible, magical eye is conjured that allows the caster to see at a distanc
 
 ## 5th Level Magic-User Spells
 
-### [Animate Dead](name:animate_dead)
+### [Animate Dead](@animate_dead)
 
 **Duration:** Permanent  
 **Range:** 60'
@@ -2353,7 +2361,7 @@ The spell animates a number of HD of zombies or skeletons equal to the caster's 
 - A zombie has AC 8 and Hit Dice one greater than it had in life.
 - If a PC or NPC with levels in a class is reanimated by this spell, the levels are not counted as HD. For example, the reanimated corpse of a 5th level fighter would have 2 HD (1 HD as a normal human, +1 for being reanimated as a zombie).
 
-### [Cloudkill](name:cloudkill)
+### [Cloudkill](@cloudkill)
 
 **Duration:** 6 turns  
 **Range:** 30'
@@ -2364,7 +2372,7 @@ A poisonous fog streams from the caster's fingertips, filling a 30' diameter are
 - Because the fog is heavier than air, it sinks to the lowest level of the land, even pouring down den or sinkhole openings.
 - All creatures in contact with the vapours suffer 1 hit point of damage per round of contact. Creatures with less than 5 Hit Dice must also **save versus death** (also once per round of contact) or die.
 
-### [Conjure Elemental](name:conjure_elemental)
+### [Conjure Elemental](@conjure_elemental)
 
 **Duration:** Permanent (until dismissed or slain)  
 **Range:** 240'
@@ -2378,7 +2386,7 @@ A 16 Hit Dice [elemental](#elemental) is summoned from an elemental plane of the
 - A conjured elemental may be dispelled by [_dispel magic_](#dispel_magic) or [_dispel evil_](#dispel_evil).
 - The caster may summon at most one elemental from each plane in a single day.
 
-### [Contact Higher Plane](name:contact_higher_plane)
+### [Contact Higher Plane](@contact_higher_plane)
 
 **Duration:** One conversation  
 **Range:** The caster
@@ -2407,14 +2415,14 @@ Plane | #Questions | Don't Know | Truth | Insanity
 11th | 11 | 10% | 90% | 45%
 12th | 12 | 5% | 95% | 50%
 
-### [Feeblemind](name:feeblemind)
+### [Feeblemind](@feeblemind)
 
 **Duration:** Permanent  
 **Range:** 240'
 
 An arcane spell caster (e.g. a magic-user or elf) within range must **save versus spells (at a &minus;4 penalty)** or become an imbecile, unable to think clearly or cast spells.
 
-### [Hold Monster](name:hold_monster)
+### [Hold Monster](@hold_monster)
 
 **Duration:** 6 turns, +1 per level  
 **Range:** 120'
@@ -2424,7 +2432,7 @@ This spell causes one or more creatures (except undead) to be paralysed if they 
 - Against an individual. The target's saving throw is penalised by &minus;2.
 - Against a group. 1d4 individuals in the group are targeted.
 
-### [Magic Jar](name:magic_jar)
+### [Magic Jar](@magic_jar)
 
 **Duration:** Special  
 **Range:** The caster
@@ -2446,14 +2454,14 @@ The following stipulations apply, when the caster's life-force is ***possessing 
 - [_Dispel evil_](#dispel_evil) also forces the caster's life-force back into the _magic jar_.
 - If the caster's own body is destroyed, his or her life-force is stranded in the body of the creature being possessed.
 
-### [Pass-Wall](name:pass_wall)
+### [Pass-Wall](@pass_wall)
 
 **Duration:** 3 turns  
 **Range:** 30'
 
 A 5' diameter hole is temporarily opened in solid rock or stone, forming a passageway up to 10' deep.
 
-### [Telekinesis](name:telekinesis)
+### [Telekinesis](@telekinesis)
 
 **Duration:** Concentration (up to 6 rounds)  
 **Range:** 120'
@@ -2465,7 +2473,7 @@ By concentrating, the caster is able to move objects or creatures by the power o
 - If a creature is targeted, it may **save versus spells** to resist the spell.
 - If the caster's concentration is broken, the target will fall.
 
-### [Teleport](name:teleport)
+### [Teleport](@teleport)
 
 **Duration:** Instant  
 **Range:** 10'
@@ -2494,18 +2502,18 @@ The caster's knowledge of the destination is rated as follows:
 - ***Moderate:*** A location that the caster has visited often or has studied via scrying for several weeks.
 - ***Exact:*** A location that the caster has made a detailed study of, in person.
 
-### [Transmute Rock to Mud](name:transmute_rock_to_mud)
+### [Transmute Rock to Mud](@transmute_rock_to_mud)
 
 **Duration:** 3d6 days / Permanent  
 **Range:** 120'
 
 This spell turns up to 3,000 square feet of rock into 10' deep mud. Any creatures passing through the mud have their movement rate reduced by 90%.
 
-[**Reversed: Transmute Mud to Rock**](name:transmute_mud_to_rock)
+[**Reversed: Transmute Mud to Rock**](@transmute_mud_to_rock)
 
 Changes an area of mud---up to 3,000 square feet and up to 10' deep---into rock. This alteration is permanent.
 
-### [Wall of Stone](name:wall_of_stone)
+### [Wall of Stone](@wall_of_stone)
 
 **Duration:** Permanent  
 **Range:** 60'
@@ -2517,14 +2525,14 @@ A wall of solid rock springs into existence.
 
 ## 6th Level Magic-User Spells
 
-### [Anti-Magic Shell](name:anti_magic_shell)
+### [Anti-Magic Shell](@anti_magic_shell)
 
 **Duration:** 12 turns  
 **Range:** The caster
 
 An anti-magic barrier is created around the caster. No spells or spell effects can pass through this barrier, whether from inside or outside. The caster may end this spell at any time before the duration has expired.
 
-### [Control Weather](name:control_weather)
+### [Control Weather](@control_weather)
 
 **Duration:** Concentration  
 **Range:** 240 yards around the caster
@@ -2539,14 +2547,14 @@ By concentrating (no movement allowed), the caster causes one of the following c
 - ***Snowy:*** Visibility drops to 20'. Movement rates are halved. Bodies of water may freeze. After the snow thaws, mud remains and still impedes movement.
 - ***Tornado:*** The caster can direct the tornado, which moves at 120' per round. The tornado can be directed to attack, using the stats for a 12 HD [air elemental](#air_elemental). Ships caught in a tornado have a 75% chance of suffering 12 points of hull damage.
 
-### [Death Spell](name:death_spell)
+### [Death Spell](@death_spell)
 
 **Duration:** Instant  
 **Range:** 240'
 
 Up to 4d8 Hit Dice of creatures within a 60' cube area must **save versus death or die**, instantly. Undead and creatures with greater than 7 Hit Dice are unaffected.
 
-### [Disintegrate](name:disintegrate)
+### [Disintegrate](@disintegrate)
 
 **Duration:** Instant  
 **Range:** 60'
@@ -2556,7 +2564,7 @@ The material form of a single, non-magical creature or object is unwoven, causin
 - If a creature is targeted, it may **save versus death** to resist disintegration.
 - Examples of objects that might be targeted: a tree, a ship, a 10' section of wall.
 
-### [Geas](name:geas)
+### [Geas](@geas)
 
 **Duration:** Permanent / Instant  
 **Range:** 30'
@@ -2568,11 +2576,11 @@ The caster commands a subject to perform or avoid performing a specific action.
 - The subject may **save versus spells**, to avoid coming under the spell's effect.
 - If the save fails, the subject must follow the stipulated course of action or suffer gradually increasing (and eventually fatal) penalties determined by the referee. For example: penalties to attack, ability score reductions, inability to memorize spells, physical torment and feebleness, etc.
 
-[**Reversed: Remove Geas**](name:remove_geas)
+[**Reversed: Remove Geas**](@remove_geas)
 
 Can dispel an active _geas_ spell and any incurred penalties. If the caster of the _geas_ to be nullified is higher level than the character casting _remove geas_, there is a chance of the spell having no effect. The probability of spell failure is 5% per level the caster is below the caster of _geas_.
 
-### [Invisible Stalker](name:invisible_stalker)
+### [Invisible Stalker](@invisible_stalker)
 
 **Duration:** One mission  
 **Range:** Summoned to caster's presence
@@ -2583,14 +2591,14 @@ An [invisible stalker](#invisible_stalker) is summoned to the caster's presence 
 - The creature is bound to attempt the mission until it succeeds or is destroyed.
 - The spell [_dispel evil_](#dispel_evil) will banish an invisible stalker, ending the spell.
 
-### [Lower Water](name:lower_water)
+### [Lower Water](@lower_water)
 
 **Duration:** 10 turns  
 **Range:** 240'
 
 This spell reduces the depth of a body of water by half for the duration. An area of up to 10,000 square feet may be affected.
 
-### [Move Earth](name:move_earth)
+### [Move Earth](@move_earth)
 
 **Duration:** 6 turns  
 **Range:** 240'
@@ -2600,14 +2608,14 @@ Earth (but not stone) within range is rearranged as the caster wishes.
 - The range of the spell also extends downwards, allowing excavations to be made.
 - The caster can move earth in the area at up to 60' per turn.
 
-### [Part Water](name:part_water)
+### [Part Water](@part_water)
 
 **Duration:** 6 turns  
 **Range:** 120'
 
 The caster creates a path 10' wide and a maximum of 120' long through water, such as a pond, lake, or other body. The caster can dismiss the spell's effect before the duration ends.
 
-### [Projected Image](name:projected_image)
+### [Projected Image](@projected_image)
 
 **Duration:** 6 turns  
 **Range:** 240'
@@ -2619,7 +2627,7 @@ An illusory duplicate of the caster appears within range.
 - The image appears unaffected by spells or missile weapons.
 - If the image is touched or hit in melee, it disappears.
 
-### [Reincarnation](name:reincarnation)
+### [Reincarnation](@reincarnation)
 
 **Duration:** Permanent  
 **Range:** Appears in the caster's presence
@@ -2684,20 +2692,20 @@ d10 | Reincarnation | HD
 9 | [Werewolf](#werewolf) | 4
 10 | [Minotaur](#minotaur) | 6
 
-### [Stone to Flesh](name:stone_to_flesh)
+### [Stone to Flesh](@stone_to_flesh)
 
 **Duration:** Permanent  
 **Range:** 120'
 
 This spell transforms stone into living flesh. It is especially useful for restoring life to a petrified creature and its equipment to its normal state.
 
-[**Reversed: Flesh to Stone**](name:flesh_to_stone)
+[**Reversed: Flesh to Stone**](@flesh_to_stone)
 
 Turns one creature into a statue, including all gear and any items currently held. A **saving throw versus paralysis** is permitted to resist the transformation.
 
-# [Sequence of Play](name:sequence_of_play)
+# [Sequence of Play](@sequence_of_play)
 
-## [One Dungeon Turn](name:turn)
+## [One Dungeon Turn](@turn)
 
 1. The referee checks for [***Wandering Monsters***](#wandering_monsters), if applicable.
 2. The party decides what action to take (e.g. moving, searching, listening, entering rooms).
@@ -2705,7 +2713,7 @@ Turns one creature into a statue, including all gear and any items currently hel
 4. If no encounter occurs, the turn is over, continue to step 5. If monsters are encountered, first follow the encounter sequence, below.
 5. The turn ends. The referee should update time records, with special attention to light sources, spell durations, and the party's need to rest.
 
-## [One Wilderness Day](name:day)
+## [One Wilderness Day](@day)
 
 1. The players decide on their course of travel for the day.
 2. The referee determines whether the party gets lost (see [***Losing Direction***](#losing_direction)).
@@ -2714,7 +2722,7 @@ Turns one creature into a statue, including all gear and any items currently hel
 5. If no encounters occur, the day is over, continue to step 6. If monsters are encountered, first follow the encounter sequence, below.
 6. The day ends. The referee should update time records, with special attention to rations, spell durations, and the party's need to rest.
 
-## [Encounter Sequence](name:encounter_sequence)
+## [Encounter Sequence](@encounter_sequence)
 
 1. The referee rolls for surprise, if applicable, and determines how far away the monsters are.
 2. Any sides that are not surprised roll initiative (see [***Basic Combat Procedure***](#basic_combat_procedure)) to determine who acts first.
@@ -2725,9 +2733,9 @@ Turns one creature into a statue, including all gear and any items currently hel
 
 See [***Encounters***](#encounters) for a full description on all elements of running an encounter, including encounter distance, surprise, and monster reactions.
 
-# [Combat](name:basic_combat_procedure)
+# [Combat](@basic_combat_procedure)
 
-## [Sequence of Events](name:sequence_of_events)
+## [Sequence of Events](@sequence_of_events)
 
 The sequence of actions in each round is broken down as follows:
 
@@ -2742,33 +2750,33 @@ The sequence of actions in each round is broken down as follows:
 4. Other sides act through step 3, in order of initiative.
 5. When all sides of a conflict have acted, the round is over. If the combat has not come to an end, the sequence begins again at step 1.
 
-## [Initiative](name:initiative)
+## [Initiative](@initiative)
 
 At the start of each round, each side rolls 1d6 to determine initiative. The side with the highest result on 1d6 acts first for that round. Other sides in a conflict will react in order from highest to lowest roll.
 
-### [Tied Initiative](name:tied_initiative)
+### [Tied Initiative](@tied_initiative)
 
 If initiative is a tie, each side in the tie acts at the same time. All actions are completed, unaffected by opposed actions. For example, two opponents in melee may both inflict enough damage to kill the other. As the initiative is tied, both attacks occur simultaneously, resulting in both characters being killed.
 
-### [Two-Handed Weapons](name:two_handed_weapons)
+### [Two-Handed Weapons](@two_handed_weapons)
 
 Characters wielding two-handed melee weapons (and some missile weapons--as indicated in the equipment description) always act last in the round, as if they had lost initiative.
 
-### [Individual Initiative (Optional Rule)](name:individual_initiative)
+### [Individual Initiative (Optional Rule)](@individual_initiative)
 
 Instead of an initiative roll per side, a roll may be made for each individual PC or monster involved in a battle, modified by DEX. The referee may determine an initiative bonus or penalty for monsters which are very fast or slow, instead of applying a DEX modifier.
 
-## [Movement in Combat](name:movement_in_combat)
+## [Movement in Combat](@movement_in_combat)
 
-### [With Another Action](name:with_another_action)
+### [With Another Action](@with_another_action)
 
 A character can move up to one third of his or her normal movement rate every round and can also attack (if an enemy is within that distance) or perform another action (except spell casting) during a round.
 
-### [Without Another Action](name:without_another_action)
+### [Without Another Action](@without_another_action)
 
 A character who performs no other action in a round may run, moving up to his or her full movement rate.
 
-### [Retreating From Melee](name:retreating_from_melee)
+### [Retreating From Melee](@retreating_from_melee)
 
 When in melee with a foe, free movement is not so simple. Breaking away from melee is possible in two ways, as follows.
 
@@ -2776,28 +2784,28 @@ A **fighting retreat** allows a character to move backwards at up to half his or
 
 A **full retreat** occurs when a character moves backwards at a rate faster than half of his or her encounter movement rate. The character making the movement forfeits attacking this round and the opponent gains a +2 bonus to all attacks against the character this round. In addition, if the retreating character is carrying a shield, it does not apply to the character's Armour Class during the retreat.
 
-## [Actions in One Round](name:actions_in_one_round)
+## [Actions in One Round](@actions_in_one_round)
 
 Characters can generally move and perform one action in a round. The most common actions are attacking, casting a spell, or using an item that is easily to hand, but many other actions are possible and must be adjudicated by the referee. The referee has the final say on what can or cannot be done in one round. Note that, when casting a spell, the character may not move as well.
 
-## [Attacking](name:attacking)
+## [Attacking](@attacking)
 
 A character may attack if there is an enemy within striking range. Player characters can normally only attack once per round, but some monsters have multiple attacks.
 
-## [Range For Melee vs Missile Attacks](name:range_for_melee_vs_missile_attacks)
+## [Range For Melee vs Missile Attacks](@range_for_melee_vs_missile_attacks)
 
 Melee attacks are possible when opponents are 5' or less from each other. Missile attacks are possible when opponents are more than 5' from one another.
 
-## [Attack Rolls](name:attack_rolls)
+## [Attack Rolls](@attack_rolls)
 
 The player or referee rolls 1d20, modified by STR for melee attacks or DEX for missile attacks. The result is compared to the appropriate attack table (see Standard Combat Charts, p26). A result that is equal to or above the attack value corresponding to the attacker's level or Hit Dice and the opponent's Armour Class results in a hit.
 
-### [Natural 1s and 20s](name:natural_1s_and_20s)
+### [Natural 1s and 20s](@natural_1s_and_20s)
 
 - An attack roll of 20 always hits, unless the target cannot be harmed by the attack (e.g. a normal weapon used against a foe which can only be harmed by magic).
 - An attack roll of 1 is always a miss.
 
-### [Damage Rolls](name:damage_rolls)
+### [Damage Rolls](@damage_rolls)
 
 Upon a successful attack, damage is inflicted, taking into account any bonuses or penalties. Player character attacks inflict 1d6 damage; monster attacks deal the damage indicated in the monster's description.
 
@@ -2805,11 +2813,11 @@ An attack which hits always deals at least one point of damage, even when damage
 
 A character or monster reduced to 0 hit points or less is killed.
 
-### [Variable Weapon Damage (Optional Rule)](name:variable_weapon_damage)
+### [Variable Weapon Damage (Optional Rule)](@variable_weapon_damage)
 
 Some groups may prefer different weapons to inflict different amounts of damage. In this case, rather than rolling a flat 1d6 for all PC attacks, the die type indicated for the weapon in the equipment lists should be rolled.
 
-## [Missile Weapon Ranges](name:missile_weapon_ranges)
+## [Missile Weapon Ranges](@missile_weapon_ranges)
 
 All missile weapons have ranges, which must be taken into account when trying to strike an opponent at a distance:
 
@@ -2818,52 +2826,52 @@ All missile weapons have ranges, which must be taken into account when trying to
 - There is a penalty of &minus;1 to strike an opponent at **long range**.
 - If an opponent is further away than the long range listed, the missile weapon cannot hit that opponent.
 
-## [Casting a Spell](name:casting_a_spell)
+## [Casting a Spell](@casting_a_spell)
 
-### [Requirements](name:requirements)
+### [Requirements](@requirements)
 
 1. The caster must be able to speak and to move his or her hands, in order to bring a magic effect into being. As a result, a spell caster cannot cast spells if gagged, bound, or in an area of magical silence.
 2. Spell casters may take no other actions (including movement!) during the same round they intend to cast a spell.
 3. Unless otherwise noted in a spell's description, a spell caster must have the intended target (a specific monster, character, or area of effect) within visual range.
 
-### [Disrupting Spells](name:disrupting_spells)
+### [Disrupting Spells](@disrupting_spells)
 
 If a spell caster loses initiative and is successfully attacked or fails a saving throw before his or her turn, the spell being cast is disrupted and fails. The spell is removed from the caster's memory as if it had been cast.
 
-## [Attacking from Behind](name:attacking_from_behind)
+## [Attacking from Behind](@attacking_from_behind)
 
 Attacks made on a character from behind ignore the influence of the attacked character's shield, if any.
 
-## [Boarding Vessels](name:boarding_vessels)
+## [Boarding Vessels](@boarding_vessels)
 
 When the occupants of a vessel wish to board another vessel, there is a 2-in-6 chance of being able to successfully manoeuvre the vessel into a boarding position and clamp onto the other vessel with grappling hooks. If the occupants of both vessels wish to board one another, their mutual intent makes the action succeed with no chance of failure. Once crew-members come into contact with one another, combat ensues following the standard combat rules. Characters who are in the act of boarding another vessel suffer a penalty of &minus;2 to attack rolls and Armour Class for one round.
 
-## [Cover](name:cover)
+## [Cover](@cover)
 
 Cover is an important factor that can influence missile attacks. An attacker cannot hit an opponent that is entirely behind a barrier. If the target is only partly behind cover, the referee may apply attack penalties of between &minus;1 and &minus;4. For example, if a character were attempting to strike an opponent through a small window, the referee might call for a penalty of &minus;4. If the opponent were only partly covered, such as by small furniture, the penalty might only be &minus;1.
 
-## [Helpless Opponents](name:helpless_opponents)
+## [Helpless Opponents](@helpless_opponents)
 
 Helpless opponents, such as those sleeping, bound, magically frozen, etc., are automatically hit by any melee attacks in combat. Only a roll for damage is required.
 
-## [Magical Monsters](name:magical_monsters)
+## [Magical Monsters](@magical_monsters)
 
 Some monsters may only be damaged by magical or silver weapons. The referee may, optionally, allow such monsters to also be harmed by attacks from:
 
 - Another such monster.
 - A monster with 5 HD or greater.
 
-## [Morale (Optional Rule)](name:morale)
+## [Morale (Optional Rule)](@morale)
 
 Players may always decide whether they will fight, surrender, or run away in an encounter. The referee decides whether monsters or NPCs surrender or run away.
 
 Monsters have a listing for morale, rated from 2 to 12, which represents how likely they are to fight or flee when in an encounter. A score of 2 means the monster never fights (unless absolutely cornered) and a score of 12 means the monster will fight until killed, with no morale check necessary in either case.
 
-### [Morale Checks](name:morale_checks)
+### [Morale Checks](@morale_checks)
 
 The referee rolls 2d6 and, if the roll is higher than the morale of the monster, the check is a failure and the monster will either surrender or attempt a full retreat or a fighting retreat. If the result is equal to or lower than the morale score, a monster will continue to fight.
 
-### [When to Check Morale](name:when_to_check_morale)
+### [When to Check Morale](@when_to_check_morale)
 
 The referee usually makes a morale checkfor monsters under two conditions:
 
@@ -2872,21 +2880,21 @@ The referee usually makes a morale checkfor monsters under two conditions:
 
 If a monster makes two successful morale checks in an encounter, it will fight until killed.
 
-### [Adjustments to Morale](name:adjustments_to_morale)
+### [Adjustments to Morale](@adjustments_to_morale)
 
 The referee may decide to apply bonuses or penalties to morale, with a range of &minus;2 to +2, depending on the circumstances. For example, if one side of an encounter is losing or winning, they might receive a penalty or bonus to morale of &minus;1 or +1, respectively.
 
 Adjustments are never applied to monsters with a morale of 2 or 12.
 
-### [Retainer Morale](name:check_retainer_morale)
+### [Retainer Morale](@check_retainer_morale)
 
 Retainers signed up to work as adventurers, so are not frightened off at the first sign of danger. They only check morale in combat when confronted with extraordinary danger. See [***Retainer Morale***](#retainer_morale) for details.
 
-## [Multiple Attackers](name:multiple_attackers)
+## [Multiple Attackers](@multiple_attackers)
 
 The referee should use discretion in determining how many attackers can strike at one opponent. Usually only two characters may fight side-by-side in a 10' wide hallway, unless all of the attackers are small.
 
-## [Non-Lethal Combat](name:non_lethal_combat)
+## [Non-Lethal Combat](@non_lethal_combat)
 
 Any characters that wish to subdue an opponent must announce that they are attacking without intent to kill. All hand weapons with a blade may be employed to deal blunt blows with the flat of the blade.
 
@@ -2894,11 +2902,11 @@ Combat and damage are calculated normally, noting how much damage is non-lethal,
 
 Monsters may only be subdued in this way at the referee's discretion.
 
-## [Unarmed Attacks](name:unarmed_attacks)
+## [Unarmed Attacks](@unarmed_attacks)
 
 Unarmed combat is the same as melee combat, but all damage is 1 to 2 + STR modifiers.
 
-## [Unstable Surfaces](name:unstable_surfaces)
+## [Unstable Surfaces](@unstable_surfaces)
 
 Characters on an unstable surface, such as a ship in rough seas or riding a flying animal such as a griffon, are affected as follows:
 
@@ -2908,13 +2916,13 @@ Characters on an unstable surface, such as a ship in rough seas or riding a flyi
 
 Note that magical means of flight (e.g. a magic broom, carpet, or the fly spell) generally provide a smooth ride and do not count as unstable.
 
-## [Water](name:water)
+## [Water](@water)
 
 Characters fighting in or beneath water should have a penalty applied to their attack rolls. Damage from successful hits should also be reduced. Most missile weapons do not work underwater.
 
-# [Standard Combat Charts](name:standard_combat_charts)
+# [Standard Combat Charts](@standard_combat_charts)
 
-## [Adventurer Attack Chart](name:adventurer_attack_chart)
+## [Adventurer Attack Chart](@adventurer_attack_chart)
 
 | Class   | and | Level | AC |    |    |    |    |    |    |    |    |    |    |    |    |
 | --------|-----|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -2925,7 +2933,7 @@ Characters fighting in or beneath water should have a penalty applied to their a
 | 10--12 | 13--16 | 16--20 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |
 | 13--15 | 17--20 | 21--25 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  2 |
 
-## [Monster Attack Chart](name:monster_attack_chart)
+## [Monster Attack Chart](@monster_attack_chart)
 
 |  Hit Dice   | AC |    |    |    |    |    |    |    |    |    |    |    |    |
 | ------------|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -2946,13 +2954,13 @@ Characters fighting in or beneath water should have a penalty applied to their a
 | 19+ to 21   |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  2 |  2 |  2 |  2 |  2 |
 | 21+ or more |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  2 |  2 |  2 |  2 |  2 |  2 |
 
-## [Normal Human Attack Chart](name:normal_human_attack_chart)
+## [Normal Human Attack Chart](@normal_human_attack_chart)
 
 To Hit AC   | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9
 ------------|----|----|----|----|----|----|----|----|----|----|----|----|----
 Attack Roll | 20 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11
 
-## [Cleric Saving Throw Chart](name:cleric_saving_throw_chart)
+## [Cleric Saving Throw Chart](@cleric_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -2961,7 +2969,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 9--12 | 6 | 7 | 9 | 11 | 9
 13--16 | 3 | 5 | 7 | 8 | 7
 
-## [Dwarf and Halfling Saving Throw Chart](name:dwarf_and_halfling_saving_throw_chart)
+## [Dwarf and Halfling Saving Throw Chart](@dwarf_and_halfling_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -2970,7 +2978,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 7--9 | 4 | 5 | 6 | 7 | 8
 10--12 | 2 | 3 | 4 | 4 | 6
 
-## [Elf Saving Throw Chart](name:elf_saving_throw_chart)
+## [Elf Saving Throw Chart](@elf_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -2979,7 +2987,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 7--9 | 8 | 9 | 9 | 10 | 10
 10 | 6 | 7 | 8 | 8 | 8
 
-## [Fighter Saving Throw Chart](name:fighter_saving_throw_chart)
+## [Fighter Saving Throw Chart](@fighter_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -2989,7 +2997,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 10--12 | 6 | 7 | 8 | 8 | 10
 13--15 | 4 | 5 | 6 | 5 | 8
 
-## [Magic-User Saving Throw Chart](name:magic_user_saving_throw_chart)
+## [Magic-User Saving Throw Chart](@magic_user_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -2997,7 +3005,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 6--10 | 11 | 12 | 11 | 14 | 12
 11--15 | 8 | 9 | 8 | 11 | 8
 
-## [Thief Saving Throw Chart](name:thief_saving_throw_chart)
+## [Thief Saving Throw Chart](@thief_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -3006,15 +3014,15 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 9--12 | 10 | 11 | 9 | 12 | 10
 13--16 | 8 | 9 | 7 | 10 | 8
 
-## [Normal Human Saving Throw Chart](name:normal_human_saving_throw_chart)
+## [Normal Human Saving Throw Chart](@normal_human_saving_throw_chart)
 
 Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ---|----|----|----|---
 14 | 15 | 16 | 17 | 18
 
-# [Adventuring Rules](name:adventuring_rules)
+# [Adventuring Rules](@adventuring_rules)
 
-## [Ability Checks (Optional Rule)](name:ability_checks)
+## [Ability Checks (Optional Rule)](@ability_checks)
 
 Sometimes, the referee might require a test against an ability score, instead of a saving throw, to determine if a character succeeds in a task or escapes a danger. For example, DEX might be used to jump over a pit or STR might be used to push an object.
 
@@ -3024,9 +3032,9 @@ Bonuses or penalties to the roll may be applied, with a modifier of &minus;4 bei
 
 An unmodified roll of 1 should be treated as a success and a 20 treated as a failure.
 
-## [Castles and Strongholds](name:castles_and_strongholds)
+## [Castles and Strongholds](@castles_and_strongholds)
 
-### [Planning and Construction](name:planning_and_construction)
+### [Planning and Construction](@planning_and_construction)
 
 The construction of a castle or stronghold has the following steps:
 
@@ -3038,21 +3046,21 @@ The construction of a castle or stronghold has the following steps:
 6. ***Construction:*** Once the land has been cleared and construction materials delivered, construction may commence. The time required depends entirely on the stronghold's total price: one day of game time per 500 gp.
 7. ***Prepare for settlers:*** When construction is complete, the character may wish to clear any monsters out of adjacent hexes, so as to provide a safe area for settlers.
 
-### [Building in Towns](name:building_in_towns)
+### [Building in Towns](@building_in_towns)
 
 If a character has permission to build in an existing town or city, the costs are greatly reduced due to the proximity of materials and labour. Stone buildings cost 40% of the listed price and wooden buildings 20%. It is unlikely that the local ruler will grant permission for the construction of castles or fortifications by player characters in a town.
 
-### [Maintaining Cleared Lands](name:maintaining_cleared_lands)
+### [Maintaining Cleared Lands](@maintaining_cleared_lands)
 
 In order to prevent monsters from returning to cleared lands, mercenaries may be hired to conduct patrols. These patrols can cover a maximum of an 18-mile radius around a stronghold (6 miles, in inhospitable terrain such as swamp, mountains, or thick jungle). If the area to be maintained is larger than this radius, additional garrisons must be stationed at intervals.
 
-### [Settlers and Taxation](name:settlers_and_taxation)
+### [Settlers and Taxation](@settlers_and_taxation)
 
 The character may wish to attract settlers into a cleared area. In addition to ensuring the safety of surrounding lands, the character will have to fund construction of other buildings (e.g. mills, inns, docks, etc.) to attract settlers. Advertising may also be necessary. The referee will determine the costs involved and how many settlers are attracted.
 
 The character can expect to gain money through taxes at a rate of 10 gp per settler per year. These taxes can be used to pay patrolling mercenaries or to further invest in infrastructure that encourages commerce.
 
-### [Standard Structures](name:standard_structures)
+### [Standard Structures](@standard_structures)
 
 Structure | Description | Dimensions | Cost
 ----------|-------------|------------|-----
@@ -3069,7 +3077,7 @@ Tower, large | Round tower, either freestanding or built into a castle wall. | 3
 Tower, small | Round tower, either freestanding or built into a castle wall. | 20' base, 30' high, walls 5' thick | 15,000gp
 Wall, castle | Stone wall with battlements. | 100' long, 20' high, 10' thick | 5,000gp
 
-#### [Non-Standard Dimensions](name:non_standard_dimensions)
+#### [Non-Standard Dimensions](@non_standard_dimensions)
 
 ***Bastion:*** Bastions of different dimensions to those listed above may be constructed. Use the guidelines for tower pricing, below, and divide by two.
 
@@ -3089,7 +3097,7 @@ Wall, castle | Stone wall with battlements. | 100' long, 20' high, 10' thick | 5
 
 ***Wall, castle:*** Higher castle walls may be constructed at increased cost. A 100' length of 30' high wall costs 7,500 gp. Every additional 10' of height beyond this (up to a maximum of 60' high) costs 5,000 gp.
 
-### [Interior Details](name:interior_details)
+### [Interior Details](@interior_details)
 
 For simplicity, the cost of a stronghold may be increased by 25% to account for interior details, including: reinforced doors, stone stairs, flagstone flooring, tile roofing, windows or arrow slits, bars and shutters on windows, and standard furnishings.
 
@@ -3118,7 +3126,7 @@ Window | -- | 10gp
 Window bars | -- | 10gp
 Window shutters | -- | 5gp
 
-## [Chases](name:chases)
+## [Chases](@chases)
 
 When the party encounters monsters and one side decides to flee, the other may wish to pursue them. Generally, this is possible in two situations:
 
@@ -3127,15 +3135,15 @@ When the party encounters monsters and one side decides to flee, the other may w
 
 (See [***Encounters***](#encounters) for details.)
 
-### [Surprise](name:chase_surprise)
+### [Surprise](@chase_surprise)
 
 If one side is surprised, the other side may be able to flee without the possibility of being chased--the surprised side may not even be aware that the encounter occurred. In the wilderness, where greater distances are involved, this is always possible.
 
-### [Group Movement Rate](name:group_movement_rate)
+### [Group Movement Rate](@group_movement_rate)
 
 It is common for monsters to chase the whole party, as a group. In this case, it is important to note that a side's movement rate is usually determined by the speed of the slowest member.
 
-### [Chases in the Dungeon](name:chases_in_the_dungeon)
+### [Chases in the Dungeon](@chases_in_the_dungeon)
 
 One side can always successfully flee if its movement rate (see [***Movement***](#movement)) is higher than the other side's and if combat has not commenced. A pursuit is possible if the pursuing side's movement rate is greater than or equal to the fleeing side's.
 
@@ -3143,7 +3151,7 @@ Time in a chase is measured in rounds (see [***Time***](#time)). Most monsters w
 
 If the monsters enjoy treasure, there is a 3-in-6 probability that they will stop pursuit to collect any treasure the characters drop. Hungry or less intelligent monsters may do the same if the characters drop food. Burning oil or other obstacles may also slow or stop a pursuit.
 
-### [Chases in the Wilderness](name:chases_in_the_wilderness)
+### [Chases in the Wilderness](@chases_in_the_wilderness)
 
 With the open spaces and (generally) good visibility in the wilderness, a chase is assumed to play out over an extended period--time is not tracked round by round. The probability that one group can escape from another is determined by the relative size of the two sides. The more members in the pursuing side there are relative to the fleeing side, the greater chances the fleeing side has of escaping. This is because larger groups cannot move as fast or as quietly.
 
@@ -3164,7 +3172,7 @@ Fleeing group size | 10% | 25% | 35% | 50% | 70% | 90%
 13--24 | -- | 1--6 pursuers | 7--16 pursuers | 17+ pursuers | -- | --
 25+ | 1--10 pursuers | 11--30 pursuers | 31+ pursuers | -- | -- | --
 
-### [Waterborne Chases](name:waterborne_chases)
+### [Waterborne Chases](@waterborne_chases)
 
 When two waterborne sides (ships or swimming monsters) encounter one another, one side may choose to flee.
 
@@ -3183,27 +3191,27 @@ Up to 90' per round slower than pursuer | 35%
 Up to 120' per round slower than pursuer | 25%
 More than 120' per round slower than pursuer | 10%
 
-## [Climbing](name:climbing)
+## [Climbing](@climbing)
 
 When characters are climbing in a difficult or tense situation, the referee may specify a chance of failure (as a percentage or an x-in-6 chance) or may require an ability check versus DEX (if the optional [***Ability Checks***](#ability_checks) rule is being used).
 
 Note that very steep or sheer surfaces are normally impossible to climb without specialised equipment. Some characters may have class abilities which allow them to attempt to climb such surfaces unaided.
 
-## [Distance and Measurement](name:distance_and_measurement)
+## [Distance and Measurement](@distance_and_measurement)
 
 When characters are adventuring in a dungeon, all ranges and movement rates are measured in feet. However, the wilderness is not cramped like a dungeon and characters can usually see further ahead and need not be as wary of obstacles. For this reason, ranges and movement rates are measured in yards, rather than feet, in the wilderness.
 
 Note that areas (such as the area of a spell effect or a breath weapon) are always measured in feet, both in dungeons and in the wilderness.
 
-## [Doors](name:doors)
+## [Doors](@doors)
 
 Dungeons often have many doors, some secret and others obvious. Many are locked and many are stuck.
 
-### [Locked Doors](name:locked_doors)
+### [Locked Doors](@locked_doors)
 
 Locks must be picked by a character proficient with lock picks or opened by magic.
 
-### [Stuck Doors](name:stuck_doors)
+### [Stuck Doors](@stuck_doors)
 
 There is a base 2-in-6 chance of being able to force open a stuck door. Strength adjustments apply, but cannot take the success range above 5-in-6 or below 1-in-6.
 
@@ -3211,17 +3219,17 @@ A failed attempt to force open a door eliminates any possibility of surprise (se
 
 Note that monsters resident to the dungeon are often able to pass through stuck doors unhindered.
 
-### [Secret Doors](name:secret_doors)
+### [Secret Doors](@secret_doors)
 
 Secret doors can only be spotted if characters are specifically looking for them. See [***Searching***](#searching).
 
-### [Wedging Doors](name:wedging_doors)
+### [Wedging Doors](@wedging_doors)
 
 Doors opened by adventurers (by whatever means) are likely to swing shut after they pass. To prevent this, doors may be held open using iron spikes or other wedges.
 
 Likewise, players may wish to wedge doors shut, to hinder monsters' movement.
 
-### [Listening at Doors](name:listening_at_doors)
+### [Listening at Doors](@listening_at_doors)
 
 PCs have a 1-in-6 chance of detecting subtle sounds beyond a door. (Some types of adventurer may have an increased chance of success.)
 
@@ -3229,15 +3237,15 @@ The referee should always roll for the character listening so that the player ne
 
 This attempt may only be made one time at any door by a character. Note that some creatures, such as undead, do not make any noise.
 
-## [Encounters](name:encounters)
+## [Encounters](@encounters)
 
 An encounter begins when the characters stumble onto a monster, either because the referee has planned an encounter in the area the PCs are exploring or because a random die roll indicates an encounter (see [***Wandering Monsters***](#wandering_monsters)).
 
-### [Time in Encounters](name:time_in_encounters)
+### [Time in Encounters](@time_in_encounters)
 
 When an encounter begins, action is measured in rounds (see [***Time***](#time)) determine which side acts first.
 
-### [Surprise](name:surprise)
+### [Surprise](@surprise)
 
 Checks for surprise are made whenever an encounter is unexpected by at least one side. For instance, if the player characters are making a lot of noise, a monster may not have a chance to be surprised, but the characters might be, if the monster was waiting quietly.
 
@@ -3245,7 +3253,7 @@ Each side that is not already aware of the other's presence rolls 1d6. The refer
 
 Note that aquatic monsters are usually not surprised by ships. Special circumstances (e.g. thick fog) may alter this.
 
-### [Encounter Distance](name:encounter_distance)
+### [Encounter Distance](@encounter_distance)
 
 The situation in which the encounter occurs often determines how far away the monster is. If there is uncertainty (for example, in the case of [***Wandering Monsters***](#wandering_monsters)):
 
@@ -3253,7 +3261,7 @@ The situation in which the encounter occurs often determines how far away the mo
 - **In the wilderness**, the monster is 4d6 &times; 10 yards away. If either side is surprised, this is reduced to 1d4 &times; 10 yards.
 - **At sea**, monsters are encountered at the same distance as in the wilderness (see above). Ships may be sighted and identified at 300 yards on a clear day or as little as 40 yards in dense fog.
 
-### [Monster Reactions](name:monster_reactions)
+### [Monster Reactions](@monster_reactions)
 
 Very often, circumstances make it obvious how a monster will react when encountered. However, sometimes the referee may wish to roll on the table below to determine how a monster reacts to encountering the party. If one specific character attempts to interact with monsters, that character's CHA score is used to modify the reaction roll.
 
@@ -3265,15 +3273,15 @@ Very often, circumstances make it obvious how a monster will react when encounte
 9--11 | Indifferent, uninterested
 12 or more | Friendly, helpful
 
-### [Evasion](name:evasion)
+### [Evasion](@evasion)
 
 The characters may decide they are outmatched and flee an encounter or a monster might flee. Characters may choose whether they chase a fleeing monster. The referee will decide if monsters chase fleeing characters. A low roll on the [***Monster Reactions***](#monster_reactions) for complete rules on handling pursuit.
 
-### [Encounter Duration](name:encounter_duration)
+### [Encounter Duration](@encounter_duration)
 
 An encounter is assumed to take at least one full turn to complete, including time to rest,regroup, clean weapons, bind wounds, and so on, afterwards.
 
-## [Encumbrance (Optional Rule)](name:encumbrance)
+## [Encumbrance (Optional Rule)](@encumbrance)
 
 >Author's note: The original Basic rules contain ambiguities relating to the encumbrance system. I have attempted to resolve these ambiguities in a sensible and consistent way, but other interpretations of the original rules are possible.
 
@@ -3294,7 +3302,7 @@ Scroll | 1
 Staff | 40
 Wand | 10
 
-### [Option 1: Encumbrance by Armour Type](name:encumbrance_by_armor)
+### [Option 1: Encumbrance by Armour Type](@encumbrance_by_armor)
 
 This rule may be used by groups who want a simple system for determining the movement rates of different characters.
 
@@ -3308,7 +3316,7 @@ Unarmoured | 120' | 90'
 Leather armour | 90' | 60'
 Metal armour | 60' | 30'
 
-### [Option 2: Encumbrance by Weight Carried](name:encumbrance_by_weight)
+### [Option 2: Encumbrance by Weight Carried](@encumbrance_by_weight)
 
 This rule may be used by groups who want to make sure characters carry more realistic amounts of equipment and treasure.
 
@@ -3323,7 +3331,7 @@ Up to 600 coins | 90'
 Up to 800 coins | 60'
 Up to 1,600 coins | 30'
 
-### [Equipment Encumbrance in Coins](name:equipment_encumbrance)
+### [Equipment Encumbrance in Coins](@equipment_encumbrance)
 
 (Only used with encumbrance option 2.)
 
@@ -3350,15 +3358,15 @@ Spear | 30
 Two-handed sword | 150
 Warhammer | 30
 
-## [Experience Points](name:experience_points)
+## [Experience Points](@experience_points)
 
 All characters that make it through an adventure alive receive experience points (XP). XP is gained from two sources: treasure recovered and monsters defeated.
 
-### [Recovered Treasure](name:recovered_treasure)
+### [Recovered Treasure](@recovered_treasure)
 
 Characters gain XP from treasure at the rate of 1 XP per 1 gold piece (gp) value of the item. The values of all items are added together and converted to gold piece units. Only treasure of a non-magical nature grants XP in this way.
 
-### [Defeated Monsters](name:defeated_monsters)
+### [Defeated Monsters](@defeated_monsters)
 
 All monsters defeated by the party (slain, outsmarted, captured, scared away, etc.) grant XP based on how powerful they are. The XP value of a monster is determined by its Hit Dice plus a bonus for each special ability it has (e.g. breath attacks, spell-like abilities, etc.). See the chart below. A monster defeated under especially dangerous circumstances may be treated as one Hit Dice category higher on the chart.
 
@@ -3387,47 +3395,47 @@ Less than 1 | 5 | 1
 
 \* _For monsters of HD 22 and higher, add a cumulative 250 XP for the Base and Bonus categories._
 
-### [Division of Experience](name:divison_of_experience)
+### [Division of Experience](@divison_of_experience)
 
 The XP awards for treasures recovered and monsters defeated are totalled and divided evenly between all characters who survived the adventure. Note that total XP is divided evenly between all party members (including [***Retainers***](#retainers)), irrespective of how the players decide to divide the treasure.
 
-### [Discretionary Bonuses and Penalties](name:discretionary_bonuses_and_penalties)
+### [Discretionary Bonuses and Penalties](@discretionary_bonuses_and_penalties)
 
 The referee may grant XP bonuses to players who did particularly well. Likewise, players who did not do their share of the work in an adventure may be penalized.
 
-### [Prime Requisite Modifiers](name:prime_requisite_modifiers)
+### [Prime Requisite Modifiers](@prime_requisite_modifiers)
 
 In addition, characters receive XP bonuses or penalties based on their score in their class prime requisites, as described in [***Ability Scores***](#ability_scores).
 
 All bonuses or penalties to experience are applied to the grand total XP a particular character receives at the end of an adventure.
 
-### [Maximum XP in One Session](name:maximum_xp_in_one_session)
+### [Maximum XP in One Session](@maximum_xp_in_one_session)
 
 Characters should not be given enough experience to advance two or more levels in one adventure. Any additional points that would take a character to a level two above his or her current level are lost.
 
-## [Falling](name:falling)
+## [Falling](@falling)
 
 Falling from a height onto a hard surface inflicts 1d6 damage per 10' fallen.
 
-## [Foraging and Hunting](name:foraging_and_hunting)
+## [Foraging and Hunting](@foraging_and_hunting)
 
 When adventuring in a dungeon, there may be very little available to eat. Characters must take rations with them to cover the extent of time they expect to be away from town. However, they may occasionally kill an edible monster. When in the wilderness, characters can hunt or forage for food.
 
-### [Foraging](name:foraging)
+### [Foraging](@foraging)
 
 Foraging for food is an activity that can be accomplished without hindering travel speed by gathering fruit, herbs, nuts, or small animals along the way. For each day of travel while foraging, characters have a 1-in-6 chance of acquiring sufficient food for 1d6 human-sized beings.
 
-### [Hunting](name:hunting)
+### [Hunting](@hunting)
 
 Hunting must be engaged in as the sole activity for a day--no travelling or resting is possible. When hunting, there is a 1-in-6 chance of encountering animals which may be suitable for eating (if they can be caught!). This is in addition to the normal chance of random encounters (see [***Wandering Monsters***](#wandering_monsters)).
 
-## [Healing](name:healing)
+## [Healing](@healing)
 
 For each full day of complete rest, a character or monster recovers 1d3 hit points. If the rest is interrupted, the character or monster will not heal that day.
 
 Healing may also occur through magic, such as potions or spells. This kind of healing is instantaneous. Magical healing and natural healing can be combined.
 
-## [Hirelings](name:hirelings)
+## [Hirelings](@hirelings)
 
 Hirelings are NPCs hired by a character to perform certain services. Hirelings differ from [***Retainers***](#retainers) in that they do not accompany characters on adventures. For this reason, they do not count toward a character's maximum number of retainers, since they are not the same kind of hired help.
 
@@ -3440,39 +3448,39 @@ Like hiring retainers, mercenaries and specialists can be located by frequenting
 
 Some of the most common kinds of hirelings that can be found are described [***Hirelings***](#hirelings).
 
-## [Light, Vision, and Visibility](name:light_vision_and_visibility)
+## [Light, Vision, and Visibility](@light_vision_and_visibility)
 
-### [In the Dungeon](name:vision_in_the_dungeon)
+### [In the Dungeon](@vision_in_the_dungeon)
 
 Characters will usually want to bring a source of light with them on underground expeditions. Typical light sources enable normal vision within a 30' radius.
 
 The adventuring equipment lists  in [***Equipment***](#equipment) provide full information.
 
-### [In the Wilderness](name:vision_in_the_wilderness)
+### [In the Wilderness](@vision_in_the_wilderness)
 
 Characters can usually see for three miles around them, in open terrain. This range may sometimes be reduced (e.g. in overgrown terrain such as a forest) or increased (e.g. looking out from the top of a mountain).
 
-### [At Sea](name:vision_at_sea)
+### [At Sea](@vision_at_sea)
 
 On a clear day, land can be spotted at a distance of 24 miles. This may be reduced based on light and weather conditions.
 
-### [Light and Surprise](name:light_and_surprise)
+### [Light and Surprise](@light_and_surprise)
 
 Characters or monsters that carry a light in a dark environment are usually unable to surprise opponents (see [***Encounters***](#encounters)), because the light gives them away.
 
-### [Infravision](name:wilderness_infravision)
+### [Infravision](@wilderness_infravision)
 
 All non-human monsters and many demi-human races have infravision. Characters who have infravision can see the heat energy that radiates off of living things. Generally, living things will be visible as bright tones, while cool items are grey and very cold objects are black. It is not possible to read in the dark with infravision, because fine detail cannot be perceived.
 
 Infravision works within a limited range (60' for monsters) and only functions in darkness. Visible light (normal or magical) and large heat sources will disrupt it.
 
-## [Losing Direction](name:losing_direction)
+## [Losing Direction](@losing_direction)
 
-### [At Sea](name:lost_at_sea)
+### [At Sea](@lost_at_sea)
 
 Getting lost at sea is a serious risk. When in sight of land, the chance of getting lost is 2-in-6. Once out of sight of land, the chance of getting lost is 100%, unless a navigator is aboard--the chance of getting lost is then 2-in-6 per day.
 
-### [In the Wilderness](name:lost_in_the_wilderness)
+### [In the Wilderness](@lost_in_the_wilderness)
 
 Characters can confidently follow trails, roads, and other well-known landmarks without fear of becoming lost. However, when travelling through untracked wilderness, it is easy to lose direction. At the start of each day of travel, the referee will roll to determine if the group loses direction. The probability depends on the terrain being traversed:
 
@@ -3480,29 +3488,29 @@ Characters can confidently follow trails, roads, and other well-known landmarks 
 - Barren lands, hills, mountains, woods: 2-in-6.
 - Desert, jungle, swamp: 3-in-6.
 
-### [Effects of Being Lost](name:effects_of_being_lost)
+### [Effects of Being Lost](@effects_of_being_lost)
 
 If the roll indicates that the party is lost, the referee will decide which direction they are actually travelling in. One option is to pick a direction only slightly off course. For example, if the group intended to go south, they are actually headed southwest or west.
 
 It may take some time for a lost party to realise that it is moving in the wrong direction.
 
-## [Mercenaries](name:mercenaries)
+## [Mercenaries](@mercenaries)
 
 Mercenaries are typically hired as soldiers and will guard, patrol, and otherwise serve in wilderness settings, but only as part of a larger force, not an adventuring group.
 
 Note that as mercenaries are hired by a character to perform specific services, they are not treated as retainers and thus do not count toward a character's maximum number of retainers.
 
-### [Locating and Hiring](name:mercenary_locating_and_hiring)
+### [Locating and Hiring](@mercenary_locating_and_hiring)
 
 Mercenaries may be located by frequenting pubs or by posting notices of help wanted. There may also be guilds that can act as a contact point for recruiting mercenaries.
 
 The most commonly found types of mercenary are listed in the following table, along with their monthly rates of pay.
 
-### [Wages and Upkeep](name:mercenary_wages_and_upkeep)
+### [Wages and Upkeep](@mercenary_wages_and_upkeep)
 
 The monthly rate of pay includes food and basic gear. Most mercenaries already have weapons and armour when hired, though their employer may equip them with additional gear. Note that armourers (see [***Specialists***](#specialists)) are required to repair mercenaries' armour and weapons.
 
-### [Common Mercenary Types](name:common_mercenary_types)
+### [Common Mercenary Types](@common_mercenary_types)
 
 Type | Weapons | AC | Base Morale | Human | Dwarf | Elf | Orc | Goblin
 -------|----------|---|---|-----|---|------|-----|----
@@ -3522,7 +3530,7 @@ Wolf rider | Spear | 7 | 9 | -- | -- | -- | -- | 5gp
 ***Wage per Month:*** This is the rate of pay out of wartime. In wartime, all wages are doubled.  
 ***AC:*** 9 = no armour; 7 = leather; 6 = leather + shield; 5 = chainmail; 4 = chainmail + shield; 3 = plate mail.
 
-### [Morale](name:mercenary_morale)
+### [Morale](@mercenary_morale)
 
 Like retainers, mercenaries have a morale rating. However, the morale rating of a group of mercenaries is determined solely by their type---it does not depend on the CHA of the hiring character.
 
@@ -3537,11 +3545,11 @@ Mounted soldiers | +1
 Elite soldiers | +1
 Fanatic soldiers, Berserkers | +2
 
-#### [Modifiers](name:modifiers)
+#### [Modifiers](@modifiers)
 
 At the referee's discretion, the morale score of a group of mercenaries may be modified based on working conditions. If the mercenaries are being killed frequently or subjected to other abuses, morale will be low. If the mercenaries are enjoying riches and excitement, it might be higher.
 
-## [Movement](name:movement)
+## [Movement](@movement)
 
 See also: [***Air Travel***](#air_travel), [***Water Travel***](#water_travel).
 
@@ -3549,23 +3557,23 @@ Each character has a base movement rate. The default is 120', but this may be mo
 
 If the group wants to stay together, they may only move as quickly as the slowest character.
 
-### [Dungeon Exploration](name:dungeon_exploration)
+### [Dungeon Exploration](@dungeon_exploration)
 
 A character can move his or her movement rate in feet in one turn (see [***Time***](#time)) when exploring unknown areas of a dungeon. This (very slow!) rate of movement takes account for the fact that PCsare exploring, watching their footing, mapping, and taking care to be quiet and to avoid obstacles.
 
 When moving through dungeon areas they are familiar with, the referee may allow characters to move at a faster rate. For example, the referee may allow characters to move at three times their base movement rate, when moving through familiar areas. Thus, a character whose base movement rate is 120' could move 360' in a turn.
 
-### [Movement in Encounters](name:movement_in_encounters)
+### [Movement in Encounters](@movement_in_encounters)
 
 During encounters, a character can move up to one third of his or her movement rate per round in feet (in the dungeon) or yards (in the wilderness). For example, a character whose base movement rate is 120' could move 40' per round during a dungeon encounter. Characters may move at this rate for at most 60 rounds (one turn).
 
-### [Running](name:running)
+### [Running](@running)
 
 During encounters, a character may choose to run at up to his or her full movement rate per round in feet (in the dungeon) or yards (in the wilderness). Characters may only move at this rate for 30 rounds before becoming exhausted: suffering a &minus;2 penalty to attacks, damage, and Armour Class (AC is increased by 2). The penalties for exhaustion last until characters have rested for three full turns.
 
 Clearly, it is not possible to maintain a map while running.
 
-### [Overland Travel](name:overland_travel)
+### [Overland Travel](@overland_travel)
 
 When travelling in the wilderness, the distance a character can travel in a normal day's march is determined by dividing his or her base movement rate by five. This is the number of miles travelled in a day. For example, a character whose base movement rate is 120' could travel up to 24 miles in a day.
 
@@ -3575,45 +3583,45 @@ Some types of terrain modify the speed at which characters can travel:
 - Jungle, mountains, swamp: 50% slower.
 - Maintained roads: 50% faster.
 
-### [Forced March](name:forced_march)
+### [Forced March](@forced_march)
 
 If they need to travel further in one day, characters may engage in a forced march. A forced march is a day of hard, tiring, overland travel, but increases travel speed by 50%. For example, a character who can normally travel 24 miles in a day can travel 36 miles on a forced march. After a forced march, the characters must rest for a full day.
 
-## [Resting](name:resting)
+## [Resting](@resting)
 
-### [In the Dungeon](name:resting_in_the_dungeon)
+### [In the Dungeon](@resting_in_the_dungeon)
 
 Characters can explore, fight, or otherwise remain active for five turns before needing to rest for one turn.
 
-### [In the Wilderness](name:resting_in_the_wilderness)
+### [In the Wilderness](@resting_in_the_wilderness)
 
 During wilderness travel, characters must rest one day per six days of travel.
 
-### [After a Forced March](name:after_a_forced_march)
+### [After a Forced March](@after_a_forced_march)
 
 After a forced march, characters must rest for a full day.
 
-### [After Running](name:after_running)
+### [After Running](@after_running)
 
 Characters who have been running for more than 30 rounds must rest for three full turns to recover.
 
-### [Penalty for Not Resting](name:penalty_for_not_resting)
+### [Penalty for Not Resting](@penalty_for_not_resting)
 
 If characters press on without resting, they suffer a penalty of &minus;1 to hit and damage rolls until they have rested for the required length of time. After running, this penalty is increased to &minus;2 and additionally applied to Armour Class (AC is raised by 2).
 
-## [Retainers](name:retainers)
+## [Retainers](@retainers)
 
 Retainers are NPCs that are hired by characters for extra hands during an adventure. Each character is limited to a finite number of retainers, which is indicated by the character's Charisma score (see [***Ability Scores***](#ability_scores)). Retainers are not mindless slaves and, although they will usually share the party's risks, they will not willingly act as battle fodder. If abused in any way, retainers will typically warn others of this and the PCs will soon find it difficult to hire other retainers.
 
-### [Locating](name:locating)
+### [Locating](@locating)
 
 A PC who wants to hire a retainer must first locate possible candidates. The PC might simply walk up to strangers in taverns, might contact adventurers' guilds, or might advertise by putting up fliers or by other means.
 
-### [Hiring](name:hiring)
+### [Hiring](@hiring)
 
 Retainers are recruited through negotiation, with the referee playing the roles of the NPCs a character attempts to hire. The PC should explain what the job entails and the rates of pay: for example, a percentage of any treasure recovered or a flat rate of pay. The hiring PC must also typically pay for the retainer's daily upkeep (food and lodgings) and for any new adventuring gear, weapons, or mounts the retainer will require for the adventure.
 
-### [Reactions](name:reactions)
+### [Reactions](@reactions)
 
 After an offer is made, the referee rolls 2d6 on the table below to decide the potential retainer's reaction. The roll is modified by the hiring character's CHA and the referee may apply a bonus or penalty, depending on the attractiveness of the deal (+1 or +2 for generous offers, &minus;1 or &minus;2 for poor offers).
 
@@ -3628,11 +3636,11 @@ After an offer is made, the referee rolls 2d6 on the table below to decide the p
 \* _The potential retainer reacts so negatively to the offer that he or she spreads negative rumours about the PC, which results in a &minus;1 penalty on any further hiring reaction rolls while recruiting in the same town or area._  
 &dagger; _The offer is accepted in very good spirits and the retainer's morale is increased by one._
 
-### [Class and Level](name:class_and_level)
+### [Class and Level](@class_and_level)
 
 Retainers can be of any class (including normal humans of level 0), but must be of equal or lower level to the PC who has hired them.
 
-### [Morale](name:retainer_morale)
+### [Morale](@retainer_morale)
 
 Retainers have a morale rating, determined by the hiring character's CHA (see Ability Scores, p4). This rating may be adjusted at the referee's discretion: it may be increased if the PC has been particularly good to the retainer (e.g. repeatedly given additional treasure) or reduced if the PC has been cruel or contrary to his or her word.
 
@@ -3643,33 +3651,33 @@ Morale rolls are made in two circumstances:
 - Each time the retainer is exposed to a particularly perilous situation. If the roll fails, the retainer will likely flee.
 - At the end of an adventure. If the roll fails, the NPC will not work for the PC again.
 
-### [Experience](name:experience)
+### [Experience](@experience)
 
 Although retainers are "played" by the referee, they acquire experience in the same way PCs do, can advance in level, and are affected by all of the same class rules. Because retainers follow instructions when on an adventure, thus not directly engaging in problem solving, they suffer a penalty of &minus;50% to XP.
 
-## [Saving Throws](name:saving_throws)
+## [Saving Throws](@saving_throws)
 
 All characters and monsters can make saving throws to avoid the full effects of spells or certain attacks. Characters and monsters have a rating for each saving throw category (death ray or poison; magic wands; paralysis or turn to stone; dragon breath; rods, staves, or spells). Saving throw tables for the standard classes (also used by monsters) are given in [***Standard Combat Charts***](#standard_combat_charts).
 
 The appropriate saving throw to make and the effects of a success or failure will be indicated in the description of the spell, monster attack, or adventure scenario.
 
-### [Rolling a Saving Throw](name:rolling_a_saving_throw)
+### [Rolling a Saving Throw](@rolling_a_saving_throw)
 
 When affected by a spell or attack form which requires a saving throw, the player or referee must roll 1d20. A result that is greater than or equal to the value listed for the saving throw is a success. A result of less than the listed value is a failure.
 
-### [Successful Saves](name:successful_saves)
+### [Successful Saves](@successful_saves)
 
 A successful saving throw against an effect that causes damage means that the damage is halved. A successful saving throw against an effect that does not cause damage means the effect has been entirely avoided or negated.
 
-### [Saves vs Poison](name:saves_vs_poison)
+### [Saves vs Poison](@saves_vs_poison)
 
 A failed save against poison is usually fatal. If a poisonous attack also inflicts damage, the damage is not affected by the success or failure of the saving throw.
 
-### [Item Saving Throws](name:item_saving_throws)
+### [Item Saving Throws](@item_saving_throws)
 
 If a character is killed by a destructive spell or special attack (e.g. a lightning bolt spell or dragon's breath), his or her equipment is assumed to be destroyed. Magic items may be allowed a saving throw, using the character's saving throw values. Items which grant a bonus in combat (e.g. magical weapons and armour) may also apply this bonus to the saving throw.
 
-## [Searching](name:searching)
+## [Searching](@searching)
 
 Dungeons often include hidden features and mechanisms such as secret doors and traps. Adventurers can spot these by searching. The player must declare the particular object or 10' &times; 10' area to be searched. Searching takes one turn.
 
@@ -3677,17 +3685,17 @@ If a character is searching in the right location, there is a base 1-in-6 chance
 
 Each character can only make one attempt to search any given object or 10' &times; 10' area.
 
-## [Specialists](name:specialists)
+## [Specialists](@specialists)
 
 All types of character that PCs may wish to hire for non-combat and non-adventuring purposes (i.e. not mercenaries or retainers) are termed specialists.
 
 Note that as specialists are hired by a character to perform specific services, they are not treated as retainers and thus do not count toward a character's maximum number of retainers.
 
-### [Locating and Hiring](name:specialist_locating_and_hiring)
+### [Locating and Hiring](@specialist_locating_and_hiring)
 
 Specialists may be located by frequenting pubs or by posting notices of help wanted. There may also be guilds which can act as a contact point for recruiting specialists.
 
-### [Wages and Upkeep](name:pecialist_wages_and_upkeep)
+### [Wages and Upkeep](@pecialist_wages_and_upkeep)
 
 Several possible types of specialist are described below, along with their typical monthly pay rates. The monthly rate of pay includes food and basic gear. This list is not exhaustive and the referee may create additional types of specialist as needed.
 
@@ -3708,19 +3716,19 @@ Spy | 500gp (or more)
 
 &dagger; _Not defined in the traditional Expert rules; value extrapolated from similar specialists._
 
-### [Descriptions](name:descriptions)
+### [Descriptions](@descriptions)
 
-#### [Alchemist](name:alchemist)
+#### [Alchemist](@alchemist)
 
 Alchemists dedicate their expertise to creating potions and other concoctions. Based on a sample or recipe, an alchemist can produce a potion at twice the normal speed and for half the normal cost (see [***Magical Research***](#magical_research)). An alchemist may also research new potions, but this takes twice as long and costs twice as much as normal.
 
-#### [Animal Trainer](name:animal_trainer)
+#### [Animal Trainer](@animal_trainer)
 
 All animal trainers are specialized in a particular kind of animal and can have up to six animals under their care at a time. Trainers are not required for small numbers of common animals like dogs, horses, or mules, but more exotic animals or larger numbers of normal animals require a specialized trainer.
 
 The referee decides how long an animal must be trained, based on the nature of the training. It will take a minimum of one month to teach an animal the first new behaviour or trick. After this first month, an animal has become accustomed to the trainer and can be taught additional behaviours at twice the rate (two weeks per behaviour). If training is interrupted, all time already spent on that particular behaviour is lost and the animal becomes unable to learn further behaviours.
 
-#### [Armourer](name:armourer)
+#### [Armourer](@armourer)
 
 An armourer may either:
 
@@ -3729,83 +3737,83 @@ An armourer may either:
 
 The output of an armourer (either in terms of arms produced or troops maintained) may be doubled by hiring two assistant armourers and one blacksmith. If four assistants and two blacksmiths are hired, the armourer's output may be quadrupled. An armourer cannot coordinate more assistants than this.
 
-#### [Assistant Armourer](name:assistant_armourer)
+#### [Assistant Armourer](@assistant_armourer)
 
 Apprentices who may work under an armourer to increase the rate of production. See _Armourer_.
 
-#### [Blacksmith](name:blacksmith)
+#### [Blacksmith](@blacksmith)
 
 Craftsmen trained in the art of forging metal. Blacksmiths may be hired to work under an armourer to increase the rate of production. See _Armourer_.
 
-#### [Engineer](name:engineer)
+#### [Engineer](@engineer)
 
 Engineers plan and oversee large construction projects, such as building [***Castles and Strongholds***](#castles_and_strongholds). The number of engineers required for a construction project depends on the overall cost of the building: one engineer is needed per 100,000 gp value of the project. Human engineers usually handle large aboveground structures, while dwarves may be hired for underground construction.
 
-#### [Navigator](name:navigator)
+#### [Navigator](@navigator)
 
 A navigator is a sailor who understands how to read charts and navigate based on instruments and the position of the stars. Any time a ship ventures beyond sight of a coastline, it becomes lost if a navigator is not aboard. (See [***Losing Direction***](#losing_direction).)
 
-#### [Oarsman](name:oarsman)
+#### [Oarsman](@oarsman)
 
 Unskilled normal humans who man the oars of sea vessels. They are not trained for combat.
 
-#### [Sage](name:sage)
+#### [Sage](@sage)
 
 Sages are rare individuals who devote their lives to the study of an obscure and specific subject area (e.g. dragons, ancient history). A sage may be consulted for information in his or her specialist area. Characters may have to pay the monthly rate in addition to any other supplies the sage needs to research their question, as determined by the referee. If the information is particularly difficult to obtain, it will cost the characters extra. In addition, despite the special knowledge sages have, they are occasionally wrong when it comes to particularly obscure questions. The referee will decide what questions are obscure and the probability of achieving a wrong answer. If the characters receive a wrong answer, they may not realize it!
 
-#### [Sailor](name:sailor)
+#### [Sailor](@sailor)
 
 Skilled normal humans who can handle a ship. Sailors can fight to defend their ship, typically being equipped with a sword, shield, and leather armour.
 
-#### [Ship's Captain](name:ships_captain)
+#### [Ship's Captain](@ships_captain)
 
 A captain is required for any large ship, is skilled like a sailor, and has an intimate knowledge of the particular coasts he or she frequents.
 
-#### [Spy](name:spy)
+#### [Spy](@spy)
 
 A spy is hired to gather information about a specific person or group. The spy may be an outsider who tries to infiltrate or may be a traitor already connected with the person or group to be spied upon. Spies are often NPC thieves, but may be of any character class. The referee will determine the time required for the job and the probability of success in the mission, based on the circumstances. Spies may or may not be reliable and could stab the hiring character in the back (perhaps literally!).
 
-## [Starvation](name:starvation)
+## [Starvation](@starvation)
 
 If characters go for a full day or more without food or water, the referee may begin to apply penalties to attack rolls and movement rate, require more frequent rests, or even begin to deduct hit points, in extreme cases.
 
-## [Swimming](name:swimming)
+## [Swimming](@swimming)
 
 Characters move at half their normal movement rate when swimming.
 
 It is assumed that every character knows how to swim, unless there is some obvious reason why a character could not have learned.
 
-### [Drowning](name:drowning)
+### [Drowning](@drowning)
 
 Characters that are encumbered or in treacherous water conditions have a probability of drowning, at the referee's discretion. Heavily encumbered characters--wearing plate mail armour and/or carrying a large amount of treasure--will likely have above 90% chance of drowning. Characters carrying less treasure or wearing lighter armour may have as little as 10% chance of drowning.
 
-## [Time](name:time)
+## [Time](@time)
 
 Aside from normal time increments (minutes, hours, days, and so on), the following special units are used in the game. In all matters of time and movement, the referee is the final authority on what may be accomplished in a given period of time.
 
-### [Turns](name:turns)
+### [Turns](@turns)
 
 When in the dungeon, characters take actions in time increments called turns. One turn is equal to 10 minutes. Character actions that take one turn include looking for secret doors or traps in a 10' &times; 10' area (see [***Searching***](#searching)).
 
-### [Rounds](name:rounds)
+### [Rounds](@rounds)
 
 Rounds are ten seconds of game time each, so there are 60 rounds in a turn. Time is only measured in rounds during encounters, especially in combat (see [***Encounters***](#encounters)).
 
-## [Traps](name:traps)
+## [Traps](@traps)
 
-### [Triggering](name:triggering)
+### [Triggering](@triggering)
 
 Each trap is triggered by a specific action (e.g. opening a door or walking over a particular area). Every time a character makes an action that could trigger a trap, there is a 2-in-6 chance of the trap being sprung. Some traps may be more or less likely to trigger, if the referee wishes.
 
-### [Searching for Traps](name:searching_for_traps)
+### [Searching for Traps](@searching_for_traps)
 
 Adventurers may choose to search objects or areas for traps. See [***Searching***](#searching).
 
 ## Travel
 
-### [Land Transportation](name:land_transportation)
+### [Land Transportation](@land_transportation)
 
-#### [Animals of Burden](name:animals_of_burden)
+#### [Animals of Burden](@animals_of_burden)
 
 Animal | Cost (gp) | Miles per Day | Movement Rate | Maximum Encumbrance (Coins)
 ------|-----|----|------------|------
@@ -3819,7 +3827,7 @@ Mule | 30 | 24 | 120' (40') | 4,000
 
 ***Max Encumbrance (Coins):*** Burdens of up to half the listed maximum do not affect movement rate; greater burdens (up to the maximum listed encumbrance) reduce movement to half speed.
 
-#### [Tack and Harness](name:tack_and_harness)
+#### [Tack and Harness](@tack_and_harness)
 
 Item | Cost (gp)
 -----|----------
@@ -3827,7 +3835,7 @@ Barding | 150
 Saddle and bridle | 25
 Saddle bags| 5
 
-#### [Vehicles](name:vehicles)
+#### [Vehicles](@vehicles)
 
 Vehicle | Cost (gp) | Miles per Day | Movement Rate | Max Load (Coins)
 -----|-----|----|-----------|--------------
@@ -3838,7 +3846,7 @@ Wagon | 200 | 12 | 60' (20') | 15,000 / 25,000
 
 ***Max Load (Coins):*** The maximum load of a vehicle depends on the number of animals pulling it. See descriptions.
 
-#### [Descriptions](name:vehicle_descriptions)
+#### [Descriptions](@vehicle_descriptions)
 
 _(Full descriptions and stats for animals are found in [**Monsters**](#monsters).)_
 
@@ -3860,13 +3868,13 @@ _(Full descriptions and stats for animals are found in [**Monsters**](#monsters)
 
 ***Wagon:*** A four-wheeled, open vehicle. Pulled by two draft horse or four mules, a wagon may be loaded with up to 15,000 coins of weight. Pulled by four draft horses or eight mules, it may carry up to 25,000 coins. When travelling through difficult terrain (e.g. desert, forest, mountains, swamp), can only travel on maintained roads.
 
-### [Air Travel](name:air_travel)
+### [Air Travel](@air_travel)
 
 When travelling by air, the total number of miles a character can travel in a day is twice the distance he or she could travel overland (see [***Movement***](#movement)).
 
 This rate might be reduced if there are adverse conditions such as very high mountains, storms, or thick fog. There are many magical items that grant characters the ability to fly, as well as spells and winged mounts.
 
-#### [Mounts](name:mounts)
+#### [Mounts](@mounts)
 
 In general, a winged beast may carry riders or other burdens based on its Hit Dice:
 
@@ -3875,7 +3883,7 @@ In general, a winged beast may carry riders or other burdens based on its Hit Di
 - 12 HD creatures may carry a large animal like a horse or four adult humans.
 - 24 HD creatures may carry a very a large animal, or four horses, or eight adult humans.
 
-### [Water Travel](name:water_travel)
+### [Water Travel](@water_travel)
 
 The distance travelled in a day is determined by the type of vessel being used and by the prevailing wind and water conditions.
 
@@ -3886,13 +3894,13 @@ When travelling upon **rivers**, the current may increase (moving downstream) or
 - A result of 2 means that the day is completely devoid of wind and a ship that is incapable of rowing cannot move all day.
 - A result of 12 indicates a gale (see below).
 
-#### [Gales](name:gales)
+#### [Gales](@gales)
 
 During a gale, any vessel with sails can attempt to move with the wind to avoid damage. The vessel travels at three times its normal speed in a randomly determined direction. (The referee may roll 1d6, with 1 indicating the intended direction of travel, 2 indicating 60' to the right, 3 indicating 120' to the right, and so on.)
 
 If the ship encounters land during this travel, there is a 75% chance of it wrecking against the shore.
 
-#### [Variable Wind Conditions (Optional Rule)](name:variable_wind_conditions)
+#### [Variable Wind Conditions (Optional Rule)](@variable_wind_conditions)
 
 Groups who prefer a slightly more detailed system of sea travel may use the following chart, which adds additional detail to the daily 2d6 roll to determine wind conditions.
 
@@ -3908,19 +3916,19 @@ Groups who prefer a slightly more detailed system of sea travel may use the foll
 11 | Near gale | Movement rate doubled. 10% chance of taking on water (speed reduced by one third until repaired at a dock).
 12 | Gale | Movement rate tripled. See [***Gales***](#gales), above.
 
-### [Water Transportation](name:water_transportation)
+### [Water Transportation](@water_transportation)
 
 The vessels described in this section span various historical periods from ancient galleys to medieval sailing ships. Vessels are propelled by rowing or sailing, with some able to use either means. The necessary crew and the resulting speeds are given on the following pages. The pay rates for crew are given in [***Specialists***](#specialists).
 
-#### [Seaworthiness](name:seaworthiness)
+#### [Seaworthiness](@seaworthiness)
 
 Water vessels are divided into two broad categories: those which are suitable for use on the high seas and those which are restricted to rivers, lakes, or coastal waters.
 
-##### [Dimensions](name:dimensions)
+##### [Dimensions](@dimensions)
 
 A ship's _beam_ is its width and its _draft_ is the depth it extends beneath the water.
 
-##### [Seaworthy Vessels](name:seaworthy_vessels)
+##### [Seaworthy Vessels](@seaworthy_vessels)
 
 Vessel | Cost (gp) | Maximum Cargo (Coins) | Usage | Length | Beam | Draft
 ---------|-------|--------|-----|-----|-------|------
@@ -3933,7 +3941,7 @@ Troop transport (small) | 6,600 | 100,000 | Coastal waters, open seas | 60'--80'
 Warship (large) | 26,600 | 300,000 | Coastal waters, open seas | 100'--150' | 25'--30' | 10'--12'
 Warship (small) | 6,600 | 100,000 | Coastal waters, open seas | 60'--80' | 20'--30' | 5'--8'
 
-##### [Unseaworthy Vessels](name:unseaworthy_vessels)
+##### [Unseaworthy Vessels](@unseaworthy_vessels)
 
 Vessel | Cost (gp) | Maximum Cargo (Coins) | Usage | Length | Beam | Draft
 ---------|-------|--------|-----|-----|-------|------
@@ -3948,7 +3956,7 @@ Raft (professional) | 1gp / square foot | 100 per square foot | Rivers, lakes | 
 
 &dagger; _Not defined in the traditional Expert rules; value extrapolated from similar vessels._
 
-##### [High Winds](name:high_winds)
+##### [High Winds](@high_winds)
 
 Unseaworthy vessels are designed for use in rivers, lakes, or coastal waters, not on the open seas. They are thus not built to withstand high winds (see [***Water Travel***](#water_travel)). These vessels suffer as follows in extreme winds:
 
@@ -3960,7 +3968,7 @@ Unseaworthy vessels are designed for use in rivers, lakes, or coastal waters, no
 - Unseaworthy vessels with sails cannot move with the wind to avoid damage.
 - If the vessel is in sight of land when the gale hits, it may attempt to beach. If the shore is relatively clear of physical dangers (rocks, cliffs, etc), this is automatically successful; otherwise there is a 2-in-6 chance of finding a safe harbour to weather the storm.
 
-#### [Vessel Descriptions](name:vessel_descriptions)
+#### [Vessel Descriptions](@vessel_descriptions)
 
 ***Boat, river:*** Riverboats are either rowed or pushed with poles. The cost of the boat increases by 1,000 gp if it has a roof (to protect passengers or cargo).
 
@@ -3990,7 +3998,7 @@ Unseaworthy vessels are designed for use in rivers, lakes, or coastal waters, no
 
 ***Raft, professional:*** A professionally built raft has raised sides, a basic steering oar, and some form of shelter for goods or passengers. Such a raft may be up to 30' &times; 40'. Professionally built rafts are sometimes floated downstream with cargo and then broken down and sold for the value of their wood (25cp per square foot).
 
-#### [Vessel Movement Rates and Crew](name:vessel_movement_rates_and_crew)
+#### [Vessel Movement Rates and Crew](@vessel_movement_rates_and_crew)
 
 Vessel | Requires Captain? | Req. Oarsmen | Row Miles/Day | Row Movement Rate | Req. Sailors | Sail Miles/Day | Sail Movement Rate
 -------------|----|---|----|------------|---|---|---
@@ -4016,15 +4024,15 @@ Warship (small) | Yes | -- | -- | -- | 10 | 90 | 360' (150')
 
 ***Movement Rate:*** Distance moved in one exploration turn; per-round encounter movement rate in parentheses.
 
-#### [Rowed Movement](name:rowed_movement)
+#### [Rowed Movement](@rowed_movement)
 
 For rowed vessels, the encounter movement rate represents a great effort on the part of the oarsmen. Such speeds cannot be maintained for long periods, thus the movement rates per turn and per day are much slower.
 
-##### [Reduced Crew](name:reduced_crew)
+##### [Reduced Crew](@reduced_crew)
 
 Having less than the required number of oarsmen reduces a vessel's speed. For every 10% reduction in the available rowing crew, the vessel's rowing speed is reduced by an equal percentage. For example, if 10% of the oarsmen are being used to repair hull damage, the vessel moves at 90% of its normal speed (i.e. 10% slower than normal).
 
-#### [Vessel Combat Stats](name:vessel_combat_stats)
+#### [Vessel Combat Stats](@vessel_combat_stats)
 
 Vessel | Maximum Mercenaries | Armour Class | Hull Points | Ram? | Catapult?
 -------------|---|---|-------|---|---
@@ -4045,25 +4053,25 @@ Troop trans. (sm.) | 50 | 8 | 80--120 | -- | --
 Warship (large) | 50 | 7 | 120--180 | -- | Up to 2
 Warship (small) | 25 | 8 | 60--90 | -- | Up to 1
 
-##### [Mercenaries](name:marines)
+##### [Mercenaries](@marines)
 
 Some vessels have space aboard for mercenaries in addition to the normal crew of sailors/oarsmen. These mercenaries are optional and may be of any type. (See [***Mercenaries***](#mercenaries).)
 
-##### [Hull Points](name:hull_points)
+##### [Hull Points](@hull_points)
 
 In combat, attacks and damage may be directed at water vessels in addition to characters and monsters. A water vessel has a number of hull points. These are analogous to a creature's hit points. Normal attacks (bows, swords, etc.) do not inflict hull damage, but spells, magical attacks, and the attacks of giant sea monsters inflict one point of hull damage per five points of normal hit point damage the attack does.
 
-##### [Effects of Hull Damage](name:effects_of_hull_damage)
+##### [Effects of Hull Damage](@effects_of_hull_damage)
 
 When a vessel loses hull points, its movement rate is also affected. This may be due to taking on water or because of structural damage influencing how the vessel passes through water. For every 10% a ship is reduced from its maximum hull points, its movement is reduced by an equal percentage. For example, if a ship loses 20% of its hull points, its movement is reduced by 20%.
 
 When a vessel is reduced to 0 hull points, it will sink in 1d10 rounds. Any mounted weaponry is no longer functional.
 
-##### [Repairs](name:repairs)
+##### [Repairs](@repairs)
 
 It takes five crew-members one turn to repair one hull point. This task requires full attention, so any crew involved in repair cannot take any other action during a turn repairing a vessel. Only half of all damage sustained to a ship can be repaired at sea by the crew, the remaining damage can only be repaired by facilities at a dock.
 
-#### [Ship Modifications](name:ship_modifications)
+#### [Ship Modifications](@ship_modifications)
 
 The following modifications may be made to an existing ship:
 
@@ -4071,7 +4079,7 @@ The following modifications may be made to an existing ship:
 - A catapult may be added to a galley, longship, or warship.
 - A ram may be added to a large or small galley (a war galley already comes with a ram fitted).
 
-#### [Ship Weaponry](name:ship_weaponry)
+#### [Ship Weaponry](@ship_weaponry)
 
 Item | Cost (gp)
 ---------|-----
@@ -4081,7 +4089,7 @@ Catapult shot, pitch | 25
 Ram, large galley | 10,000
 Ram, small galley | 3,000
 
-#### [Weaponry Descriptions](name:weaponry_descriptions)
+#### [Weaponry Descriptions](@weaponry_descriptions)
 
 ***Catapult:*** Fires either large rocks or flaming pitch and may be operated by 2--4 crew. A catapult, along with twenty rounds of shot, weighs 10,000 coins. This must be subtracted from the ship's cargo allowance.
 
@@ -4096,15 +4104,15 @@ The range of attacks is 150--300 yards. Attack rolls may be modified for weather
 - Large or war galley: Deals 1d6+5 &times; 10 hull points damage against ships and 6d6 hit points damage against monsters.
 - Small galley: Deals 1d4+4 &times; 10 hull points damage against ships and 3d8 hit points damage against monsters.
 
-## [Wandering Monsters](name:wandering_monsters)
+## [Wandering Monsters](@wandering_monsters)
 
 Besides the monsters specifically placed in certain regions of a dungeon or wilderness, the party may randomly encounter monsters on the move between areas. These are known as "wandering monsters". The chance of a random encounter occurring depends on the type of area being explored (e.g. dungeon region or level, type of wilderness terrain). Each type of area should have its own table of wandering monsters, which the referee rolls on when an encounter takes place.
 
-### [In the Dungeon](name:monsters_in_the_dungeon)
+### [In the Dungeon](@monsters_in_the_dungeon)
 
 The typical chance of encountering a wandering monster is 1-in-6, rolled every two turns. The chance of wandering monsters may be higher or lower in certain parts of the dungeon and the actions of the party can also affect this. For example, making a lot of noise or light should increase the chance, while resting quietly in an out-of-the-way location should decrease the chance.
 
-### [In the Wilderness](name:monsters_in_the_wilderness)
+### [In the Wilderness](@monsters_in_the_wilderness)
 
 It is usual to check for random encounters once per day, though the referee may make more checks: up to three or four per day. The chance of encounters depends on the terrain being explored:
 
@@ -4114,53 +4122,53 @@ It is usual to check for random encounters once per day, though the referee may 
 
 Aquatic encounters may occur either on the open water or on land, if the party docks at some point during the day.
 
-# [Adventure Scenarios](name:adventure_scenarios)
+# [Adventure Scenarios](@adventure_scenarios)
 
 The first step in designing an adventure of any kind is to decide on the type of scenario. This is the hook that draws the player characters to the adventure site, and provides a background theme that the referee can use to tie the location together. The scenario drives the referee's choices of specific traps, treasures, and monsters to be placed in the location. The following examples may be used for inspiration.
 
-## [1. Banishing Ancient Evil](name:banishing_ancient_evil)
+## [1. Banishing Ancient Evil](@banishing_ancient_evil)
 
 An evil presence (e.g. a monster or NPC) must be banished or destroyed. It may have been dormant for many years, and have only recently been awakened (perhaps as a result of another party's meddling).
 
-## [2. Clearing Ruins](name:clearing_ruins)
+## [2. Clearing Ruins](@clearing_ruins)
 
 Settlers plan to move into an abandoned settlement or stronghold. Before they arrive, the PCs need to scout the area and clear out any monsters or other dangers that inhabit the place. The ruins need not be in a remote area---they could even be within (or beneath) a major settlement.
 
-## [3. Contacting a Lost Civilisation](name:contacting_a_lost_civilisation)
+## [3. Contacting a Lost Civilisation](@contacting_a_lost_civilisation)
 
 The PCs discover a long-lost race in a fantastic location. They may have once been human, but are now adapted to their strange environment. For example, they may have reverted to bestial behaviour, or may be adapted to subterranean life, with pale skin and infravision.
 
-## [4. Escaping from Captivity](name:escaping_from_captivity)
+## [4. Escaping from Captivity](@escaping_from_captivity)
 
 The PCs have been taken prisoner by an enemy, and begin the adventure in captivity, possibly with a grisly fate awaiting them in the near future. They must regain their freedom.
 
-## [5. Exploring Unknown Territory](name:exploring_unknown_territory)
+## [5. Exploring Unknown Territory](@exploring_unknown_territory)
 
 An NPC hires the party to explore and map an unknown region. This may be a previously uncharted area, or may be a recent alteration to a familiar region (e.g. a magic castle may appear in an empty plain).
 
-## [6. Performing a Quest](name:performing_a_quest)
+## [6. Performing a Quest](@performing_a_quest)
 
 A deity or powerful NPC (e.g. a king) sends the PCs on a quest. This may involve recovering holy or magical items.
 
-## [7. Rescuing Captives](name:rescuing_captives)
+## [7. Rescuing Captives](@rescuing_captives)
 
 Important NPCs have been kidnapped by bandits, wicked monsters, or an evil wizard. The PCs attempt to rescue the prisoners, either seeking a reward, or because of a personal connection with the unfortunate captives. It is also possible that the PCs may be hired as bodyguards to NPCs who are negotiating with the kidnappers.
 
-## [8. Scouting an Enemy Outpost](name:scouting_an_enemy_outpost)
+## [8. Scouting an Enemy Outpost](@scouting_an_enemy_outpost)
 
 An invasion is looming (or in progress)! The PCs are tasked with infiltrating an outpost of the enemy, gathering reconnaissance as to their plans, strengths, and weaknesses, and (if possible) destroying them.
 
-## [9. Seeking a Magical Doorway](name:seeking_a_magical_doorway)
+## [9. Seeking a Magical Doorway](@seeking_a_magical_doorway)
 
 A gateway exists that allows magical travel (either one-way, or bidirectional) between distant locations or even other worlds. The PCs may be tasked with locating a lost portal, or closing a portal used by enemies. The portal may also be the only means of travel to a fantastic destination that the PCs must visit.
 
-## [10. Visiting a Sacred Site](name:visiting_a_sacred_site)
+## [10. Visiting a Sacred Site](@visiting_a_sacred_site)
 
 In order to consult with an oracle, remove a curse, or find a holy relic, the PCs must journey to a sacred site (e.g. a shrine or temple). The exact location of the site is usually a matter of conjecture.
 
-# [Designing a Dungeon](name:designing_a_dungeon)
+# [Designing a Dungeon](@designing_a_dungeon)
 
-## [1. Choose Setting](name:dungeon_choose_setting)
+## [1. Choose Setting](@dungeon_choose_setting)
 
 The central location of an adventure is often a dungeon of some kind. The referee should decide on the basic form and structure of the dungeon, and can begin to come up with ideas for the main rooms or areas. The following table may be used to decide the basic form.
 
@@ -4173,17 +4181,17 @@ d6 | Setting
 5 | Temple
 6 | Tower or fortification
 
-## [2. Choose Monsters](name:choose_monsters)
+## [2. Choose Monsters](@choose_monsters)
 
 Based on the selected [***adventure scenario***](#adventure_scenarios) and dungeon setting, the referee should decide what types of monsters inhabit the dungeon. Monsters may be selected from [***Monsters***](#monsters) or other monster books that the referee has available. The referee may also wish to create new monsters specially for the dungeon, or to alter standard monsters to tailor them to the location.
 
-## [3. Map the Dungeon](name:map_the_dungeon)
+## [3. Map the Dungeon](@map_the_dungeon)
 
 Typically, dungeon maps are drawn on graph paper, with a scale of 10' per square. (Larger or smaller scales may be used, as appropriate.) The overall shape of the dungeon---the structure of the rooms and connecting passages (e.g. rough, cavern walls; carefully laid-out defensive structures; etc.)---will be determined by the dungeon setting.
 
 Each area (e.g. room or cave) of the dungeon should be numbered, so that the area on the map can easily be cross-referenced with the description of its contents (see step 4).
 
-## [4. Stock the Dungeon](name:stock_the_dungeon)
+## [4. Stock the Dungeon](@stock_the_dungeon)
 
 The referee should note down a description of each numbered area from the map.
 
@@ -4193,14 +4201,14 @@ The referee should note down a description of each numbered area from the map.
 
 Monsters or areas that play an important role in the adventure background should be noted first. Areas of less importance may then be stocked, using the guidelines to the right, as desired.
 
-### [Unguarded Treasure](name:unguarded_treasure)
+### [Unguarded Treasure](@unguarded_treasure)
 
 Treasure is usually guarded by monsters or traps, but sometimes an unguarded cache of treasure may be found. The following guidelines should be borne in mind:
 
 - When designing dungeons for experienced players, the referee should consider placing only very few completely unguarded treasures.
 - The referee may wish to not place any unguarded treasures in the 9th or deeper dungeon levels.
 
-### [Random Dungeon Room Contents](name:random_dungeon_room_contents)
+### [Random Dungeon Room Contents](@random_dungeon_room_contents)
 
 d6 | Room Type | Chance of Treasure
 ----|-------|-------
@@ -4214,7 +4222,7 @@ d6 | Room Type | Chance of Treasure
 - ***Traps:*** If treasure is present, the trap may be set so that it is triggered when the treasure is tampered with (a _treasure trap_). Otherwise, the trap may be triggered by simply entering the room or a certain area of it (a _room trap_).
 - ***Treasure:*** If a monster is in the room, roll the treasure type indicated in its description. Otherwise, the treasure depends on the dungeon level.
 
-### [Example Room Traps](name:example_room_traps)
+### [Example Room Traps](@example_room_traps)
 
 1. ***Falling block:*** Inflicts 1d10 damage (**save vs petrification** to avoid).
 2. ***Gas:*** Poisonous gas fills the room (**save vs poison** or die).
@@ -4223,7 +4231,7 @@ d6 | Room Type | Chance of Treasure
 5. ***Scything blade:*** Swings from the ceiling; attacks for 1d8 damage.
 6. ***Slide:*** Opens up beneath characters' feet, sending them to a lower level.
 
-## [Example Specials](name:example_specials)
+## [Example Specials](@example_specials)
 
 1. ***Alarms:*** Entry alarm that attracts nearby guardians.
 2. ***Animating objects:*** Inanimate objects that attack if disturbed.
@@ -4235,7 +4243,7 @@ d6 | Room Type | Chance of Treasure
 8. ***Trapdoors:*** Leading to a hidden area.
 9. ***Voices:*** Walls or architectural features speak or moan (e.g. a talking statue).
 
-## [Example Treasure Traps](name:example_treasure_traps)
+## [Example Treasure Traps](@example_treasure_traps)
 
 1. ***Darts:*** 1d6 spring-loaded darts fire at the character, doing 1d4 damage each.
 2. ***Hidden monster:*** Released when the treasure is tampered with (e.g. a snake).
@@ -4244,7 +4252,7 @@ d6 | Room Type | Chance of Treasure
 5. ***Spray:*** A mysterious liquid covers the character; monsters are attracted to the smell. The chance of wandering monsters is doubled for 1d6 hours.
 6. ***Sprung needle:*** A needle coated with poison jabs out (**save vs poison** or die).
 
-## [Treasure](name:treasure)
+## [Treasure](@treasure)
 
 - ***Level 1:*** 1d6 &times; 100sp; 50%: 1d6 &times; 10gp; 5%: 1d6 gems; 2%: 1d6 pieces of jewellery; 2%: 1 magic item.
 - ***Level 2--3:*** 1d12 &times; 100sp; 50%: 1d6 &times; 100gp; 10%: 1d6 gems; 5%: 1d6 pieces of jewellery; 8%: 1 magic item.
@@ -4254,15 +4262,15 @@ d6 | Room Type | Chance of Treasure
 
 See [***Gems and Jewellery***](#gems_and_jewellery) for more details.
 
-## [Dungeon Encounter Tables](name:dungeon_encounter_tables)
+## [Dungeon Encounter Tables](@dungeon_encounter_tables)
 
 This section provides encounter tables by dungeon level, using the monsters found in [***Monsters***](#monsters). Referees who are using additional (or alternative) monsters should either adapt the tables to include these, or should create their own encounter tables. Special tables may also be created to reflect the different balance of monsters inhabiting a specific dungeon.
 
-### [How to Roll an Encounter](name:dungeon_how_to_roll_an_encounter)
+### [How to Roll an Encounter](@dungeon_how_to_roll_an_encounter)
 
 Roll 1d20 and look up the result on the column in the table below that corresponds to the dungeon level being explored. The result indicates the monster encountered, with the number appearing in parentheses.
 
-### [Notes](name:dungeon_notes)
+### [Notes](@dungeon_notes)
 
 - ***NPC adventurers:*** Encounters with NPC adventuring parties are listed in the tables as "Basic Adventurers" or "Expert Adventurers". Guidelines for generating NPC adventurers can be found in [***NPC Parties***](#npc_parties).
 - ***Number appearing:*** The values listed in the tables for some monsters do not match the values listed in [***Monsters***](#monsters). If desired, the referee may use the number appearing value listed in the monsters book, for consistency.
@@ -4313,9 +4321,9 @@ d20 | Level 4--5 | Level 6--7 | Level 8+
 19 | Weasel, Giant (1d4) | Troll (1d8) | Salamander, Frost (1d3)
 20 | Wraith (1d4) | Warp Beast (1d4) | Vampire (1d4)
 
-# [Designing a Wilderness](name:designing_a_wilderness)
+# [Designing a Wilderness](@designing_a_wilderness)
 
-## [1. Choose Setting](name:wilderness_choose_setting)
+## [1. Choose Setting](@wilderness_choose_setting)
 
 The referee should decide on the basic geography and climate of the region to be described: whether it primarily consists of mountains, forest, desert, etc. The size of the region should also be determined.
 
@@ -4323,46 +4331,46 @@ When starting a new campaign, it is recommended that the referee begin by detail
 
 At this stage, the referee should also consider the nature of the milieu being detailed: the general level of technology, availability of magic, presence of different monsters and intelligent races, and so on.
 
-## [2. Map the Region](name:map_the_region)
+## [2. Map the Region](@map_the_region)
 
 Using graph or hex paper, the referee should create a map of the wilderness area, marking on the major terrain features such as mountain ranges, rivers, seas, lakes, islands, forests, swamps, and so on. Real world maps may serve as inspiration as to the natural structure and relationship of terrain features.
 
 Typically, a large scale map (24 miles per hex) is drawn first, followed by smaller scale maps (6 miles per hex) of certain areas, adding more detail.
 
-## [3. Locate Human Realms](name:locate_human_realms)
+## [3. Locate Human Realms](@locate_human_realms)
 
 The areas of the map that are controlled by humans should be marked on the map, bearing in mind the needs of human civilisation (rivers, farmland, etc.). The base town (see step 5) is typically located within one of these regions. The referee should also note the ruler of each human-controlled area, whether it be a petty lord, a mighty king, a consortium of merchants, etc.
 
-## [4. Locate Non-Human Realms](name:locate_non_human_realms)
+## [4. Locate Non-Human Realms](@locate_non_human_realms)
 
 Regions that are controlled by other intelligent species that exist in the setting (e.g. demihumans, monstrous races, and so on) should be marked on the map, taking their preferred environment and lifestyle into account. Some intelligent species may keep domains with well-defined boundaries, while others may move around---hunting or raiding---within a more vaguely defined area.
 
 The territories of significant, non-intelligent monsters may also be marked on the map at this stage.
 
-## [5. Place the Base Town](name:place_the_base_town)
+## [5. Place the Base Town](@place_the_base_town)
 
 A base town for player characters should be located on the map, typically close to a river or road, near the centre of the map. This is where play will begin. The guidelines to the right may be used to help flesh out the base town.
 
-## [6. Place Dungeons](name:place_dungeons)
+## [6. Place Dungeons](@place_dungeons)
 
 The referee may place one or more dungeons on the map, somewhere in the vicinity of the base town. Dungeons are normally located around a day's journey from the base town---close enough that travel between the town and the dungeon is convenient, but not so close that the town is plagued by monsters from the dungeon.
 
-## [7. Create Regional Encounter Tables](name:create_regional_encounter_tables)
+## [7. Create Regional Encounter Tables](@create_regional_encounter_tables)
 
 The standard [***Wilderness Encounter Tables***](#wilderness_encounter_tables) may be suited for use in some areas of the campaign map. For other areas, the referee may prefer to create new tables, with a selection of monsters customised to the area. Special encounter tables should take account of the intelligent and monstrous species marked on the map.
 
-## [Wilderness Encounter Tables](name:wilderness_encounter_tables)
+## [Wilderness Encounter Tables](@wilderness_encounter_tables)
 
 This section provides encounter tables by terrain type, using the monsters found in [***Monsters***](#monsters). Referees who are using additional (or alternative) monsters should either adapt the tables to include these, or should create their own encounter tables.
 
-### [How to Roll an Encounter](name:wilderness_how_to_roll_an_encounter)
+### [How to Roll an Encounter](@wilderness_how_to_roll_an_encounter)
 
 Roll 1d8 and 1d12:
 
 - Look up the d8 result on the column in the table below that corresponds to the terrain being explored. The result indicates which sub-table to consult.
 - Look up the d12 result in the sub-table indicated.
 
-### [Notes](name:wilderness_notes)
+### [Notes](@wilderness_notes)
 
 - ***Aerial encounters:*** Always use the ***Flyer*** table, in [sub-table 1](#sub_table_1), below.
 - ***Lost World:*** In Lost World or prehistoric settings, any Animal result may be rolled on the ***Prehistoric Animal*** table, in [sub-table 2](#sub_table_2), below.
@@ -4390,7 +4398,7 @@ d8 | Jungle | Lake, River | Ocean, Sea | Settled | Swamp
 7 | 1---Insect | L---Swimmer | O---Swimmer | C---Humanoid | 2---Undead
 8 | 1---Insect | L---Swimmer | O---Swimmer | 1---Insect | 2---Undead
 
-### [Standard Sub-Table 1](name:sub_table_1)
+### [Standard Sub-Table 1](@sub_table_1)
 
 d12 | Dragon | Flyer | Insect
 ----|--------|-------|-------
@@ -4407,7 +4415,7 @@ d12 | Dragon | Flyer | Insect
 11 | Basilisk (re-roll at sea) | Sprite | Spider, Crab
 12 | Salamander (re-roll at sea) | Stirge | Spider, Tarantella
 
-### [Standard Sub-Table 2](name:sub_table_2)
+### [Standard Sub-Table 2](@sub_table_2)
 
 d12 | Prehistoric Animal | Undead | Unusual
 ----|--------------------|--------|--------
@@ -4424,7 +4432,7 @@ d12 | Prehistoric Animal | Undead | Unusual
 11 | Tyrannosaurus Rex | Zombie | Treant
 12 | Wolf, Dire | Zombie | Warp Beast
 
-### [Sub-Table B: Barren, Hills, Mountains](name:sub_table_b)
+### [Sub-Table B: Barren, Hills, Mountains](@sub_table_b)
 
 d12 | Animal | Flyer | Human | Humanoid
 ----|--------|-------|-------|---------
@@ -4441,7 +4449,7 @@ d12 | Animal | Flyer | Human | Humanoid
 11 | Wolf | Roc, Large | Neanderthal | Troglodyte
 12 | Wolf, Dire | Roc, Giant | Neanderthal | Troll
 
-### [Sub-Table C: City, Settled](name:sub_table_c)
+### [Sub-Table C: City, Settled](@sub_table_c)
 
 d12 | Animal | Human, City | Human, Settled | Humanoid
 ----|--------|-------------|----------------|---------
@@ -4458,7 +4466,7 @@ d12 | Animal | Human, City | Human, Settled | Humanoid
 11 | Weasel, Giant | Trader | Trader | Pixie
 12 | Wolf | Veteran | Veteran | Sprite
 
-### [Sub-Table D: Desert](name:sub_table_d)
+### [Sub-Table D: Desert](@sub_table_d)
 
 d12 | Animal | Flyer | Human | Humanoid
 ----|--------|-------|-------|---------
@@ -4475,7 +4483,7 @@ d12 | Animal | Flyer | Human | Humanoid
 11 | Snake, Rattler | Roc, Large | Nomad | Sprite
 12 | Spider, Tarantella | Roc, Giant | Nomad | Thoul
 
-### [Sub-Table F: Forest](name:sub_table_f)
+### [Sub-Table F: Forest](@sub_table_f)
 
 d12 | Animal | Human | Humanoid
 ----|--------|-------|---------
@@ -4492,7 +4500,7 @@ d12 | Animal | Human | Humanoid
 11 | Wolf | High-Level Magic-User | Thoul
 12 | Wolf, Dire | Merchant | Troll
 
-### [Sub-Table G: Clear, Grasslands](name:sub_table_g)
+### [Sub-Table G: Clear, Grasslands](@sub_table_g)
 
 d12 | Animal | Human | Humanoid
 ----|--------|-------|---------
@@ -4509,7 +4517,7 @@ d12 | Animal | Human | Humanoid
 11 | Snake, Rattler | Noble | Thoul
 12 | Weasel, Giant | Nomad | Troll
 
-### [Sub-Table J: Jungle](name:sub_table_j)
+### [Sub-Table J: Jungle](@sub_table_j)
 
 d12 | Animal | Human | Humanoid
 ----|--------|-------|---------
@@ -4526,7 +4534,7 @@ d12 | Animal | Human | Humanoid
 11 | Snake, Spitting Cobra | Merchant | Troglodyte
 12 | Spider, Crab | Neanderthal | Troll
 
-### [Sub-Table L: Lake, River](name:sub_table_l)
+### [Sub-Table L: Lake, River](@sub_table_l)
 
 d12 | Animal | Human | Humanoid | Swimmer
 ----|--------|-------|----------|--------
@@ -4543,7 +4551,7 @@ d12 | Animal | Human | Humanoid | Swimmer
 11 | Shrew, Giant | Merchant | Thoul | Nixie
 12 | Toad, Giant | Merchant | Troll | Termite, Water
 
-### [Sub-Table O: Ocean, Sea](name:sub_table_o)
+### [Sub-Table O: Ocean, Sea](@sub_table_o)
 
 d12 | Human | Swimmer
 ----|-------|--------
@@ -4560,7 +4568,7 @@ d12 | Human | Swimmer
 11 | Pirate | Termite, Water
 12 | Pirate | Whale
 
-### [Sub-Table S: Swamp](name:sub_table_s)
+### [Sub-Table S: Swamp](@sub_table_s)
 
 d12 | Human | Humanoid | Swimmer
 ----|-------|----------|--------
@@ -4577,9 +4585,9 @@ d12 | Human | Humanoid | Swimmer
 11 | Merchant | Troll | Lizard Man
 12 | Trader | Troll | Termite, Water
 
-# [Designing a Base Town](name:designing_a_base_town)
+# [Designing a Base Town](@designing_a_base_town)
 
-## [1. Size](name:size)
+## [1. Size](@size)
 
 Decide how large the base town is and roughly how many inhabitants it has:
 
@@ -4590,7 +4598,7 @@ Small Town | 1,000--4,999
 Large Town | 5,000--14,999
 City | 15,000+
 
-## [2. Services](name:services)
+## [2. Services](@services)
 
 The referee should make some notes on the presence of the following services that adventurers will require:
 
@@ -4600,23 +4608,23 @@ The referee should make some notes on the presence of the following services tha
 - ***Lodgings:*** Inns or rooms to rent.
 - ***Rumours:*** Places where notices are posted and gossip spreads.
 
-## [3. Ruler](name:town_ruler)
+## [3. Ruler](@town_ruler)
 
 The referee should decide how the town is ruled: whether by a local sheriff or mayor appointed by a lord, an elected council, a confederacy of merchants, etc. It is also possible that a high-level NPC adventurer (with attendant guards and magic) may rule the town.
 
-## [4. Other NPCs](name:other_npcs)
+## [4. Other NPCs](@other_npcs)
 
 Other important NPCs in the town should be noted, especially those associated with one of the services mentioned above, or those who might wish to hire the PCs to undertake missions.
 
-## [5. Rumours](name:rumours)
+## [5. Rumours](@rumours)
 
 A few local rumours may be noted, to provide hooks for the player characters to start exploring the local area, and possibly find their way to one of the placed dungeons.
 
-# [Stronghold Encounters](name:stronghold_encounters)
+# [Stronghold Encounters](@stronghold_encounters)
 
 High-level adventurers may create a base in a wilderness area by driving dangerous monsters out of the area, building a castle or stronghold, and hiring an army of mercenaries for protection. When PCs wander into the vicinity of such a stronghold, a warm reception is not always guaranteed. The referee may already have notes on the patrols around a stronghold, and the reaction of the ruler to travellers. If not, the following guidelines may be used.
 
-## [Ruler](name:stronghold_ruler)
+## [Ruler](@stronghold_ruler)
 
 The referee should decide what class of NPC claims ownership of the stronghold and the surrounding lands:
 
@@ -4626,7 +4634,7 @@ The referee should decide what class of NPC claims ownership of the stronghold a
 
 Note that demihuman strongholds are unusual cases, and should be detailed in advance by the referee. Typically, they will attempt to avoid all contact with travellers.
 
-## [Patrols](name:patrols)
+## [Patrols](@patrols)
 
 Adventurers who enter the dominion around a stronghold will typically be spotted by one of the mercenary groups hired to patrol the area. The type of troops depends on the class of the ruler:
 
@@ -4634,11 +4642,11 @@ Adventurers who enter the dominion around a stronghold will typically be spotted
 - ***Divine spell caster:*** 2d6 medium horsemen. Equipped with chainmail (AC 5) and lances. Morale 9.
 - ***Warrior or combat-oriented character:*** 2d6 heavy horsemen. Equipped with plate mail (AC 3), lance, and sword. Morale 9.
 
-## [Garrison](name:garrison)
+## [Garrison](@garrison)
 
 Patrols such as those described are only a small part of the ruler's garrison. Further forces may include magical monsters, or humans mounted on flying creatures.
 
-## [Reaction](name:reaction)
+## [Reaction](@reaction)
 
 The reaction of the ruler to travellers in his or her domain depends on the class of the ruler, and can be determined by rolling 1d6 and consulting this table:
 
@@ -4657,7 +4665,7 @@ d6 | Arcane Caster | Divine Caster | Warrior
 
 ***Invite:*** The patrol brings a message from the domain's ruler, inviting the PCs to stay in the stronghold. The ruler's exact motive for doing so will depend on his or her personality---it is not necessarily benign.
 
-# [NPC Parties](name:npc_parties)
+# [NPC Parties](@npc_parties)
 
 This procedure generates parties of NPC adventurers. As the procedure is fairly involved, referees may wish to pre-generate some NPC parties for use in random encounters. The following general details apply to all types of NPC party described:
 
@@ -4668,40 +4676,40 @@ This procedure generates parties of NPC adventurers. As the procedure is fairly 
 
 If the classes presented in [***Character Classes***](#character_classes) are not in use, the referee should replace the listed classes by equivalents in use in his or her campaign.
 
-## [Basic Adventurers](name:basic_adventurers)
+## [Basic Adventurers](@basic_adventurers)
 
 - ***Composition:*** 1d4+4 characters of random class and level (see below).
 - ***Alignment:*** Either roll the alignment of each NPC or roll once for the party.
 
-## [Expert Adventurers](name:expert_adventurers)
+## [Expert Adventurers](@expert_adventurers)
 
 - ***Composition:*** 1d6+3 characters of random class and level (see below).
 - ***Alignment:*** Either roll the alignment of each NPC or roll once for the party.
 - ***Mounts:*** 75% chance of being mounted, in the wilderness.
 - ***Magic items:*** Per individual: there is a chance of the NPC having a magic item from each suitable magic item sub-table (see [***Magic Items***](#magic_items)). The chance per sub-table is 5% per level of the NPC. Rolled items that cannot be used by the NPC should be ignored (no re-roll).
 
-## [High-Level Cleric](name:high_level_cleric)
+## [High-Level Cleric](@high_level_cleric)
 
 A high-level cleric and party. (Mounts and magic items as per Expert Adventurers.)
 
 - ***Composition:*** Leader (cleric of level 1d6+6), 1d4 clerics (level 1d4+1), 1d3 fighters (level 1d6).
 - ***Alignment:*** Roll for the whole party.
 
-## [High-Level Fighter](name:high_level_fighter)
+## [High-Level Fighter](@high_level_fighter)
 
 A high-level fighter and a group of retainers, often on their way to or from war. (Mounts and magic items as per Expert Adventurers.)
 
 - ***Composition:*** Leader (fighter of level 1d4+6), 2d4 retainers (level 1d4+2, any class).
 - ***Alignment:*** Roll for the whole party.
 
-## [High-Level Magic-User](name:high_level_magic_user)
+## [High-Level Magic-User](@high_level_magic_user)
 
 A high-level magic-user, accompanied by his or her apprentices and a group of hired guards, often on a quest for arcane lore. (Mounts and magic items as per Expert Adventurers.)
 
 - ***Composition:*** Leader (magic-user of level 1d4+6), 1d4 apprentices (magic-users of level 1d3), 1d4 mercenaries (fighters of level 1d4+1).
 - ***Alignment:*** Roll the leader's alignment. The apprentices have the same alignment as the leader, but the mercenaries may be of different alignment.
 
-## [Adventurers' Class and Level](name:adventurers_class_and_level)
+## [Adventurers' Class and Level](@adventurers_class_and_level)
 
 d8 | Class | Basic | Expert
 ---|-------|-------|-------
@@ -4714,7 +4722,7 @@ d8 | Class | Basic | Expert
 7 | Magic-User | 1d3 | 1d6+3
 8 | Thief | 1d3 | 1d6+4
 
-## [Alignment](name:npc_alignment)
+## [Alignment](@npc_alignment)
 
 d6 | Alignment
 ---|----------
@@ -4724,11 +4732,11 @@ d6 | Alignment
 
 # Treasure
 
-## [Placing Treasure](name:placing_treasure)
+## [Placing Treasure](@placing_treasure)
 
 There are two methods of deciding what treasure is in the possession of monsters encountered in an adventure, described below.
 
-### [Rolling Randomly](name:rolling_randomly)
+### [Rolling Randomly](@rolling_randomly)
 
 Monster listings (for example in [***Monsters***](#monsters)) note which treasure type is present in the creature's lair and which it may carry on its person. Each treasure type (described in the following section) lists one or more types of coin or item that may be found in the hoard. For each item in the list:
 
@@ -4738,7 +4746,7 @@ Monster listings (for example in [***Monsters***](#monsters)) note which treasur
 
 If the value of the randomly generated treasure is significantly above or below the average value of the treasure type, the referee may wish to adjust the results manually.
 
-### [Referee Choice](name:referee_choice)
+### [Referee Choice](@referee_choice)
 
 As an alternative to rolling treasure at random, the referee may wish to choose treasures appropriate to the monsters and the player character party. As treasure is the main source of player character experience (see [***Experience Points***](#experience_points))---usually accounting for 3/4 or more of their total experience earned---the referee should carefully consider treasure placement. The referee may use the following approach:
 
@@ -4748,7 +4756,7 @@ As an alternative to rolling treasure at random, the referee may wish to choose 
 
 When using this approach, the referee should ensure that the treasure is guarded by sufficiently powerful monsters. The player characters should have to earn this reward!
 
-### [Items of Value](name:items_of_value)
+### [Items of Value](@items_of_value)
 
 The treasure tables in the following sections describe methods for generating hoards of coins, gems, jewellery, and magic items. Adventures may often include valuable items of other kinds, however, whose worth may not always be obvious to players. The referee should feel free to include items such as the following in treasure hoards:
 
@@ -4761,13 +4769,13 @@ The treasure tables in the following sections describe methods for generating ho
 
 For each such item placed, the referee should note its value (in gold pieces) and (if using the optional rules for [***Encumbrance***](#encumbrance)) its weight.
 
-## [Treasure Types](name:treasure_types)
+## [Treasure Types](@treasure_types)
 
-### [Hoards](name:hoards)
+### [Hoards](@hoards)
 
 These treasure types indicate the sum wealth of a large monster or a community of smaller monsters. Such hoards are usually hidden in the monsters' lair. For monsters with a lair encounter size of greater than 1d4, the amount of treasure in the hoard may be reduced, if the number of monsters is below average.
 
-#### [Type A (18,000gp average)](name:type_a)
+#### [Type A (18,000gp average)](@type_a)
 
 - 25%: 1d6 &times; 1,000cp.
 - 30%: 1d6 &times; 1,000sp.
@@ -4778,7 +4786,7 @@ These treasure types indicate the sum wealth of a large monster or a community o
 - 50%: 6d6 pieces of jewellery.
 - 30%: 3 magic items.
 
-#### [Type B (2,000gp average)](name:type_b)
+#### [Type B (2,000gp average)](@type_b)
 
 - 50%: 1d8 &times; 1,000cp.
 - 25%: 1d6 &times; 1,000sp.
@@ -4788,7 +4796,7 @@ These treasure types indicate the sum wealth of a large monster or a community o
 - 25%: 1d6 pieces of jewellery.
 - 10%: 1 magic sword, armour, or weapon.
 
-#### [Type C (1,000gp average)](name:type_c)
+#### [Type C (1,000gp average)](@type_c)
 
 - 20%: 1d12 &times; 1,000cp.
 - 30%: 1d4 &times; 1,000sp.
@@ -4797,7 +4805,7 @@ These treasure types indicate the sum wealth of a large monster or a community o
 - 25%: 1d4 pieces of jewellery.
 - 10%: 2 magic items.
 
-#### [Type D (3,900gp average)](name:type_d)
+#### [Type D (3,900gp average)](@type_d)
 
 - 10%: 1d8 &times; 1,000cp.
 - 15%: 1d12 &times; 1,000sp.
@@ -4806,7 +4814,7 @@ These treasure types indicate the sum wealth of a large monster or a community o
 - 30%: 1d8 pieces of jewellery.
 - 15%: 2 magic items, plus 1 potion.
 
-#### [Type E (2,300gp average)](name:type_e)
+#### [Type E (2,300gp average)](@type_e)
 
 - 5%: 1d10 &times; 1,000cp.
 - 30%: 1d12 &times; 1,000sp.
@@ -4816,7 +4824,7 @@ These treasure types indicate the sum wealth of a large monster or a community o
 - 10%: 1d10 pieces of jewellery.
 - 25%: 3 magic items, plus 1 scroll.
 
-#### [Type F (7,700gp average)](name:type_f)
+#### [Type F (7,700gp average)](@type_f)
 
 - 10%: 2d10 &times; 1,000sp.
 - 20%: 1d8 &times; 1,000ep.
@@ -4826,7 +4834,7 @@ These treasure types indicate the sum wealth of a large monster or a community o
 - 10%: 1d12 pieces of jewellery.
 - 30%: 3 magic items (not weapons), plus 1 potion, plus 1 scroll.
 
-#### [Type G (23,000gp average)](name:type_g)
+#### [Type G (23,000gp average)](@type_g)
 
 - 50%: 1d4 &times; 10,000gp.
 - 50%: 1d6 &times; 1,000pp.
@@ -4834,7 +4842,7 @@ These treasure types indicate the sum wealth of a large monster or a community o
 - 25%: 1d10 pieces of jewellery.
 - 35%: 4 magic items, plus 1 scroll.
 
-#### [Type H (60,000gp average)](name:type_h)
+#### [Type H (60,000gp average)](@type_h)
 
 - 25%: 3d8 &times; 1,000cp.
 - 50%: 1d100 &times; 1,000sp.
@@ -4845,71 +4853,71 @@ These treasure types indicate the sum wealth of a large monster or a community o
 - 50%: 1d4 &times; 10 pieces of jewellery.
 - 15%: 4 magic items, plus 1 potion, plus 1 scroll.
 
-#### [Type I (11,000gp average)](name:type_i)
+#### [Type I (11,000gp average)](@type_i)
 
 - 30%: 1d8 &times; 1,000pp.
 - 50%: 2d6 gems.
 - 50%: 2d6 pieces of jewellery.
 - 15%: 1 magic item.
 
-#### [Type J (25gp average)](name:type_j)
+#### [Type J (25gp average)](@type_j)
 
 - 25%: 1d4 &times; 1,000cp.
 - 10%: 1d3 &times; 1,000sp.
 
-#### [Type K (180gp average)](name:type_k)
+#### [Type K (180gp average)](@type_k)
 
 - 30%: 1d6 &times; 1,000sp.
 - 10%: 1d2 &times; 1,000ep.
 
-#### [Type L (240gp average)](name:type_l)
+#### [Type L (240gp average)](@type_l)
 
 - 50%: 1d4 gems.
 
-#### [Type M (50,000gp average)](name:type_m)
+#### [Type M (50,000gp average)](@type_m)
 
 - 40%: 2d4 &times; 1,000gp.
 - 50%: 5d6 &times; 1,000pp.
 - 55%: 5d4 gems.
 - 45%: 2d6 pieces of jewellery.
 
-#### [Type N (0gp average)](name:type_n)
+#### [Type N (0gp average)](@type_n)
 
 - 40%: 2d4 potions.
 
-#### [Type O (0gp average)](name:type_o)
+#### [Type O (0gp average)](@type_o)
 
 - 50%: 1d4 scrolls.
 
-### [Individual Treasure](name:individual_treasure)
+### [Individual Treasure](@individual_treasure)
 
 If listed for intelligent monsters, each individual carries this much treasure. If listed for unintelligent monsters, the treasure type indicates treasure from the bodies of the monsters' former victims.
 
-#### [Type P (0.1gp average)](name:type_p)
+#### [Type P (0.1gp average)](@type_p)
 
 - 3d8cp.
 
-#### [Type Q (1gp average)](name:type_q)
+#### [Type Q (1gp average)](@type_q)
 
 - 3d6sp.
 
-#### [Type R (3gp average)](name:type_r)
+#### [Type R (3gp average)](@type_r)
 
 - 2d6ep.
 
-#### [Type S (5gp average)](name:type_s)
+#### [Type S (5gp average)](@type_s)
 
 - 2d4gp.
 
-#### [Type T (17gp average)](name:type_t)
+#### [Type T (17gp average)](@type_t)
 
 - 1d6pp.
 
-### [Group Treasure](name:group_treasure)
+### [Group Treasure](@group_treasure)
 
 If listed for intelligent monsters, the group carries this much treasure between them. If listed for unintelligent monsters, the treasure type indicates treasure from the bodies of the monsters' former victims.
 
-#### [Type U (160gp average)](name:type_u)
+#### [Type U (160gp average)](@type_u)
 
 - 10%: 1d100cp.
 - 10%: 1d100sp.
@@ -4918,7 +4926,7 @@ If listed for intelligent monsters, the group carries this much treasure between
 - 5%: 1d4 pieces of jewellery.
 - 2%: 1 magic item.
 
-#### [Type V (330gp average)](name:type_v)
+#### [Type V (330gp average)](@type_v)
 
 - 10%: 1d100sp.
 - 5%: 1d100ep.
@@ -4928,19 +4936,19 @@ If listed for intelligent monsters, the group carries this much treasure between
 - 10%: 1d4 pieces of jewellery.
 - 5%: 1 magic item.
 
-### [Average Values](name:average_values)
+### [Average Values](@average_values)
 
 The average value of each treasure type is listed alongside the letter code. These values sum the average results of gems, jewellery, and all types of coin. Magic items that the treasure type may indicate are not counted toward the average value, as magic items do not have fixed sale values.
 
 >Author's Note: According to my re-calculation of these averages, there were errors in the original Basic rules. The average value for treasure type M, in particular, was way off.
 
-## [Gems and Jewellery](name:gems_and_jewellery)
+## [Gems and Jewellery](@gems_and_jewellery)
 
-### [Gems](name:gems)
+### [Gems](@gems)
 
 For each gem present in a treasure hoard, roll on the following table to determine its gold piece value:
 
-#### [Gem Values](name:gem_values)
+#### [Gem Values](@gem_values)
 
 d20 | Gem Value
 ----|----------
@@ -4950,35 +4958,35 @@ d20 | Gem Value
 16--19 | 500gp
 20 | 1,000gp
 
-#### [Combining Gem Values](name:combining_gem_values)
+#### [Combining Gem Values](@combining_gem_values)
 
 When a treasure type indicates the presence of multiple gems, the referee may combine the values of individual gems, as desired. For example, a roll of five 50gp value gems may be placed as a single 250gp gem, a 100gp gem and three 50gp gems, or any other combination.
 
-### [Jewellery](name:jewellery)
+### [Jewellery](@jewellery)
 
 Each piece of jewellery indicated by a treasure type is worth 3d6 &times; 100gp. (For characters of 4th level and above, the referee may decide to place pieces of jewellery of even greater value.)
 
-#### [Combining Jewellery Values](name:combining_jewellery_values)
+#### [Combining Jewellery Values](@combining_jewellery_values)
 
 As with gems (see above), the referee may combine the values of individual pieces of jewellery, as desired.
 
-#### [Damaged Jewellery](name:damaged_jewellery)
+#### [Damaged Jewellery](@damaged_jewellery)
 
 Rough treatment of jewellery (for example crushing, intense heat or fire, lightning) can damage it, reducing its value by 50%.
 
-# [Magic Items](name:treasure_magic_items)
+# [Magic Items](@treasure_magic_items)
 
-## [Rolling Magic Items](name:rolling_magic_items)
+## [Rolling Magic Items](@rolling_magic_items)
 
 If a treasure type indicates a specific type of magic item (e.g. 3 potions), roll on the table for that type of item (see below). Otherwise, first roll on the Magic Item Type table to determine the type of the item, then roll on the table for that type.
 
-## [Basic and Expert Magic Items](name:basic_and_expert_magic_items)
+## [Basic and Expert Magic Items](@basic_and_expert_magic_items)
 
 Separate probabilities are listed in each table for Basic and Expert level characters (i.e. characters of 1st to 3rd level, and characters of 4th level or higher). The Basic probabilities are listed in the B column, and the Expert probabilities in the X column.
 
 It is recommended that the probabilities appropriate to the group's experience level be used. Alternatively, if the referee prefers to have an even distribution of magic items, irrespective of player character level, the Expert probabilities may always be used.
 
-## [Magic Item Type](name:magic_item_type)
+## [Magic Item Type](@magic_item_type)
 
 B: d% | X: d% | Type of Item
 ------|-------|-------------
@@ -4991,20 +4999,20 @@ B: d% | X: d% | Type of Item
 86--90 | 91--95 | Wand/Staff/Rod
 91--00 | 96--00 | Weapon
 
-## [Identifying Magic Items](name:identifying_magic_items)
+## [Identifying Magic Items](@identifying_magic_items)
 
 - ***Testing:*** The most common way of identifying magic items is by trial and error---sipping a potion, donning a suit of armour, using a weapon in battle, etc.
 - ***Retainers:*** Players may wish to use retainers as "guinea pigs" to test magic items of unknown properties. Retainers may agree to do this, but only if allowed to keep the item in question.
 - ***By magic:*** High-level NPC magic-users may also be able to identify magic items. They will always require payment or a service in kind. The process takes time: possibly several weeks.
 
-## [Using Magic Items](name:using_magic_items)
+## [Using Magic Items](@using_magic_items)
 
 - ***Appropriate use:*** In order to be effective, a magic item must be used, held, or worn in the normal fashion.
 - ***Concentration:*** To activate an item's magic, the user must concentrate on its effect. When using a magic item in this way, the character cannot take any other actions.
 - ***Items that are always active:*** The following types of item are always active, and do not require concentration: magic weapons, armour, and protective items (e.g. ring of protection, elven cloak).
 - ***Actions per round:*** A magic item's effect can normally only be used once per round, unless its description notes otherwise.
 
-## [Wishes](name:wishes)
+## [Wishes](@wishes)
 
 Several magic items grant wishes, the powerful ability for a character to change the nature of reality in any conceivable way that he or she should desire. Wishes are generally regarded as the most powerful magic in the game, and have the potential to greatly upset the balance of play, if not handled carefully by the referee. The following guidelines may be used:
 
@@ -5019,7 +5027,7 @@ Some examples of reasonable wishes:
 - Wishing that a monster had not attacked. The wish may place the characters back in time and change the reaction of the monster.
 - Wishing that a deadly blow had not occurred. The affected character may return to life, wounded but not dead.
 
-## [Miscellaneous Magic Items](name:miscellaneous_magic_items)
+## [Miscellaneous Magic Items](@miscellaneous_magic_items)
 
 B: d10 | X: d% | Item
 -------|-------|-----
@@ -5055,25 +5063,25 @@ B: d10 | X: d% | Item
 10 | 95--97 | Rope of Climbing
  | 98--00 | Scarab of Protection
 
-### [Usage](name:magic_item_usage)
+### [Usage](@magic_item_usage)
 
 Unless the description of an item states otherwise, it may be used by characters of any class, and may be used any number of times per day (activated by concentration).
 
-### [Amulet of Protection Against Scrying](name:amulet_of_protection_against_scrying)
+### [Amulet of Protection Against Scrying](@amulet_of_protection_against_scrying)
 
 An amulet that provides protection against remote viewing and mind-reading.
 
 - The person wearing this amulet cannot be viewed in a crystal ball.
 - The wearer is immune to all forms of ESP.
 
-### [Bag of Devouring](name:bag_of_devouring)
+### [Bag of Devouring](@bag_of_devouring)
 
 A normal-looking, small sack that devours objects placed inside it.
 
 - Anything placed inside the bag vanishes from existence after 1d6+6 turns.
 - Living creatures may be affected, but only if the entire creature fits inside the bag.
 
-### [Bag of Holding](name:bag_of_holding)
+### [Bag of Holding](@bag_of_holding)
 
 A normal-looking, small sack that can magically contain large objects and weights.
 
@@ -5081,7 +5089,7 @@ A normal-looking, small sack that can magically contain large objects and weight
 - Up to 10,000 coins of weight can be placed in the bag.
 - When full, the bag weighs 600 coins.
 
-### [Boots of Levitation](name:boots_of_levitation)
+### [Boots of Levitation](@boots_of_levitation)
 
 The wearer is able to move up and down through the air at will.
 
@@ -5090,28 +5098,28 @@ The wearer is able to move up and down through the air at will.
 - A normal amount of weight can be carried while levitating.
 - The enchantment may be used without limit of frequency or duration.
 
-### [Boots of Speed](name:boots_of_speed)
+### [Boots of Speed](@boots_of_speed)
 
 The wearer is able to move at up to 240' (80')---the speed of a riding horse.
 
 - This can be maintained for up to 12 hours.
 - Afterwards, the wearer must rest for 1 day.
 
-### [Boots of Travelling and Leaping](name:boots_of_travelling_and_leaping)
+### [Boots of Travelling and Leaping](@boots_of_travelling_and_leaping)
 
 The wearer is able to travel without tiring and leap great distances.
 
 - The normal need for rest when travelling may be ignored (see [***Resting***](#resting)).
 - The wearer can leap up to 10' high and 30' horizontally.
 
-### [Broom of Flying](name:broom_of_flying)
+### [Broom of Flying](@broom_of_flying)
 
 A broom that can be commanded to fly, carrying the owner aloft.
 
 - The broom flies at 240' (80').
 - An additional passenger may be carried. When carrying two people, the broom's speed is 180' (60').
 
-### [Crystal Ball](name:crystal_ball)
+### [Crystal Ball](@crystal_ball)
 
 Allows an arcane spell caster to view any place or object that is brought to mind:
 
@@ -5128,14 +5136,14 @@ Allows an arcane spell caster to view any place or object that is brought to min
 - The scryer understands the meaning of all thoughts even if he or she does not share the creature's language.
 - The ability to perceive thoughts is obstructed by a thin layer of lead or by rock of 2' thick or greater.
 
-### [Displacer Cloak](name:displacer_cloak)
+### [Displacer Cloak](@displacer_cloak)
 
 A cloak that bends light, making one who wears it appear to be 5' away from his or her true location.
 
 - The wearer gains a +2 bonus to saving throws against petrification, rods, spells, staves, and wands.
 - Melee attacks against the wearer are penalised by &minus;2.
 
-### [Drums of Panic](name:drums_of_panic)
+### [Drums of Panic](@drums_of_panic)
 
 Large war drums that induce panic in those who hear their sound.
 
@@ -5143,7 +5151,7 @@ Large war drums that induce panic in those who hear their sound.
 - Other creatures, up to 240' away, are afflicted by the drums' enchantment of fear: creatures in range must make a morale check with a &minus;2 penalty (or a **save vs spells**, if the optional morale rules are not being used). (See [***Morale***](#morale).)
 - Creatures that fail the morale check or saving throw flee from the sound of the drums at full running speed for 30 rounds.
 
-### [Efreeti Bottle](name:efreeti_bottle)
+### [Efreeti Bottle](@efreeti_bottle)
 
 A 3' tall, weighty jug with a sealed stopper. Breaking the seal and removing the stopper releases a trapped [efreeti](#efreeti_lesser), who will serve the character.
 
@@ -5151,7 +5159,7 @@ A 3' tall, weighty jug with a sealed stopper. Breaking the seal and removing the
 - After 101 days, its service ends. The creature then returns to its home---the legendary City of Brass.
 - If the efreeti is killed, its service ends.
 
-### [Elemental Summoning Device](name:elemental_summoning_device)
+### [Elemental Summoning Device](@elemental_summoning_device)
 
 Ritual items enchanted with the power to summon beings from the elemental planes:
 
@@ -5168,7 +5176,7 @@ The items may be used as follows:
 - A 12 Hit Dice [elemental](#elemental) is conjured to do the summoner's bidding.
 - Command over the elemental works as described in the magic-user spell [_conjure elemental_](#conjure_elemental).
 
-### [Elven Cloak and Boots](name:elven_cloak_and_boots)
+### [Elven Cloak and Boots](@elven_cloak_and_boots)
 
 A set of enchanted boots and a matching cloak, of elven origin.
 
@@ -5176,7 +5184,7 @@ A set of enchanted boots and a matching cloak, of elven origin.
 - The wearer of the cloak is rendered almost invisible: there is only a 1-in-6 chance of them being spotted.
 - The cloak's power of invisibility is nullified for one turn, if the wearer attacks.
 
-### [Flying Carpet](name:flying_carpet)
+### [Flying Carpet](@flying_carpet)
 
 An enchanted carpet that can fly through the air, carrying up to three passengers (and their gear).
 
@@ -5184,7 +5192,7 @@ An enchanted carpet that can fly through the air, carrying up to three passenger
 - Carrying two passengers, the carpet moves at 240' (80').
 - Carrying three passengers, the carpet moves at 180' (60').
 
-### [Gauntlets of Ogre Power](name:gauntlets_of_ogre_power)
+### [Gauntlets of Ogre Power](@gauntlets_of_ogre_power)
 
 A character who wears these gauntlets has a Strength score of 18. This grants all the usual bonuses, including:
 
@@ -5197,14 +5205,14 @@ If using [option 2 of the encumbrance rules](#encumbrance_by_weight):
 
 >Author's Note: The description of this item in the original Basic rules is somewhat ambiguous. It's not clear that the bonuses only apply to melee attacks. The listed unarmed attack damage also contradicts what is listed in the Expert rules.
 
-### [Girdle of Giant Strength](name:girdle_of_giant_strength)
+### [Girdle of Giant Strength](@girdle_of_giant_strength)
 
 A character who wears this girdle gains the strength of a hill giant.
 
 - The wearer's ability in combat is augmented: the character attacks as an 8 Hit Dice monster (requiring a 12 to hit AC 0). (If the character already has better attack probabilities, the girdle does not alter these.)
 - The wearer inflicts 2d8 damage in combat, or twice normal damage, if using the [optional variable weapon damage rules](#variable_weapon_damage).
 
-### [Helm of Alignment Changing](name:helm_of_alignment_changing)
+### [Helm of Alignment Changing](@helm_of_alignment_changing)
 
 A beautifully crafted helmet, which is cursed.
 
@@ -5212,7 +5220,7 @@ A beautifully crafted helmet, which is cursed.
 - The curse is such that the wearer cannot remove the helmet, once in place, and will resist attempts to remove it.
 - The curse can be removed by magic (e.g. _remove curse_), or (at the referee's option) by performing a special quest.
 
-### [Helm of Reading Languages and Magic](name:helm_of_reading_languages_and_magic)
+### [Helm of Reading Languages and Magic](@helm_of_reading_languages_and_magic)
 
 A fragile helmet that grants the wearer the ability to read writing of all kinds.
 
@@ -5220,7 +5228,7 @@ A fragile helmet that grants the wearer the ability to read writing of all kinds
 - Even magical writing is comprehensible. (This does not grant the ability to cast spells, however.)
 - Due to the helm's fragility, each time the wearer is hit, there is a 1-in-10 chance of the helm being destroyed. If the wearer is killed, the helm is destroyed.
 
-### [Helm of Telepathy](name:helm_of_telepathy)
+### [Helm of Telepathy](@helm_of_telepathy)
 
 A beautifully crafted helmet that grants the magical ability of telepathy: reading and sending thoughts.
 
@@ -5229,7 +5237,7 @@ A beautifully crafted helmet that grants the magical ability of telepathy: readi
 - The creature's thoughts are made comprehensible to the wearer of the helm.
 - The wearer may also initiate bidirectional, telepathic communication, though the creature is not compelled to respond.
 
-### [Helm of Teleportation](name:helm_of_teleportation)
+### [Helm of Teleportation](@helm_of_teleportation)
 
 A magical helm that gives an arcane spell caster the ability to cast the [_teleport_](#teleport) spell.
 
@@ -5239,7 +5247,7 @@ A magical helm that gives an arcane spell caster the ability to cast the [_telep
 - Once recharged in this manner, the wearer may use the helm an unlimited number of times (at most once per round).
 - If the helm is used on an unwilling subject, it once again loses its power and must be recharged, as above, to be used again.
 
-### [Horn of Blasting](name:horn_of_blasting)
+### [Horn of Blasting](@horn_of_blasting)
 
 A horn that can be blown to release a blast of destructive noise once per turn.
 
@@ -5247,7 +5255,7 @@ A horn that can be blown to release a blast of destructive noise once per turn.
 - Affected creatures are also deafened for one turn (**save vs spells** to avoid).
 - At the referee's discretion, the horn may also be able to damage objects and buildings (e.g. a single blast might be enough to destroy a simple cottage; a 10' section of castle wall might require three blasts).
 
-### [Medallion of ESP 30'](name:medallion_of_esp_30)
+### [Medallion of ESP 30'](@medallion_of_esp_30)
 
 A medallion on a chain, enchanted with the power of reading thoughts.
 
@@ -5256,11 +5264,11 @@ A medallion on a chain, enchanted with the power of reading thoughts.
 - While reading thoughts, the wearer may move, but cannot cast spells or attack.
 - The medallion is not entirely reliable. Per usage, there is a 1-in-6 chance of it misfiring, instead sending the wearer's thoughts to all within 30'.
 
-### [Medallion of ESP 90'](name:medallion_of_esp_90)
+### [Medallion of ESP 90'](@medallion_of_esp_90)
 
 A medallion on a chain, enchanted with the power of reading thoughts. This works in the same way as the magic-user spell [_ESP_](#esp).
 
-### [Mirror of Life Trapping](name:mirror_of_life_trapping)
+### [Mirror of Life Trapping](@mirror_of_life_trapping)
 
 A mirror with the ability to magically trap living creatures behind its pane.
 
@@ -5270,7 +5278,7 @@ A mirror with the ability to magically trap living creatures behind its pane.
 - Trapped creatures may converse with those outside, but are utterly powerless.
 - Breaking the mirror releases those trapped.
 
-### [Rope of Climbing](name:rope_of_climbing)
+### [Rope of Climbing](@rope_of_climbing)
 
 A coil of thin, strong rope, 50' in length.
 
@@ -5278,7 +5286,7 @@ A coil of thin, strong rope, 50' in length.
 - The rope can also be commanded to attach to a surface.
 - Up to 10,000 coins of weight can be suspended from the rope.
 
-### [Scarab of Protection](name:scarab_of_protection)
+### [Scarab of Protection](@scarab_of_protection)
 
 Protects the bearer from baleful magic.
 
@@ -5286,7 +5294,7 @@ Protects the bearer from baleful magic.
 - [_Finger of Death_](#finger_of_death) is nullified.
 - The scarab's enchantment works 2d6 times before it is spent.
 
-## [Potions](name:treasure_potions)
+## [Potions](@treasure_potions)
 
 Magical liquids stored in glass vials (similar to the vials holy water is stored in).
 
@@ -5319,15 +5327,15 @@ B: d8 | X: d% | Potion
  | 90--97 | Speed
  | 98--00 | Treasure Finding
 
-### [Identifying](name:potion_identifying)
+### [Identifying](@potion_identifying)
 
 A potion may be identified by sipping a small amount. It is difficult to identify potions purely by smell or taste, as even potions with the same effect are not alike.
 
-### [Drinking](name:drinking)
+### [Drinking](@drinking)
 
 Drinking a full dose of a potion takes one round, and brings on the magical effect for 1d6+6 turns. The referee should roll for and track this duration, and not tell the player how long the potion will last for.
 
-### [Mixing](name:mixing)
+### [Mixing](@mixing)
 
 Drinking a potion while already under the effects of another potion is dangerous:
 
@@ -5336,23 +5344,23 @@ Drinking a potion while already under the effects of another potion is dangerous
 
 This rule does not apply to potions with instantaneous or permanent duration (e.g. _potions of healing_, _potions of longevity_).
 
-### [Potion Descriptions](name:potion_descriptions)
+### [Potion Descriptions](@potion_descriptions)
 
-#### [Clairaudience](name:potion_clairaudience)
+#### [Clairaudience](@potion_clairaudience)
 
 Enables the character to hear through the ears of another creature.
 
 - The other creature must be within 60'.
 - Lead blocks the potion's effect.
 
-#### [Clairvoyance](name:potion_clairvoyance)
+#### [Clairvoyance](@potion_clairvoyance)
 
 Enables the character to see through the eyes of another creature.
 
 - The other creature must be within 60'.
 - Lead blocks the potion's effect.
 
-#### [Control](name:potion_control)
+#### [Control](@potion_control)
 
 A potion of this type allows the one who drinks it to control the actions of creatures of a certain type.
 
@@ -5391,14 +5399,14 @@ A potion of this type allows the one who drinks it to control the actions of cre
 - Affects up to 3d6 Hit Dice of undead.
 - When the potion's effect ends, affected undead have a hostile reaction.
 
-#### [Delusion](name:potion_delusion)
+#### [Delusion](@potion_delusion)
 
 A character who drinks this potion believes he or she is under the effects of another type of potion.
 
 - The other type of potion should be determined by the referee.
 - The referee should try to trick the player into believing that the character is under the effects of the other potion, only revealing the truth at some vital juncture.
 
-#### [Diminution](name:diminution)
+#### [Diminution](@diminution)
 
 The character shrinks to 6" high.
 
@@ -5406,11 +5414,11 @@ The character shrinks to 6" high.
 - The character can slip through narrow spaces.
 - Remaining motionless, the character only has a 10% chance of being spotted.
 
-#### [ESP](name:potion_esp)
+#### [ESP](@potion_esp)
 
 Grants the power of reading thoughts. This works in the same way as the magic-user spell [_ESP_](#esp).
 
-#### [Fire Resistance](name:potion_fire_resistance)
+#### [Fire Resistance](@potion_fire_resistance)
 
 Grants the character protection against fire:
 
@@ -5418,14 +5426,14 @@ Grants the character protection against fire:
 - Gain a +2 bonus to all saving throws versus fire-based magical or breath attacks.
 - Fire-based damage is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 hit point damage.)
 
-#### [Flying](name:potion_flying)
+#### [Flying](@potion_flying)
 
 Grants the ability to fly through the air.
 
 - Movement rate of up to 360' (120').
 - Movement in any direction is possible, including the ability to levitate and to hover in mid-air.
 
-#### [Gaseous Form](name:gaseous_form)
+#### [Gaseous Form](@gaseous_form)
 
 The character's body becomes a cloud of vapour. This has the following effects:
 
@@ -5434,7 +5442,7 @@ The character's body becomes a cloud of vapour. This has the following effects:
 - Attacking is not possible, while in gaseous form.
 - Non-magical weapons cannot harm the character. His or her AC is &minus;2.
 
-#### [Giant Strength](name:giant_strength)
+#### [Giant Strength](@giant_strength)
 
 Grants the strength of a frost giant.
 
@@ -5442,7 +5450,7 @@ Grants the strength of a frost giant.
 - The character may throw boulders for 3d6 damage, with a range of up to 200'.
 - The effects of this potion are not cumulative with those of other magic items that augment strength (e.g. a _girdle of giant strength_).
 
-#### [Growth](name:growth)
+#### [Growth](@growth)
 
 The character doubles in size.
 
@@ -5451,14 +5459,14 @@ The character doubles in size.
 
 >Author's Note: The original Basic rules do not note by how much the character's STR increases, and are not explicit that only damage of melee attacks is increased.
 
-#### [Healing](name:potion_healing)
+#### [Healing](@potion_healing)
 
 Has one of two effects on the character who drinks it:
 
 1. Heals a living subject of 1d6+1hp of damage. This cannot grant more hit points than the subject's normal maximum.
 2. Cures the subject of paralysis.
 
-#### [Heroism](name:heroism)
+#### [Heroism](@heroism)
 
 Normal humans and characters of a combat-focused, non-magic using class (e.g. dwarf, fighter, halfling) who drink a potion of heroism temporarily gain additional levels, including all abilities and extra hit points. The number of levels gained depends on the character's normal experience level:
 
@@ -5470,13 +5478,13 @@ Normal humans and characters of a combat-focused, non-magic using class (e.g. dw
 
 Note that damage suffered while under the effects of this potion is first deducted from the pool of additional hit points it grants.
 
-#### [Invisibility](name:potion_invisibility)
+#### [Invisibility](@potion_invisibility)
 
 Drinking this potion, the character becomes invisible. This works the same as the magic-user spell [_invisibility_](#invisibility).
 
 At the referee's discretion, a _potion of invisibility_ may be consumed in six smaller doses, each with a reduced duration.
 
-#### [Invulnerability](name:invulnerability)
+#### [Invulnerability](@invulnerability)
 
 The character is magically protected from harm, gaining the following benefits:
 
@@ -5485,7 +5493,7 @@ The character is magically protected from harm, gaining the following benefits:
 
 If a character consumes more than one _potion of invulnerability_ in the space of a week, the effects are inverted (a &minus;2 penalty to AC and saves).
 
-#### [Levitation](name:potion_levitation)
+#### [Levitation](@potion_levitation)
 
 The character gains the ability to move up and down through the air at will.
 
@@ -5493,22 +5501,22 @@ The character gains the ability to move up and down through the air at will.
 - Horizontal movement is not possible, but the character can push against solid objects to move laterally.
 - A normal amount of weight can be carried while levitating.
 
-#### [Longevity](name:longevity)
+#### [Longevity](@longevity)
 
 Instantly and permanently causes the character to become 10 years younger.
 
-#### [Poison](name:poison)
+#### [Poison](@poison)
 
 Appears the same as any other potion.
 
 - Causes death (**save vs poison**).
 - Even a sip has the full effect.
 
-#### [Polymorph Self](name:potion_polymorph_self)
+#### [Polymorph Self](@potion_polymorph_self)
 
 Upon drinking this potion, the character transforms into another being (of his or her choice). This works in the same way as the magic-user spell [_polymorph self_](#polymorph_self).
 
-#### [Speed](name:speed)
+#### [Speed](@speed)
 
 The character's movements and actions are magically accelerated.
 
@@ -5516,7 +5524,7 @@ The character's movements and actions are magically accelerated.
 - The number of attacks per round the character can make is doubled.
 - Other actions may be performed at double speed.
 
-#### [Treasure Finding](name:treasure_finding)
+#### [Treasure Finding](@treasure_finding)
 
 Grants the magical ability to sense treasure.
 
@@ -5525,7 +5533,7 @@ Grants the magical ability to sense treasure.
 - The character must concentrate in order to sense this information.
 - The magic is blocked by lead.
 
-## [Rings](name:treasure_rings)
+## [Rings](@treasure_rings)
 
 B: d6 | X: d% | Ring
 ------|-------|-----
@@ -5549,7 +5557,7 @@ B: d6 | X: d% | Ring
  | 98 | Wishes, 2--4
  | 99--00 | X-Ray Vision
 
-### [Usage](name:ring_usage)
+### [Usage](@ring_usage)
 
 Magical rings may be used by characters of any class:
 
@@ -5558,9 +5566,9 @@ Magical rings may be used by characters of any class:
 - A character can wear two magic rings---one on each hand. If more are worn, their magical effects do not function.
 - Cursed rings cannot be "deactivated" by wearing more magical rings.
 
-### [Ring Descriptions](name:ring_descriptions)
+### [Ring Descriptions](@ring_descriptions)
 
-#### [Control Animals](name:control_animals)
+#### [Control Animals](@control_animals)
 
 Grants the power to control the actions of animals.
 
@@ -5570,7 +5578,7 @@ Grants the power to control the actions of animals.
 - When the concentration ends, the referee should make a reaction roll with a &minus;1 penalty (see [***Monster Reactions***](#monster_reactions)) to determine the animals' behaviour.
 - May be used up to once per turn.
 
-#### [Control Humans](name:control_humans)
+#### [Control Humans](@control_humans)
 
 Grants the power to charm humans.
 
@@ -5580,7 +5588,7 @@ Grants the power to charm humans.
 - A charmed individual regards the character as a trusted friend, and will come to his or her defence. He or she will obey the character's commands, as long as these are not obviously harmful and do not contradict the subject's alignment. Charmed individuals cannot cast spells.
 - The charm lasts until dispelled, until the ring is removed, or the wearer cancels it.
 
-#### [Control Plants](name:control_plants)
+#### [Control Plants](@control_plants)
 
 Grants the power to control plants.
 
@@ -5589,14 +5597,14 @@ Grants the power to control plants.
 - Affected plants may be commanded to move around as the character wishes.
 - The effect lasts as long as the wearer of the ring concentrates.
 
-#### [Delusion](name:ring_delusion)
+#### [Delusion](@ring_delusion)
 
 The wearer believes he or she is under the effects of another type of magic ring.
 
 - The other type of ring should be determined by the referee (e.g. a ring of protection or a ring of spell turning).
 - The referee should try to trick the player into believing that the character is under the effects of the other ring, only revealing the truth at some vital juncture.
 
-#### [Djinni Summoning](name:djinni_summoning)
+#### [Djinni Summoning](@djinni_summoning)
 
 This ring grants the power to summon a [djinni](#djinni_lesser).
 
@@ -5604,7 +5612,7 @@ This ring grants the power to summon a [djinni](#djinni_lesser).
 - The djinni only obeys the one who summoned it---another character who takes the ring has no power over the djinni.
 - The ring may be used up to once per day.
 
-#### [Fire Resistance](name:ring_fire_resistance)
+#### [Fire Resistance](@ring_fire_resistance)
 
 Grants the wearer protection against fire.
 
@@ -5612,14 +5620,14 @@ Grants the wearer protection against fire.
 - Gain a +2 bonus to all saving throws versus fire-based magical or breath attacks.
 - Fire-based damage is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 hit point damage.)
 
-#### [Invisibility](name:ring_invisibility)
+#### [Invisibility](@ring_invisibility)
 
 The wearer of this ring becomes invisible.
 
 - If the character attacks or casts a spell, the invisibility is broken.
 - May be used up to once per turn.
 
-#### [Protection](name:protection)
+#### [Protection](@protection)
 
 Grants a measure of protection from harm:
 
@@ -5631,7 +5639,7 @@ Grants a measure of protection from harm:
 - Allies within 5' of the wearer also benefit from its protective power.
 - In combat, for example, two characters fighting beside the wearer of the ring would gain the protective benefit.
 
-#### [Regeneration](name:regeneration)
+#### [Regeneration](@regeneration)
 
 The wearer heals at an accelerated rate.
 
@@ -5640,7 +5648,7 @@ The wearer heals at an accelerated rate.
 - Fire or acid damage cannot be regenerated.
 - The ring does not function if the wearer is reduced to 0 or less hit points.
 
-#### [Spell Storing](name:spell_storing)
+#### [Spell Storing](@spell_storing)
 
 Stores a number of magical spells that the wearer can release on command.
 
@@ -5650,13 +5658,13 @@ Stores a number of magical spells that the wearer can release on command.
 - For spells whose effects vary by the level of the caster, the wearer of the ring is treated as a caster of the lowest level required to cast the spell.
 - Once a spell is triggered, it may not be reused until it is recharged---the expired spell must be cast directly onto the ring.
 
-#### [Spell Turning](name:spell_turning)
+#### [Spell Turning](@spell_turning)
 
 Spells cast on the wearer of this ring are reflected back onto the caster.
 
 - After 2d6 spells are reflected, the ring loses its power.
 
-#### [Telekinesis](name:ring_telekinesis)
+#### [Telekinesis](@ring_telekinesis)
 
 Grants the power to move objects or creatures within 120' by concentrating.
 
@@ -5665,11 +5673,11 @@ Grants the power to move objects or creatures within 120' by concentrating.
 - A targeted creature may **save versus spells** to resist the ring's power.
 - If concentration is broken, the target falls.
 
-#### [Water Walking](name:water_walking)
+#### [Water Walking](@water_walking)
 
 Grants the power to walk on the surface of water, without sinking.
 
-#### [Weakness](name:weakness)
+#### [Weakness](@weakness)
 
 A cursed ring that weakens the wearer.
 
@@ -5677,13 +5685,13 @@ A cursed ring that weakens the wearer.
 - The ring cannot be removed, once worn.
 - The curse can be removed by magic (e.g. [_remove curse_](#cleric_remove_curse)), or (at the referee's option) by performing a special quest.
 
-#### [Wishes](name:ring_wishes)
+#### [Wishes](@ring_wishes)
 
 Grants the wearer's wishes (see [***Wishes***](#wishes)).
 
 - The number of wishes granted is noted in the Rings table. Once all wishes have been used, the ring's magic is spent.
 
-#### [X-Ray Vision](name:ring_x_ray_vision)
+#### [X-Ray Vision](@ring_x_ray_vision)
 
 Grants the power to see through solid objects.
 
@@ -5694,7 +5702,7 @@ Grants the power to see through solid objects.
 - Using the ring requires concentration (the wearer cannot move).
 - May be used at most once per turn.
 
-## [Wands, Staves, and Rods](name:wands_staves_and_rods)
+## [Wands, Staves, and Rods](@wands_staves_and_rods)
 
 B: d6 | X: d% | Item
 ------|-------|-----
@@ -5720,7 +5728,7 @@ B: d6 | X: d% | Item
  | 91--95 | Wand of Secret Door Detection
  | 96--00 | Wand of Trap Detection
 
-### [Charges](name:wands_staves_and_rods_charges)
+### [Charges](@wands_staves_and_rods_charges)
 
 Rods, staves, and wands have a limited number of uses, called "charges".
 
@@ -5729,13 +5737,13 @@ Rods, staves, and wands have a limited number of uses, called "charges".
 - Each use of the item takes one round and consumes one charge.
 - When the last charge is consumed, the item loses its magical potency. It is not possible to recharge the item.
 
-### [Rods](name:rods)
+### [Rods](@rods)
 
 - Thin, 3' long.
 - Usable by characters of any class.
 - Unless noted, rods contain 1d10 charges when found.
 
-#### [Rod of Cancellation](name:rod_of_cancellation)
+#### [Rod of Cancellation](@rod_of_cancellation)
 
 Drains the enchantment from a magic item that is touched.
 
@@ -5743,13 +5751,13 @@ Drains the enchantment from a magic item that is touched.
 - The item that is touched becomes utterly non-magical.
 - The rod may only be used once: it has but a single charge.
 
-### [Staves](name:staves)
+### [Staves](@staves)
 
 - 2" thick, 6' long.
 - Usable by spell casters. Some staves may only be used by either arcane or divine spell casters (this is noted in the item's description).
 - Unless noted, contain 3d10 charges when found.
 
-#### [Staff of Commanding](name:staff_of_commanding)
+#### [Staff of Commanding](@staff_of_commanding)
 
 Grants the power to control animals, humans, and plants.
 
@@ -5775,7 +5783,7 @@ Grants the power to control animals, humans, and plants.
 - Affected plants may be commanded to move around as the character wishes.
 - The effect lasts as long as the wielder of the staff concentrates.
 
-#### [Staff of Healing](name:staff_of_healing)
+#### [Staff of Healing](@staff_of_healing)
 
 Has the power to heal those touched.
 
@@ -5784,7 +5792,7 @@ Has the power to heal those touched.
 - Is effective on any individual at most once per day.
 - Does not use charges; may be used an unlimited number of times.
 
-#### [Staff of Power](name:staff_of_power)
+#### [Staff of Power](@staff_of_power)
 
 An item of great wizardly power, this staff may be used as a weapon in melee, and may evoke five different magical effects.
 
@@ -5793,7 +5801,7 @@ An item of great wizardly power, this staff may be used as a weapon in melee, an
 - ***Cone of Cold:*** Conjures a cone of freezing energy, 60' long and 30' wide at the far end. Creatures caught in the cone suffer 8d6 damage (**save versus spells** for half damage).
 - ***Spells:*** Can cast: [_continual light_](#magic_user_continual_light) (up to 2,400 coins of weight).
 
-#### [Staff of Snakes](name:staff_of_snakes)
+#### [Staff of Snakes](@staff_of_snakes)
 
 A magical quarterstaff that has the power to transform into a snake, on command.
 
@@ -5806,14 +5814,14 @@ A magical quarterstaff that has the power to transform into a snake, on command.
 - If the snake is killed, it does not return to its staff form, becoming completely non-magical.
 - This staff does not use charges; it may be used an unlimited number of times.
 
-#### [Staff of Striking](name:staff_of_striking)
+#### [Staff of Striking](@staff_of_striking)
 
 Used as a magical melee weapon.
 
 - Expending one charge, inflicts 2d6 damage on a successful hit.
 - Only one charge may be spent per strike.
 
-#### [Staff of Withering](name:staff_of_withering)
+#### [Staff of Withering](@staff_of_withering)
 
 Creatures hit by the staff are magically aged:
 
@@ -5823,7 +5831,7 @@ Creatures hit by the staff are magically aged:
 - Especially long-lived species ignore the effects of a certain amount of ageing. (For example, elves may ignore up to 200 years of ageing, dwarves ignore up to 50 years, and so on.)
 - Undead creatures are unaffected by the power of this staff.
 
-#### [Staff of Wizardry](name:staff_of_wizardry)
+#### [Staff of Wizardry](@staff_of_wizardry)
 
 An item of supreme wizardly power, this staff may be used as a weapon in melee, and may evoke a dozen different magical effects.
 
@@ -5838,47 +5846,47 @@ An item of supreme wizardly power, this staff may be used as a weapon in melee, 
 
 >Author's note: The exact nature of this staff's whirlwind power is not clear in the original Expert rules. I have specified a duration of 3 rounds, based on the pillar of flame effect of the efreeti monster.
 
-### [Wands](name:wands)
+### [Wands](@wands)
 
 - Thin, 1<!-- -->1/2' long.
 - Usable by arcane spell casters.
 - Unless noted, contain 2d10 charges when found.
 
-#### [Wand of Cold](name:wand_of_cold)
+#### [Wand of Cold](@wand_of_cold)
 
 Conjures a cone of freezing energy.
 
 - The cone is 60' long and 30' wide at the far end.
 - Creatures caught in the cone suffer 6d6 damage, with a successful **save versus wands** indicating half damage.
 
-#### [Wand of Enemy Detection](name:wand_of_enemy_detection)
+#### [Wand of Enemy Detection](@wand_of_enemy_detection)
 
 Grants the power to detect nearby enemies.
 
 - Expending a charge causes enemies within 60' to be haloed in a fiery glow.
 - Even enemies that are concealed or invisible are affected.
 
-#### [Wand of Fear](name:wand_of_fear)
+#### [Wand of Fear](@wand_of_fear)
 
 Conjures a cone of magical energy that terrifies those within it.
 
 - The cone is 60' long and 30' wide at the far end.
 - Creatures in the cone are struck with terror, and will flee from the wielder of the wand at maximum speed for 30 rounds. (A **save vs wands** negates the effect).
 
-#### [Wand of Fire Balls](name:wand_of_fire_balls)
+#### [Wand of Fire Balls](@wand_of_fire_balls)
 
 Conjures fire balls:
 
 - A streak of flame shoots towards an area up to 240' distant and detonates in a 40' diameter sphere of fire.
 - Creatures caught in the fire ball suffer 6d6 damage, with a successful **save versus wands** indicating half damage.
 
-#### [Wand of Illusion](name:wand_of_illusion)
+#### [Wand of Illusion](@wand_of_illusion)
 
 Expending a charge, an illusion of the character's choosing manifests. This works in the same way as the magic-user spell [_phantasmal force_](#phantasmal_force), except:
 
 - Concentration is required to maintain the illusion: the wielder of the wand may move at up to half normal movement rate while concentrating. Concentration is broken if the wielder attacks or casts a spell, or if he or she is successfully attacked (damaged, targeted by a malicious spell, etc).
 
-#### [Wand of Lightning Bolts](name:wand_of_lightning_bolts)
+#### [Wand of Lightning Bolts](@wand_of_lightning_bolts)
 
 Conjures strokes of powerful electricity:
 
@@ -5887,14 +5895,14 @@ Conjures strokes of powerful electricity:
 - Creatures caught in the lightning bolt suffer 6d6 damage, with a successful **save versus wands** indicating half damage.
 - If the lightning bolt hits a solid barrier before its full length is reached, it is reflected and travels for any remaining distance of its full length in the direction of the wielder of the wand.
 
-#### [Wand of Magic Detection](name:wand_of_magic_detection)
+#### [Wand of Magic Detection](@wand_of_magic_detection)
 
 Grants the power to detect magic nearby.
 
 - Expending a charge causes magic items within 20' to be haloed with light.
 - Concealed items also glow, but the light may not be seen.
 
-#### [Wand of Metal Detection](name:wand_of_metal_detection)
+#### [Wand of Metal Detection](@wand_of_metal_detection)
 
 Grants the power to detect masses of metal of any type.
 
@@ -5902,7 +5910,7 @@ Grants the power to detect masses of metal of any type.
 - The type of metal is revealed.
 - Only masses of metal of at least 1,000 coins in weight are detected.
 
-#### [Wand of Negation](name:wand_of_negation)
+#### [Wand of Negation](@wand_of_negation)
 
 Has the power to negate the effects of other wands or staves.
 
@@ -5910,28 +5918,28 @@ Has the power to negate the effects of other wands or staves.
 - Another wand or staff must be targeted.
 - The effects of the targeted item are negated for one round.
 
-#### [Wand of Paralysation](name:wand_of_paralysation)
+#### [Wand of Paralysation](@wand_of_paralysation)
 
 Conjures a cone of paralysing energy.
 
 - The cone is 60' long and 30' wide at the far end.
 - Creatures caught in the cone are paralysed for 6 turns, with a successful **save versus wands** negating the effect.
 
-#### [Wand of Polymorph](name:wand_of_polymorph)
+#### [Wand of Polymorph](@wand_of_polymorph)
 
 By expending a charge, the wielder of the wand or another creature within 60' changes into another type of creature, as selected by the wielder. This works in the same way as the magic-user spells [_polymorph self_](#polymorph_self).
 
 An unwilling subject may make a **saving throw versus wands** to negate the effect.
 
-#### [Wand of Secret Door Detection](name:wand_of_secret_door_detection)
+#### [Wand of Secret Door Detection](@wand_of_secret_door_detection)
 
 Reveals the location of any secret door within 20'.
 
-#### [Wand of Trap Detection](name:wand_of_trap_detection)
+#### [Wand of Trap Detection](@wand_of_trap_detection)
 
 Reveals the location of all traps within 20'.
 
-## [Scrolls and Maps](name:scrolls_and_maps)
+## [Scrolls and Maps](@scrolls_and_maps)
 
 B: d8 | X: d% | Scroll
 --|------|--------
@@ -5958,13 +5966,13 @@ B: d8 | X: d% | Scroll
  | 97--98 | Treasure Map: XI
  | 99--00 | Treasure Map: XII
 
-### [Cursed Scrolls](name:cursed_scrolls)
+### [Cursed Scrolls](@cursed_scrolls)
 
 - Merely looking at the baneful script on the scroll curses the character.
 - The referee should determine the nature of the curse (see examples below).
 - The curse can be removed by magic (e.g. [_remove curse_](#magic_user_remove_curse)), or (at the referee's option) by performing a special quest.
 
-#### [Example Curses](name:example_curses)
+#### [Example Curses](@example_curses)
 
 1. The reader is transformed into a harmless creature (e.g. a frog).
 2. A wandering monster appears next to the reader and attacks (gaining surprise). The monster is of equal level to the reader.
@@ -5973,7 +5981,7 @@ B: d8 | X: d% | Scroll
 5. The player must re-roll the character's prime requisite.
 6. The reader's healing capacity is reduced. Natural healing takes double the normal amount of time, and healing spells only cure half the normal number of hit points.
 
-### [Protection Scrolls](name:protection_scrolls)
+### [Protection Scrolls](@protection_scrolls)
 
 Enchanted script that conjures a circle of protection, effective against a specific type of monster or energy.
 
@@ -5982,29 +5990,29 @@ Enchanted script that conjures a circle of protection, effective against a speci
 - If the reader moves, the circle of protection follows him or her.
 - For scrolls of protection against monsters: the circle does not prevent affected monsters from using magic or missile attacks against those within it. If anyone within the circle attacks an affected monster in melee, the circle is broken.
 
-#### [Protection from Elementals](name:protection_from_elementals)
+#### [Protection from Elementals](@protection_from_elementals)
 
 - No elemental may enter the circle.
 - Lasts for 2 turns, unless broken.
 
-#### [Protection from Lycanthropes](name:protection_from_lycanthropes)
+#### [Protection from Lycanthropes](@protection_from_lycanthropes)
 
 - A number of lycanthropes are barred from entering the circle. The number depends on their Hit Dice: 1--3 HD: 1d10 lycanthropes affected, 4--5 HD: 1d8 affected, 6+ HD: 1d4 affected.
 - Lasts for 6 turns, unless broken.
 
-#### [Protection from Magic](name:protection_from_magic)
+#### [Protection from Magic](@protection_from_magic)
 
 - Conjures a barrier that spells and spell-like effects (e.g. from magic items) cannot cross.
 - The barrier prevents magic from entering the circle, but also from leaving it.
 - Last for 1d4 turns.
 - Can only be broken by a _wish_.
 
-#### [Protection from Undead](name:protection_from_undead)
+#### [Protection from Undead](@protection_from_undead)
 
 - A number of undead monsters are barred from entering the circle of protection. The number depends on their Hit Dice: 1--3 HD: 2d12 undead affected, 4--5 HD: 2d6 undead affected, 6+ HD: 1d6 undead affected.
 - Lasts for 6 turns, unless broken.
 
-### [Spell Scrolls](name:spell_scrolls)
+### [Spell Scrolls](@spell_scrolls)
 
 Sheets of paper, parchment, papyrus, etc. on which one or more magic spells have been written by a spell caster. 1-in-4 spell scrolls contain divine spells; the rest contain arcane spells.
 
@@ -6029,7 +6037,7 @@ B: d6 | X: d% | Spell Level
 
 \* _Re-roll for divine spells._
 
-### [Treasure Maps](name:treasure_maps)
+### [Treasure Maps](@treasure_maps)
 
 Directions to the location of a valuable treasure. Usable by any character.
 
@@ -6039,7 +6047,7 @@ Directions to the location of a valuable treasure. Usable by any character.
 - The treasure is normally guarded by enchantments, traps, or monsters (e.g. a monster from the [***Dungeon Encounter Tables***](#dungeon_encounter_tables) of levels 5--6, or higher).
 - The referee should prepare treasure maps in advance.
 
-#### [Types of Treasure Map](name:types_of_treasure_map)
+#### [Types of Treasure Map](@types_of_treasure_map)
 
 - ***I:*** 1 magic item.
 - ***II:*** 1d6 &times; 10 gems and 2d10 pieces of jewellery.
@@ -6054,7 +6062,7 @@ Directions to the location of a valuable treasure. Usable by any character.
 - ***XI:*** Hoard worth 5d6 &times; 1,000gp and 5d6 gems.
 - ***XII:*** Hoard worth 6d6 &times; 1,000gp.
 
-## [Swords](name:swords)
+## [Swords](@swords)
 
 B: d8 | X: d% | Sword
 ------|-------|------
@@ -6076,19 +6084,19 @@ B: d8 | X: d% | Sword
  | 97--98 | Sword +2, charm person
  | 99--00 | Sword +3
 
-### [Cursed Swords](name:cursed_swords)
+### [Cursed Swords](@cursed_swords)
 
 - ***Penalty:*** The associated penalty is applied to both attack rolls and damage rolls made with the sword.
 - ***Discarding:*** Once the sword has been used in combat, the character comes under the curse and is not able to discard the item. In fact, they will favour the sword and use it whenever possible. The curse can only be removed with magic (e.g. _remove curse_ or _dispel evil_).
 
-### [Enchanted Swords](name:enchanted_swords)
+### [Enchanted Swords](@enchanted_swords)
 
 - ***Bonus:*** The associated bonus is applied to both attack rolls and damage rolls made with the sword.
 - ***Bonus vs creature type:*** Some swords have a special bonus when used against a certain type of creature.
 - ***Sentience:*** Some magic swords have an innate intelligence and personality, along with other special powers. If the referee wishes to randomly determine whether a magic sword is intelligent, the probability is 30%. See [***Sentient Swords***](#sentient_swords), for rules for determining the special powers of a sentient sword.
 - ***Special purpose:*** There is additionally a 1-in-20 chance of a magic sword having been imbued with a special purpose. Such swords are extremely powerful and are always sentient. See [***Sentient Swords***](#sentient_swords), for rules for determining the powers of a sword of special purpose. The referee may choose to only place such swords by design, rather than rolling this chance randomly.
 
-### [Sentient Swords](name:sentient_swords)
+### [Sentient Swords](@sentient_swords)
 
 Some magic swords possess sentience (see [***Swords***](#swords) for the chances of this).
 
@@ -6096,7 +6104,7 @@ Some magic swords possess sentience (see [***Swords***](#swords) for the chances
 - Sentient swords have special powers, in addition to their normal enchantment.
 - The procedure for designing a sentient sword is given below. Instead of rolling the sword's qualities randomly, the referee may select them as desired.
 
-#### [Rolling a Sentient Sword](name:rolling_a_sentient_sword)
+#### [Rolling a Sentient Sword](@rolling_a_sentient_sword)
 
 1. ***Special purpose:*** If the sword is imbued with a special purpose (see [***Special Purpose***](#special_purpose), later.
 2. ***Intelligence:*** The sword's INT is 1d6+6. Swords imbued with a special purpose always have INT 12.
@@ -6108,7 +6116,7 @@ Some magic swords possess sentience (see [***Swords***](#swords) for the chances
 5. ***Powers:*** The sword's INT determines the number of powers it has. See the table below. Powers are described below.
 6. ***Ego:*** In addition to INT, sentient swords have an Ego rating---a measure of their force of personality. This is rolled on 1d12. Swords imbued with a special purpose always have an Ego of 12.
 
-#### [Communication](name:communication)
+#### [Communication](@communication)
 
 INT | Reading | Communication
 ----|---------|--------------
@@ -6119,7 +6127,7 @@ INT | Reading | Communication
 11 | Yes | Speech
 12 | Yes | Speech
 
-#### [Languages](name:sword_languages)
+#### [Languages](@sword_languages)
 
 d100 | Languages
 -----|----------
@@ -6130,7 +6138,7 @@ d100 | Languages
 96--99 | 5
 00 | Roll twice again, adding results
 
-#### [Powers](name:powers)
+#### [Powers](@powers)
 
 INT | Powers
 ----|-------
@@ -6141,7 +6149,7 @@ INT | Powers
 11 | 3 sensory powers
 12 | 3 sensory powers + 1 extraordinary power
 
-#### [Alignment](name:sword_alignment)
+#### [Alignment](@sword_alignment)
 
 d20 | Alignment
 ----|----------
@@ -6155,16 +6163,16 @@ The alignment of the sword can only be determined by touching it. Doing so may i
 - ***Neutral swords:*** Inflict 1d6 damage per round to non-Neutral characters.
 - ***Chaotic swords:*** Inflict 1d6 damage per round to Neutral characters, and 2d6 per round to Lawful characters.
 
-#### [Using a Sentient Sword](name:using_a_sentient_sword)
+#### [Using a Sentient Sword](@using_a_sentient_sword)
 
 Sentient swords grant the wielder special powers beyond those of a normal magic sword, but using such an item also carries certain risks.
 
-#### [Activating Powers](name:activating_powers)
+#### [Activating Powers](@activating_powers)
 
 - To use a power, the sword must be in the wielder's hand.
 - The wielder must concentrate to activate a power.
 
-#### [Control](name:sword_control)
+#### [Control](@sword_control)
 
 A sentient sword has its own personality, and can, at times, attempt to exercise control over the person who wields it. A control check (see below) is triggered in any of the following circumstances:
 
@@ -6174,7 +6182,7 @@ A sentient sword has its own personality, and can, at times, attempt to exercise
 - ***Alignment difference:*** Upon every use, if the sword and the character are of different alignments.
 - ***Special purpose:*** If the sword has a special purpose: every time the special purpose is applicable. (e.g. when encountering a character or creature of the type the sword is designed to slay.)
 
-##### [Control Checks](name:control_checks)
+##### [Control Checks](@control_checks)
 
 When one of the aforementioned circumstances occurs, a control check is required:
 
@@ -6187,7 +6195,7 @@ When one of the aforementioned circumstances occurs, a control check is required
     2. If the character has less than full hit points, Will is reduced by 1d4 (or 2d4, if the character has less than half hit points).
 3. Compare the Will scores. If the sword's Will score is higher, it takes control of the character's actions.
 
-##### [When the Sword Takes Control](name:when_the_sword_takes_control)
+##### [When the Sword Takes Control](@when_the_sword_takes_control)
 
 The referee determines the behaviour of the character, via the sword, for example:
 
@@ -6196,11 +6204,11 @@ The referee determines the behaviour of the character, via the sword, for exampl
 - Surrendering to a foe whom the sword deems either more worthy of possessing it or more susceptible to being controlled.
 - Making lavish expenditures for the sword: purchasing expensive sheaths, having jewels fitted, having enchantments and wards applied, etc. The sword may force the character to spend most of his or her money on such things!
 
-##### [When Control Ends](name:when_control_ends)
+##### [When Control Ends](@when_control_ends)
 
 Once in control, the sword will only release the character when the circumstance that triggered the control check is over, or when the sword is otherwise satisfied.
 
-#### [Extraordinary Powers](name:extraordinary_powers)
+#### [Extraordinary Powers](@extraordinary_powers)
 
 - Each power should be rolled on the table below. Duplicates should be re-rolled, unless noted.
 - Unless a power's description notes otherwise, it may be used at most three times a day.
@@ -6222,7 +6230,7 @@ d100 | Power
 98--99 | Roll twice again on this table
 0 | Roll three times again on this table
 
-##### [Clairaudience](name:sword_clairaudience)
+##### [Clairaudience](@sword_clairaudience)
 
 Enables the wielder to hear through the ears of another creature.
 
@@ -6230,7 +6238,7 @@ Enables the wielder to hear through the ears of another creature.
 - The other creature must be within 60'.
 - Lead blocks this power.
 
-##### [Clairvoyance](name:sword_clairvoyance)
+##### [Clairvoyance](@sword_clairvoyance)
 
 Enables the wielder to see through the eyes of another creature.
 
@@ -6238,7 +6246,7 @@ Enables the wielder to see through the eyes of another creature.
 - The other creature must be within 60'.
 - Lead blocks this power.
 
-##### [ESP](name:sword_esp)
+##### [ESP](@sword_esp)
 
 Enables the wielder to read the thoughts of another living creature.
 
@@ -6247,20 +6255,20 @@ Enables the wielder to read the thoughts of another living creature.
 - The wielder gains an empathic understanding of the creature's thoughts.
 - Lead blocks this power.
 
-##### [Extra Damage](name:extra_damage)
+##### [Extra Damage](@extra_damage)
 
 Increases the wielder's strength for 1d10 rounds. While the power is active, damage inflicted by the wielder is multiplied by 4.
 
 ***Duplicates:*** If this power is rolled more than once, the damage multiplier is increased by one for each duplicate roll.
 
-##### [Flying](name:sword_flying)
+##### [Flying](@sword_flying)
 
 The wielder is able to fly for up to 3 turns.
 
 - A speed of up to 360' (120') is possible.
 - Free movement in any direction is possible, including the ability to levitate and to hover in mid-air.
 
-##### [Healing](name:sword_healing)
+##### [Healing](@sword_healing)
 
 The sword heals damage.
 
@@ -6270,11 +6278,11 @@ The sword heals damage.
 
 ***Duplicates:*** If this power is rolled more than once, the duration of the power is increased by 6 rounds for each duplicate roll.
 
-##### [Illusion](name:illusion)
+##### [Illusion](@illusion)
 
 An illusion of the wielder's choosing manifests. This works in the same way as the magic-user spell [_phantasmal force_](#phantasmal_force).
 
-##### [Levitation](name:sword_levitation)
+##### [Levitation](@sword_levitation)
 
 Grants the wielder the ability to move up and down through the air for up to 3 turns:
 
@@ -6282,7 +6290,7 @@ Grants the wielder the ability to move up and down through the air for up to 3 t
 - The power does not allow horizontal movement, but the wielder can push against solid objects to move laterally.
 - A normal amount of weight can be carried while levitating.
 
-##### [Telekinesis](name:sword_telekinesis)
+##### [Telekinesis](@sword_telekinesis)
 
 By concentrating, the wielder is able to move objects or creatures within 120' by the power of thought.
 
@@ -6292,7 +6300,7 @@ By concentrating, the wielder is able to move objects or creatures within 120' b
 - If a creature is targeted, it may **save versus spells** to resist the power.
 - If the wielder's concentration is broken, the target will fall.
 
-##### [Telepathy](name:telepathy)
+##### [Telepathy](@telepathy)
 
 Enables the wielder to read the thoughts of another living creature.
 
@@ -6302,11 +6310,11 @@ Enables the wielder to read the thoughts of another living creature.
 - The wielder may also initiate a bidirectional, telepathic communication with the creature, though it is not compelled to respond.
 - Lead blocks this power.
 
-##### [Teleportation](name:teleportation)
+##### [Teleportation](@teleportation)
 
 The wielder is able to [_teleport_](#teleport), per the magic-user spell.
 
-##### [X-Ray Vision](name:sword_x_ray_vision)
+##### [X-Ray Vision](@sword_x_ray_vision)
 
 Allows the wielder to see through solid objects.
 
@@ -6317,7 +6325,7 @@ Allows the wielder to see through solid objects.
 - Using this power requires concentration (the wielder cannot move).
 - This power may be used at most once per turn.
 
-#### [Sensory Powers](name:sensory_powers)
+#### [Sensory Powers](@sensory_powers)
 
 - Each sensory power should be rolled on the table below, with duplicates re-rolled.
 - Unless a power's description notes otherwise, it may be used without limit.
@@ -6336,48 +6344,48 @@ d100 | Power
 96--99 | Roll an extraordinary power
 00 | Roll twice again on this table
 
-##### [Detect Evil or Good](name:detect_evil_or_good)
+##### [Detect Evil or Good](@detect_evil_or_good)
 
 The wielder can sense the intention to do evil or good within 20'. (Note: some harmful things---e.g. animals, traps---are not evil.)
 
-##### [Detect Gems](name:detect_gems)
+##### [Detect Gems](@detect_gems)
 
 The sword will point in the direction of any gems within 60'.
 
 - The wielder is also informed of the number of gems present.
 - This power is blocked by lead.
 
-##### [Detect Magic](name:detect_magic)
+##### [Detect Magic](@detect_magic)
 
 Up to three times a day, the sword can detect magic within 20'. On command, the magic may be caused to glow.
 
-##### [Detect Metals](name:detect_metals)
+##### [Detect Metals](@detect_metals)
 
 The sword will point in the direction of metal of a named type within 60'.
 
 - This power is blocked by lead.
 
-##### [Detect Shifting Architecture](name:detect_shifting_architecture)
+##### [Detect Shifting Architecture](@detect_shifting_architecture)
 
 The wielder can locate shifting walls or rooms up to 10' distant.
 
-##### [Detect Slopes](name:detect_slopes)
+##### [Detect Slopes](@detect_slopes)
 
 The wielder can sense sloped floors within 10'.
 
-##### [Detect Traps](name:detect_traps)
+##### [Detect Traps](@detect_traps)
 
 Up to three times a day, the wielder can sense traps within 10'.
 
-##### [Locate Secret Doors](name:locate_secret_doors)
+##### [Locate Secret Doors](@locate_secret_doors)
 
 Up to three times a day, the wielder can find all secret doors within 10'.
 
-##### [See Invisible Objects](name:see_invisible_objects)
+##### [See Invisible Objects](@see_invisible_objects)
 
 The wielder can see invisible or concealed objects up to 20' distant. (This power does not reveal secret doors.)
 
-#### [Special Purpose](name:special_purpose)
+#### [Special Purpose](@special_purpose)
 
 The purpose of such swords is typically to slay a certain type of character or creature. The purpose may be rolled on the table below, or the referee may invent others.
 
@@ -6390,7 +6398,7 @@ d6 | Target
 5 | Lawful creatures (or chaotic creatures, if the sword is lawful)
 6 | Chaotic creatures (or lawful creatures, if the sword is chaotic)
 
-#### [Alignment Power](name:alignment_power)
+#### [Alignment Power](@alignment_power)
 
 In addition to their sensory and extraordinary powers, swords of special purpose have an extra power when used to achieve their designated purpose (e.g. when attacking the enemy the sword was designed to slay). This power depends on the sword's alignment:
 
@@ -6398,9 +6406,9 @@ In addition to their sensory and extraordinary powers, swords of special purpose
 - ***Neutral:*** The wielder gains a +1 bonus to all saving throws.
 - ***Chaotic:*** Lawful foes hit by the sword must **save vs spells** or be turned to stone.
 
-### [Sword Descriptions](name:sword_descriptions)
+### [Sword Descriptions](@sword_descriptions)
 
-#### [Sword +1, Energy Drain](name:sword_energy_drain)
+#### [Sword +1, Energy Drain](@sword_energy_drain)
 
 Drains the life energy of its victims.
 
@@ -6408,7 +6416,7 @@ Drains the life energy of its victims.
 - In this case, in addition to suffering normal damage, the target permanently loses one experience level (or Hit Die). This incurs a loss of one Hit Die of hit points, as well as all other benefits due to the drained level (e.g. spells, saving throws, etc.). A character's XP is reduced to the lowest amount for the new level. A person drained of all levels dies.
 - The sword may drain a total of 1d4+4 levels. Once this many levels have been drained, it becomes a normal magical sword +1.
 
-#### [Sword +1, Flaming](name:sword_flaming)
+#### [Sword +1, Flaming](@sword_flaming)
 
 Bursts into flames, on command. When flaming:
 
@@ -6422,26 +6430,26 @@ Bursts into flames, on command. When flaming:
     - +3 vs undead.
 - Blazes until commanded to cease.
 
-#### [Sword +1, Light](name:sword_light)
+#### [Sword +1, Light](@sword_light)
 
 On command, produces light in a 30' radius.
 
-#### [Sword +2, Charm Person](name:sword_charm_person)
+#### [Sword +2, Charm Person](@sword_charm_person)
 
 Grants the wielder the ability to charm other people, up to three times a week. This works in the same way as the magic-user spell [_charm person_](#charm_person).
 
-#### [Sword +1, Locate Objects](name:sword_locate_objects)
+#### [Sword +1, Locate Objects](@sword_locate_objects)
 
 Grants the wielder the ability to detect the presence of objects within 120', once per day. This works in the same way as the magic-user spell [_locate object_](#magic_user_locate_object).
 
-#### [Sword +1, Wishes](name:sword_wishes)
+#### [Sword +1, Wishes](@sword_wishes)
 
 Has the power to grant the wielder's wishes (see [***Wishes***](#wishes)).
 
 - The sword grants a total of 1d4 wishes.
 - The wish must be spoken out loud by the wielder of the sword.
 
-## [Weapons](name:treasure_weapons)
+## [Weapons](@treasure_weapons)
 
 B: d4 | X: d% | Weapon
 ------|-------|-------
@@ -6469,14 +6477,14 @@ B: d4 | X: d% | Weapon
 
 - ***Ammunition:*** The number of rounds found is indicated in parentheses.
 
-### [Enchanted Weapons](name:enchanted_weapons)
+### [Enchanted Weapons](@enchanted_weapons)
 
 - ***Bonus:*** The associated bonus is applied to both attack rolls and damage rolls made with the weapon.
 - ***Bonus vs creature type:*** Some weapons have a special bonus when used against a certain type of creature.
 
-### [Weapon Descriptions](name:magic_weapon_descriptions)
+### [Weapon Descriptions](@magic_weapon_descriptions)
 
-#### [War Hammer +3, Dwarven Thrower](name:war_hammer_dwarven_thrower)
+#### [War Hammer +3, Dwarven Thrower](@war_hammer_dwarven_thrower)
 
 In the hands of a dwarf, this weapon may function as a thrown missile weapon.
 
@@ -6485,7 +6493,7 @@ In the hands of a dwarf, this weapon may function as a thrown missile weapon.
 
 >Author's Note: The range of this weapon is not specified in the original Expert rules, and was taken from a later edition of the game.
 
-## [Armour](name:treasure_magic_armour)
+## [Armour](@treasure_magic_armour)
 
 B: d4 | X: d% | Item
 ------|-------|-----
@@ -6511,7 +6519,7 @@ B: d4 | X: d% | Item
  | 86--95 | Shield +2
  | 96--00 | Shield +3
 
-### [Type of Armour](name:type_of_armour)
+### [Type of Armour](@type_of_armour)
 
 The referee may choose the type of armour in a treasure hoard, or may roll on the following table:
 
@@ -6521,35 +6529,35 @@ d8 | Type of Armour
 3--6 | Chainmail
 7--8 | Plate mail
 
-### [Enchanted Armour and Shields](name:enchanted_armour_and_shields)
+### [Enchanted Armour and Shields](@enchanted_armour_and_shields)
 
 - ***AC bonus:*** The associated bonus improves the wearer's Armour Class rating. For example, a suit of chainmail +1 grants a base Armour Class of 4, one point better than the AC 5 of non-magical chainmail.
 - ***Weight:*** When using [option 2 of the encumbrance rules](#encumbrance_by_weight), the enchanted armour's encumbrance value is 50% less than that of normal armour.
 
-### [Cursed Armour and Shields](name:cursed_armour_and_shields)
+### [Cursed Armour and Shields](@cursed_armour_and_shields)
 
 - ***AC penalty:*** Some types of cursed armour specify an Armour Class penalty. This modifier worsens the wearer's Armour Class rating. For example, a cursed suit of chainmail &minus;1 grants a base Armour Class of 6, one point worse than the AC 5 of non-magical chainmail.
 - ***AC 9:*** Some types of cursed armour give the wearer a base Armour Class of 9 (before modifiers due to Dexterity).
 - ***Testing:*** All types of tests indicate that a cursed shield or suit of armour is enchanted with a +1 bonus. It is only when the armour is used in deadly combat that the curse is revealed.
 - ***Removing:*** Once a cursed shield or suit of armour has been used, the character comes under the curse and is not able to discard the item. It can only be removed with magic (e.g. _remove curse_ or _dispel evil_).
 
-# [Monsters](name:monsters)
+# [Monsters](@monsters)
 
-## [Notes](name:monster_notes)
+## [Notes](@monster_notes)
 
-### [High-Level Saves](name:high_level_saves)
+### [High-Level Saves](@high_level_saves)
 
 Some powerful monsters save as a fighter of greater than 14th level. In these cases, the monster's save values have been calculated by extrapolating the progression of the fighter saving throw chart to higher levels.
 
-### [Infravision](name:monster_infravision)
+### [Infravision](@monster_infravision)
 
 All non-human monsters have 60' [infravision](#infravision).
 
-### [Persons](name:persons)
+### [Persons](@persons)
 
 Spells such as [_charm person_](#charm_person), [_hold person_](#magic_user_hold_person), etc. only affect humanoids (including humans and demihumans) of up to 4+1HD. Monsters in this book that are affected by these spells are: acolyte, bandit, berserker, brigand, buccaneer, bugbear, dervish, dwarf, elf, gnoll, gnome, goblin, halfling, hobgoblin, kobold, lizard man, medium, merchant, neanderthal, nixie, noble, normal human, ogre, orc, pirate, pixie, sprite, trader, troglodyte, veteran. Other monsters may be affected at the referee's judgement.
 
-### [XP Value of NPCs](name:xp_value_of_npcs)
+### [XP Value of NPCs](@xp_value_of_npcs)
 
 Some monster entries make reference to NPCs with levels in a specific character class. The XP values for such characters are not pre-calculated, as the exact value depends on several variable factors.
 
@@ -6559,7 +6567,7 @@ When awarding XP for defeated NPCs, the referee may use the following guidelines
 - Spell casters are treated as having one special ability per two levels of spells they can cast (rounded up). For example, a character able to cast 1st, 2nd, and 3rd level spells would count as having two special abilities.
 - Magic items in the possession of the character may be counted as special abilities, if they play a direct role in combat.
 
-## [Stat Block Format](name:stat_block_format)
+## [Stat Block Format](@stat_block_format)
 
 ***AC:*** Armour Class.
 
@@ -6596,7 +6604,7 @@ When awarding XP for defeated NPCs, the referee may use the following guidelines
 - A to O: Indicate a hoard: the sum wealth of a large monster or a community of smaller monsters. Such hoards are usually hidden in the lair. For monsters with a lair encounter size (see _NA_, above) of greater than 1d4, the amount of treasure in the hoard may be reduced, if the number of monsters is below average.
 - P to V: If listed for an intelligent monster, indicate treasure carried by individuals (P to T) or a group (U, V). If listed for an unintelligent monster, indicates treasure from the bodies of its former victims.
 
-## [Acolyte](name:acolyte)
+## [Acolyte](@acolyte)
 
 _1st level clerics on a quest for their deity._
 
@@ -6604,7 +6612,7 @@ AC 2, HD 1 (4hp), Att 1 &times; mace (1d6), THAC0 19, MV 60' (20'), SV D11 W12 P
 
 - ***Leader:*** Groups of 4+ are led by a higher level cleric (1d10: 1--4: 2nd level, 5--7: 3rd level, 8--9: 4th level, 10: 5th level). Choose or roll the leader's spells.
 
-## [Ape, White](name:ape_white)
+## [Ape, White](@ape_white)
 
 _Albino, herbivorous, gorilla-like apes that live in caves and emerge at night to forage._
 
@@ -6612,7 +6620,7 @@ AC 6, HD 4 (18hp), Att 2 &times; claw (1d4) or 1 &times; thrown rock (1d6), THAC
 
 - ***Territorial:*** Defend their lair with threats and, if this is ignored, violence.
 
-## [Bandit](name:bandit)
+## [Bandit](@bandit)
 
 _NPC thieves who live by robbery._
 
@@ -6622,7 +6630,7 @@ AC 6, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120' (40
 - ***Leader:*** May have a leader of 2nd level or higher (any human class).
 - ***Hoard:*** Only have treasure type A when encountered in their wilderness lair.
 
-## [Basilisk](name:basilisk)
+## [Basilisk](@basilisk)
 
 _10' long, serpentine lizards. Unintelligent, but highly magical. Dwell in caverns and twisted brambles._
 
@@ -6634,26 +6642,26 @@ AC 4, HD 6+1** (28hp), Att 1 &times; bite (1d10 + petrification), 1 &times; gaze
 - ***Averting eyes:*** &minus;4 penalty to-hit; the basilisk gains a +2 bonus to attack.
 - ***Mirrors:*** The reflection of a basilisk is harmless. Fighting by looking in a mirror incurs a &minus;1 penalty to attack. If a basilisk sees its own reflection (2-in-6 chance), it must save or be petrified.
 
-## [Bat](name:bat)
+## [Bat](@bat)
 
 _Nocturnal, flying mammals that roost in caves or ruins._
 
 - ***Echolocation:*** Unaffected by effects that impair, modify, or rely on sight. Blinded by _silence 15' radius_.
 
-### [Giant Bat](name:giant_bat)
+### [Giant Bat](@giant_bat)
 
 _Carnivorous bats that may attack adventurers, if hungry. 1-in-20 groups of giant bats are vampiric (see below)._
 
 AC 6, HD 2 (9hp), Att 1 &times; bite (1d4), THAC0 18, MV 30' (10') / 180' (60') flying, SV D12 W13 P14 B15 S16 (F1), ML 8, AL Neutral, XP 20, NA 1d10 (1d10), TT None
 
-### [Giant Vampire Bat](name:giant_vampire_bat)
+### [Giant Vampire Bat](@giant_vampire_bat)
 
 AC 6, HD 2 (9hp), Att 1 &times; bite (1d4 + unconsciousness), THAC0 18, MV 30' (10') / 180' (60') flying, SV D12 W13 P14 B15 S16 (F1), ML 8, AL Neutral, XP 20, NA 1d10 (1d10), TT None
 
 - ***Unconsciousness:*** For 1d10 rounds (**save vs paralysis**).
 - ***Blood drain:*** A vampire bat may drain blood from an unconscious victim: 1d4 hit points automatic damage per round. A victim killed by blood drain becomes undead (possibly a vampire) after 24 hours (**save vs spells**).
 
-### [Normal Bat](name:normal_bat)
+### [Normal Bat](@normal_bat)
 
 AC 6, HD 1hp, Att 1 &times; swarm (confusion), THAC0 20, MV 9' (3') / 120' (40') flying, SV D14 W15 P16 B17 S18 (NH), ML 6, AL Neutral, XP 5, NA 1d100 (1d100), TT None
 
@@ -6661,11 +6669,11 @@ AC 6, HD 1hp, Att 1 &times; swarm (confusion), THAC0 20, MV 9' (3') / 120' (40')
 - ***Attacks:*** As normal human.
 - ***Flighty:*** Unless magically summoned or controlled, normal bats check morale every round.
 
-## [Bear](name:bear)
+## [Bear](@bear)
 
 - ***Bear hug:*** If a victim is hit by both paws in the same round, the bear hugs for an extra 2d8 automatic damage.
 
-### [Black Bear](name:black_bear)
+### [Black Bear](@black_bear)
 
 _6' tall; favour eating berries and roots._
 
@@ -6674,7 +6682,7 @@ AC 6, HD 4 (18hp), Att 2 &times; claw (1d3), 1 &times; bite (1d6), THAC0 16, MV 
 - ***Defensive:*** Adults will protect their young with their lives, but otherwise only attack if cornered.
 - ***Camp raids:*** Sometimes raid camps, for food (especially fish and sweet treats).
 
-### [Cave Bear](name:cave_bear)
+### [Cave Bear](@cave_bear)
 
 _Ferocious, 15' tall grizzly bears found in caves and Lost World settings. Omnivorous, but prefer meat, including humans._
 
@@ -6682,13 +6690,13 @@ AC 5, HD 7 (31hp), Att 2 &times; claw (1d8), 1 &times; bite (2d6), THAC0 13, MV 
 
 - ***Sense of smell:*** Poor eyesight, but keen sense of smell. When hungry, will follow a track of blood by scent.
 
-### [Grizzly Bear](name:grizzly_bear)
+### [Grizzly Bear](@grizzly_bear)
 
 _Aggressive, 9' tall. Silver-tipped fur, brown or reddish brown in colour. Live in forests and mountains. Favour eating meat._
 
 AC 6, HD 5 (22hp), Att 2 &times; claw (1d4), 1 &times; bite (1d8), THAC0 15, MV 120' (40'), SV D12 W13 P14 B15 S16 (F2), ML 8, AL Neutral, XP 175, NA 1 (1d4), TT U
 
-### [Polar Bear](name:polar_bear)
+### [Polar Bear](@polar_bear)
 
 _Aggressive, white-furred bears that stand 11' tall and live in cold regions. Favour eating fish._
 
@@ -6697,9 +6705,9 @@ AC 6, HD 6 (27hp), Att 2 &times; claw (1d6), 1 &times; bite (1d10), THAC0 14, MV
 - ***Swimming:*** Excellent swimmers.
 - ***Snow walk:*** Wide paws allow running on the surface of snow without sinking.
 
-## [Beetle, Giant](name:beetle_giant)
+## [Beetle, Giant](@beetle_giant)
 
-### [Fire Beetle](name:fire_beetle)
+### [Fire Beetle](@fire_beetle)
 
 _2<!-- -->1/2' long. Commonly found underground._
 
@@ -6707,7 +6715,7 @@ AC 4, HD 1+2 (6hp), Att 1 &times; bite (2d4), THAC0 18, MV 120' (40'), SV D12 W1
 
 - ***Glowing nodules:*** Three glowing glands (two above the eyes, one on the abdomen) cast light in a 10' radius. If removed, keep glowing for 1d6 days.
 
-### [Oil Beetle](name:oil_beetle)
+### [Oil Beetle](@oil_beetle)
 
 _3' long, burrowing beetles sometimes encountered below ground._
 
@@ -6715,13 +6723,13 @@ AC 4, HD 2* (9hp), Att 1 &times; bite (1d6), 1 &times; oil spray (blistering), T
 
 - ***Oil spray:*** Use when attacked. Targets one opponent within 5'. A hit causes painful blistering: &minus;2 to attack rolls for 24 hours. _Cure light wounds_ can be used to cure this, instead of restoring hit points.
 
-### [Tiger Beetle](name:tiger_beetle)
+### [Tiger Beetle](@tiger_beetle)
 
 _Carnivorous, 4' long, tiger-striped beetles with powerful, crushing mandibles. Hunt robber flies, but sometimes eat humans._
 
 AC 3, HD 3+1 (14hp), Att 1 &times; bite (2d6), THAC0 16, MV 150' (50'), SV D12 W13 P14 B15 S16 (F1), ML 9, AL Neutral, XP 50, NA 1d6 (2d4), TT U
 
-## [Berserker](name:berserker)
+## [Berserker](@berserker)
 
 _Fighters who enter a rage in battle. They never take prisoners._
 
@@ -6730,7 +6738,7 @@ AC 7, HD 1+1* (5hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 18, MV 120' 
 - ***Battle rage:*** +2 to hit humans and similar humanoids (e.g. orcs, goblins). Rage sometimes makes them attack their allies.
 - ***Hoard:*** Only have treasure type B when encountered in the wilderness.
 
-## [Black Pudding](name:black_pudding)
+## [Black Pudding](@black_pudding)
 
 _Huge (5'--30' across), mindless blobs of amorphous black jelly. Driven by ravenous hunger._
 
@@ -6742,7 +6750,7 @@ AC 6, HD 10* (45hp), Att 1 &times; touch (3d8), THAC0 11, MV 60' (20'), SV D10 W
 - ***Cling:*** Can move across walls and ceilings.
 - ***Seep:*** Can squeeze through small holes and cracks.
 
-## [Blink Dog](name:blink_dog)
+## [Blink Dog](@blink_dog)
 
 _Highly intelligent, dingo-like dogs that live in packs. Have the innate ability to blink in and out of existence._
 
@@ -6752,13 +6760,13 @@ AC 5, HD 4* (18hp), Att 1 &times; bite (1d6), THAC0 16, MV 120' (40'), SV D10 W1
 - ***Disappear:*** If in serious danger, the pack can flee by entirely disappearing.
 - ***Hate warp beasts:*** Always attack.
 
-## [Boar](name:boar)
+## [Boar](@boar)
 
 _Omnivorous wild boars that dwell primarily in forests. Can be irascible and dangerous, if disturbed._
 
 AC 7, HD 3 (13hp), Att 1 &times; tusk (2d4), THAC0 17, MV 150' (50'), SV D12 W13 P14 B15 S16 (F2), ML 9, AL Neutral, XP 35, NA 1d6 (1d6), TT None
 
-## [Brigand](name:brigand)
+## [Brigand](@brigand)
 
 _Outlaws and mercenaries who make a living by raiding settlements and attacking travellers._
 
@@ -6770,7 +6778,7 @@ AC 6, 4, or 3, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV
 - ***Fortified camps:*** Bands commonly combine and live in a camp of 5d6 &times; 10 brigands.
 - ***Camp leaders:*** Combined camps are led by a 9th level fighter, plus a 5th level fighter for every 50 brigands. Also 50% chance of a magic-user (level 1d3 + 8); 30% chance of a cleric (8th level).
 
-## [Buccaneer](name:buccaneer)
+## [Buccaneer](@buccaneer)
 
 _Sailors who make a living by raiding coastal settlements and robbing other ships. Typically ply rivers, lakes, and coastal waters; occasionally oceans._
 
@@ -6783,7 +6791,7 @@ AC 7 or 5, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120
 - ***Treasure:*** Divided between vessels. Instead of carrying aboard, may have a map to where it is buried.
 - ***Havens:*** Lawless, fortified, coastal towns may act as a haven for buccaneers and pirates.
 
-## [Bugbear](name:bugbear)
+## [Bugbear](@bugbear)
 
 _Large, hairy goblins with an ungainly gait. Favour attacking by surprise._
 
@@ -6791,7 +6799,7 @@ AC 5, HD 3+1 (14hp), Att 1 &times; weapon (2d4 or by weapon +1), THAC0 16, MV 90
 
 - ***Surprise:*** On a 1--3, due to stealth.
 
-## [Caecilia](name:caecilia)
+## [Caecilia](@caecilia)
 
 _Gigantic (30' long), grey, worm-like amphibians, with huge, toothed maws._
 
@@ -6799,7 +6807,7 @@ AC 6, HD 6* (27hp), Att 1 &times; bite (1d8), THAC0 14, MV 60' (20'), SV D12 W13
 
 - ***Swallow whole:*** On an attack roll of 19 or more. Inside the monster's belly: suffer 1d8 damage per round (until the caecilia is killed); may attack with a dagger at &minus;4 to hit; body digested in 6 turns after death.
 
-## [Camel](name:camel)
+## [Camel](@camel)
 
 _Irascible animals that are adapted to life in dry climates. Often used for transportation in deserts. (See [**Vehicles**](#vehicles).)_
 
@@ -6811,7 +6819,7 @@ AC 7, HD 2 (9hp), Att 1 &times; bite (1), 1 &times; hoof (1d4), THAC0 18, MV 150
 - ***Beast of burden:*** Carry up to 3,000 coins unencumbered; up to 6,000 at half speed.
 - ***Charge attacks:*** Are not possible, when mounted on a camel.
 
-## [Carcass Crawler](name:carcass_crawler)
+## [Carcass Crawler](@carcass_crawler)
 
 _9' long, 3' high, many-legged, segmented worms with a ring of 2' long tentacles around their mouths._
 
@@ -6820,7 +6828,7 @@ AC 7, HD 3+1* (14hp), Att 8 &times; tentacle (paralysis), THAC0 16, MV 120' (40'
 - ***Paralysis:*** A hit by a tentacle causes paralysis for 2d4 turns (**save vs paralysis**). Paralysed victims will be devoured, if the crawler is left in peace.
 - ***Cling:*** Can walk on walls and ceilings.
 
-## [Cat, Great](name:cat_great)
+## [Cat, Great](@cat_great)
 
 _Cautious hunters that usually avoid combat with humans unless starving or cornered. Great cats may be playful, but are quick to anger. They remain outdoors, rarely venturing deep underground._
 
@@ -6828,31 +6836,31 @@ _Cautious hunters that usually avoid combat with humans unless starving or corne
 - ***Favoured prey:*** Often develop a taste for a certain type of meat (this may include humans!), hunting that creature with preference.
 - ***Inquisitive:*** May follow PCs out of curiosity.
 
-### [Lion](name:lion)
+### [Lion](@lion)
 
 _Hunt in groups called "prides". Live in hot regions, typically in savannah or scrublands close to deserts._
 
 AC 6, HD 5 (22hp), Att 2 &times; claw (1d4+1), 1 &times; bite (1d10), THAC0 15, MV 150' (50'), SV D12 W13 P14 B15 S16 (F3), ML 9, AL Neutral, XP 175, NA 1d4 (1d8), TT U
 
-### [Mountain Lion](name:mountain_lion)
+### [Mountain Lion](@mountain_lion)
 
 _Have yellow-brown fur and favour mountains, deserts, and forests. Will occasionally venture into dungeons._
 
 AC 6, HD 3+2 (15hp), Att 2 &times; claw (1d3), 1 &times; bite (1d6), THAC0 16, MV 150' (50'), SV D12 W13 P14 B15 S16 (F2), ML 8, AL Neutral, XP 50, NA 1d4 (1d4), TT U
 
-### [Panther](name:panther)
+### [Panther](@panther)
 
 _High-speed hunters that live in plains and forests._
 
 AC 4, HD 4 (18hp), Att 2 &times; claw (1d4), 1 &times; bite (1d8), THAC0 16, MV 210' (70'), SV D12 W13 P14 B15 S16 (F2), ML 8, AL Neutral, XP 75, NA 1d2 (1d6), TT U
 
-### [Sabre-Toothed Tiger](name:sabre_toothed_tiger)
+### [Sabre-Toothed Tiger](@sabre_toothed_tiger)
 
 _Huge, aggressive cats with foot-long fangs. Normally only found in Lost World regions._
 
 AC 6, HD 8 (36hp), Att 2 &times; claw (1d8), 1 &times; bite (2d8), THAC0 12, MV 150' (50'), SV D10 W11 P12 B13 S14 (F4), ML 10, AL Neutral, XP 650,NA 1d4 (1d4), TT V
 
-### [Tiger](name:tiger)
+### [Tiger](@tiger)
 
 _Large, solitary hunters with striped camouflage markings. Favour woodlands and cooler regions._
 
@@ -6860,7 +6868,7 @@ AC 6, HD 6 (27hp), Att 2 &times; claw (1d6), 1 &times; bite (2d6), THAC0 14, MV 
 
 - ***Surprise:*** On a 1--4, in woodland, due to camouflage.
 
-## [Cave Locust](name:cave_locust)
+## [Cave Locust](@cave_locust)
 
 _2--3' long, herbivorous, giant crickets that dwell in caverns._
 
@@ -6872,7 +6880,7 @@ AC 4, HD 2 (9hp), Att 1 &times; bite (1d2) or 1 &times; jump (1d4) or 1 &times; 
 - ***Spit:*** Used defensively. 10' range. Target treated as AC 9. The affected character is covered in stinking spittle: unable to act for 1 turn (**save vs poison**). Until the goo is washed off, others who come within 5' must also **save vs poison** or be violently sick.
 - ***Poison immunity:*** Immune to yellow mould and most poisons, due to their habit of eating fungi.
 
-## [Centaur](name:centaur)
+## [Centaur](@centaur)
 
 _Fantastic creatures with the legs and body of a horse, and the upper body and head of a human. Live in small family or tribal groups, in wild meadows and isolated forests._
 
@@ -6882,7 +6890,7 @@ AC 5, HD 4 (18hp), Att 2 &times; hoof (1d6), 1 &times; weapon (1d6 or by weapon)
 - ***Lair:*** Hidden in dense woods, along twisting, guarded paths.
 - ***Females and young:*** Normally remain in the lair. Flee if attacked. Young have 2HD and make 2 hoof attacks (1d2) and 1 weapon attack (1d4 or by weapon).
 
-## [Centipede, Giant](name:centipede_giant)
+## [Centipede, Giant](@centipede_giant)
 
 _1' long centipedes that dwell in dark, damp locations._
 
@@ -6890,7 +6898,7 @@ AC 9, HD 1/2 (2hp), Att 1 &times; bite (poison), THAC0 19, MV 60' (20'), SV D14 
 
 - ***Poison:*** Causes victims to become horribly sick for ten days (**save versus poison**): no physical activity possible except half speed movement.
 
-## [Chimera](name:chimera)
+## [Chimera](@chimera)
 
 _Horrific, hybrid monstrosities with the forequarters of a lion, the hindquarters of a goat, the wings of a dragon, and three heads: goat, lion, and dragon. Dwell in wild, hilly areas, or sometimes in dungeons._
 
@@ -6899,7 +6907,7 @@ AC 4, HD 9** (40hp), Att 2 &times; claw (1d3), goat: 1 &times; gore (2d4), lion:
 - ***Attack pattern:*** Dragon head: 50% chance of breath attack, otherwise bites.
 - ***Breath weapon:*** Cone of fire: end 10' wide, 50' long. Can be used up to three times per day.
 
-## [Cockatrice](name:cockatrice)
+## [Cockatrice](@cockatrice)
 
 _Small, magical, bird / reptile hybrids with long serpent tails and the head, legs, and wings of a cockerel. Live in all environments._
 
@@ -6907,7 +6915,7 @@ AC 6, HD 5** (22hp), Att 1 &times; beak (1d6 + petrification), THAC0 15, MV 90' 
 
 - ***Petrification:*** Anyone touched is turned to stone (**save vs petrify**).
 
-## [Crab, Giant](name:crab_giant)
+## [Crab, Giant](@crab_giant)
 
 _Unintelligent crustaceans that lurk in coastal waters and creep along beaches. Cannot swim._
 
@@ -6915,29 +6923,29 @@ AC 2, HD 3 (13hp), Att 2 &times; pincer (2d6), THAC0 17, MV 60' (20'), SV D12 W1
 
 - ***Ravenous:*** Attack any moving creature.
 
-## [Crocodile](name:crocodile)
+## [Crocodile](@crocodile)
 
 _Large reptiles that are ungainly on land and live primarily in water, lurking just beneath the surface of subtropical swamps and lazy rivers. If hungry, attack any creatures that venture into the water._
 
 - ***Feeding frenzy:*** Attracted to the scent of blood or violent movement in the water.
 
-### [Giant Crocodile](name:giant_crocodile)
+### [Giant Crocodile](@giant_crocodile)
 
 _More than 50' long. Usually encountered in Lost World regions. Will attack small ships._
 
 AC 1, HD 15 (67hp), Att 1 &times; bite (3d8), THAC0 9, MV 90' (30') / 90' (30') swimming, SV D8 W9 P10 B10 S12 (F8), ML 9, AL Neutral, XP 1,350, NA 0 (1d3), TT None
 
-### [Large Crocodile](name:large_crocodile)
+### [Large Crocodile](@large_crocodile)
 
 _20' or more long. May attack small watercraft (canoes, rafts)._
 
 AC 3, HD 6 (27hp), Att 1 &times; bite (2d8), THAC0 14, MV 90' (30') / 90' (30') swimming, SV D12 W13 P14 B15 S16 (F3), ML 7, AL Neutral, XP 275, NA 0 (1d4), TT None
 
-### [Normal Crocodile](name:normal_crocodile)
+### [Normal Crocodile](@normal_crocodile)
 
 AC 5, HD 2 (9hp), Att 1 &times; bite (1d8), THAC0 18, MV 90' (30') / 90' (30') swimming, SV D12 W13 P14 B15 S16 (F1), ML 7, AL Neutral, XP 20, NA 0 (1d8), TT None
 
-## [Cyclops](name:cyclops)
+## [Cyclops](@cyclops)
 
 _20' tall humanoids with a single, central eye. Dwell in caves, alone or in small groups. Cultivate grapes and raise sheep._
 
@@ -6948,7 +6956,7 @@ AC 5, HD 13* (58hp), Att 1 &times; club (3d10) or 1 &times; rock (3d6), THAC0 10
 - ***Slow-witted:*** Can be tricked by clever PCs.
 - ***Curse:*** 1-in-20 cyclops can cast [_curse_](#magic_user_curse) once a week.
 
-## [Dervish](name:dervish)
+## [Dervish](@dervish)
 
 _Fanatically religious, nomadic people who wander steppes and desert regions, living in tents._
 
@@ -6963,7 +6971,7 @@ AC 6 or 4, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120
 
 >Author's note: Dervishes' equipment is adapted from the 1979 Advanced rules.
 
-## [Djinni (Lesser)](name:djinni_lesser)
+## [Djinni (Lesser)](@djinni_lesser)
 
 _Highly magical, free-willed, intelligent beings from the elemental plane of air. Tall humanoids wreathed in clouds._
 
@@ -6981,7 +6989,7 @@ AC 5, HD 7+1 (32hp), Att 1 &times; fists (2d8), magic, THAC0 12, MV 90' (30') / 
 - ***Carrying capacity:*** 6,000 coins without fatigue. Up to 12,000 coins for 3 turns walking / 1 turn flying. Must rest 1 turn afterwards.
 - ***If killed:*** Returns to the plane of air.
 
-## [Doppelg&auml;nger](name:doppelganger)
+## [Doppelg&auml;nger](@doppelganger)
 
 _Intelligent, human-sized shape-shifters of wicked character and highly magical nature._
 
@@ -6992,7 +7000,7 @@ AC 5, HD 4* (18hp), Att 1 &times; bite (1d12), THAC0 16, MV 90' (30'), SV D6 W7 
 - ***Reversion:*** If killed, reverts to its original form.
 - ***Spell immunity:*** Unaffected by sleep and charm spells.
 
-## [Dragon](name:dragon)
+## [Dragon](@dragon)
 
 _A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many subspecies of dragon, many of which are distinguished by the colour of their scales. All dragons are egg-layers and hoard treasure in their lairs, far from areas of human civilisation._
 
@@ -7011,7 +7019,7 @@ _A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many
 - ***Age:*** The following stats describe dragons of average size. Younger dragons may have up to 3 HD less and 1/4 or 1/2 as much treasure. Older dragons may have up to 3 HD more and twice as much treasure.
 - ***Lairs:*** A dragon's treasure is always kept in its well-hidden lair and is seldom unguarded.
 
-### [Black Dragon](name:black_dragon)
+### [Black Dragon](@black_dragon)
 
 _Dwell in swamps and marshes._
 
@@ -7021,7 +7029,7 @@ AC 2, HD 7** (31hp), Att 2 &times; claw (1d4 + 1), 1 &times; bite (2d10) or brea
 - ***Language and spells:*** 20%; 4 &times; 1st level.
 - ***Sleeping:*** 40%.
 
-### [Blue Dragon](name:blue_dragon)
+### [Blue Dragon](@blue_dragon)
 
 _Favour open plains and deserts._
 
@@ -7031,7 +7039,7 @@ AC 0, HD 9** (40hp), Att 2 &times; claw (1d6 + 1), 1 &times; bite (3d10) or brea
 - ***Language and spells:*** 40%; 4 &times; 1st level, 4 &times; 2nd level.
 - ***Sleeping:*** 20%.
 
-### [Gold Dragon](name:gold_dragon)
+### [Gold Dragon](@gold_dragon)
 
 _May be encountered in any terrain, often in the guise of a person or animal._
 
@@ -7042,7 +7050,7 @@ AC &minus;2, HD 11** (49hp), Att 2 &times; claw (2d4), 1 &times; bite (6d6) or b
 - ***Sleeping:*** 5%.
 - ***Shape changing:*** May take on the form of a person or animal.
 
-### [Green Dragon](name:green_dragon)
+### [Green Dragon](@green_dragon)
 
 _Lair in jungles and forests._
 
@@ -7052,7 +7060,7 @@ AC 1, HD 8** (36hp), Att 2 &times; claw (1d6), 1 &times; bite (3d8) or breath, T
 - ***Language and spells:*** 30%; 3 &times; 1st level, 3 &times; 2nd level.
 - ***Sleeping:*** 30%.
 
-### [Red Dragon](name:red_dragon)
+### [Red Dragon](@red_dragon)
 
 _Dwell in hills and mountains._
 
@@ -7062,7 +7070,7 @@ AC &minus;1, HD 10** (45hp), Att 2 &times; claw (1d8), 1 &times; bite (4d8) or b
 - ***Language and spells:*** 50%; 3 &times; 1st level, 3 &times; 2nd level, 3 &times; 3rd level.
 - ***Sleeping:*** 10%.
 
-### [Sea Dragon](name:sea_dragon)
+### [Sea Dragon](@sea_dragon)
 
 _Intelligent, aquatic dragons with green scales, fin-like wings, and a yellowish crest. Dwell in the depths of the ocean, inhabiting caverns or shipwrecks. Sometimes attack vessels to steal their treasure and eat the crew._
 
@@ -7075,7 +7083,7 @@ AC 1, HD 8** (36hp), Att 1 &times; bite (3d8) or breath, THAC0 12, MV 180' (60')
 
 >Author's note: The sleeping percentage is extrapolated from dragons of like HD.
 
-### [White Dragon](name:white_dragon)
+### [White Dragon](@white_dragon)
 
 _Found in cold regions._
 
@@ -7085,7 +7093,7 @@ AC 3, HD 6** (27hp), Att 2 &times; claw (1d4), 1 &times; bite (2d8) or breath, T
 - ***Language and spells:*** 10%; 3 &times; 1st level.
 - ***Sleeping:*** 50%.
 
-## [Dragon Turtle](name:dragon_turtle)
+## [Dragon Turtle](@dragon_turtle)
 
 _Gargantuan sea monsters with the body and hard shell of a turtle and the head, tail, and legs of a dragon. Lurk in huge caves in the depths of the ocean, only rarely coming to the surface._
 
@@ -7096,7 +7104,7 @@ AC &minus;2, HD 30 (135hp), Att 2 &times; claw (1d8), 1 &times; bite (1d6 &times
 - ***Attack ships:*** Sometimes try to destroy ships and eat the crew by surfacing below.
 - ***Treasure:*** From sunken ships.
 
-## [Driver Ant](name:driver_ant)
+## [Driver Ant](@driver_ant)
 
 _Giant (6' long), omnivorous, black ants._
 
@@ -7106,7 +7114,7 @@ AC 3, HD 4* (18hp), Att 1 &times; bite (2d6), THAC0 16, MV 180' (60'), SV D12 W1
 - ***Morale:*** Attack relentlessly, once theyare engaged in melee (morale 12). Will even pursue through flames.
 - ***Miners:*** Lair may (30% chance) contain 1d10 &times; 1,000gp worth of gold nuggets.
 
-## [Dryad](name:dryad)
+## [Dryad](@dryad)
 
 _Shy, peaceful, yet wary tree spirits that can manifest as beautiful female humanoids. Live in deep forests._
 
@@ -7118,7 +7126,7 @@ AC 5, HD 2* (9hp), Att 1 &times; magic (charm), THAC0 18, MV 120' (40'), SV D10 
 - ***Charm:*** Victim compelled to approach the tree, vanishes inside it (**save versus spells with &minus;2 penalty**). If not immediately rescued, the victim is lost forever.
 - ***Treasure:*** Hidden in roots of the tree.
 
-## [Dwarf](name:monster_dwarf)
+## [Dwarf](@monster_dwarf)
 
 _Short, stocky, bearded demihumans who dwell in mountains and subterranean realms._
 
@@ -7127,7 +7135,7 @@ AC 4, HD 1 (4hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 19, MV 60' (20'
 - ***Leader:*** A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have magic items: 5% chance per level for each magic item table (except [Scrolls](#scrolls).
 - ***Hate goblins:*** Normally attack on sight.
 
-## [Efreeti (Lesser)](name:efreeti_lesser)
+## [Efreeti (Lesser)](@efreeti_lesser)
 
 _Highly magical, free-willed, intelligent beings from the elemental plane of fire. Manifest as giant men with demonic faces and an aura of heat and smoke. Solidify out of billowing smoke clouds._
 
@@ -7146,7 +7154,7 @@ AC 3, HD 10* (45hp), Att 1 &times; fists (2d8), magic, THAC0 11, MV 90' (30') / 
 - ***Hate djinn:*** Attack on sight.
 - ***Bound servitor:*** Efreet summoning spells can be researched by high-level magic-users. Can be bound to servitude for 101 days. Efreet are treacherous and will follow commands to the letter while subverting the intent.
 
-## [Elemental](name:elemental)
+## [Elemental](@elemental)
 
 _Beings formed of pure, elemental matter (air, earth, fire, or water) that can be summoned from their plane of origin to serve a magic-user._
 
@@ -7156,7 +7164,7 @@ There are three power levels of elemental. Each is typically summoned by differe
 - ***Intermediate:*** AC 0, HD 12, Dmg 2d8, SV D6 W7 P8 B8 S10 (F12). (Summoned by magic device.)
 - ***Greater:*** AC &minus;2, HD 16, Dmg 3d8, SV D2 W3 P4 B3 S6 (F16). (Summoned by spell.)
 
-### [Air Elemental](name:air_elemental)
+### [Air Elemental](@air_elemental)
 
 _Huge vortexes of whirling air._
 
@@ -7167,7 +7175,7 @@ AC 2/0/&minus;2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC
 - ***Mundane damage immunity:*** Can only be harmed by magical attacks.
 - ***Harm flying creatures:*** Inflict extra 1d8 damage.
 
-### [Earth Elemental](name:earth_elemental)
+### [Earth Elemental](@earth_elemental)
 
 _Huge, humanoid figures of earth or stone._
 
@@ -7178,7 +7186,7 @@ AC 2/0/&minus;2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC
 - ***Mundane damage immunity:*** Can only be harmed by magical attacks.
 - ***Harm creatures on the ground:*** Inflict extra 1d8 damage.
 
-### [Fire Elemental](name:fire_elemental)
+### [Fire Elemental](@fire_elemental)
 
 _Whirling columns of fire_
 
@@ -7189,7 +7197,7 @@ AC 2/0/&minus;2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC
 - ***Mundane damage immunity:*** Can only be harmed by magical attacks.
 - ***Harm cold-based creatures:*** Inflict extra 1d8 damage.
 
-### [Water Elemental](name:water_elemental)
+### [Water Elemental](@water_elemental)
 
 _Huge waves of water._
 
@@ -7200,7 +7208,7 @@ AC 2/0/&minus;2, HD 8/12/16 (36/54/72hp), Att 1 &times; blow (1d8/2d8/3d8), THAC
 - ***Mundane damage immunity:*** Can only be harmed by magical attacks.
 - ***Harm creatures in water:*** Inflict extra 1d8 damage.
 
-## [Elephant](name:elephant)
+## [Elephant](@elephant)
 
 _Massive, tusked animals that dwell near subtropical forests. Wandering individuals or complete herds may be encountered._
 
@@ -7210,7 +7218,7 @@ AC 5, HD 9 (40hp), Att 2 &times; tusk (2d4) or 1 &times; trample (4d8), THAC0 12
 - ***Trample:*** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 - ***Ivory:*** Each tusk is worth 1d6 &times; 100gp.
 
-## [Elf](name:monster_elf)
+## [Elf](@monster_elf)
 
 _Slender, fey demihumans with pointed ears. Live in harmony with nature, in beautiful natural settings._
 
@@ -7219,7 +7227,7 @@ AC 5, HD 1+1* (5hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 18, MV 120' 
 - ***Spells:*** Each individual has one random [1st level magic-user spell](#magic_user_1st_level_list).
 - ***Leader:*** Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table (see [***Magic Items***](#treasure_magic_items)).
 
-## [Ferret, Giant](name:ferret_giant)
+## [Ferret, Giant](@ferret_giant)
 
 _3' long ferrets that hunt giant rats in their burrows. Sometimes kept by humans for this aptitude._
 
@@ -7227,9 +7235,9 @@ AC 5, HD 1+1 (5hp), Att 1 &times; bite (1d8), THAC0 18, MV 150' (50'), SV D12 W1
 
 - ***Volatile:*** Unpredictable temper; may turn on trainers or other people.
 
-## [Fish, Giant](name:fish_giant)
+## [Fish, Giant](@fish_giant)
 
-### [Giant Bass](name:giant_bass)
+### [Giant Bass](@giant_bass)
 
 _Shy; only attack when seeing a bite-size (halfling-size or smaller) morsel close by._
 
@@ -7237,13 +7245,13 @@ AC 7, HD 2 (9hp), Att 1 &times; bite (1d6), THAC0 18, MV 120' (40'), SV D12 W13 
 
 >Author's note: In the original Expert rules, the giant bass is only mentioned inside the nixie monster description. Here, I have adapted it to a full monster, referring to a later edition of the game for the descriptive details.
 
-### [Giant Catfish](name:giant_catfish)
+### [Giant Catfish](@giant_catfish)
 
 _15' long, pale white. Four feelers beside the mouth. Lurk in the mud at the bottom of rivers and lakes. Will attack creatures on the bottom or swimming above._
 
 AC 4, HD 8+3 (39hp), Att 1 &times; bite (2d8), 4 &times; feeler (1d4), THAC0 12, MV 90' (30'), SV D10 W11 P12 B13 S14 (F4), ML 8, AL Neutral, XP 650, NA0 (1d2), TT None
 
-### [Giant Piranha](name:giant_piranha)
+### [Giant Piranha](@giant_piranha)
 
 _5' long piranhas with black and green scales. Live in rivers (occasionally lakes) and attack anything in the water._
 
@@ -7252,7 +7260,7 @@ AC 6, HD 3+3 (16hp), Att 1 &times; bite (1d8), THAC0 16, MV 150' (50'), SV D12 W
 - ***Surround opponents:*** A target can be attacked by up to 8 giant piranhas.
 - ***Morale:*** When blood is in the water, do not check morale.
 
-### [Giant Rockfish](name:giant_rockfish)
+### [Giant Rockfish](@giant_rockfish)
 
 _Spiny fish with lumpy, rock-like skin. Live in saltwater shallows. Normally passive, but highly aggressive if disturbed._
 
@@ -7262,7 +7270,7 @@ AC 7, HD 5+5* (27hp), Att 4 &times; spine (1d4 + poison), THAC0 14, MV 180' (60'
 - ***Grasping:*** If mistaken for a rock and grasped, all 4 spines automatically hit.
 - ***Poison:*** Causes death (**save vs poison**).
 
-### [Giant Sturgeon](name:giant_sturgeon)
+### [Giant Sturgeon](@giant_sturgeon)
 
 _Huge (nearly 30' long), aggressive fish with armour plating._
 
@@ -7270,7 +7278,7 @@ AC 0, HD 10+2* (47hp), Att 1 &times; bite (2d10), THAC0 11, MV 180' (60'), SV D1
 
 - ***Swallow whole:*** On an attack roll of 18 or more. Inside the fish's belly: suffer 2d6 damage per round (until the fish dies); **save vs death** or be paralysed; may attack with sharp weapons at &minus;4 to hit (inside belly has AC 7); body digested 6 turns after death.
 
-## [Gargoyle](name:gargoyle)
+## [Gargoyle](@gargoyle)
 
 _Magical monsters that look like hideous, horned, winged statues. Semi-intelligent and possessed of a great cunning._
 
@@ -7281,7 +7289,7 @@ AC 5, HD 4 (18hp), Att 2 &times; claw (1d3), 1 &times; bite (1d6), 1 &times; hor
 - ***Mundane damage immunity:*** Can only be harmed by magical attacks.
 - ***Spell immunity:*** Unaffected by [_sleep_](#sleep) or [_charm_](#charm_person) spells.
 
-## [Gelatinous Cube](name:gelatinous_cube)
+## [Gelatinous Cube](@gelatinous_cube)
 
 _10' cubes of transparent jelly. Move through dungeons, absorbing debris and living creatures they come across._
 
@@ -7292,7 +7300,7 @@ AC 8, HD 4* (18hp), Att 1 &times; touch (2d4 + paralysis), THAC0 16, MV 60' (20'
 - ***Energy immunity:*** Unharmed by cold or lightning.
 - ***Embedded items:*** Indigestible items (e.g. gems, coins) are carried around inside the cube.
 
-## [Ghoul](name:ghoul)
+## [Ghoul](@ghoul)
 
 _Grotesque, animalistic, undead humans that crave the flesh of the living._
 
@@ -7301,9 +7309,9 @@ AC 6, HD 2* (9hp), Att 2 &times; claw (1d3 + paralysis), 1 &times; bite (1d3 + p
 - ***Paralysis:*** For 2d4 turns (**save vs paralysis**). Elves and creatures larger than ogres are unaffected. After paralysing a target, ghouls will attack others.
 - ***Undead:*** Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. _charm_, _hold_, _sleep_).
 
-## [Giant](name:giant)
+## [Giant](@giant)
 
-### [Cloud Giant](name:cloud_giant)
+### [Cloud Giant](@cloud_giant)
 
 _Aggressive, 20' tall humanoids with skin and hair ranging from grey to white. Dress in pale robes._
 
@@ -7315,7 +7323,7 @@ AC 4, HD 12+3 (57hp), Att 1 &times; weapon (6d6) or 1 &times; boulder (3d6), THA
 - ***Guardians:*** 3d6 giant hawks or 6d6 dire wolves (only in mountains).
 - ***Hate intruders:*** May block mountain passes to ensure isolation.
 
-### [Fire Giant](name:fire_giant)
+### [Fire Giant](@fire_giant)
 
 _16' tall humanoids with black hair and red skin. Dress in armour fashioned from golden metals (brass, bronze, copper). Dwell in places of extreme heat (e.g. near volcanoes)._
 
@@ -7326,7 +7334,7 @@ AC 4, HD 11+2 (51hp), Att 1 &times; weapon (5d6) or 1 &times; boulder (3d6), THA
 - ***Castle:*** Black, low-walled. Made of baked mud and raw iron.
 - ***Guardians:*** 20% chance of 1d3 hydras, 3d6 hellhounds otherwise.
 
-### [Frost Giant](name:frost_giant)
+### [Frost Giant](@frost_giant)
 
 _18' tall humanoids with pale skin and pale hair (yellow or blue hued). Dress in furs or iron armour. Males have long beards._
 
@@ -7337,7 +7345,7 @@ AC 4, HD 10+1 (46hp), Att 1 &times; weapon (4d6) or 1 &times; boulder (3d6), THA
 - ***Castle:*** High upon snowy mountains.
 - ***Guardians:*** 20% chance of 3d6 polar bears, 6d6 wolves otherwise.
 
-### [Hill Giant](name:hill_giant)
+### [Hill Giant](@hill_giant)
 
 _Hairy, brutish, 12' tall humanoids of low intelligence. Dwell in foothills. Known to attack human settlements to steal food._
 
@@ -7345,7 +7353,7 @@ AC 4, HD 8 (36hp), Att 1 &times; weapon (2d8), THAC0 12, MV 120' (40'), SV D8 W9
 
 - ***Weapons:*** Wield giant clubs and spears.
 
-### [Stone Giant](name:stone_giant)
+### [Stone Giant](@stone_giant)
 
 _14' tall humanoids with stone-like, grey skin. Dwell in natural caverns or primitive huts built of stone._
 
@@ -7355,7 +7363,7 @@ AC 4, HD 9 (40hp), Att 1 &times; weapon (3d6) or 1 &times; boulder (3d6), THAC0 
 - ***Boulder throwing:*** Up to 300'.
 - ***Guardians:*** 50% chance of 1d4 cave bears.
 
-### [Storm Giant](name:storm_giant)
+### [Storm Giant](@storm_giant)
 
 _22' tall humanoids with bronze-hued skin and garish hair (red or yellow)._
 
@@ -7367,7 +7375,7 @@ AC 2, HD 15 (67hp), Att 1 &times; weapon (8d6), 1 &times; lightning bolt, THAC0 
 - ***Castle:*** High among mountain peaks, atop banks of clouds, or in deep waters.
 - ***Guardians:*** 2d4 griffons. Underwater: 3d6 giant crabs.
 
-## [Gnoll](name:gnoll)
+## [Gnoll](@gnoll)
 
 _Lazy, humanoid hyenas of low intelligence that live by intimidation and theft. Legends say that gnolls were magically created by a wizard who crossbred gnomes and trolls._
 
@@ -7375,7 +7383,7 @@ AC 5, HD 2 (9hp), Att 1 &times; weapon (2d4 or by weapon + 1), THAC0 18, MV 90' 
 
 - ***Leader:*** Groups of 20+ are led by a gnoll with 3HD (16hp).
 
-### [Gnome](name:gnome)
+### [Gnome](@gnome)
 
 _Short demihumans with long noses and beards. Smaller cousins of dwarves, whom they get along with. Prefer to live in burrows in non-mountainous country._
 
@@ -7388,7 +7396,7 @@ AC 5, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 60' (20'
 - ***Hate kobolds:*** Normally attack on sight.
 - ***Mines and machines:*** Love machinery, mining, gold, and gems. May make foolish decisions to obtain precious items. War with goblins and kobolds over precious metals.
 
-## [Goblin](name:goblin)
+## [Goblin](@goblin)
 
 _Small, grotesque humanoids with pallid, earth-coloured skin and glowing, red eyes. Dwell underground._
 
@@ -7401,7 +7409,7 @@ AC 6, HD 1&minus;1 (3hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 
 - ***Goblin king and bodyguards:*** A 3HD (15hp) king and 2d6 2HD (2d6hp) bodyguards live in the goblin lair. They do not suffer attack penalties in daylight. The king gains a +1 bonus to damage.
 - ***Hoard:*** Only have treasure type C when encountered in the wilderness or in their lair.
 
-## [Golem](name:golem)
+## [Golem](@golem)
 
 _Artificial beings constructed from different materials by mighty clerics or wizards._
 
@@ -7410,7 +7418,7 @@ _Artificial beings constructed from different materials by mighty clerics or wiz
 - ***Other materials:*** Golems formed of other materials are also possible.
 - ***Constructing:*** A very complex, expensive, and time-consuming process.
 
-### [Amber Golem](name:amber_golem)
+### [Amber Golem](@amber_golem)
 
 _Constructed in the form of giant cats (e.g. lions or tigers)._
 
@@ -7419,7 +7427,7 @@ AC 6, HD 10** (45hp), Att 2 &times; claw (2d6), 1 &times; bite (2d10), THAC0 11,
 - ***Tracking:*** Without error.
 - ***Detect invisible creatures:*** Within 60'.
 
-### [Bone Golem](name:bone_golem)
+### [Bone Golem](@bone_golem)
 
 _6' tall constructs of human bone, crafted into a humanoid shape. Have four arms, attached at different places on the torso._
 
@@ -7429,7 +7437,7 @@ AC 2, HD 8 (36hp), Att 2 or 4 &times; weapon (1d6 or by weapon), THAC0 12, MV 12
 - ***Attack multiple opponents:*** Up to 2 per round.
 - ***Energy immunity:*** Unharmed by fire, cold, and electricity.
 
-### [Bronze Golem](name:bronze_golem)
+### [Bronze Golem](@bronze_golem)
 
 _Bronze constructs that resemble fire giants, possessing a great internal heat._
 
@@ -7438,7 +7446,7 @@ AC 0, HD 20** (90hp), Att 1 &times; fist (3d10 + 1d10 heat), THAC0 6, MV 240' (8
 - ***Flaming blood:*** If damaged by an edged weapon, emits a spurt of liquid fire: attacker suffers 2d6 damage (**save vs death** to avoid).
 - ***Fire immunity:*** Unharmed by fire.
 
-### [Wood Golem](name:wood_golem)
+### [Wood Golem](@wood_golem)
 
 _3' tall, roughly constructed, humanoid figures of wood._
 
@@ -7447,7 +7455,7 @@ AC 7, HD 2+2 (11hp), Att 1 &times; fist (1d8), THAC0 17, MV 120' (40'), SV D12 W
 - ***Initiative:*** &minus;1 penalty due to stiff movement.
 - ***Flammable:*** &minus;2 to saves against fire attacks; suffers one extra point of damage per die.
 
-## [Gorgon](name:gorgon)
+## [Gorgon](@gorgon)
 
 _Magical monsters that resemble iron-scaled bulls. Dwell in plains or foothills._
 
@@ -7456,7 +7464,7 @@ AC 2, HD 8* (36hp), Att 1 &times; gore (2d6) or 1 &times; breath (petrify), THAC
 - ***Charge:*** When not in melee. Requires a clear run of at least 20 yards. Gore inflicts double damage.
 - ***Petrifying breath:*** Cloud 60' long, 10' wide. All in the cloud are turned to stone (**save vs petrify** to avoid). Unharmed by own breath.
 
-## [Grey Ooze](name:grey_ooze)
+## [Grey Ooze](@grey_ooze)
 
 _Slimy horrors that lurk on stone surfaces or among boulders._
 
@@ -7466,7 +7474,7 @@ AC 8, HD 3* (13hp), Att 1 &times; touch (2d8), THAC0 17, MV 10' (3'), SV D12 W13
 - ***Acid:*** After a successful attack, sticks to the victim and exudes acid. The acid destroys normal armour immediately and inflicts 2d8 damage per round. (Magic armour is dissolved in one turn.)
 - ***Energy immunity:*** Unharmed by cold or fire.
 
-## [Green Slime](name:green_slime)
+## [Green Slime](@green_slime)
 
 _Dripping, green slime that clings to walls and ceilings._
 
@@ -7478,7 +7486,7 @@ AC No hit roll required, HD 2* (9hp), Att 1 &times; touch (consume flesh), THAC0
 - ***Removing:*** Once stuck on a victim, can only be removed by fire. This inflicts half damage to the victim and half to the slime.
 - ***Immunity:*** Unharmed by all attacks except cold or fire.
 
-## [Griffon](name:griffon)
+## [Griffon](@griffon)
 
 _Large, rapacious predators combining the features of an eagle (head, wings, front claws) and a lion. Prey on horses._
 
@@ -7488,7 +7496,7 @@ AC 5, HD 7 (13hp), Att 2 &times; claw (1d4), 1 &times; bite (2d8), THAC0 13, MV 
 - ***Defend nest:*** Attack if it is approached.
 - ***Taming:*** Captured young can be trained as loyal mounts. Their fierce nature cannot be trained out: they still instinctively attack horses.
 
-## [Halfling](name:monster_halfling)
+## [Halfling](@monster_halfling)
 
 _Diminutive, furry-footed demihumans who dwell in small villages (30--300 inhabitants)._
 
@@ -7497,7 +7505,7 @@ AC 7, HD 1&minus;1 (3hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 
 - ***Leader and militia:*** Villages are led by a halfling of level 1d6 + 1. A militia of 5d4 2HD guards is also present.
 - ***Hoard:*** Only have treasure type B when encountered in the wilderness.
 
-## [Harpy](name:harpy)
+## [Harpy](@harpy)
 
 _Hideous hags with the wings and lower bodies of giant eagles. Use their song to lure victims to their doom._
 
@@ -7506,14 +7514,14 @@ AC 7, HD 3* (13hp), Att 2 &times; claw (1d4), 1 &times; weapon (1d6 or by weapon
 - ***Charm:*** Anyone who hears the song of a group of harpies must **save versus spells** or be charmed: move towards the harpies (resisting those who try to prevent it); defend the harpies; obey the harpies' commands (if understood); unable to cast spells or use magic items; unable to harm the harpies. A character who saves is unaffected for the rest of the encounter. Killing the harpies breaks the charm.
 - ***Magic resistance:*** +2 to all saving throws.
 
-## [Hawk](name:hawk)
+## [Hawk](@hawk)
 
 _Birds of prey that drift on high currents of air and hunt prey on the ground._
 
 - ***Swoop:*** Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
 - ***Trainable:*** Can be trained as guards or hunting animals.
 
-### [Giant Hawk](name:giant_hawk)
+### [Giant Hawk](@giant_hawk)
 
 _As big as a great dog. If hungry, may attack humans or similar-sized creatures._
 
@@ -7521,13 +7529,13 @@ AC 6, HD 3+3 (16hp), Att 1 &times; talons or beak (1d6), THAC0 16, MV 450' (150'
 
 - ***Carry prey:*** Up to halfling-sized.
 
-### [Normal Hawk](name:normal_hawk)
+### [Normal Hawk](@normal_hawk)
 
 _Small birds of prey. Will only attack humans if they appear defenceless._
 
 AC 8, HD 1/2 (2hp), Att 1 &times; talons or beak (1d2), THAC0 19, MV 480' (160') flying, SV D14 W15 P16 B17 S18 (NH), ML 7, AL Neutral, XP 5, NA 0 (1d6), TT None
 
-## [Hellhound](name:hellhound)
+## [Hellhound](@hellhound)
 
 _Monstrous, cunning, and very intelligent hounds, the size of a small pony. Breathe fire and love heat. Dwell in dungeons or near volcanoes._
 
@@ -7538,7 +7546,7 @@ AC 4, HD 3 to 7*, Att 1 &times; bite (1d6) or 1 &times; breath (1d6 per HD), THA
 - ***Detect invisible:*** 75% chance per round. 60' range.
 - ***Pets:*** Sometimes found with other creatures with an affinity for fire.
 
-## [Herd Animal](name:herd_animal)
+## [Herd Animal](@herd_animal)
 
 _Wild animals that live in large, grazing herds. The exact type depends on the terrain._
 
@@ -7546,25 +7554,25 @@ _Wild animals that live in large, grazing herds. The exact type depends on the t
 - ***Males:*** In groups of 3 or more, only 1-in-4 are males. These have 1d4 extra hit points and protect the herd.
 - ***Females and young:*** Flee from danger. Females do not have a butt attack. Young have half normal hit points.
 
-### [Large Herd Animal](name:large_herd_animal)
+### [Large Herd Animal](@large_herd_animal)
 
 _For example: elk or moose._
 
 AC 7, HD 4 (18hp), Att 1 &times; butt (1d8), THAC0 16, MV 240' (80'), SV D12 W13 P14 B15 S16 (F2), ML 5, AL Neutral, XP 75, NA 0 (3d10), TT None
 
-### [Medium Herd Animal](name:medium_herd_animal)
+### [Medium Herd Animal](@medium_herd_animal)
 
 _For example: caribou or oxen._
 
 AC 7, HD 3 (13hp), Att 1 &times; butt (1d6), THAC0 17, MV 240' (80'), SV D12 W13 P14 B15 S16 (F2), ML 5, AL Neutral, XP 35, NA 0 (3d10), TT None
 
-### [Small Herd Animal](name:small_herd_animal)
+### [Small Herd Animal](@small_herd_animal)
 
 _For example: antelope, deer, goats._
 
 AC 7, HD 1 to 2 (4/9hp), Att 1 &times; butt (1d4), THAC0 19/18, MV 240' (80'), SV D12 W13 P14 B15 S16 (F1), ML 5, AL Neutral, XP 10/20, NA 0 (3d10), TT None
 
-## [Hippogriff](name:hippogriff)
+## [Hippogriff](@hippogriff)
 
 _Fantastic creatures combining the features of a giant eagle (head and forequarters) and a horse. Nest among craggy rocks._
 
@@ -7574,7 +7582,7 @@ AC 5, HD 3+1 (14hp), Att 2 &times; claw (1d6), 1 &times; bite (1d10), THAC0 16, 
 - ***Mount:*** Can carry a human-sized rider.
 - ***Taming:*** Can be trained as mounts.
 
-## [Hobgoblin](name:hobgoblin)
+## [Hobgoblin](@hobgoblin)
 
 _Larger and nastier relatives of goblins. Dwell underground, but commonly seek prey above ground._
 
@@ -7582,11 +7590,11 @@ AC 6, HD 1+1 (5hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 18, MV 90' (3
 
 - ***Hobgoblin king and bodyguards:*** A 5HD (22hp) king and 1d4 4HD (3d6hp) bodyguards live in the hobgoblin lair. The king gains a +2 bonus to damage rolls. A thoul may sometimes be found among the king's bodyguards.
 
-## [Horse](name:horse)
+## [Horse](@horse)
 
 _Herd animals that are often used for transportation. (See [**Land Transportation**](#land_transportation).) Many different domesticated breeds exist._
 
-### [Draft Horse](name:draft_horse)
+### [Draft Horse](@draft_horse)
 
 _Bred for great strength and endurance. Used to pull vehicles and ploughs, or as beasts of burden._
 
@@ -7596,7 +7604,7 @@ AC 7, HD 3 (13hp), Att None, THAC0 17, MV 90' (30'), SV D12 W13 P14 B15 S16 (F2)
 - ***Domestic:*** Not encountered in the wild.
 - ***Beast of burden:*** Carry up to 4,500 coins unencumbered; up to 9,000 at half speed.
 
-### [Riding Horse](name:riding_horse)
+### [Riding Horse](@riding_horse)
 
 _Lightly built horses adapted to run at high speed. Can survive purely on grass, wherever available._
 
@@ -7605,7 +7613,7 @@ AC 7, HD 2 (9hp), Att 2 &times; hoof (1d4), THAC0 18, MV 240' (80'), SV D12 W13 
 - ***Domestic:*** Not encountered in the wild.
 - ***Beast of burden:*** Carry up to 3,000 coins unencumbered; up to 6,000 at half speed.
 
-### [War Horse](name:war_horse)
+### [War Horse](@war_horse)
 
 _Bred for strength and courage in battle. Adapted to short bursts of speed; not suited to long-distance riding._
 
@@ -7616,7 +7624,7 @@ AC 7, HD 3 (13hp), Att 2 &times; hoof (1d6), THAC0 17, MV 120' (40'), SV D12 W13
 - ***Domestic:*** Not encountered in the wild.
 - ***Beast of burden:*** Carry up to 4,000 coins unencumbered; up to 8,000 that at half speed.
 
-### [Wild Horse](name:wild_horse)
+### [Wild Horse](@wild_horse)
 
 _Lightly built horses adapted to run at high speed. Can survive purely on grass, wherever available._
 
@@ -7625,7 +7633,7 @@ AC 7, HD 2 (9hp), Att 2 &times; hoof (1d4), THAC0 18, MV 240' (80'), SV D12 W13 
 - ***Stampede:*** Herds of 20 or more can trample those in their path. 3-in-4 chance each round. +4 to-hit human-sized or smaller creatures. 1d20 damage.
 - ***Taming:*** Wild horses can be trained as mounts (riding horses).
 
-## [Hydra](name:hydra)
+## [Hydra](@hydra)
 
 _Large, dragon-like creatures with multiple, serpentine heads. Sea hydras (adapted to water, with fins) also exist._
 
@@ -7635,7 +7643,7 @@ AC 5, HD 5 to 12 (8hp per HD), Att 5 to 12 &times; bite (1d10), THAC0 By HD (15 
 - ***Disabling heads:*** For every 8hp damage taken, one head is disabled (cannot attack).
 - ***Variants:*** Special hydras sometimes found with venom, fiery breath, etc.
 
-## [Insect Swarm](name:insect_swarm)
+## [Insect Swarm](@insect_swarm)
 
 _Swarms of many tiny insects that may be encountered protecting their nest. May also be drawn to light or unusual smells._
 
@@ -7650,7 +7658,7 @@ AC 7, HD 2 to 4 (9/13/18hp), Att 1 &times; swarm (2 or 4hp), THAC0 18/17/16, MV 
 - ***Diving into water:*** Suffer damage for one round, then attached insects drown.
 - ***Pursuit:*** An angry (i.e. damaged) swarm will pursue characters until they are out of sight or inaccessible.
 
-## [Invisible Stalker](name:monster_invisible_stalker)
+## [Invisible Stalker](@monster_invisible_stalker)
 
 _Highly intelligent, magical creatures summoned from another plane of existence to perform tasks for powerful magic-users._
 
@@ -7660,7 +7668,7 @@ AC 3, HD 8* (36hp), Att 1 &times; blow (4d4), THAC0 12, MV 120' (40'), SV D8 W9 
 - ***Surprise:*** 5-in-6, unless target can detect invisibility.
 - ***If killed:*** Returns to plane of origin.
 
-## [Killer Bee](name:killer_bee)
+## [Killer Bee](@killer_bee)
 
 _Giant (1' long) bees of aggressive temperament. Build hives underground._
 
@@ -7674,7 +7682,7 @@ AC 7, HD 1/2* (2hp), Att 1 &times; sting (1d3 + poison + lodged stinger), THAC0 
 - ***Guards:*** At least 10 bees (4 or more of which have 1HD) remain in or near the hive to protect the queen.
 - ***Honey:*** Magical honey (around 2 pints) may be found in the hive. It heals 1d4 hit points if eaten (in its entirety).
 
-## [Kobold](name:kobold)
+## [Kobold](@kobold)
 
 _Small, wicked, hairless, canine humanoids with scaly, rust-coloured skin. Dwell underground._
 
@@ -7686,7 +7694,7 @@ AC 7, HD 1/2 (2hp), Att 1 &times; weapon (1d4 or by weapon &minus; 1), THAC0 19,
 - ***Chieftain and bodyguards:*** A 2HD (9hp) chieftain and 1d6 1+1HD (6hp) bodyguards live in the kobold lair.
 - ***Hoard:*** Only have treasure type J when encountered in the wilderness or in their lair.
 
-## [Leech, Giant](name:leech_giant)
+## [Leech, Giant](@leech_giant)
 
 _Horrid, 3--4' long, slug-like creatures with sucker mouths. Lurk in swamps._
 
@@ -7696,14 +7704,14 @@ AC 7, HD 6 (27hp), Att 1 &times; bite (1d6 + blood drain), THAC0 14, MV 90' (30'
 - ***Detaching:*** Must be killed.
 - ***If victim dies:*** Leech detaches and finds a hidden place to digest.
 
-## [Living Statue](name:living_statue)
+## [Living Statue](@living_statue)
 
 _Animated statues of any size and material (three types described below; others may be invented by the referee)._
 
 - ***Immunity:*** Unaffected by [_sleep_](#sleep) spells.
 - ***Magical origins:*** Created by powerful wizards.
 
-### [Crystal Living Statue](name:crystal_living_statue)
+### [Crystal Living Statue](@crystal_living_statue)
 
 _Formed of crystals. Often human in form._
 
@@ -7711,28 +7719,28 @@ AC 4, HD 3 (13hp), Att 2 &times; blow (1d6), THAC0 17, MV 90' (30'), SV D12 W13 
 
 - ***Attacks:*** Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
 
-### [Iron Living Statue](name:iron_living_statue)
+### [Iron Living Statue](@iron_living_statue)
 
 AC 2, HD 4 (18hp), Att 2 &times; blow (1d8), THAC0 16, MV 30' (10'), SV D10 W11 P12 B13 S14 (F4), ML 11, AL Neutral, XP 75, NA 1d4 (1d4), TT None
 
 - ***Absorb metals:*** Hits with non-magical, metal weapons cause damage, but the weapon may become stuck in the statue (**save versus spells**). Stuck weapons can be removed if the statue is killed.
 - ***Attacks:*** Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
 
-### [Rock Living Statue](name:rock_living_statue)
+### [Rock Living Statue](@rock_living_statue)
 
 _Stony crust filled with magma which they shoot from their fingertips._
 
 AC 4, HD 5** (22hp), Att 2 &times; magma jet (2d6), THAC0 15, MV 60' (20'), SV D10 W11 P12 B13 S14 (F5), ML 11, AL Chaotic, XP 425, NA 1d3 (1d3), TT None
 
-## [Lizard, Giant](name:lizard_giant)
+## [Lizard, Giant](@lizard_giant)
 
-### [Draco](name:draco)
+### [Draco](@draco)
 
 _6' long, carnivorous lizards with skin flaps between legs that enable gliding. Usually dwell above ground, but sometimes shelter in caves. Sometimes attack humans._
 
 AC 5, HD 4+2 (20hp), Att 1 &times; bite (1d10), THAC0 15, MV 120' (40') / 210' (70') gliding, SV D12 W13 P14 B15 S16 (F3), ML 7, AL Neutral, XP 125, NA 1d4 (1d8), TT U
 
-### [Gecko](name:gecko)
+### [Gecko](@gecko)
 
 _5' long, carnivorous, nocturnal lizards. Light blue scales with orange spots._
 
@@ -7740,7 +7748,7 @@ AC 5, HD 3+1 (14hp), Att 1 &times; bite (1d8), THAC0 16, MV 120' (40'), SV D12 W
 
 - ***Cling:*** Climb walls, trees, etc. and drop on victims.
 
-### [Horned Chameleon](name:horned_chameleon)
+### [Horned Chameleon](@horned_chameleon)
 
 _7' long lizards whose scales change colour as camouflage._
 
@@ -7750,7 +7758,7 @@ AC 2, HD 5* (22hp), Att 1 &times; tongue/bite (2d4), 1 &times; horn (1d6), 1 &ti
 - ***Sticky tongue:*** Can attack targets up to 5' away. If the attack succeeds, the victim is dragged to the mouth and bitten (2d4 damage).
 - ***Tail:*** Causes no damage, but knocks opponent down: cannot attack that round.
 
-### [Tuatara](name:tuatara)
+### [Tuatara](@tuatara)
 
 _8' long, iguana-like, carnivorous lizards with olive scales and a ridge of white spikes along the back. Have been known to attack humans._
 
@@ -7758,7 +7766,7 @@ AC 4, HD 6 (27hp), Att 2 &times; claw (1d4), 1 &times; bite (2d6), THAC0 14, MV 
 
 - ***Infravision:*** 90'. Granted by retractable eye membranes.
 
-## [Lizard Man](name:lizard_man)
+## [Lizard Man](@lizard_man)
 
 _Semi-intelligent, tribal, aquatic humanoids with reptilian heads and tails. Often encountered in swamps and dungeons, or along rivers and coastlines._
 
@@ -7767,7 +7775,7 @@ AC 5, HD 2+1 (10hp), Att 1 &times; weapon (1d6+1 or by weapon + 1), THAC0 17, MV
 - ***Weapons:*** Favour spears or large clubs.
 - ***Man-eaters:*** Kidnap humans and demihumans, whose flesh they regard as a delicacy.
 
-## [Lycanthrope](name:lycanthrope)
+## [Lycanthrope](@lycanthrope)
 
 _Shapechangers with a human and an animal form._
 
@@ -7781,7 +7789,7 @@ _Shapechangers with a human and an animal form._
 - ***Scent:*** Horses and some other animals can smell lycanthropes and will become afraid.
 - ***Infection:*** A character who loses more than half his or her hit points from the natural attacks of lycanthropes (i.e. bites, claws) contracts lycanthropy. Humans become were-creatures of the same type (run by the referee, henceforth); non-humans die. The disease takes full effect in 2d12 days, showing signs of infection after half the time.
 
-### [Devil Swine](name:devil_swine)
+### [Devil Swine](@devil_swine)
 
 _Corpulent humans who can change into huge swine. Love to eat human flesh. Lurk in isolated human settlements close to forests or marshes._
 
@@ -7792,7 +7800,7 @@ AC 3 (9 in human form), HD 9* (40hp),Att 1 &times; gore (2d6) or 1 &times; weapo
 - ***Charm person:*** 3 times a day. **Save versus spells at &minus;2** or be charmed: move towards the devil swine (resisting those who try to prevent it); obey the devil swine's commands (if understood); defend the devil swine; unable to cast spells or use magic items; unable to harm the devil swine. Killing the swine breaks the charm.
 - ***Charmed victims:*** 1d4&minus;1 accompany a devil swine.
 
-### [Werebear](name:werebear)
+### [Werebear](@werebear)
 
 _Highly intelligent, also in bear form. Dwell alone or among normal bears._
 
@@ -7801,7 +7809,7 @@ AC 2 (8 in human form), HD 6* (27hp), Att 2 &times; claw (2d4), 1 &times; bite (
 - ***Amiable:*** May be friendly, if approached peacefully.
 - ***Bear hug:*** If a victim is hit by both claws in the same round, the werebear can hug for an extra 2d8 automatic damage.
 
-### [Wereboar](name:wereboar)
+### [Wereboar](@wereboar)
 
 _Semi-intelligent and irascible. In human form, often appear like berserkers._
 
@@ -7809,7 +7817,7 @@ AC 4 (9 in human form), HD 4+1* (19hp), Att 1 &times; tusk/bite (2d6), THAC0 15,
 
 - ***Battle rage:*** In human form, may enter a berserk rage: +2 to hit; fight to the death. Rage sometimes causes them to attack their allies.
 
-### [Wererat](name:wererat)
+### [Wererat](@wererat)
 
 _Intelligent, humanoid rats who can change into normal humans._
 
@@ -7819,7 +7827,7 @@ AC 7 (9 in human form), HD 3* (13hp), Att 1 &times; bite (1d4) or 1 &times; weap
 - ***Languages:*** Can speak Common in both forms.
 - ***Weapons:*** May use weapons in both forms.
 
-### [Weretiger](name:weretiger)
+### [Weretiger](@weretiger)
 
 _Exhibit feline behaviour: curious, but dangerous when cornered. Talented swimmers and trackers._
 
@@ -7827,7 +7835,7 @@ AC 3 (9 in human form), HD 5* (22hp), Att 2 &times; claw (1d6), 1 &times; bite (
 
 - ***Surprise:*** On a 1--4, due to stealth.
 
-### [Werewolf](name:werewolf)
+### [Werewolf](@werewolf)
 
 _Semi-intelligent pack hunters._
 
@@ -7835,7 +7843,7 @@ AC 5 (9 in human form), HD 4* (18hp), Att 1 &times; bite (2d4), THAC0 16, MV 180
 
 - ***Leader:*** Groups of 5+ are led by a werewolf with 5HD (30hp). The leader gains a +2 bonus to damage rolls.
 
-## [Manticore](name:manticore)
+## [Manticore](@manticore)
 
 _Monstrosities with the face of a man, the body of a lion, bat-like wings, and a tail bristling with spikes. Love eating humans. Dwell in wild, mountainous regions._
 
@@ -7844,7 +7852,7 @@ AC 4, HD 6+1 (28hp), Att [2 &times; claw (1d4), 1 &times; bite (2d4)] or 6 &time
 - ***Tail spikes:*** 180' range. 24 in total; 2 regrow each day.
 - ***Track and ambush:*** Follow humans and attack with tail spikes when they stop to rest.
 
-## [Mastodon](name:mastodon)
+## [Mastodon](@mastodon)
 
 _Shaggy elephants with large tusks. Live in icy or Lost World regions._
 
@@ -7854,7 +7862,7 @@ AC 3, HD 15 (67hp), Att 2 &times; tusk (2d6) or 1 &times; trample (4d8), THAC0 9
 - ***Trample:*** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 - ***Ivory:*** Each tusk is worth 2d4 &times; 100gp.
 
-## [Medium](name:medium)
+## [Medium](@medium)
 
 _1st level NPC magic-users._
 
@@ -7863,7 +7871,7 @@ AC 9, HD 1** (4hp), Att 1 &times; dagger (1d4) or 1 &times; spell, THAC0 19, MV 
 - ***Spells:*** Each individual has one [1st level magic-user spell](#magic_user_1st_level_list) memorized. (Choose or select at random.)
 - ***Master:*** 50% of groups are led by a magic-user of 3rd level. The master has two 1st level spells and one 2nd level spell. (Choose or select at random.)
 
-## [Medusa](name:medusa)
+## [Medusa](@medusa)
 
 _Deadly creatures of a magical nature that look like women with writhing snakes in place of hair._
 
@@ -7876,7 +7884,7 @@ AC 8, HD 4** (18hp), Att 1 &times; snakebites (1d6 + poison), THAC0 16, MV 90' (
 - ***Poison:*** The snakes' bites are venomous: **save versus poison** or die in 1 turn.
 - ***Magic resistance:*** +2 to saves vs spells.
 
-## [Merchant](name:merchant)
+## [Merchant](@merchant)
 
 _Organized traders who travel between settlements in well-armed caravans, buying and selling trade goods (e.g. gold, jewels, silk, spices, wine, etc.)._
 
@@ -7891,7 +7899,7 @@ AC 5, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 90' (30'
 - ***Pack animals:*** 1d12 extra horses, mules, or camels.
 - ***Treasure:*** Should be reduced, if less than 10 merchants are in the group.
 
-## [Merman](name:merman)
+## [Merman](@merman)
 
 _Aquatic humanoids with fish tails in place of legs. Live in coastal waters, farming seaweed and hunting fish._
 
@@ -7902,7 +7910,7 @@ AC 6, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120' (40
 - ***Underwater villages:*** Home to 1d3 &times; 100 individuals.
 - ***Guardians:*** Use trained sea creatures or monsters to guard their homes.
 
-## [Minotaur](name:minotaur)
+## [Minotaur](@minotaur)
 
 _Large, brutish, bull-headed men with a craving for human flesh. Dwell in mazes and labyrinths._
 
@@ -7911,7 +7919,7 @@ AC 6, HD 6 (27hp), Att [1 &times; gore (1d6), 1 &times; bite (1d6)] or 1 &times;
 - ***Weapons:*** Prefer axes, clubs, or spears.
 - ***Aggressive:*** Attack same size or smaller creatures on sight. Pursue until the victims are out of sight.
 
-## [Mule](name:mule)
+## [Mule](@mule)
 
 _Stubborn horse/donkey cross-breeds used as beasts of burden. (See [**Land Transportation**](#land_transportation).)_
 
@@ -7921,7 +7929,7 @@ AC 7, HD 2 (9hp), Att 1 &times; kick (1d4) or 1 &times; bite (1d3), THAC0 18, MV
 - ***Defensive:*** May attack if threatened, but cannot be trained to attack on command.
 - ***Beast of burden:*** Carry up to 2,000 coins unencumbered; up to 4,000 at half speed.
 
-## [Mummy](name:mummy)
+## [Mummy](@mummy)
 
 _Undead humanoids wrapped in funerary bandages. Haunt ruins and tombs._
 
@@ -7932,7 +7940,7 @@ AC 3, HD 5+1* (23hp), Att 1 &times; touch (1d12 + disease), THAC0 14, MV 60' (20
 - ***Damage immunity:*** Only harmed by fire or magic. All damage reduced by half.
 - ***Undead:*** Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. _charm_, _hold_, _sleep_).
 
-## [Neanderthal (Caveman)](name:neanderthal)
+## [Neanderthal (Caveman)](@neanderthal)
 
 _Squat, powerful, primitive demihumans with ape-like faces. Dwell in caverns and hunt cave bears. Shy of contact with humans (with whom they are related), but friendly with dwarves and gnomes._
 
@@ -7943,7 +7951,7 @@ AC 8, HD 2 (9hp), Att 1 &times; weapon (2d4 or by weapon + 1), THAC0 18, MV 120'
 - ***Racial animosity:*** Attack ogres on sight. Hate goblins and kobolds.
 - ***Pets:*** Sometimes keep white apes as pets.
 
-## [Nixie](name:nixie)
+## [Nixie](@nixie)
 
 _3' tall sprites that appear as attractive women with blueish, greenish, or greyish skin. Lair in the deepest parts of rivers and lakes._
 
@@ -7955,7 +7963,7 @@ AC 7, HD 1 (4hp), Att 1 &times; weapon (1d4) or 1 &times; group spell (charm), T
 - ***Summon giant bass:*** Each nixie can summon one fish to aid in combat.
 - ***Bestow water breathing:*** Can cast upon charmed slaves. Lasts for one day, then must be refreshed.
 
-## [Noble](name:noble)
+## [Noble](@noble)
 
 _Powerful humans with noble titles (e.g. Count, Duke, Knight, etc.). Dwell in castles._
 
@@ -7964,7 +7972,7 @@ AC 2, HD 3 (13hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 17, MV 60' (20
 - ***Class:*** Usually treated as 3rd level fighters, but may be of any class and level.
 - ***Squire and retainers:*** Accompanied by a 2nd level fighter (a squire) and up to ten 1st level fighters (retainers).
 
-## [Nomad](name:nomad)
+## [Nomad](@nomad)
 
 _Superstitious tribes who wander steppes and desert regions, living in tents or temporary huts. Demeanour depends on the tribe: some are warlike, others peaceful._
 
@@ -7979,7 +7987,7 @@ AC 7 to 4, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120
 - ***Hoard:*** Only have treasure type A in the camp.
 - ***Traders:*** Often carry trade route tales of faraway lands.
 
-## [Normal Human](name:normal_human)
+## [Normal Human](@normal_human)
 
 _Non-adventuring humans without a character class. Artists, beggars, children, craftspeople, farmers, fishermen, housewives, scholars, slaves._
 
@@ -7987,7 +7995,7 @@ AC 9, HD 1/2 (2hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 20, MV 120' (
 
 - ***Gaining XP:*** Must select a character class after gaining XP on an adventure.
 
-## [Ochre Jelly](name:ochre_jelly)
+## [Ochre Jelly](@ochre_jelly)
 
 _Giant, ochre amoeboids._
 
@@ -8000,7 +8008,7 @@ AC 8, HD 5* (22hp), Att 1 &times; touch (2d6), THAC0 15, MV 30' (10'), SV D12 W1
 
 >Author's note: The description of the ochre jelly in the original Basic rules is ambiguous on several points. I have attempted to resolve these ambiguities in a sensible and consistent way, based on the mechanics used for similar monsters, but other interpretations of the original monster are possible.
 
-## [Octopus, Giant](name:octopus_giant)
+## [Octopus, Giant](@octopus_giant)
 
 _Giant, eight-armed cephalopods. Lurk in coastal waters, close to settlements._
 
@@ -8010,7 +8018,7 @@ AC 7, HD 8 (36hp), Att 8 &times; tentacle (1d3 + constriction), 1 &times; bite (
 - ***Severing tentacles:*** Requires a hit with a cutting weapon that does 6 or more damage.
 - ***Ink cloud:*** When escaping, can emit a cloud of black ink (80' diameter) and jet away at 3 times normal speed.
 
-## [Ogre](name:ogre)
+## [Ogre](@ogre)
 
 _Frightful humanoids, 8--10' tall, dressed in animal hides. Often dwell in caves._
 
@@ -8019,7 +8027,7 @@ AC 5, HD 4+1 (19hp), Att 1 &times; club (1d10), THAC0 15, MV 90' (30'), SV D10 W
 - ***Sack:*** Outside of the lair, carry a sack containing 1d6 &times; 100gp.
 - ***Hate neanderthals:*** Attack on sight.
 
-## [Orc](name:orc)
+## [Orc](@orc)
 
 _Ugly, bad-tempered, animalistic humanoids who live underground and are active at night. Sadistic bullies who hate other living creatures and delight in killing._
 
@@ -8034,7 +8042,7 @@ AC 6, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120' (40
 - ***Tribal:*** Orcs of different tribes may fight among themselves, unless their leaders command them not to. Each tribe has its own lair and has as many females as males, and two whelps per two adults.
 - ***Mercenaries:*** Orcs may be hired to fight in Chaotic armies (see [***Mercenaries***](#mercenaries)). They delight in wanton killing and razing of settlements.
 
-## [Owl Bear](name:owl_bear)
+## [Owl Bear](@owl_bear)
 
 _Huge (8' tall, 1,500 pounds), ill-tempered, carnivorous bear-like creature with the face of an owl. Owl bears are found in dense forests and underground._
 
@@ -8042,7 +8050,7 @@ AC 5, HD 5 (22hp), Att 2 &times; claw (1d8), 1 &times; bite (1d8), THAC0 15, MV 
 
 - ***Bear hug:*** If a victim is hit by both paws in the same round, the owl bear hugs for an extra 2d8 automatic damage.
 
-## [Pegasus](name:pegasus)
+## [Pegasus](@pegasus)
 
 _Semi-intelligent winged horses that are wilful and timid._
 
@@ -8052,7 +8060,7 @@ AC 6, HD 2+2 (11hp), Att 2 &times; hoof (1d6), THAC0 17, MV 240' (80') / 480' (1
 - ***Mount:*** Can carry a human-sized rider.
 - ***Training:*** If captured when young, will serve Lawful characters.
 
-## [Pirate](name:pirate)
+## [Pirate](@pirate)
 
 _Sailors who make a living by raiding coastal settlements, robbing other ships, and illegal slaving. Typically ply the open seas. Renowned for their ruthless and evil ways._
 
@@ -8067,7 +8075,7 @@ AC 7 or 5, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120
 - ***Treasure:*** Divided between vessels. Instead of carrying with them, may have a map to where it is buried.
 - ***Havens:*** Lawless, fortified, coastal towns may act as a haven for pirates.
 
-## [Pixie](name:pixie)
+## [Pixie](@pixie)
 
 _1--2' tall humanoids with insectoid wings. Distant relatives of elves._
 
@@ -8077,23 +8085,23 @@ AC 3, HD 1* (4hp), Att 1 &times; dagger (1d4), THAC0 19, MV 90' (30') / 180' (60
 - ***Surprise:*** Always surprise, if invisible.
 - ***Limited flight:*** Small wings only allow 3 turns of flight. Must rest 1 turn after flying.
 
-## [Pterosaur](name:pterosaur)
+## [Pterosaur](@pterosaur)
 
 _Predatory, winged reptiles that live in warm climes, hunting creatures on the ground by gliding on air currents. Often found in Lost World regions._
 
-### [Pteranodon](name:pteranodon)
+### [Pteranodon](@pteranodon)
 
 _Wingspan of up to 50'. Highly aggressive; often prey on humanoids._
 
 AC 6, HD 5 (22hp), Att 1 &times; bite (1d12), THAC0 15, MV 240' (80') flying, SV D12 W13 P14 B15 S16 (F3), ML 8, AL Neutral, XP 175, NA 0 (1d4), TT V
 
-### [Pterodactyl](name:pterodactyl)
+### [Pterodactyl](@pterodactyl)
 
 _8--10' wingspan. Prey on small to medium animals, but will attack humanoids, if very hungry._
 
 AC 7, HD 1 (4hp), Att 1 &times; bite (1d3), THAC0 19, MV 180' (60') flying, SV D12 W13 P14 B15 S16 (F1), ML 7, AL Neutral, XP 10, NA 0 (2d4), TT None
 
-## [Purple Worm](name:purple_worm)
+## [Purple Worm](@purple_worm)
 
 _Gigantic, slimy worms with bodies 100' long and 8--10' thick. Bore tunnels through the earth and come to the surface to eat other creatures._
 
@@ -8103,7 +8111,7 @@ AC 6, HD 15* (67hp), Att 1 &times; bite (2d8), 1 &times; sting (1d8 + poison), T
 - ***Poison:*** Causes death (**save vs poison**).
 - ***In restricted spaces:*** May not always be able to bite and sting at once.
 
-## [Rat](name:rat)
+## [Rat](@rat)
 
 _Multitudinous, disease-ridden rodents that will eat anything. Avoid contact with humans, but may attack if defending their nest or if summoned and commanded by magic (e.g. see [wererat](#wererat))._
 
@@ -8111,13 +8119,13 @@ _Multitudinous, disease-ridden rodents that will eat anything. Avoid contact wit
 - ***Afraid of fire:*** Will flee fire, unless forced to fight by summoner.
 - ***Attacking in water:*** May attack without penalty; excellent swimmers.
 
-### [Giant Rat](name:giant_rat)
+### [Giant Rat](@giant_rat)
 
 _3' long (or larger), with black or grey fur. Often live in dark, dungeon areas and close to undead monsters._
 
 AC 7, HD 1/2 (2hp), Att 1 &times; bite (1d3 + disease), THAC0 19, MV 120' (40') / 60' (20') swimming, SV D12 W13 P14 B15 S16 (F1), ML 8, AL Neutral, XP 5, NA 3d6 (3d10), TT C
 
-### [Normal Rat](name:normal_rat)
+### [Normal Rat](@normal_rat)
 
 _Swarming packs of 6" to 2' long individuals, with brown or grey fur._
 
@@ -8126,7 +8134,7 @@ AC 9, HD 1hp, Att 1 &times; bite per pack (1d6 + disease), THAC0 19, MV 60' (20'
 - ***Pack:*** Each group of 5--10 rats attacks as a pack. Each pack makes a single attack roll against one creature.
 - ***Engulf:*** The creature attacked must **save vs death** or fall prone, unable to attack until able to stand up again.
 
-## [Rhagodessa](name:rhagodessa)
+## [Rhagodessa](@rhagodessa)
 
 _Huge, hairy, nocturnal arachnid carnivores with large heads and mandibles and 10 legs. Yellow head and abdomen, dark brown thorax. Dwell in caves, hunt voraciously._
 
@@ -8136,24 +8144,24 @@ AC 5, HD 4+2 (20hp), Att 1 &times; sucker (grab), 1 &times; bite (2d8), THAC0 15
 - ***Grab:*** When hit with a sucker, the victim is stuck and will be bitten automatically next round.
 - ***Cling:*** Can walk on walls.
 
-## [Rhinoceros](name:rhinoceros)
+## [Rhinoceros](@rhinoceros)
 
 _Armoured, herbivorous mammals of low intelligence._
 
 - ***Charge:*** If disturbed or threatened, will charge in a random direction. Requires a clear run of at least 20 yards. Make a horn attack on all in the path: inflicts double damage.
 - ***Trample:*** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 
-### [Normal Rhinoceros](name:normal_rhinoceros)
+### [Normal Rhinoceros](@normal_rhinoceros)
 
 AC 5, HD 6 (27hp), Att 1 &times; horn (2d4) or 1 &times; trample (2d8), THAC0 14, MV 120' (40'), SV D12 W13 P14 B15 S16 (F3), ML 6, AL Neutral, XP 275, NA 0 (1d12), TT None
 
-### [Woolly Rhinoceros](name:woolly_rhinoceros)
+### [Woolly Rhinoceros](@woolly_rhinoceros)
 
 _Giant rhinoceroses adapted for cold climates: their bodies covered with shaggy, white fur. Live in herds, in cold Lost World areas._
 
 AC 4, HD 8 (36hp), Att 1 &times; horn (2d6) or 1 &times; trample (2d12), THAC0 12, MV 120' (40'), SV D10 W11 P12 B13 S14 (F4), ML 6, AL Neutral, XP 650, NA 0 (1d8), TT None
 
-## [Robber Fly](name:robber_fly)
+## [Robber Fly](@robber_fly)
 
 _3' long, carnivorous flies with yellow and black stripes. Look similar to killer bees, which they hunt. Sometimes also attack humans._
 
@@ -8163,7 +8171,7 @@ AC 6, HD 2 (9hp), Att 1 &times; bite (1d8), THAC0 18, MV 90' (30') / 180' (60') 
 - ***Poison immunity:*** Unharmed by killer bees' poison.
 - ***Leap:*** Can leap up to 30' and attack.
 
-## [Roc](name:roc)
+## [Roc](@roc)
 
 _Gigantic birds of prey that nest in the highest peaks of isolated mountain ranges. Will attack intruders, if approached carelessly._
 
@@ -8172,19 +8180,19 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 - ***Eggs:*** 1d6 eggs or chicks in 50% of nests.
 - ***Trainable:*** Can be trained, if captured when young.
 
-### [Giant Roc](name:giant_roc)
+### [Giant Roc](@giant_roc)
 
 AC 0, HD 36 (162hp), Att 2 &times; claw (3d6), 1 &times; bite (8d6), THAC0 5, MV 60' (20') / 480' (160') flying, SV D2 W3 P4 B3 S6 (F18), ML 10 (12 in lair), AL Lawful, XP 6,250, NA 0 (1), TT I
 
-### [Large Roc](name:large_roc)
+### [Large Roc](@large_roc)
 
 AC 2, HD 12 (54hp), Att 2 &times; claw (1d8), 1 &times; bite (2d10), THAC0 10, MV 60' (20') / 480' (160') flying, SV D10 W11 P12 B13 S14 (F6), ML 9 (12 in lair), AL Lawful, XP 1,100, NA 0 (1d8), TT I
 
-### [Small Roc](name:small_roc)
+### [Small Roc](@small_roc)
 
 AC 4, HD 6 (27hp), Att 2 &times; claw (1d4+1), 1 &times; bite (2d6), THAC0 14, MV 60' (20') / 480' (160') flying, SV D12 W13 P14 B15 S16 (F3), ML 8 (12 in lair), AL Lawful, XP 275, NA 0 (1d12), TT I
 
-## [Rock Baboon](name:rock_baboon)
+## [Rock Baboon](@rock_baboon)
 
 _Large, ferocious, semi-intelligent baboons that live in packs led by a powerful male. Communicate with screams. Omnivorous, but prefer flesh._
 
@@ -8192,7 +8200,7 @@ AC 6, HD 2 (9hp), Att 1 &times; club (1d6), 1 &times; bite (1d3), THAC0 18, MV 1
 
 - ***Weapons:*** Wield bones or branches as clubs. (Do not use other tools.)
 
-## [Rust Monster](name:rust_monster)
+## [Rust Monster](@rust_monster)
 
 _Magical, armadillo-like creatures with long tails and two long, antennae-like feelers. Feed on rusted metal._
 
@@ -8202,11 +8210,11 @@ AC 2, HD 5 (22hp), Att 1 &times; feeler (rusting), THAC0 15, MV 120' (40'), SV D
 - ***Mundane damage immunity:*** Can only be harmed by magical attacks.
 - ***Smell metal:*** Attracted by the scent.
 
-## [Salamander](name:salamander)
+## [Salamander](@salamander)
 
 _Giant, magical reptiles with an affinity for extreme heat or cold._
 
-### [Flame Salamander](name:flame_salamander)
+### [Flame Salamander](@flame_salamander)
 
 _12'--16' long, intelligent serpents with lizard-like heads and legs. Bright orange/yellow/red scales. Natives of the plane of elemental fire, but also live in volcanoes and scorching deserts._
 
@@ -8217,7 +8225,7 @@ AC 2, HD 8* (36hp), Att 2 &times; claw (1d4), 1 &times; bite (1d8), 1 &times; he
 - ***Fire immunity:*** Unharmed by fire.
 - ***Hate frost salamanders:*** Will attack on sight.
 
-### [Frost Salamander](name:frost_salamander)
+### [Frost Salamander](@frost_salamander)
 
 _Giant, 6-legged lizards with blue/white scales. Dwell in icy, wilderness regions._
 
@@ -8228,7 +8236,7 @@ AC 3, HD 12* (54hp), Att 4 &times; claw (1d6), 1 &times; bite (2d6), 1 &times; c
 - ***Cold immunity:*** Unharmed by cold-based attacks.
 - ***Hate flame salamanders:*** Will attack on sight.
 
-## [Scorpion, Giant](name:scorpion_giant)
+## [Scorpion, Giant](@scorpion_giant)
 
 _Huge arachnids, as big as a small horse, with pincers and deadly stingers. Dwell in caverns, ruins, and deserts._
 
@@ -8238,7 +8246,7 @@ AC 2, HD 4* (18hp), Att 2 &times; claw (1d10), 1 &times; sting (1d4 + poison), T
 - ***Poison:*** Causes death (**save vs poison**).
 - ***Grab and sting:*** +2 bonus to sting attack, if a claw hits.
 
-## [Sea Serpent (Lesser)](name:sea_serpent_lesser)
+## [Sea Serpent (Lesser)](@sea_serpent_lesser)
 
 _20'--30' long, serpent-like sea monsters with rows of many fins._
 
@@ -8247,7 +8255,7 @@ AC 5, HD 6 (27hp), Att 1 &times; bite (2d6) or 1 &times; squeeze (1d10 hull dama
 - ***Lunge:*** Up to 20' out of water to use bite attack.
 - ***Squeeze:*** Coil around and crush a vessel (of equal size or smaller).
 
-## [Shadow](name:shadow)
+## [Shadow](@shadow)
 
 _Intelligent, incorporeal (but not undead) monsters that look like shadows. Able to slightly change their shape._
 
@@ -8258,14 +8266,14 @@ AC 7, HD 2+2* (11hp), Att 1 &times; touch (1d4 + strength drain), THAC0 17, MV 9
 - ***Mundane damage immunity:*** Can only be harmed by magical attacks.
 - ***Spell immunity:*** Unaffected by [_charm_](#charm_person) and [_sleep_](#sleep) spells.
 
-## [Shark](name:shark)
+## [Shark](@shark)
 
 _Aggressive, predatory fish of low intelligence and unpredictable behaviour. Live in saltwater._
 
 - ***Blood scent:*** Can detect blood in water up to 300' away.
 - ***Feeding frenzy:*** Triggered by the scent of blood: always attack; no morale checks.
 
-### [Bull Shark](name:bull_shark)
+### [Bull Shark](@bull_shark)
 
 _8' long; brown colouration. Attack by ramming, then biting the stunned prey._
 
@@ -8275,13 +8283,13 @@ AC 4, HD 2 (9hp), Att 1 &times; bite (2d4) or 1 &times; ram (stun), THAC0 18, MV
 
 >Author's note: The original rules state that bull sharks use a ram attack to stun prey, but do not give mechanics for it. The rule here is derived from a later edition.
 
-### [Great White Shark](name:great_white_shark)
+### [Great White Shark](@great_white_shark)
 
 _30' long (or bigger!); grey colouration with white belly. Sometimes attack small boats._
 
 AC 4, HD 8 (36hp), Att 1 &times; bite (2d10), THAC0 12, MV 180' (60'), SV D10 W11 P12 B13 S14 (F4), ML 7, AL Neutral, XP 650, NA 0 (1d4), TT None
 
-### [Mako Shark](name:mako_shark)
+### [Mako Shark](@mako_shark)
 
 _15' long; bluish-grey or tan colouration._
 
@@ -8289,7 +8297,7 @@ AC 4, HD 4 (18hp), Att 1 &times; bite (2d6), THAC0 16, MV 180' (60'), SV D12 W13
 
 - ***Unpredictable:*** May ignore other creatures, only to attack moments later.
 
-## [Shrew, Giant](name:shrew_giant)
+## [Shrew, Giant](@shrew_giant)
 
 _Brown-furred, mole-like, insectivores with long snouts. Dwell underground; skilled burrowers._
 
@@ -8301,7 +8309,7 @@ AC 4, HD 1 (4hp), Att 2 &times; bite (1d6), THAC0 19, MV 180' (60'), SV D12 W13 
 - ***Territorial:*** Ferociously defend their hunting area from all intruders.
 - ***Echolocation:*** Perceive their surroundings up to 60'. Unaffected by lack of light. If unable to hear (e.g. silence, 15' radius): AC reduced to 8, &minus;4 penalty to attacks.
 
-## [Shrieker](name:shrieker)
+## [Shrieker](@shrieker)
 
 _Giant, subterranean mushrooms that can creep around slowly._
 
@@ -8309,7 +8317,7 @@ AC 7, HD 3 (13hp), Att None, THAC0 17, MV 9' (3'), SV D12 W13 P14 B15 S16 (F1), 
 
 - ***Shriek:*** Triggered by light (up to 60' away) or movement (up to 30' away). Shriek lasts for 1d3 rounds. Each round of the shriek, there is a 50% chance of a wandering monster being attracted (will arrive in 2d6 rounds).
 
-## [Skeleton](name:skeleton)
+## [Skeleton](@skeleton)
 
 _Skeletal remains of humanoids, reanimated as guardians by powerful magic-users or clerics. Often encountered in cemeteries, crypts, or other forlorn places._
 
@@ -8317,11 +8325,11 @@ AC 7, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 60' (20'
 
 - ***Undead:*** Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. _charm_, _hold_, _sleep_).
 
-## [Snake](name:snake)
+## [Snake](@snake)
 
 _Dwell in all but the most extreme climes. Will usually only attack if cornered or surprised._
 
-### [Giant Rattler](name:giant_rattler)
+### [Giant Rattler](@giant_rattler)
 
 _10' long snakes with brown and white diamond patterns on their scales, and a rattle of rasping scales on their tails._
 
@@ -8331,7 +8339,7 @@ AC 5, HD 4* (18hp), Att 2 &times; bite (1d4 + poison), THAC0 16, MV 120' (40'), 
 - ***Poison:*** Causes death in 1d6 turns (**save vs poison**).
 - ***Speed:*** Attack twice per round. Second attack at the end of each round.
 
-### [Pit Viper](name:pit_viper)
+### [Pit Viper](@pit_viper)
 
 _5' long snakes with grey/green scales._
 
@@ -8341,7 +8349,7 @@ AC 6, HD 2* (9hp), Att 1 &times; bite (1d4 + poison), THAC0 18, MV 90' (30'), SV
 - ***Initiative:*** Always gains initiative (no roll), due to special senses.
 - ***Poison:*** Causes death (**save vs poison**).
 
-### [Rock Python](name:rock_python)
+### [Rock Python](@rock_python)
 
 _20' long snakes with spiralling brown and yellow patterns on their scales._
 
@@ -8349,7 +8357,7 @@ AC 6, HD 5* (22hp), Att 1 &times; bite (1d4 + constriction), THAC0 15, MV 90' (3
 
 - ***Constriction:*** When a bite attackis successful, the python wraps around the victim and begins to squeeze, inflicting 2d4 automatic damage immediately and on each subsequent round.
 
-### [Sea Snake](name:sea_snake)
+### [Sea Snake](@sea_snake)
 
 _6' long snakes that live underwater, coming up for breath only once per hour. Will prey on humans._
 
@@ -8361,7 +8369,7 @@ AC 6, HD 3* (13hp), Att 1 &times; bite (1hp + poison), THAC0 17, MV 90' (30'), S
 
 >Author's note: The original rules do not specify the effects of sea snakes' poison. It is assumed to cause death shortly after the indicated delay.
 
-### [Spitting Cobra](name:spitting_cobra)
+### [Spitting Cobra](@spitting_cobra)
 
 _3' long snakes with grey/white scales. Prefer to attack from a distance with their spit._
 
@@ -8370,7 +8378,7 @@ AC 7, HD 1* (4hp), Att 1 &times; spit (blindness) or 1 &times; bite (1d3 + poiso
 - ***Blinding spit:*** Range: 6'. A hit causes permanent blindness (**save vs poison**).
 - ***Poison:*** Causes death in 1d10 turns (**save vs poison**).
 
-## [Spectre](name:spectre)
+## [Spectre](@spectre)
 
 _Incorporeal phantoms; one of the most powerful undead monsters._
 
@@ -8380,9 +8388,9 @@ AC 2, HD 6** (27hp), Att 1 &times; touch (1d8 + energy drain), THAC0 14, MV 150'
 - ***Mundane damage immunity:*** Can only be harmed by magical attacks.
 - ***Energy drain:*** A successfully hit target permanently loses two experience levels (or Hit Dice). This incurs a loss of two Hit Dice of hit points, as well as all other benefits due to the drained levels (e.g. spells, saving throws, etc.). A character's XP is reduced to the lowest amount for the new level. A person drained of all levels becomes a spectre next night, under the control of the spectre that killed him or her.
 
-## [Spider, Giant](name:spider_giant)
+## [Spider, Giant](@spider_giant)
 
-### [Black Widow](name:black_widow)
+### [Black Widow](@black_widow)
 
 _6' long, black spiders with a red hourglass pattern on their abdomens. Dwell in web-filled lairs and sometimes prey on humans._
 
@@ -8391,7 +8399,7 @@ AC 6, HD 3* (13hp), Att 1 &times; bite (2d6 + poison), THAC0 17, MV 60' (20') / 
 - ***Poison:*** Causes death in 1 turn (**save vs poison**).
 - ***Webs:*** Creatures caught in webs become entangled and unable to move. Breaking free depends on Strength: 2d4 turns for strength in the normal human range; 4 rounds for strength above 18; 2 rounds for creatures with giant strength. The webs can be destroyed by fire in two rounds. All creatures in a flaming web suffer 1d6 points of damage.
 
-### [Crab Spider](name:crab_spider)
+### [Crab Spider](@crab_spider)
 
 _5' long hunting spiders that can change their colour to match their surroundings._
 
@@ -8402,7 +8410,7 @@ AC 7, HD 2* (9hp), Att 1 &times; bite (1d8 + poison), THAC0 18, MV 120' (40'), S
 - ***Cling:*** Can walk on walls and ceilings.
 - ***Poison:*** Causes death in 1d4 turns (**save vs poison with a +2 bonus**).
 
-### [Tarantella](name:tarantella)
+### [Tarantella](@tarantella)
 
 _7' long, hairy hunting spiders that resemble tarantulas. Magical in nature._
 
@@ -8412,7 +8420,7 @@ AC 5, HD 4* (18hp), Att 1 &times; bite (1d8 + poison), THAC0 16, MV 120' (40'), 
 - ***Onlookers:*** Viewers of one affected by the poison must **save vs spells** or begin dancing in the same fashion, for as long as the poisoned victim.
 - ***Dancing:*** Those affected suffer a &minus;4 penalty to attack rolls and AC. After 5 turns of dancing, they become exhausted: fall to the ground, helpless.
 
-## [Sprite](name:sprite)
+## [Sprite](@sprite)
 
 _1' tall, winged humanoids, related to pixies and elves. They are shy, but driven by curiosity and their odd sense of humour._
 
@@ -8421,7 +8429,7 @@ AC 5, HD 1/2* (2hp), Att 1 &times; spell (curse), THAC0 19, MV 60' (20') / 180' 
 - ***Curse:*** Five sprites can collectively curse a target (no attack roll; **save vs spells**). The effect is determined by the referee, but will always be used to comical effect (e.g. target trips, target's nose grows).
 - ***Pranksters:*** Even if attacked, sprites have no interest in killing, merely in making practical jokes.
 
-## [Squid, Giant](name:squid_giant)
+## [Squid, Giant](@squid_giant)
 
 _Giant, ten-armed cephalopods. Two of the ten arms are larger, and may be used to attack ships. Dwell in the depths of the sea, only surface to find prey._
 
@@ -8434,7 +8442,7 @@ AC 7, HD 6 (27hp), Att 8 &times; small tentacle (1d4 + constriction), 2 &times; 
 - ***Ink cloud:*** When escaping, can emit a cloud of black ink (60' diameter) and jet away at 3 times normal speed. Maximum twice a day.
 - ***Gargantuan specimens:*** Two or three times larger can be encountered.
 
-## [Stegosaurus](name:stegosaurus)
+## [Stegosaurus](@stegosaurus)
 
 _Stocky, herbivorous dinosaurs with a ridge of plates along their backs, and a tail studded with spikes (used to deter attackers). Dwell in sub-tropical Lost World environments._
 
@@ -8442,7 +8450,7 @@ AC 3, HD 11 (49hp), Att 1 &times; tail (2d8) or 1 &times; trample (2d8), THAC0 1
 
 - ***Trample:*** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 
-## [Stirge](name:stirge)
+## [Stirge](@stirge)
 
 _Feathered, bird-like creatures with long, sharp beaks._
 
@@ -8452,7 +8460,7 @@ AC 7, HD 1* (4hp), Att 1 &times; beak (1d3 + blood sucking), THAC0 19, MV 30' (1
 - ***Blood sucking:*** Upon a successful attack, attaches to the victim and drains its blood: 1d3 automatic damage per round.
 - ***Detaching:*** If stirge or victim dies.
 
-## [Thoul](name:thoul)
+## [Thoul](@thoul)
 
 _Magical monstrosities that look like hobgoblins (except on close inspection), but combine the powers of ghouls and trolls. Sometimes live among hobgoblins._
 
@@ -8461,7 +8469,7 @@ AC 6, HD 3** (13hp), Att 2 &times; claw (1d3 + paralysis) or 1 &times; weapon (1
 - ***Paralysis:*** Successful attacks cause paralysis for 2d4 turns (**save vs paralysis** negates). Elves and creatures larger than ogres are unaffected. After paralysing a target, thouls will attack others.
 - ***Regeneration:*** A damaged thoul gains 1 hit point at the start of each round, as long as it is alive.
 
-## [Titanothere](name:titanothere)
+## [Titanothere](@titanothere)
 
 _Giant (12' at the shoulder), ancient relatives of the rhinoceros, with massive, blunt horns. Eat grass and tree leaves. Dwell in small herds in Lost World grasslands._
 
@@ -8470,7 +8478,7 @@ AC 5, HD 12 (54hp), Att 1 &times; butt (2d6) or 1 &times; trample (3d8), THAC0 1
 - ***Peaceful grazers:*** Will not attack if left alone.
 - ***Trample:*** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 
-## [Toad, Giant](name:toad_giant)
+## [Toad, Giant](@toad_giant)
 
 _Warty amphibians with long, sticky tongues. As large as a great hound, weighing 150 to 250 pounds._
 
@@ -8480,7 +8488,7 @@ AC 7, HD 2+2 (11hp), Att 1 &times; bite (1d4+1), THAC0 17, MV 90' (30'), SV D12 
 - ***Sticky tongue:*** Attack up to 15' away. On a hit, prey (up to dwarf size) is dragged to the mouth and bitten.
 - ***Swallow whole:*** An attack roll of 20 indicates a small victim is swallowed. Inside the toad's belly: suffer 1d6 damage per round (until the toad dies); may attack with sharp weapons at &minus;4 to hit; body digested in 6 turns after death.
 
-## [Trader](name:trader)
+## [Trader](@trader)
 
 _1st level fighters who live by trading in borderland areas._
 
@@ -8489,7 +8497,7 @@ AC 6, HD 1 (4hp), Att 1 &times; weapon (1d6 or by weapon), THAC0 19, MV 120' (40
 - ***Arms:*** Usually carry: hand-axe, sword, shield, furs (equivalent to leather armour).
 - ***Mules:*** In the wilderness, have 1d4 mules loaded with trade goods (e.g. carved wooden items, furs, spices).
 
-## [Treant](name:treant)
+## [Treant](@treant)
 
 _Giant (18' tall) humanoids that look like trees. Dwell in forests. Are concerned only with protecting the plants of their home. Speak their own long-winded and circuitous language._
 
@@ -8499,7 +8507,7 @@ AC 2, HD 8 (36hp), Att 2 &times; fist (2d6), THAC0 12, MV 60' (20'), SV D8 W9 P1
 - ***Surprise:*** On a 1--3, in a forest, due to being mistaken for a tree. Encounter occurs at 30 yards or less.
 - ***Animate trees:*** Each individual can animate 2 trees (within 60'; may switch trees at will). These fight as treants with movement rate 30' (10').
 
-## [Triceratops](name:triceratops)
+## [Triceratops](@triceratops)
 
 _Massive (12' to the shoulder, almost 40' long), aggressive, herbivorous dinosaurs with a protective crest behind the head, and three long horns. Dwell in Lost World grasslands._
 
@@ -8509,7 +8517,7 @@ AC 2, HD 11 (49hp), Att 1 &times; gore (3d6) or 1 &times; trample (3d6), THAC0 1
 - ***Charge:*** In first round of combat, when not in melee. Requires a clear run of at least 20 yards. Horns inflict double damage.
 - ***Trample:*** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 
-## [Troglodyte](name:troglodyte)
+## [Troglodyte](@troglodyte)
 
 _Intelligent, reptilian humanoids with agile hands, long legs, short tails, and spiky combs on their heads and arms._
 
@@ -8519,7 +8527,7 @@ AC 5, HD 2* (9hp), Att 2 &times; claw (1d4), 1 &times; bite (1d4), THAC0 18, MV 
 - ***Surprise:*** On a 1--4, due to the ability to change colour to match their surroundings. Lurk by rock walls and await victims.
 - ***Nauseating stench:*** Oils on the skin have a smell that sickens humans and demihumans: **save vs poison** or suffer &minus;2 to hit, while in melee with troglodytes.
 
-## [Troll](name:troll)
+## [Troll](@troll)
 
 _Intelligent, wicked, 8' tall humanoids with emaciated, rubbery bodies. Consume the flesh of other humanoids. Dwell underground, in barren wilderness, and in the ruined homes of former victims._
 
@@ -8530,7 +8538,7 @@ AC 4, HD 6+3* (30hp), Att 2 &times; talon (1d6), 1 &times; bite (1d10), THAC0 13
 - ***Fire and acid:*** Cannot regenerate damage from these sources. The only way to permanently kill a troll.
 - ***Fear of fire:*** Morale 8 when attacked with fire or acid.
 
-## [Tyrannosaurus Rex](name:tyrannosaurus_rex)
+## [Tyrannosaurus Rex](@tyrannosaurus_rex)
 
 _Great (over 20' tall), two-legged, predatory dinosaurs with huge jaws. Hunt human-sized or larger prey. Dwell in Lost World regions._
 
@@ -8538,7 +8546,7 @@ AC 3, HD 20 (90hp), Att 1 &times; bite (6d6), THAC0 6, MV 120' (40'), SV D6 W7 P
 
 - ***Large prey:*** Attack largest target first.
 
-## [Unicorn](name:unicorn)
+## [Unicorn](@unicorn)
 
 _Fantastic creatures that appear as elegant horses with a long horn. Unicorns are timid, but proud and wilful._
 
@@ -8547,7 +8555,7 @@ AC 2, HD 4* (18hp), Att 2 &times; hoof (1d8), 1 &times; horn (1d8), THAC0 16, MV
 - ***Empathy with maidens:*** A pure-hearted maiden can communicate with and ride a unicorn.
 - ***Teleport:*** Once per day, up to 360' (including rider).
 
-## [Vampire](name:vampire)
+## [Vampire](@vampire)
 
 _Greatly feared undead monsters that live by drinking the blood of mortals. Dwell in ruins, tombs, and deserted locales._
 
@@ -8578,7 +8586,7 @@ AC 2, HD 7 to 9** (31/36/40hp) Att 1 &times; touch (1d10 + energy drain) or 1 &t
     - ***Immersion in water:*** For 1 turn permanently kills.
     - ***Destroying coffins:*** Permanently killed if all hit points lost when unable to rest (see coffins).
 
-## [Veteran](name:veteran)
+## [Veteran](@veteran)
 
 _Low level fighters, often on their way to or from war._
 
@@ -8586,7 +8594,7 @@ AC 2, HD 1 to 3 (4/9/13hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 19, M
 
 - ***Level and alignment:*** A group may all be of the same level and alignment, or these may be determined randomly, per individual.
 
-## [Warp Beast](name:warp_beast)
+## [Warp Beast](@warp_beast)
 
 _Large, black, six-legged, semi-intelligent monsters. Look similar to panthers with a tentacle growing from each front shoulder. Tentacles ridged with razor-sharp edges._
 
@@ -8596,7 +8604,7 @@ AC 4, HD 6* (18hp), Att 2 &times; tentacle (2d4), THAC0 14, MV 150' (50'), SV D1
 - ***Save bonus:*** +2 to all saves.
 - ***Hate blink dogs:*** Always attack them and their companions.
 
-## [Water Termite](name:water_termite)
+## [Water Termite](@water_termite)
 
 _Giant (1'--5' long), wood-eating, aquatic insects with a sack to take in and jet out water. Prone to feeding on passing ships. Only attack creatures if cornered._
 
@@ -8605,19 +8613,19 @@ _Giant (1'--5' long), wood-eating, aquatic insects with a sack to take in and je
 - ***Eat ships:*** Cling to bottom of vessel. Each individual inflicts 1d3 hull damage then drops off.
 - ***Noticing ship damage:*** 50% chance per round of spotting leaks.
 
-### [Freshwater Termite](name:freshwater_termite)
+### [Freshwater Termite](@freshwater_termite)
 
 AC 6, HD 2+1 (10hp), Att 1 &times; bite (1d4) or 1 &times; spray (stun), THAC0 17, MV 120' (40'), SV D12 W13 P14 B15 S16 (F2), ML 8, AL Neutral, XP 25, NA 0 (1d3), TT None
 
-### [Saltwater Termite](name:saltwater_termite)
+### [Saltwater Termite](@saltwater_termite)
 
 AC 5, HD 4 (18hp), Att 1 &times; bite (1d6) or 1 &times; spray (stun), THAC0 16, MV 180' (60'), SV D12 W13 P14 B15 S16 (F3), ML 11, AL Neutral, XP 75, NA 0 (1d6+1), TT None
 
-### [Swamp Termite](name:swamp_termite)
+### [Swamp Termite](@swamp_termite)
 
 AC 4, HD 1+1 (5hp), Att 1 &times; bite (1d3) or 1 &times; spray (stun), THAC0 18, MV 90' (30'), SV D12 W13 P14 B15 S16 (F1), ML 10, AL Neutral, XP 15, NA 0 (1d4), TT None
 
-## [Weasel, Giant](name:weasel_giant)
+## [Weasel, Giant](@weasel_giant)
 
 _8' to 9' long, vicious, predatory mammals with rich fur of brown, gold, or white. Dwell in subterranean tunnels, hunting alone or in small groups._
 
@@ -8629,9 +8637,9 @@ AC 7, HD 4+4 (22hp), Att 1 &times; bite (2d4 + blood sucking), THAC0 15, MV 150'
 - ***Tracking:*** By scent, favouring wounded prey.
 - ***Treasure:*** Found in lair on bodies of victims.
 
-## [Whale](name:whale)
+## [Whale](@whale)
 
-### [Killer Whale](name:killer_whale)
+### [Killer Whale](@killer_whale)
 
 _25' long, carnivorous whales. Dwell in cold waters and hunt sea creatures (including other whales)._
 
@@ -8639,7 +8647,7 @@ AC 6, HD 6 (27hp), Att 1 &times; bite (1d20), THAC0 14, MV 240' (80'), SV D12 W1
 
 - ***Swallow whole:*** An attack roll of 20 indicates a halfling-sized (or smaller) victim is swallowed. Inside the whale's belly: suffer 1d6 damage per round (until the whale dies); may attack with sharp weapons at &minus;4 to hit; drown after 10 rounds; body digested in 6 turns after death.
 
-### [Narwhal](name:narwhal)
+### [Narwhal](@narwhal)
 
 _15' long, intelligent, magical whales with grey to white skin and an 8' long, spiralling horn on their nose. Live independent and secretive lives in arctic waters._
 
@@ -8647,7 +8655,7 @@ AC 7, HD 12 (54hp), Att 1 &times; bite (1d8), 1 &times; horn (2d6), THAC0 10, MV
 
 - ***Horn:*** Is worth 1d6 &times; 1,000gp. Rumours say a narwhal's horn vibrates when evil is near.
 
-### [Sperm Whale](name:sperm_whale)
+### [Sperm Whale](@sperm_whale)
 
 _Gargantuan whales up to 60' long. Dwell in open oceans and hunt deep sea monsters (e.g. giant squids)._
 
@@ -8656,7 +8664,7 @@ AC 6, HD 36 (162hp), Att 1 &times; bite (3d20) or 1 &times; ram (6d6 hull damage
 - ***Swallow whole:*** An attack roll of 4 or more than the target number required indicates a human-sized (or smaller) victim is swallowed. Inside the whale's belly: suffer 3d6 damage per round (until the whale dies); may attack with sharp weapons at &minus;4 to hit; body digested in 6 turns after death.
 - ***Ram ships:*** 10% likely to attack vessels.
 
-## [Wight](name:wight)
+## [Wight](@wight)
 
 _Corpses of humans or demihumans, possessed by malevolent spirits._
 
@@ -8666,11 +8674,11 @@ AC 5, HD 3* (13hp), Att 1 &times; touch (energy drain), THAC0 17, MV 90' (30'), 
 - ***Mundane weapon immunity:*** Only harmed by silver weapons or magic.
 - ***Energy drain:*** A successfully hit target permanently loses one experience level (or Hit Die). This incurs a loss of one Hit Die of hit points, as well as all other benefits due to the drained level (e.g. spells, saving throws, etc.). A character's XP is reduced to halfway between the former and new levels. A person drained of all levels becomes a wight in 1d4 days, under the control of the wight that killed him or her.
 
-## [Wolf](name:wolf)
+## [Wolf](@wolf)
 
 _Carnivorous relatives of dogs that hunt in packs._
 
-### [Dire Wolf](name:dire_wolf)
+### [Dire Wolf](@dire_wolf)
 
 _Large, savage, semi-intelligent wolves. Dwell in caves, mountains, and forests._
 
@@ -8679,7 +8687,7 @@ AC 6, HD 4+1 (19hp), Att 1 &times; bite (2d4), THAC0 15, MV 150' (50'), SV D12 W
 - ***Training:*** At the referee's discretion, captured cubs may be trained like dogs. Dire wolves are ferocious and extremely difficult to train.
 - ***Mounts:*** Sometimes trained as mounts by goblins.
 
-### [Normal Wolf](name:normal_wolf)
+### [Normal Wolf](@normal_wolf)
 
 _Dwell primarily in wild lands, but occasionally lair in caves._
 
@@ -8688,7 +8696,7 @@ AC 7, HD 2+2 (11hp), Att 1 &times; bite (1d6), THAC0 17, MV 180' (60'), SV D12 W
 - ***Training:*** At the referee's discretion, captured cubs may be trained like dogs. Wolves are difficult to train.
 - ***Strength in numbers:*** Packs of 4 or more wolves have morale 8. If the pack is reduced to less than 50% of its original size, this morale bonus is lost.
 
-## [Wraith](name:wraith)
+## [Wraith](@wraith)
 
 _Incorporeal, undead monsters that appear as pale, human-like forms of coalescing mist. Dwell in deserted regions or in the homes of former victims._
 
@@ -8699,7 +8707,7 @@ AC 3, HD 4** (18hp), Att 1 &times; touch (1d6 + energy drain), THAC0 16, MV 120'
 - ***Damage reduction:*** Half damage from silver weapons.
 - ***Energy drain:*** A successfully hit target permanently loses one experience level (or Hit Die). This incurs a loss of one Hit Die of hit points, as well as all other benefits due to the drained level (e.g. spells, saving throws, etc.). A character's XP is reduced to the lowest amount for the new level. A person drained of all levels becomes a wraith in one day, under the control of the wraith that killed him or her.
 
-## [Wyvern](name:wyvern)
+## [Wyvern](@wyvern)
 
 _Winged, two-legged, dragon-like monsters with a long tail tipped with a venomous stinger. Dwell in any terrain, but favour cliffs and forests._
 
@@ -8707,7 +8715,7 @@ AC 3, HD 7* (31hp), Att 1 &times; bite (2d8), 1 &times; sting (1d6 + poison), TH
 
 - ***Poison:*** Causes death (**save vs poison**).
 
-## [Yellow Mould](name:yellow_mould)
+## [Yellow Mould](@yellow_mould)
 
 _Deadly fungus that covers walls, ceilings, and other surfaces._
 
@@ -8719,7 +8727,7 @@ AC No hit roll required, HD 2 (9hp), Att 1 &times; spores (1d6 + choking), THAC0
 - ***Choking:*** **Save vs death** or die within 6 rounds.
 - ***Erosion:*** Wood or leather in contact with the mould will be eaten away.
 
-## [Zombie](name:zombie)
+## [Zombie](@zombie)
 
 _Listless, humanoid corpses, reanimated as guardians by powerful clerics or wizards._
 
@@ -8731,7 +8739,7 @@ AC 8, HD 2 (9hp), Att 1 &times; weapon (1d8 or by weapon), THAC0 18, MV 60' (20'
 
 ----
 
-# [OPEN GAME LICENSE](name:license)
+# [OPEN GAME LICENSE](@license)
 
 ## DESIGNATION OF PRODUCT IDENTITY
 
@@ -8841,16 +8849,14 @@ _Lamentations of the Flame Princess: Weird Fantasy Role-Playing Player Core Book
 
 _Labyrinth Lord(tm)_ Copyright (c) 2007--2009, Daniel Proctor. Author Daniel Proctor.
 
-_B/X Essentials(tm): Core Rules_ Copyright (c) 2017, Gavin Norman. Author Gavin Norman.
+_B/X Essentials(tm): Adventures and Treasures_ Copyright (c) 2018, Gavin Norman. Author Gavin Norman.
 
 _B/X Essentials(tm): Classes and Equipment_ Copyright (c) 2017, Gavin Norman. Author Gavin Norman.
 
 _B/X Essentials(tm): Cleric and Magic-User Spells_ Copyright (c) 2017, Gavin Norman. Author Gavin Norman.
 
-_B/X Essentials(tm): Adventures and Trasures_ Copyright (c) 2018, Gavin Norman. Author Gavin Norman.
+_B/X Essentials(tm): Core Rules_ Copyright (c) 2017, Gavin Norman. Author Gavin Norman.
 
 _B/X Essentials(tm): Monsters_ Copyright (c) 2017, Gavin Norman. Author Gavin Norman.
-
-_Old-School Essentials(tm): Monsters_ Copyright (c) 2017, Gavin Norman. Author Gavin Norman.
 
 END OF LICENSE
