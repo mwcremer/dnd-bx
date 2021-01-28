@@ -2960,7 +2960,7 @@ To Hit AC   | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 
 ------------|----|----|----|----|----|----|----|----|----|----|----|----|----
 Attack Roll | 20 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11
 
-## [Cleric Saving Throw Chart](@cleric_saving_throw_chart)
+## Cleric Saving Throw Chart](@standard_cleric_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -2969,7 +2969,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 9--12 | 6 | 7 | 9 | 11 | 9
 13--16 | 3 | 5 | 7 | 8 | 7
 
-## [Dwarf and Halfling Saving Throw Chart](@dwarf_and_halfling_saving_throw_chart)
+## [Dwarf and Halfling Saving Throw Chart](@standard_dwarf_and_halfling_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -2978,7 +2978,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 7--9 | 4 | 5 | 6 | 7 | 8
 10--12 | 2 | 3 | 4 | 4 | 6
 
-## [Elf Saving Throw Chart](@elf_saving_throw_chart)
+## [Elf Saving Throw Chart](@standard_elf_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -2987,7 +2987,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 7--9 | 8 | 9 | 9 | 10 | 10
 10 | 6 | 7 | 8 | 8 | 8
 
-## [Fighter Saving Throw Chart](@fighter_saving_throw_chart)
+## [Fighter Saving Throw Chart](@standard_fighter_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -2997,7 +2997,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 10--12 | 6 | 7 | 8 | 8 | 10
 13--15 | 4 | 5 | 6 | 5 | 8
 
-## [Magic-User Saving Throw Chart](@magic_user_saving_throw_chart)
+## [Magic-User Saving Throw Chart](@standard_magic_user_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
@@ -3005,7 +3005,7 @@ Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon 
 6--10 | 11 | 12 | 11 | 14 | 12
 11--15 | 8 | 9 | 8 | 11 | 8
 
-## [Thief Saving Throw Chart](@thief_saving_throw_chart)
+## [Thief Saving Throw Chart](@standard_thief_saving_throw_chart)
 
 Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
 ----|----|----|----|----|---
