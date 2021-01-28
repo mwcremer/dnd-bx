@@ -1,6 +1,6 @@
 # dnd-bx
 
-Markdown/HTML Versions of Gavin Norman's _B/X Essentials&trade;_
+Markdown Versions of Gavin Norman's _B/X Essentials&trade;_
 
 _B/X Essentials_ is a trademark of Gavin Norman.  
 _B/X Essentials&trade;: Adventures and Treasures_ Copyright &copy; 2018 by Gavin Norman.  
