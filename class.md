@@ -868,7 +868,7 @@ Short bow | 25 | 30*
 Short sword | 7 | 30
 Silver dagger | 30 | 10
 Sling | 2 | 20*&dagger;
-Spear | 4 | 30
+Spear | 3 | 30
 Staff | 2 | 40&dagger;
 Sword | 10 | 60
 Two-handed sword | 15 | 150

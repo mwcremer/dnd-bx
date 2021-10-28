@@ -867,7 +867,7 @@ This spell grants the caster the ability to see through the eyes of other living
 Duration: Instant  
 Range: 120'
 
-_Dispel magic_ ends ongoing spells (i.e. those with a non-instantaneous duration) within a 20' cube area.
+_Dispel magic_ ends ongoing spells cast within a 20' cube area.
 
 - If the level of the caster of the effect to be dispelled is higher than the level of the caster of _dispel magic_, there is a 5% chance per level difference that the attempt to dispel will fail.
 - Magic items are unaffected.
@@ -1098,7 +1098,7 @@ An immobile, opaque, blazing curtain of shimmering violet fire springs into exis
 - The wall can be any size up to 1,200 square feet and may be shaped in any manner and to any dimensions the caster desires. For example, it may be a straight wall or curved into a protective circle.
 - The wall may not be evoked so that it appears where objects are.
 - The wall of flames is impenetrable to monsters with fewer than 4 HD.
-- Monsters with more than 4 HD suffer 1d6 hit points of damage when they pass through the wall. The wall deals double damage to undead creatures or creatures that use cold or are accustomed to cold.
+- Monsters with 4 or more HD suffer 1d6 hit points of damage when they pass through the wall. The wall deals double damage to undead creatures or creatures that use cold or are accustomed to cold.
 
 ### <a name="wall_of_ice"></a>Wall of Ice
 
@@ -1110,7 +1110,7 @@ An immobile, translucent, wall of ice springs into existence.
 - The wall can be any size up to 1,200 square feet and may be shaped in any manner and to any dimensions the caster desires. It may be a straight wall or curved into a protective circle.
 - The wall must rest upon a solid surface and may not be evoked so that it appears where objects are.
 - The wall of ice is impenetrable to monsters with fewer than 4 HD.
-- Monsters with more than 4 HD can break through the wall but suffer 1d6 hit points of damage when doing so. The wall deals double damage to creatures that use fire or are accustomed to fire.
+- Monsters with 4 or more HD can break through the wall but suffer 1d6 hit points of damage when doing so. The wall deals double damage to creatures that use fire or are accustomed to fire.
 
 ### <a name="wizard_eye"></a>Wizard Eye
 
@@ -1135,7 +1135,7 @@ This spell turns the bones or bodies of dead creatures into undead skeletons or 
 
 - They obey the caster's commands.
 - They are unable to use any special abilities (including spell casting) that they possessed in life.
-- They remain animated until they are destroyed or until a dispel magic spell is cast upon them.
+- They remain animated until they are destroyed or until a [_dispel magic_](#dispel_magic) spell is cast upon them.
 
 The spell animates a number of HD of zombies or skeletons equal to the caster's level:
 

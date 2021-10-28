@@ -824,7 +824,7 @@ Short bow | 25 | 30*
 Short sword | 7 | 30
 Silver dagger | 30 | 10
 Sling | 2 | 20*&dagger;
-Spear | 4 | 30
+Spear | 3 | 30
 Staff | 2 | 40&dagger;
 Sword | 10 | 60
 Two-handed sword | 15 | 150
@@ -2084,7 +2084,7 @@ This spell grants the caster the ability to see through the eyes of other living
 **Duration:** Instant  
 **Range:** 120'
 
-_Dispel magic_ ends ongoing spells (i.e. those with a non-instantaneous duration) within a 20' cube area.
+_Dispel magic_ ends ongoing spells cast within a 20' cube area.
 
 - If the level of the caster of the effect to be dispelled is higher than the level of the caster of _dispel magic_, there is a 5% chance per level difference that the attempt to dispel will fail.
 - Magic items are unaffected.
@@ -2316,7 +2316,7 @@ An immobile, opaque, blazing curtain of shimmering violet fire springs into exis
 - The wall can be any size up to 1,200 square feet and may be shaped in any manner and to any dimensions the caster desires. For example, it may be a straight wall or curved into a protective circle.
 - The wall may not be evoked so that it appears where objects are.
 - The wall of flames is impenetrable to monsters with fewer than 4 HD.
-- Monsters with more than 4 HD suffer 1d6 hit points of damage when they pass through the wall. The wall deals double damage to undead creatures or creatures that use cold or are accustomed to cold.
+- Monsters with 4 or more HD suffer 1d6 hit points of damage when they pass through the wall. The wall deals double damage to undead creatures or creatures that use cold or are accustomed to cold.
 
 ### [Wall of Ice](@wall_of_ice)
 
@@ -2328,7 +2328,7 @@ An immobile, translucent, wall of ice springs into existence.
 - The wall can be any size up to 1,200 square feet and may be shaped in any manner and to any dimensions the caster desires. It may be a straight wall or curved into a protective circle.
 - The wall must rest upon a solid surface and may not be evoked so that it appears where objects are.
 - The wall of ice is impenetrable to monsters with fewer than 4 HD.
-- Monsters with more than 4 HD can break through the wall but suffer 1d6 hit points of damage when doing so. The wall deals double damage to creatures that use fire or are accustomed to fire.
+- Monsters with 4 or more HD can break through the wall but suffer 1d6 hit points of damage when doing so. The wall deals double damage to creatures that use fire or are accustomed to fire.
 
 ### [Wizard Eye](@wizard_eye)
 
@@ -2353,7 +2353,7 @@ This spell turns the bones or bodies of dead creatures into undead skeletons or 
 
 - They obey the caster's commands.
 - They are unable to use any special abilities (including spell casting) that they possessed in life.
-- They remain animated until they are destroyed or until a dispel magic spell is cast upon them.
+- They remain animated until they are destroyed or until a [_dispel magic_](#dispel_magic) spell is cast upon them.
 
 The spell animates a number of HD of zombies or skeletons equal to the caster's level:
 
@@ -4436,7 +4436,7 @@ d12 | Prehistoric Animal | Undead | Unusual
 
 d12 | Animal | Flyer | Human | Humanoid
 ----|--------|-------|-------|---------
-1 | Antelope | Gargoyle | Bandit | Dwarf
+1 | Antelope (herd animal) | Gargoyle | Bandit | Dwarf
 2 | Ape, White | Griffon | Berserker | Giant, Cloud
 3 | Ape, White | Harpy | Berserker | Giant, Frost
 4 | Bear, Cave | Hawk | Brigand | Giant, Hill
@@ -4453,8 +4453,8 @@ d12 | Animal | Flyer | Human | Humanoid
 
 d12 | Animal | Human, City | Human, Settled | Humanoid
 ----|--------|-------------|----------------|---------
-1 | Antelope | Acolyte | Acolyte | Dwarf
-2 | Antelope | Basic Adventurers | Basic Adventurers | Elf
+1 | Antelope (herd animal) | Acolyte | Acolyte | Dwarf
+2 | Antelope (herd animal) | Basic Adventurers | Basic Adventurers | Elf
 3 | Boar | Bandit | Bandit | Giant, Hill
 4 | Cat, Tiger | Bandit | Bandit | Gnome
 5 | Ferret, Giant | Expert Adventurers | Expert Adventurers | Gnoll
@@ -4470,8 +4470,8 @@ d12 | Animal | Human, City | Human, Settled | Humanoid
 
 d12 | Animal | Flyer | Human | Humanoid
 ----|--------|-------|-------|---------
-1 | Antelope | Gargoyle | Expert Adventurers | Giant, Fire
-2 | Antelope | Gargoyle | High-Level Cleric | Goblin
+1 | Antelope (herd animal) | Gargoyle | Expert Adventurers | Giant, Fire
+2 | Antelope (herd animal) | Gargoyle | High-Level Cleric | Goblin
 3 | Camel | Griffon | Dervish | Hobgoblin
 4 | Camel | Hawk | Dervish | Hobgoblin
 5 | Cat, Lion | Hawk, Giant | High-Level Fighter | Ogre
@@ -4487,7 +4487,7 @@ d12 | Animal | Flyer | Human | Humanoid
 
 d12 | Animal | Human | Humanoid
 ----|--------|-------|---------
-1 | Antelope | Basic Adventurers | Bugbear
+1 | Antelope (herd animal) | Basic Adventurers | Bugbear
 2 | Boar | Bandit | Cyclops
 3 | Cat, Panther | Bandit | Dryad
 4 | Cat, Tiger | Berserker | Elf
@@ -4504,7 +4504,7 @@ d12 | Animal | Human | Humanoid
 
 d12 | Animal | Human | Humanoid
 ----|--------|-------|---------
-1 | Antelope | Bandit | Bugbear
+1 | Antelope (herd animal) | Bandit | Bugbear
 2 | Boar | Bandit | Elf
 3 | Cat, Lion | Berserker | Giant, Hill
 4 | Elephant | Brigand | Gnoll
@@ -4521,7 +4521,7 @@ d12 | Animal | Human | Humanoid
 
 d12 | Animal | Human | Humanoid
 ----|--------|-------|---------
-1 | Antelope | Bandit | Bugbear
+1 | Antelope (herd animal) | Bandit | Bugbear
 2 | Boar | Berserker | Cyclops
 3 | Cat, Panther | Brigand | Elf
 4 | Lizard, Draco | Brigand | Giant, Fire
@@ -4538,7 +4538,7 @@ d12 | Animal | Human | Humanoid
 
 d12 | Animal | Human | Humanoid | Swimmer
 ----|--------|-------|----------|--------
-1 | Antelope | Basic Adventurers | Bugbear | Crab, Giant
+1 | Antelope (herd animal) | Basic Adventurers | Bugbear | Crab, Giant
 2 | Boar | Bandit | Elf | Crocodile
 3 | Cat, Panther | Brigand | Gnoll | Crocodile
 4 | Cat, Tiger | Buccaneer | Hobgoblin | Crocodile, Large
@@ -6805,7 +6805,7 @@ _Gigantic (30' long), grey, worm-like amphibians, with huge, toothed maws._
 
 AC 6, HD 6* (27hp), Att 1 &times; bite (1d8), THAC0 14, MV 60' (20'), SV D12 W13 P14 B15 S16 (F3), ML 9, AL Neutral, XP 500, NA 1d3 (1d3), TT B
 
-- ***Swallow whole:*** On an attack roll of 19 or more. Inside the monster's belly: suffer 1d8 damage per round (until the caecilia is killed); may attack with a dagger at &minus;4 to hit; body digested in 6 turns after death.
+- ***Swallow whole:*** On an attack roll of 19 or 20. Inside the monster's belly: suffer 1d8 damage per round (until the caecilia is killed); may attack with a dagger at &minus;4 to hit; body digested in 6 turns after death.
 
 ## [Camel](@camel)
 
@@ -8202,12 +8202,11 @@ AC 6, HD 2 (9hp), Att 1 &times; club (1d6), 1 &times; bite (1d3), THAC0 18, MV 1
 
 ## [Rust Monster](@rust_monster)
 
-_Magical, armadillo-like creatures with long tails and two long, antennae-like feelers. Feed on rusted metal._
+_Magical, armadillo-like creatures with long tails and two long, antennae-like feelers. Feeds on rusted metal._
 
 AC 2, HD 5 (22hp), Att 1 &times; feeler (rusting), THAC0 15, MV 120' (40'), SV D12 W13 P14 B15 S16 (F3), ML 7, AL Neutral, XP 175, NA 1d4 (1d4), TT None
 
 - ***Rusting:*** Metal that touches a rust monster (e.g. weapons that hit it, or armour struck by a feeler) crumbles instantly to rust. Magic items have a 10% chance per "plus", to be unaffected on each successful hit. Each time a magic item is affected, it loses one "plus".
-- ***Mundane damage immunity:*** Can only be harmed by magical attacks.
 - ***Smell metal:*** Attracted by the scent.
 
 ## [Salamander](@salamander)

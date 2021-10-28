@@ -270,7 +270,7 @@ _Gigantic (30' long), grey, worm-like amphibians, with huge, toothed maws._
 
 AC 6, HD 6* (27hp), Att 1 &times; bite (1d8), THAC0 14, MV 60' (20'), SV D12 W13 P14 B15 S16 (F3), ML 9, AL Neutral, XP 500, NA 1d3 (1d3), TT B
 
-- **_Swallow whole:_** On an attack roll of 19 or more. Inside the monster's belly: suffer 1d8 damage per round (until the caecilia is killed); may attack with a dagger at -4 to hit; body digested in 6 turns after death.
+- **_Swallow whole:_** On an attack roll of 19 or 20. Inside the monster's belly: suffer 1d8 damage per round (until the caecilia is killed); may attack with a dagger at -4 to hit; body digested in 6 turns after death.
 
 ### <a name="camel"></a>Camel
 
@@ -1665,12 +1665,11 @@ AC 6, HD 2 (9hp), Att 1 &times; club (1d6), 1 &times; bite (1d3), THAC0 18, MV 1
 
 ### <a name="rust_monster"></a>Rust Monster
 
-_Magical, armadillo-like creatures with long tails and two long, antennae-like feelers. Feed on rusted metal._
+_Magical, armadillo-like creatures with long tails and two long, antennae-like feelers. Feeds on rusted metal._
 
 AC 2, HD 5 (22hp), Att 1 &times; feeler (rusting), THAC0 15, MV 120' (40'), SV D12 W13 P14 B15 S16 (F3), ML 7, AL Neutral, XP 175, NA 1d4 (1d4), TT None
 
 - **_Rusting:_** Metal that touches a rust monster (e.g. weapons that hit it, or armour struck by a feeler) crumbles instantly to rust. Magic items have a 10% chance per "plus", to be unaffected on each successful hit. Each time a magic item is affected, it loses one "plus".
-- **_Mundane damage immunity:_** Can only be harmed by magical attacks.
 - **_Smell metal:_** Attracted by the scent.
 
 ### <a name="salamander"></a>Salamander
