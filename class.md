@@ -629,7 +629,7 @@ Thieves are humans who live by their wits and skills of deception and intrigue. 
 
 - **_Find or Remove Traps:_** A thief may only try one time to find or remove a trap in an area. Note that these are separate skills, for a thief must find a trap before he or she can remove it!
 
-- **_Hear Noise:_** Thieves can attempt to listen for noises in a cave or hallway, at a door, or in other locations, but the thief must be quiet and in a quiet environment. Unlike the other thief abilities, this ability is rolled using 1d6.
+- **_Hear Noise:_** Thieves can attempt to listen for noises in a cave or hallway, at a door, or in other locations, but the thief must be quiet and in a quiet environment. Unlike the other thief abilities, this ability is rolled [by the referee] using 1d6.
 
 - **_Hide in Shadows:_** A thief will always think he or she is successful in this skill and will not know otherwise until others react to his or her presence. A thief must remain motionless when hiding.
 

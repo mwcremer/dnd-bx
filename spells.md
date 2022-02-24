@@ -570,7 +570,7 @@ Directs a ray of deadly magic at a single target. If the target fails a **saving
 Duration: One or more days (see below)  
 Range: 120'
 
-A single, humanoid creature must **save versus spells** or be charmed, as follows:
+A single human, demihuman, or humanoid creature must **save versus spells** or be charmed, as follows:
 
 - The subject regards the caster as its trusted friend and ally and will come to the caster's defence.
 - If they share a language, the caster may give the charmed creature commands, which it will obey.

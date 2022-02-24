@@ -440,7 +440,7 @@ Thieves are humans who live by their wits and skills of deception and intrigue. 
 
 - ***Climb Sheer Surfaces:*** Thieves are adept at scaling sheer surfaces, including walls or steep cliffs. A skill roll is required for each 100 feet to be climbed. If the roll fails, the thief falls a distance equal to half the attempted distance, taking 1d6 points of damage per 10 feet.
 - ***Find or Remove Traps:*** A thief may only try one time to find or remove a trap in an area. Note that these are separate skills, for a thief must find a trap before he or she can remove it!
-- ***Hear Noise:*** Thieves can attempt to listen for noises in a cave or hallway, at a door, or in other locations, but the thief must be quiet and in a quiet environment. Unlike the other thief abilities, this ability is rolled using 1d6.
+- ***Hear Noise:*** Thieves can attempt to listen for noises in a cave or hallway, at a door, or in other locations, but the thief must be quiet and in a quiet environment. Unlike the other thief abilities, this ability is rolled [by the referee] using 1d6.
 - ***Hide in Shadows:*** A thief will always think he or she is successful in this skill and will not know otherwise until others react to his or her presence. A thief must remain motionless when hiding.
 - ***Move Silently:*** When successful, others will not hear the movements of a thief. However, the thief always thinks he or she is moving silently and will only know otherwise by others' reaction.
 - ***Pick Locks:*** A thief is skilled in picking locks, but needs thieves' tools to do so (see [***Equipment***](#equipment)). He or she can only try to pick a lock one time and, if the roll fails, may not try the same lock again before gaining an experience level.
@@ -1787,7 +1787,7 @@ Directs a ray of deadly magic at a single target. If the target fails a **saving
 **Duration:** One or more days (see below)  
 **Range:** 120'
 
-A single, humanoid creature must **save versus spells** or be charmed, as follows:
+A single human, demihuman, or humanoid creature must **save versus spells** or be charmed, as follows:
 
 - The subject regards the caster as its trusted friend and ally and will come to the caster's defence.
 - If they share a language, the caster may give the charmed creature commands, which it will obey.
