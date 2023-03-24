@@ -73,9 +73,9 @@ For example, a character who needs a 17 to hit AC 0 could hit AC 5 on a roll of 
 
 It is usual to pre-calculate the modified attack values required to hit AC 0-9 and record them in a matrix. 1st level characters need to roll a 19 to hit AC 0, resulting in an attack matrix like this:
 
-Opponent's AC        |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9
----------------------|----|----|----|----|----|----|----|----|----|----
-Attack roll required | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10
+| Opponent's AC        |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
+|----------------------|----|----|----|----|----|----|----|----|----|-----|
+| Attack roll required | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
 
 ### <a name="note_saving_throws_and_class_abilities"></a>6. Note Saving Throws and Class Abilities
 
@@ -118,15 +118,15 @@ Finally, choose a name for your character. You are now ready for adventure!
 
 ### <a name="standard_adjustments"></a>Standard Adjustments
 
-Ability | Standard Adjustment
---------|--------------------
-3 | -3
-4-5 | -2
-6-8 | -1
-9-12 | None
-13-15 | +1
-16-17 | +2
-18 | +3
+| Ability | Standard Adjustment |
+|---------|---------------------|
+| 3 | -3 |
+| 4-5 | -2 |
+| 6-8 | -1 |
+| 9-12 | None |
+| 13-15 | +1 |
+| 16-17 | +2 |
+| 18 | +3 |
 
 ### <a name="cha"></a>Charisma
 
@@ -136,15 +136,15 @@ Charisma (CHA) measures a character's force of personality, persuasiveness, pers
 
 - **_Max # of Retainers_** and **_Retainer Morale_** determine the number of [**_Retainers_**](#retainers) a character may have in his or her pay at any one time and their loyalty to the character.
 
-CHA | Reaction Adjustment | Max # of Retainers | Retainer Morale
---|----|---|---
-3 | -2 | 1 | 4
-4-5 | -1 | 2 | 5
-6-8 | -1 | 3 | 6
-9-12 | None | 4 | 7
-13-15 | +1 | 5 | 8
-16-17 | +1 | 6 | 9
-18 | +2 | 7 | 10
+| CHA | Reaction Adjustment | Max # of Retainers | Retainer Morale |
+|---|----|---|----|
+| 3 | -2 | 1 | 4 |
+| 4-5 | -1 | 2 | 5 |
+| 6-8 | -1 | 3 | 6 |
+| 9-12 | None | 4 | 7 |
+| 13-15 | +1 | 5 | 8 |
+| 16-17 | +1 | 6 | 9 |
+| 18 | +2 | 7 | 10 |
 
 ### <a name="con"></a>Constitution
 
@@ -160,15 +160,15 @@ Dexterity (DEX) measures hand-eye coordination, agility, reflexes, and balance. 
 
 - **_Initiative Adjustment_** modifies the character's initiative roll, if the optional rule for individual initiative is being used (see [**_Basic Combat Procedure_**](core.md#basic_combat_procedure)).
 
-DEX | Initiative Adjustment
---|---
-3 | -2
-4-5 | -1
-6-8 | -1
-9-12 | None
-13-15 | +1
-16-17 | +1
-18 | +2
+| DEX | Initiative Adjustment |
+|---|----|
+| 3 | -2 |
+| 4-5 | -1 |
+| 6-8 | -1 |
+| 9-12 | None |
+| 13-15 | +1 |
+| 16-17 | +1 |
+| 18 | +2 |
 
 ### <a name="int"></a>Intelligence
 
@@ -178,15 +178,15 @@ Intelligence (INT) determines how well a character learns, remembers, and reason
 
 - **_Bonus Languages_** determines the number of additional languages the character can choose during character creation.
 
-INT | Language Ability | Bonus Languages
---|--|--
-3 | Unable to read or write, broken speech | 0
-4-5 | Unable to read or write | 0
-6-8 | Can write simple words | 0
-9-12 | Can read and write native languages | 0
-13-15 | Can read and write native languages | 1
-16-17 | Can read and write native languages | 2
-18 | Can read and write native languages | 3
+| INT | Language Ability | Bonus Languages |
+|---|--|---|
+| 3 | Unable to read or write, broken speech | 0 |
+| 4-5 | Unable to read or write | 0 |
+| 6-8 | Can write simple words | 0 |
+| 9-12 | Can read and write native languages | 0 |
+| 13-15 | Can read and write native languages | 1 |
+| 16-17 | Can read and write native languages | 2 |
+| 18 | Can read and write native languages | 3 |
 
 ### <a name="str"></a>Strength
 
@@ -206,13 +206,13 @@ Each character class has one or more prime requisites, that is, an ability score
 
 - **_XP Adjustment_** is applied to all experience points awarded to the character, unless otherwise noted in the description of the class.
 
-Score | XP Adjustment
---|--
-3-5 | -20%
-6-8 | -10%
-9-12 | None
-13-15 | +5%
-16-18 | +10%
+| Score | XP Adjustment |
+|---|---|
+| 3-5 | -20% |
+| 6-8 | -10% |
+| 9-12 | None |
+| 13-15 | +5% |
+| 16-18 | +10% |
 
 ## <a name="character_classes"></a>Character Classes
 
@@ -261,22 +261,22 @@ Once a stronghold is established, the cleric will attract followers (5d6 &times;
 
 #### <a name="cleric_level_progression"></a>Cleric Level Progression
 
-Level | XP | Hit Dice | AC0 | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|----|----|----|----|---
-1 | 0 | 1d6 | 19 | 11 | 12 | 14 | 16 | 15
-2 | 1,500 | 2d6 | 19 | 11 | 12 | 14 | 16 | 15
-3 | 3,000 | 3d6 | 19 | 11 | 12 | 14 | 16 | 15
-4 | 6,000 | 4d6 | 19 | 11 | 12 | 14 | 16 | 15
-5 | 12,000 | 5d6 | 17 | 9 | 10 | 12 | 14 | 12
-6 | 25,000 | 6d6 | 17 | 9 | 10 | 12 | 14 | 12
-7 | 50,000 | 7d6 | 17 | 9 | 10 | 12 | 14 | 12
-8 | 100,000 | 8d6 | 17 | 9 | 10 | 12 | 14 | 12
-9 | 200,000 | 9d6 | 14 | 6 | 7 | 9 | 11 | 9
-10 | 300,000 | 9d6+1* | 14 | 6 | 7 | 9 | 11 | 9
-11 | 400,000 | 9d6+2* | 14 | 6 | 7 | 9 | 11 | 9
-12 | 500,000 | 9d6+3* | 14 | 6 | 7 | 9 | 11 | 9
-13 | 600,000 | 9d6+4* | 12 | 3 | 5 | 7 | 8 | 7
-14 | 700,000 | 9d6+5* | 12 | 3 | 5 | 7 | 8 | 7
+| Level | XP | Hit Dice | AC0 | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|----|----|----|----|----|
+| 1 | 0 | 1d6 | 19 | 11 | 12 | 14 | 16 | 15 |
+| 2 | 1,500 | 2d6 | 19 | 11 | 12 | 14 | 16 | 15 |
+| 3 | 3,000 | 3d6 | 19 | 11 | 12 | 14 | 16 | 15 |
+| 4 | 6,000 | 4d6 | 19 | 11 | 12 | 14 | 16 | 15 |
+| 5 | 12,000 | 5d6 | 17 | 9 | 10 | 12 | 14 | 12 |
+| 6 | 25,000 | 6d6 | 17 | 9 | 10 | 12 | 14 | 12 |
+| 7 | 50,000 | 7d6 | 17 | 9 | 10 | 12 | 14 | 12 |
+| 8 | 100,000 | 8d6 | 17 | 9 | 10 | 12 | 14 | 12 |
+| 9 | 200,000 | 9d6 | 14 | 6 | 7 | 9 | 11 | 9 |
+| 10 | 300,000 | 9d6+1* | 14 | 6 | 7 | 9 | 11 | 9 |
+| 11 | 400,000 | 9d6+2* | 14 | 6 | 7 | 9 | 11 | 9 |
+| 12 | 500,000 | 9d6+3* | 14 | 6 | 7 | 9 | 11 | 9 |
+| 13 | 600,000 | 9d6+4* | 12 | 3 | 5 | 7 | 8 | 7 |
+| 14 | 700,000 | 9d6+5* | 12 | 3 | 5 | 7 | 8 | 7 |
 
 \* _Hit point modifiers from CON no longer apply._
 
@@ -284,38 +284,38 @@ Level | XP | Hit Dice | AC0 | Death | Wands | Paralysis | Breath | Spells
 
 #### <a name="cleric_spell_casting"></a>Cleric Spell Casting
 
-Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level
---|---|---|---|---|--
-1 | - | - | - | - | -
-2 | 1 | - | - | - | -
-3 | 2 | - | - | - | -
-4 | 2 | 1 | - | - | -
-5 | 2 | 2 | - | - | -
-6 | 2 | 2 | 1 | 1 | -
-7 | 2 | 2 | 2 | 1 | 1
-8 | 3 | 3 | 2 | 2 | 1
-9 | 3 | 3 | 3 | 2 | 2
-10 | 4 | 4 | 3 | 3 | 2
-11 | 4 | 4 | 4 | 3 | 3
-12 | 5 | 5 | 4 | 4 | 3
-13 | 5 | 5 | 5 | 4 | 4
-14 | 6 | 5 | 5 | 5 | 4
+| Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level |
+|---|---|---|---|---|---|
+| 1 | - | - | - | - | --|
+| 2 | 1 | - | - | - | --|
+| 3 | 2 | - | - | - | --|
+| 4 | 2 | 1 | - | - | --|
+| 5 | 2 | 2 | - | - | --|
+| 6 | 2 | 2 | 1 | 1 | --|
+| 7 | 2 | 2 | 2 | 1 | 1 |
+| 8 | 3 | 3 | 2 | 2 | 1 |
+| 9 | 3 | 3 | 3 | 2 | 2 |
+| 10 | 4 | 4 | 3 | 3 | 2 |
+| 11 | 4 | 4 | 4 | 3 | 3 |
+| 12 | 5 | 5 | 4 | 4 | 3 |
+| 13 | 5 | 5 | 5 | 4 | 4 |
+| 14 | 6 | 5 | 5 | 5 | 4 |
 
 #### <a name="turning_the_undead"></a>Turning the Undead
 
-Level | 1 HD | 2 HD | 2 HD* | 3 HD | 4 HD | 5 HD | 6 HD | 7+ HD
---|---|---|----|---|---|---|---|---
-1 | 7 | 9 | 11 | - | - | - | - | -
-2 | T | 7 | 9 | 11 | - | - | - | -
-3 | T | T | 7 | 9 | 11 | - | - | -
-4 | D | T | T | 7 | 9 | 11 | - | -
-5 | D | D | T | T | 7 | 9 | 11 | -
-6 | D | D | D | T | T | 7 | 9 | 11
-7 | D | D | D | D | T | T | 7 | 9
-8 | D | D | D | D | D | T | T | 7
-9 | D | D | D | D | D | D | T | T
-10 | D | D | D | D | D | D | D | T
-11+ | D | D | D | D | D | D | D | D
+| Level | 1 HD | 2 HD | 2 HD* | 3 HD | 4 HD | 5 HD | 6 HD | 7+ HD |
+|---|---|---|----|---|---|---|---|----|
+| 1 | 7 | 9 | 11 | - | - | - | - | --|
+| 2 | T | 7 | 9 | 11 | - | - | - | --|
+| 3 | T | T | 7 | 9 | 11 | - | - | --|
+| 4 | D | T | T | 7 | 9 | 11 | - | --|
+| 5 | D | D | T | T | 7 | 9 | 11 | --|
+| 6 | D | D | D | T | T | 7 | 9 | 11 |
+| 7 | D | D | D | D | T | T | 7 | 9 |
+| 8 | D | D | D | D | D | T | T | 7 |
+| 9 | D | D | D | D | D | D | T | T |
+| 10 | D | D | D | D | D | D | D | T |
+| 11+ | D | D | D | D | D | D | D | D |
 
 \* 2 _Hit Dice monsters with a special ability (e.g. paralysing touch, immunity to normal weapons, etc.) are more difficult to turn, as indicated by this column of the chart. Such monsters will have an asterisk next to their HD rating, in the monster description._
 
@@ -349,20 +349,20 @@ When a dwarf reaches level 9, he or she has the option of creating an undergroun
 
 #### <a name="dwarf_level_progression"></a>Dwarf Level Progression
 
-Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|---|---|----|----|---
-1 | 0 | 1d8 | 19 | 8 | 9 | 10 | 13 | 12
-2 | 2,200 | 2d8 | 19 | 8 | 9 | 10 | 13 | 12
-3 | 4,400 | 3d8 | 19 | 8 | 9 | 10 | 13 | 12
-4 | 8,800 | 4d8 | 17 | 6 | 7 | 8 | 10 | 10
-5 | 17,000 | 5d8 | 17 | 6 | 7 | 8 | 10 | 10
-6 | 35,000 | 6d8 | 17 | 6 | 7 | 8 | 10 | 10
-7 | 70,000 | 7d8 | 14 | 4 | 5 | 6 | 7 | 8
-8 | 140,000 | 8d8 | 14 | 4 | 5 | 6 | 7 | 8
-9 | 270,000 | 9d8 | 14 | 4 | 5 | 6 | 7 | 8
-10 | 400,000 | 9d8+3* | 12 | 2 | 3 | 4 | 4 | 6
-11 | 530,000 | 9d8+6* | 12 | 2 | 3 | 4 | 4 | 6
-12 | 660,000 | 9d8+9* | 12 | 2 | 3 | 4 | 4 | 6
+| Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|---|---|----|----|----|
+| 1 | 0 | 1d8 | 19 | 8 | 9 | 10 | 13 | 12 |
+| 2 | 2,200 | 2d8 | 19 | 8 | 9 | 10 | 13 | 12 |
+| 3 | 4,400 | 3d8 | 19 | 8 | 9 | 10 | 13 | 12 |
+| 4 | 8,800 | 4d8 | 17 | 6 | 7 | 8 | 10 | 10 |
+| 5 | 17,000 | 5d8 | 17 | 6 | 7 | 8 | 10 | 10 |
+| 6 | 35,000 | 6d8 | 17 | 6 | 7 | 8 | 10 | 10 |
+| 7 | 70,000 | 7d8 | 14 | 4 | 5 | 6 | 7 | 8 |
+| 8 | 140,000 | 8d8 | 14 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 270,000 | 9d8 | 14 | 4 | 5 | 6 | 7 | 8 |
+| 10 | 400,000 | 9d8+3* | 12 | 2 | 3 | 4 | 4 | 6 |
+| 11 | 530,000 | 9d8+6* | 12 | 2 | 3 | 4 | 4 | 6 |
+| 12 | 660,000 | 9d8+9* | 12 | 2 | 3 | 4 | 4 | 6 |
 
 \* _Hit point modifiers from CON no longer apply._
 
@@ -406,18 +406,18 @@ An elf can establish a stronghold in a natural setting, such as a forest or glen
 
 #### <a name="elf_level_progression"></a>Elf Level Progression
 
-Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|----|----|----|----|---
-1 | 0 | 1d6 | 19 | 12 | 13 | 13 | 15 | 15
-2 | 4,000 | 2d6 | 19 | 12 | 13 | 13 | 15 | 15
-3 | 8,000 | 3d6 | 19 | 12 | 13 | 13 | 15 | 15
-4 | 16,000 | 4d6 | 17 | 10 | 11 | 11 | 13 | 12
-5 | 32,000 | 5d6 | 17 | 10 | 11 | 11 | 13 | 12
-6 | 64,000 | 6d6 | 17 | 10 | 11 | 11 | 13 | 12
-7 | 120,000 | 7d6 | 14 | 8 | 9 | 9 | 10 | 10
-8 | 250,000 | 8d6 | 14 | 8 | 9 | 9 | 10 | 10
-9 | 400,000 | 9d6 | 14 | 8 | 9 | 9 | 10 | 10
-10 | 600,000 | 9d6+2* | 12 | 6 | 7 | 8 | 8 | 8
+| Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|----|----|----|----|----|
+| 1 | 0 | 1d6 | 19 | 12 | 13 | 13 | 15 | 15 |
+| 2 | 4,000 | 2d6 | 19 | 12 | 13 | 13 | 15 | 15 |
+| 3 | 8,000 | 3d6 | 19 | 12 | 13 | 13 | 15 | 15 |
+| 4 | 16,000 | 4d6 | 17 | 10 | 11 | 11 | 13 | 12 |
+| 5 | 32,000 | 5d6 | 17 | 10 | 11 | 11 | 13 | 12 |
+| 6 | 64,000 | 6d6 | 17 | 10 | 11 | 11 | 13 | 12 |
+| 7 | 120,000 | 7d6 | 14 | 8 | 9 | 9 | 10 | 10 |
+| 8 | 250,000 | 8d6 | 14 | 8 | 9 | 9 | 10 | 10 |
+| 9 | 400,000 | 9d6 | 14 | 8 | 9 | 9 | 10 | 10 |
+| 10 | 600,000 | 9d6+2* | 12 | 6 | 7 | 8 | 8 | 8 |
 
 \* _Hit point modifiers from CON no longer apply._
 
@@ -425,18 +425,18 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 #### <a name="elf_spell_casting"></a>Elf Spell Casting
 
-Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level
---|---|---|---|---|---
-1 | 1 | - | - | - | -
-2 | 2 | - | - | - | -
-3 | 2 | 1 | - | - | -
-4 | 2 | 2 | - | - | -
-5 | 2 | 2 | 1 | - | -
-6 | 2 | 2 | 2 | - | -
-7 | 3 | 2 | 2 | 1 | -
-8 | 3 | 3 | 2 | 2 | -
-9 | 3 | 3 | 3 | 2 | 1
-10 | 3 | 3 | 3 | 3 | 2
+| Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level |
+|---|---|---|---|---|----|
+| 1 | 1 | - | - | - | --|
+| 2 | 2 | - | - | - | --|
+| 3 | 2 | 1 | - | - | --|
+| 4 | 2 | 2 | - | - | --|
+| 5 | 2 | 2 | 1 | - | --|
+| 6 | 2 | 2 | 2 | - | --|
+| 7 | 3 | 2 | 2 | 1 | --|
+| 8 | 3 | 3 | 2 | 2 | --|
+| 9 | 3 | 3 | 3 | 2 | 1 |
+| 10 | 3 | 3 | 3 | 3 | 2 |
 
 ### <a name="fighter"></a>Fighter
 
@@ -462,22 +462,22 @@ Upon achieving 9th level, a fighter may be granted a title such as Baron or Baro
 
 #### <a name="fighter_level_progression"></a>Fighter Level Progression
 
-Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|----|----|----|----|---
-1 | 0 | 1d8 | 19 | 12 | 13 | 14 | 15 | 16
-2 | 2,000 | 2d8 | 19 | 12 | 13 | 14 | 15 | 16
-3 | 4,000 | 3d8 | 19 | 12 | 13 | 14 | 15 | 16
-4 | 8,000 | 4d8 | 17 | 10 | 11 | 12 | 13 | 14
-5 | 16,000 | 5d8 | 17 | 10 | 11 | 12 | 13 | 14
-6 | 32,000 | 6d8 | 17 | 10 | 11 | 12 | 13 | 14
-7 | 64,000 | 7d8 | 14 | 8 | 9 | 10 | 10 | 12
-8 | 120,000 | 8d8 | 14 | 8 | 9 | 10 | 10 | 12
-9 | 240,000 | 9d8 | 14 | 8 | 9 | 10 | 10 | 12
-10 | 360,000 | 9d8+2* | 12 | 6 | 7 | 8 | 8 | 10
-11 | 480,000 | 9d8+4* | 12 | 6 | 7 | 8 | 8 | 10
-12 | 600,000 | 9d8+6* | 12 | 6 | 7 | 8 | 8 | 10
-13 | 720,000 | 9d8+8* | 10 | 4 | 5 | 6 | 5 | 8
-14 | 840,000 | 9d8+10* | 10 | 4 | 5 | 6 | 5 | 8
+| Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|----|----|----|----|----|
+| 1 | 0 | 1d8 | 19 | 12 | 13 | 14 | 15 | 16 |
+| 2 | 2,000 | 2d8 | 19 | 12 | 13 | 14 | 15 | 16 |
+| 3 | 4,000 | 3d8 | 19 | 12 | 13 | 14 | 15 | 16 |
+| 4 | 8,000 | 4d8 | 17 | 10 | 11 | 12 | 13 | 14 |
+| 5 | 16,000 | 5d8 | 17 | 10 | 11 | 12 | 13 | 14 |
+| 6 | 32,000 | 6d8 | 17 | 10 | 11 | 12 | 13 | 14 |
+| 7 | 64,000 | 7d8 | 14 | 8 | 9 | 10 | 10 | 12 |
+| 8 | 120,000 | 8d8 | 14 | 8 | 9 | 10 | 10 | 12 |
+| 9 | 240,000 | 9d8 | 14 | 8 | 9 | 10 | 10 | 12 |
+| 10 | 360,000 | 9d8+2* | 12 | 6 | 7 | 8 | 8 | 10 |
+| 11 | 480,000 | 9d8+4* | 12 | 6 | 7 | 8 | 8 | 10 |
+| 12 | 600,000 | 9d8+6* | 12 | 6 | 7 | 8 | 8 | 10 |
+| 13 | 720,000 | 9d8+8* | 10 | 4 | 5 | 6 | 5 | 8 |
+| 14 | 840,000 | 9d8+10* | 10 | 4 | 5 | 6 | 5 | 8 |
 
 \* _Hit point modifiers from CON no longer apply._
 
@@ -518,17 +518,17 @@ Halflings are small, rotund demi-humans with furry feet and curly hair. They wei
 
 #### <a name="halfling_level_progression"></a>Halfling Level Progression
 
-Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|---|---|----|----|---
-1 | 0 | 1d6 | 19 | 8 | 9 | 10 | 13 | 12
-2 | 2,000 | 2d6 | 19 | 8 | 9 | 10 | 13 | 12
-3 | 4,000 | 3d6 | 19 | 8 | 9 | 10 | 13 | 12
-4 | 8,000 | 4d6 | 17 | 6 | 7 | 8 | 10 | 10
-5 | 16,000 | 5d6 | 17 | 6 | 7 | 8 | 10 | 10
-6 | 32,000 | 6d6 | 17 | 6 | 7 | 8 | 10 | 10
-7 | 64,000 | 7d6 | 14 | 4 | 5 | 6 | 7 | 8
-8 | 120,000 | 8d6 | 14 | 4 | 5 | 6 | 7 | 8
-
+| Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|---|---|----|----|----|
+| 1 | 0 | 1d6 | 19 | 8 | 9 | 10 | 13 | 12 |
+| 2 | 2,000 | 2d6 | 19 | 8 | 9 | 10 | 13 | 12 |
+| 3 | 4,000 | 3d6 | 19 | 8 | 9 | 10 | 13 | 12 |
+| 4 | 8,000 | 4d6 | 17 | 6 | 7 | 8 | 10 | 10 |
+| 5 | 16,000 | 5d6 | 17 | 6 | 7 | 8 | 10 | 10 |
+| 6 | 32,000 | 6d6 | 17 | 6 | 7 | 8 | 10 | 10 |
+| 7 | 64,000 | 7d6 | 14 | 4 | 5 | 6 | 7 | 8 |
+| 8 | 120,000 | 8d6 | 14 | 4 | 5 | 6 | 7 | 8 |
+|  |
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
 ### <a name="magic_user"></a>Magic-User
@@ -559,22 +559,22 @@ A magic-user may build a stronghold, often a great tower, when he or she reaches
 
 #### <a name="magic_user_level_progression"></a>Magic-User Level Progression
 
-Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|----|----|----|----|---
-1 | 0 | 1d4 | 19 | 13 | 14 | 13 | 16 | 15
-2 | 2,500 | 2d4 | 19 | 13 | 14 | 13 | 16 | 15
-3 | 5,000 | 3d4 | 19 | 13 | 14 | 13 | 16 | 15
-4 | 10,000 | 4d4 | 19 | 13 | 14 | 13 | 16 | 15
-5 | 20,000 | 5d4 | 19 | 13 | 14 | 13 | 16 | 15
-6 | 40,000 | 6d4 | 17 | 11 | 12 | 11 | 14 | 12
-7 | 80,000 | 7d4 | 17 | 11 | 12 | 11 | 14 | 12
-8 | 150,000 | 8d4 | 17 | 11 | 12 | 11 | 14 | 12
-9 | 300,000 | 9d4 | 17 | 11 | 12 | 11 | 14 | 12
-10 | 450,000 | 9d4+1* | 17 | 11 | 12 | 11 | 14 | 12
-11 | 600,000 | 9d4+2* | 14 | 8 | 9 | 8 | 11 | 8
-12 | 750,000 | 9d4+3* | 14 | 8 | 9 | 8 | 11 | 8
-13 | 900,000 | 9d4+4* | 14 | 8 | 9 | 8 | 11 | 8
-14 | 1,050,000 | 9d4+5* | 14 | 8 | 9 | 8 | 11 | 8
+| Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|----|----|----|----|----|
+| 1 | 0 | 1d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 2 | 2,500 | 2d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 3 | 5,000 | 3d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 4 | 10,000 | 4d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 5 | 20,000 | 5d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 6 | 40,000 | 6d4 | 17 | 11 | 12 | 11 | 14 | 12 |
+| 7 | 80,000 | 7d4 | 17 | 11 | 12 | 11 | 14 | 12 |
+| 8 | 150,000 | 8d4 | 17 | 11 | 12 | 11 | 14 | 12 |
+| 9 | 300,000 | 9d4 | 17 | 11 | 12 | 11 | 14 | 12 |
+| 10 | 450,000 | 9d4+1* | 17 | 11 | 12 | 11 | 14 | 12 |
+| 11 | 600,000 | 9d4+2* | 14 | 8 | 9 | 8 | 11 | 8 |
+| 12 | 750,000 | 9d4+3* | 14 | 8 | 9 | 8 | 11 | 8 |
+| 13 | 900,000 | 9d4+4* | 14 | 8 | 9 | 8 | 11 | 8 |
+| 14 | 1,050,000 | 9d4+5* | 14 | 8 | 9 | 8 | 11 | 8 |
 
 \* _Hit point modifiers from CON no longer apply._
 
@@ -582,22 +582,22 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 #### <a name="magic_user_spell_casting"></a>Magic-User Spell Casting
 
-Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level | 6th Level
---|---|---|---|---|---|---
-1 | 1 | - | - | - | - | -
-2 | 2 | - | - | - | - | -
-3 | 2 | 1 | - | - | - | -
-4 | 2 | 2 | - | - | - | -
-5 | 2 | 2 | 1 | - | - | -
-6 | 2 | 2 | 2 | - | - | -
-7 | 3 | 2 | 2 | 1 | - | -
-8 | 3 | 3 | 2 | 2 | - | -
-9 | 3 | 3 | 3 | 2 | 1 | -
-10 | 3 | 3 | 3 | 3 | 2 | -
-11 | 4 | 3 | 3 | 3 | 2 | 1
-12 | 4 | 4 | 3 | 3 | 3 | 2
-13 | 4 | 4 | 4 | 3 | 3 | 3
-14 | 4 | 4 | 4 | 4 | 3 | 3
+| Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level | 6th Level |
+|---|---|---|---|---|---|----|
+| 1 | 1 | - | - | - | - | --|
+| 2 | 2 | - | - | - | - | --|
+| 3 | 2 | 1 | - | - | - | --|
+| 4 | 2 | 2 | - | - | - | --|
+| 5 | 2 | 2 | 1 | - | - | --|
+| 6 | 2 | 2 | 2 | - | - | --|
+| 7 | 3 | 2 | 2 | 1 | - | --|
+| 8 | 3 | 3 | 2 | 2 | - | --|
+| 9 | 3 | 3 | 3 | 2 | 1 | --|
+| 10 | 3 | 3 | 3 | 3 | 2 | --|
+| 11 | 4 | 3 | 3 | 3 | 2 | 1 |
+| 12 | 4 | 4 | 3 | 3 | 3 | 2 |
+| 13 | 4 | 4 | 4 | 3 | 3 | 3 |
+| 14 | 4 | 4 | 4 | 4 | 3 | 3 |
 
 ### <a name="thief"></a>Thief
 
@@ -645,22 +645,22 @@ When a thief attains level 9, he or she can establish a thief den. 2d6 thief app
 
 #### <a name="thief_level_progression"></a>Thief Level Progression
 
-Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|----|----|----|----|---
-1 | 0 | 1d4 | 19 | 13 | 14 | 13 | 16 | 15
-2 | 1,200 | 2d4 | 19 | 13 | 14 | 13 | 16 | 15
-3 | 2,400 | 3d4 | 19 | 13 | 14 | 13 | 16 | 15
-4 | 4,800 | 4d4 | 19 | 13 | 14 | 13 | 16 | 15
-5 | 9,600 | 5d4 | 17 | 12 | 13 | 11 | 14 | 13
-6 | 20,000 | 6d4 | 17 | 12 | 13 | 11 | 14 | 13
-7 | 40,000 | 7d4 | 17 | 12 | 13 | 11 | 14 | 13
-8 | 80,000 | 8d4 | 17 | 12 | 13 | 11 | 14 | 13
-9 | 160,000 | 9d4 | 14 | 10 | 11 | 9 | 12 | 10
-10 | 280,000 | 9d4+2* | 14 | 10 | 11 | 9 | 12 | 10
-11 | 400,000 | 9d4+4* | 14 | 10 | 11 | 9 | 12 | 10
-12 | 520,000 | 9d4+6* | 14 | 10 | 11 | 9 | 12 | 10
-13 | 640,000 | 9d4+8* | 12 | 8 | 9 | 7 | 10 | 8
-14 | 760,000 | 9d4+10* | 12 | 8 | 9 | 7 | 10 | 8
+| Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|----|----|----|----|----|
+| 1 | 0 | 1d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 2 | 1,200 | 2d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 3 | 2,400 | 3d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 4 | 4,800 | 4d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 5 | 9,600 | 5d4 | 17 | 12 | 13 | 11 | 14 | 13 |
+| 6 | 20,000 | 6d4 | 17 | 12 | 13 | 11 | 14 | 13 |
+| 7 | 40,000 | 7d4 | 17 | 12 | 13 | 11 | 14 | 13 |
+| 8 | 80,000 | 8d4 | 17 | 12 | 13 | 11 | 14 | 13 |
+| 9 | 160,000 | 9d4 | 14 | 10 | 11 | 9 | 12 | 10 |
+| 10 | 280,000 | 9d4+2* | 14 | 10 | 11 | 9 | 12 | 10 |
+| 11 | 400,000 | 9d4+4* | 14 | 10 | 11 | 9 | 12 | 10 |
+| 12 | 520,000 | 9d4+6* | 14 | 10 | 11 | 9 | 12 | 10 |
+| 13 | 640,000 | 9d4+8* | 12 | 8 | 9 | 7 | 10 | 8 |
+| 14 | 760,000 | 9d4+10* | 12 | 8 | 9 | 7 | 10 | 8 |
 
 \* _Hit point modifiers from CON no longer apply._
 
@@ -668,22 +668,22 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 #### <a name="thief_skills"></a>Thief Skills
 
-Level | Climb Sheer Surfaces | Find or Remove Traps | Hear Noise | Hide in Shadows | Move Silently | Pick Locks | Pick Pockets
---|-----|-----|--------|-----|-----|-----|----
-1 | 87% | 10% | 2-in-6 | 10% | 20% | 15% | 20%
-2 | 88% | 15% | 2-in-6 | 15% | 25% | 20% | 25%
-3 | 89% | 20% | 3-in-6 | 20% | 30% | 25% | 30%
-4 | 90% | 25% | 3-in-6 | 25% | 35% | 30% | 35%
-5 | 91% | 30% | 3-in-6 | 30% | 40% | 35% | 40%
-6 | 92% | 40% | 3-in-6 | 36% | 45% | 45% | 45%
-7 | 93% | 50% | 4-in-6 | 45% | 55% | 55% | 55%
-8 | 94% | 60% | 4-in-6 | 55% | 65% | 65% | 65%
-9 | 95% | 70% | 4-in-6 | 65% | 75% | 75% | 75%
-10 | 96% | 80% | 4-in-6 | 75% | 85% | 85% | 85%
-11 | 97% | 90% | 5-in-6 | 85% | 95% | 95% | 95%
-12 | 98% | 95% | 5-in-6 | 90% | 96% | 96% | 105%
-13 | 99% | 97% | 5-in-6 | 95% | 98% | 97% | 115%
-14 | 99% | 99% | 5-in-6 | 99% | 99% | 99% | 125%
+| Level | Climb Sheer Surfaces | Find or Remove Traps | Hear Noise | Hide in Shadows | Move Silently | Pick Locks | Pick Pockets |
+|---|-----|-----|--------|-----|-----|-----|-----|
+| 1 | 87% | 10% | 2-in-6 | 10% | 20% | 15% | 20% |
+| 2 | 88% | 15% | 2-in-6 | 15% | 25% | 20% | 25% |
+| 3 | 89% | 20% | 3-in-6 | 20% | 30% | 25% | 30% |
+| 4 | 90% | 25% | 3-in-6 | 25% | 35% | 30% | 35% |
+| 5 | 91% | 30% | 3-in-6 | 30% | 40% | 35% | 40% |
+| 6 | 92% | 40% | 3-in-6 | 36% | 45% | 45% | 45% |
+| 7 | 93% | 50% | 4-in-6 | 45% | 55% | 55% | 55% |
+| 8 | 94% | 60% | 4-in-6 | 55% | 65% | 65% | 65% |
+| 9 | 95% | 70% | 4-in-6 | 65% | 75% | 75% | 75% |
+| 10 | 96% | 80% | 4-in-6 | 75% | 85% | 85% | 85% |
+| 11 | 97% | 90% | 5-in-6 | 85% | 95% | 95% | 95% |
+| 12 | 98% | 95% | 5-in-6 | 90% | 96% | 96% | 105% |
+| 13 | 99% | 97% | 5-in-6 | 95% | 98% | 97% | 115% |
+| 14 | 99% | 99% | 5-in-6 | 99% | 99% | 99% | 125% |
 
 ## <a name="alignment"></a>Alignment
 
@@ -788,13 +788,13 @@ The most common coin is the gold piece (gp). Coins made of other types of precio
 
 #### <a name="coin_conversion_rates"></a>Coin Conversion Rates
 
-Coin | 1 pp | 1 gp | 1 ep | 1 sp | 1 cp
------|------|------|------|------|-----
-Value in pp | 1 | 1/5 | 1/10 | 1/50 | 1/500
-Value in gp | 5 | 1 | 1/2 | 1/10 | 1/100
-Value in ep | 10 | 2 | 1 | 1/5 | 1/50
-Value in sp | 50 | 10 | 5 | 1 | 1/10
-Value in cp | 500 | 100 | 50 | 10 | 1
+| Coin | 1 pp | 1 gp | 1 ep | 1 sp | 1 cp |
+|------|------|------|------|------|------|
+| Value in pp | 1 | 1/5 | 1/10 | 1/50 | 1/500 |
+| Value in gp | 5 | 1 | 1/2 | 1/10 | 1/100 |
+| Value in ep | 10 | 2 | 1 | 1/5 | 1/50 |
+| Value in sp | 50 | 10 | 5 | 1 | 1/10 |
+| Value in cp | 500 | 100 | 50 | 10 | 1 |
 
 ### <a name="starting_money"></a>Starting Money
 
@@ -812,67 +812,67 @@ Faced with the possibility of character death, players may take efforts to ensur
 
 ### <a name="adventuring_gear"></a>Adventuring Gear
 
-Item | Cost (gp)
------|----------
-Backpack | 5
-Crowbar | 10
-Garlic | 5
-Grappling hook | 25
-Hammer (small) | 2
-Holy symbol | 25
-Holy water (vial) | 25
-Iron spikes (12) | 1
-Lantern | 10
-Mirror (hand-sized, steel) | 5
-Oil (1 flask) | 2
-Pole (10' long, wooden) | 1
-Rations (iron, 7 days) | 15
-Rations (standard, 7 days) | 5
-Rope (50') | 1
-Sack (small) | 1
-Sack (large) | 2
-Stakes (3) and mallet | 3
-Thieves' tools | 25
-Tinder box (flint &amp; steel) | 3
-Torches (6) | 1
-Waterskin | 1
-Wine (2 pints) | 1
-Wolfsbane (1 bunch) | 10
+| Item | Cost (gp) |
+|------|-----------|
+| Backpack | 5 |
+| Crowbar | 10 |
+| Garlic | 5 |
+| Grappling hook | 25 |
+| Hammer (small) | 2 |
+| Holy symbol | 25 |
+| Holy water (vial) | 25 |
+| Iron spikes (12) | 1 |
+| Lantern | 10 |
+| Mirror (hand-sized, steel) | 5 |
+| Oil (1 flask) | 2 |
+| Pole (10' long, wooden) | 1 |
+| Rations (iron, 7 days) | 15 |
+| Rations (standard, 7 days) | 5 |
+| Rope (50') | 1 |
+| Sack (small) | 1 |
+| Sack (large) | 2 |
+| Stakes (3) and mallet | 3 |
+| Thieves' tools | 25 |
+| Tinder box (flint &amp; steel) | 3 |
+| Torches (6) | 1 |
+| Waterskin | 1 |
+| Wine (2 pints) | 1 |
+| Wolfsbane (1 bunch) | 10 |
 
 ### <a name="armour"></a>Armour
 
-Armour | AC | Cost (gp) | Weight (Coins)
--------|----|-----------|---------------
-Leather | 7 | 20 | 200
-Chain mail | 5 | 40 | 400
-Plate mail | 3 | 60 | 500
-Shield | -1 bonus | 10 | 100
+| Armour | AC | Cost (gp) | Weight (Coins) |
+|--------|----|-----------|----------------|
+| Leather | 7 | 20 | 200 |
+| Chain mail | 5 | 40 | 400 |
+| Plate mail | 3 | 60 | 500 |
+| Shield | -1 bonus | 10 | 100 |
 
 **_Weight (Coins):_** The weight of armour is only tracked with [encumbrance option 2](core.md#encumbrance_by_weight).
 
 ### <a name="weapons"></a>Weapons
 
-Weapon | Cost (gp) | Weight (Coins)
--------|-----------|---------------
-Battle axe | 7 | 50
-Club | 3 | 50
-Crossbow | 30 | 50*
-Dagger | 3 | 10
-Hand axe | 4 | 30
-Javelin | 1 | 20&dagger;
-Lance | 5 | 120&dagger;
-Mace | 5 | 30
-Polearm | 7 | 150
-Long bow | 40 | 30*
-Short bow | 25 | 30*
-Short sword | 7 | 30
-Silver dagger | 30 | 10
-Sling | 2 | 20*&dagger;
-Spear | 3 | 30
-Staff | 2 | 40&dagger;
-Sword | 10 | 60
-Two-handed sword | 15 | 150
-Warhammer | 5 | 30
+| Weapon | Cost (gp) | Weight (Coins) |
+|--------|-----------|----------------|
+| Battle axe | 7 | 50 |
+| Club | 3 | 50 |
+| Crossbow | 30 | 50* |
+| Dagger | 3 | 10 |
+| Hand axe | 4 | 30 |
+| Javelin | 1 | 20&dagger; |
+| Lance | 5 | 120&dagger; |
+| Mace | 5 | 30 |
+| Polearm | 7 | 150 |
+| Long bow | 40 | 30* |
+| Short bow | 25 | 30* |
+| Short sword | 7 | 30 |
+| Silver dagger | 30 | 10 |
+| Sling | 2 | 20*&dagger; |
+| Spear | 3 | 30 |
+| Staff | 2 | 40&dagger; |
+| Sword | 10 | 60 |
+| Two-handed sword | 15 | 150 |
+| Warhammer | 5 | 30 |
 
 **_Weight (Coins):_** The weight of weapons is only tracked with [encumbrance option 2](core.md#encumbrance_by_weight)).
 
@@ -882,39 +882,39 @@ Warhammer | 5 | 30
 
 ### <a name="ammunition"></a>Ammunition
 
-Ammunition | Cost (gp)
------------|----------
-Crossbow bolts (case of 30) | 10
-Arrows (quiver of 20) | 5
-Silver tipped arrow (1) | 5
-Sling stones | Free
+| Ammunition | Cost (gp) |
+|------------|-----------|
+| Crossbow bolts (case of 30) | 10 |
+| Arrows (quiver of 20) | 5 |
+| Silver tipped arrow (1) | 5 |
+| Sling stones | Free |
 
 ### <a name="weapon_combat_stats"></a>Weapon Combat Stats
 
-Weapon | Damage | Qualities
--------|--------|----------
-Battle axe | 1d8 | Melee, Slow, Two-handed
-Club | 1d4 | Blunt, Melee
-Crossbow | 1d6 | Missile (5'-80' / 81'-160' / 161'-240'), Reload, Slow, Two-handed
-Dagger | 1d4 | Melee, Missile (5'-10' / 11'-20' / 21'-30')
-Hand axe | 1d6 | Melee, Missile (5'-10' / 11'-20' / 21'-30')
-Holy water vial | 1d8 | Missile (5'-10' / 11'-30' / 31'-50'), Splash weapon
-Javelin | 1d4 | Missile (5'-30' / 31'-60' / 61'-90' &dagger;)
-Lance | 1d6 | Charge, Melee
-Long bow | 1d6 | Missile (5'-70' / 71'-140' / 141'-210'), Two-handed
-Mace | 1d6 | Blunt, Melee
-Oil flask, burning | 1d8 | Missile (5'-10' / 11'-30' / 31'-50'), Splash weapon
-Polearm | 1d10 | Brace, Melee, Slow, Two-handed
-Short bow | 1d6 | Missile (5'-50' / 51'-100' / 101'-150'), Two-handed
-Short sword | 1d6 | Melee
-Silver dagger | 1d4 | Melee, Missile (5'-10' / 11'-20' / 21'-30')
-Sling | 1d4 | Blunt, Missile (5'-40' / 41'-80' / 81'-160')
-Spear | 1d6 | Brace, Melee, Missile (5'-20' / 21'-40' / 41'-60')
-Staff | 1d4 | Blunt, Melee, Slow, Two-handed
-Sword | 1d8 | Melee
-Torch | 1d4 | Melee
-Two-handed sword | 1d10 | Melee, Slow, Two-handed
-Warhammer | 1d6 | Blunt, Melee
+| Weapon | Damage | Qualities |
+|--------|--------|-----------|
+| Battle axe | 1d8 | Melee, Slow, Two-handed |
+| Club | 1d4 | Blunt, Melee |
+| Crossbow | 1d6 | Missile (5'-80' / 81'-160' / 161'-240'), Reload, Slow, Two-handed |
+| Dagger | 1d4 | Melee, Missile (5'-10' / 11'-20' / 21'-30') |
+| Hand axe | 1d6 | Melee, Missile (5'-10' / 11'-20' / 21'-30') |
+| Holy water vial | 1d8 | Missile (5'-10' / 11'-30' / 31'-50'), Splash weapon |
+| Javelin | 1d4 | Missile (5'-30' / 31'-60' / 61'-90' &dagger;) |
+| Lance | 1d6 | Charge, Melee |
+| Long bow | 1d6 | Missile (5'-70' / 71'-140' / 141'-210'), Two-handed |
+| Mace | 1d6 | Blunt, Melee |
+| Oil flask, burning | 1d8 | Missile (5'-10' / 11'-30' / 31'-50'), Splash weapon |
+| Polearm | 1d10 | Brace, Melee, Slow, Two-handed |
+| Short bow | 1d6 | Missile (5'-50' / 51'-100' / 101'-150'), Two-handed |
+| Short sword | 1d6 | Melee |
+| Silver dagger | 1d4 | Melee, Missile (5'-10' / 11'-20' / 21'-30') |
+| Sling | 1d4 | Blunt, Missile (5'-40' / 41'-80' / 81'-160') |
+| Spear | 1d6 | Brace, Melee, Missile (5'-20' / 21'-40' / 41'-60') |
+| Staff | 1d4 | Blunt, Melee, Slow, Two-handed |
+| Sword | 1d8 | Melee |
+| Torch | 1d4 | Melee |
+| Two-handed sword | 1d10 | Melee, Slow, Two-handed |
+| Warhammer | 1d6 | Blunt, Melee |
 
 **_Damage:_** _Die rolled when using the optional rule for [variable weapon damage](core.md#variable_weapon_damage)._
 
@@ -998,13 +998,13 @@ The items detailed in this section are those most commonly available for purchas
 
 ### <a name="animals_of_burden"></a>Animals of Burden
 
-Animal | Cost (gp) | Miles per Day | Movement Rate | Maximum Encumbrance (Coins)
-------|-----|----|------------|------
-Camel | 100 | 30 | 150' (50') | 6,000
-Horse (draft) | 40 | 18 | 90' (30') | 9,000
-Horse (riding) | 75 | 48 | 240' (80') | 6,000
-Horse (war) | 250 | 24 | 120' (40') | 8,000
-Mule | 30 | 24 | 120' (40') | 4,000
+| Animal | Cost (gp) | Miles per Day | Movement Rate | Maximum Encumbrance (Coins) |
+|-------|-----|----|------------|-------|
+| Camel | 100 | 30 | 150' (50') | 6,000 |
+| Horse (draft) | 40 | 18 | 90' (30') | 9,000 |
+| Horse (riding) | 75 | 48 | 240' (80') | 6,000 |
+| Horse (war) | 250 | 24 | 120' (40') | 8,000 |
+| Mule | 30 | 24 | 120' (40') | 4,000 |
 
 **_Movement Rate:_** Distance moved in one exploration turn; per-round encounter movement rate in parentheses.
 
@@ -1012,18 +1012,18 @@ Mule | 30 | 24 | 120' (40') | 4,000
 
 ### <a name="tack_and_harness"></a>Tack and Harness
 
-Item | Cost (gp)
------|----------
-Barding | 150
-Saddle and bridle | 25
-Saddle bags| 5
+| Item | Cost (gp) |
+|------|-----------|
+| Barding | 150 |
+| Saddle and bridle | 25 |
+| Saddle bags| 5 |
 
 ### <a name="vehicles"></a>Vehicles
 
-Vehicle | Cost (gp) | Miles per Day | Movement Rate | Max Load (Coins)
------|-----|----|-----------|--------------
-Cart | 100 | 12 | 60' (20') | 4,000 / 8,000
-Wagon | 200 | 12 | 60' (20') | 15,000 / 25,000
+| Vehicle | Cost (gp) | Miles per Day | Movement Rate | Max Load (Coins) |
+|------|-----|----|-----------|---------------|
+| Cart | 100 | 12 | 60' (20') | 4,000 / 8,000 |
+| Wagon | 200 | 12 | 60' (20') | 15,000 / 25,000 |
 
 **_Movement Rate:_** Distance moved in one exploration turn; per-round encounter movement rate in parentheses.
 
@@ -1065,29 +1065,29 @@ A ship's _beam_ is its width and its _draft_ is the depth it extends beneath the
 
 #### <a name="seaworthy_vessels"></a>Seaworthy Vessels
 
-Vessel | Cost (gp) | Maximum Cargo (Coins) | Usage | Length | Beam | Draft
----------|-------|--------|-----|-----|-------|------
-Lifeboat | 1,000 | 15,000 | Any | 20' | 4'-5' | 1'-2'
-Longship | 15,000 | 40,000 | Any | 60'-80' | 10'-15' | 2'-3'
-Sailing ship (large) | 20,000 | 300,000 | Coastal waters, open seas | 100'-150' | 25'-30' | 10'-12'
-Sailing ship (small) | 5,000 | 100,000 | Coastal waters, open seas | 60'-80' | 20'-30' | 5'-8'
-Troop transport (large) | 26,600 | 300,000 | Coastal waters, open seas | 100'-150' | 25'-30' | 10'-12'
-Troop transport (small) | 6,600 | 100,000 | Coastal waters, open seas | 60'-80' | 20'-30' | 5'-8'
-Warship (large) | 26,600 | 300,000 | Coastal waters, open seas | 100'-150' | 25'-30' | 10'-12'
-Warship (small) | 6,600 | 100,000 | Coastal waters, open seas | 60'-80' | 20'-30' | 5'-8'
+| Vessel | Cost (gp) | Maximum Cargo (Coins) | Usage | Length | Beam | Draft |
+|----------|-------|--------|-----|-----|-------|-------|
+| Lifeboat | 1,000 | 15,000 | Any | 20' | 4'-5' | 1'-2' |
+| Longship | 15,000 | 40,000 | Any | 60'-80' | 10'-15' | 2'-3' |
+| Sailing ship (large) | 20,000 | 300,000 | Coastal waters, open seas | 100'-150' | 25'-30' | 10'-12' |
+| Sailing ship (small) | 5,000 | 100,000 | Coastal waters, open seas | 60'-80' | 20'-30' | 5'-8' |
+| Troop transport (large) | 26,600 | 300,000 | Coastal waters, open seas | 100'-150' | 25'-30' | 10'-12' |
+| Troop transport (small) | 6,600 | 100,000 | Coastal waters, open seas | 60'-80' | 20'-30' | 5'-8' |
+| Warship (large) | 26,600 | 300,000 | Coastal waters, open seas | 100'-150' | 25'-30' | 10'-12' |
+| Warship (small) | 6,600 | 100,000 | Coastal waters, open seas | 60'-80' | 20'-30' | 5'-8' |
 
 #### <a name="unseaworthy_vessels"></a>Unseaworthy Vessels
 
-Vessel | Cost (gp) | Maximum Cargo (Coins) | Usage | Length | Beam | Draft
----------|-------|--------|-----|-----|-------|------
-Boat (river) | 4,000 | 30,000 | Rivers, lakes | 20'-30' | 10' | 2'-3'
-Boat (sailing) | 2,000 | 20,000 | Lakes, coastal waters | 20'-40' | 10'-15' | 2'-3'
-Canoe | 50 | 6,000 | Rivers, swamps | 15' | 3' | 1' &dagger;
-Galley (large) | 30,000 | 40,000 | Coastal waters | 120'-150' | 15'-20' | 3'
-Galley (small) | 10,000 | 20,000 | Coastal waters | 60'-100' | 10'-15' | 2'-3'
-Galley (war) | 60,000 | 60,000 | Coastal waters | 120'-150' | 20'-30' | 4'-6'
-Raft (makeshift) | - | 50 per square foot | Rivers, lakes | Varies | Varies | 1/2' &dagger;
-Raft (professional) | 1gp / square foot | 100 per square foot | Rivers, lakes | Varies | Varies | 1/2' &dagger;
+| Vessel | Cost (gp) | Maximum Cargo (Coins) | Usage | Length | Beam | Draft |
+|----------|-------|--------|-----|-----|-------|-------|
+| Boat (river) | 4,000 | 30,000 | Rivers, lakes | 20'-30' | 10' | 2'-3' |
+| Boat (sailing) | 2,000 | 20,000 | Lakes, coastal waters | 20'-40' | 10'-15' | 2'-3' |
+| Canoe | 50 | 6,000 | Rivers, swamps | 15' | 3' | 1' &dagger; |
+| Galley (large) | 30,000 | 40,000 | Coastal waters | 120'-150' | 15'-20' | 3' |
+| Galley (small) | 10,000 | 20,000 | Coastal waters | 60'-100' | 10'-15' | 2'-3' |
+| Galley (war) | 60,000 | 60,000 | Coastal waters | 120'-150' | 20'-30' | 4'-6' |
+| Raft (makeshift) | - | 50 per square foot | Rivers, lakes | Varies | Varies | 1/2' &dagger; |
+| Raft (professional) | 1gp / square foot | 100 per square foot | Rivers, lakes | Varies | Varies | 1/2' &dagger; |
 
 &dagger; _Not defined in the traditional Expert rules; value extrapolated from similar vessels._
 
@@ -1135,24 +1135,24 @@ Unseaworthy vessels are designed for use in rivers, lakes, or coastal waters, no
 
 ### <a name="vessel_movement_rates_and_crew"></a>Vessel Movement Rates and Crew
 
-Vessel | Requires Captain? | Req. Oarsmen | Row Miles/Day | Row Movement Rate | Req. Sailors | Sail Miles/Day | Sail Movement Rate
--------------|----|---|----|------------|---|---|---
-Boat (river) | No | 8 | 36 | 180' (60') | - | - | -
-Boat (sailing) | No | - | - | - | 1 | 72 | 360' (120')
-Canoe | No | 1&dagger; | 18 | 90' (60') | - | - | -
-Galley (large) | Yes | 180 | 18 | 90' (90') | 20 | 72 | 360' (120')
-Galley (small) | Yes | 60 | 18 | 90' (90') | 10 | 90 | 450' (150')
-Galley (war) | Yes | 300 | 12 | 60' (60') | 30 | 72 | 360' (120')
-Lifeboat | No | - | - | - | 1&dagger; | 18 | 90' (30')
-Longship | Yes | 60* | 18 | 90' (90') | 75* | 90 | 450' (150')
-Raft (makeshift) | No | 1&dagger; | 12 | 60' (30') | - | - | -
-Raft (prof.) | No | 1&dagger; | 12 | 60' (30') | - | - | -
-Sailing ship (lg.) | Yes | - | - | - | 20 | 72 | 360' (120')
-Sailing ship (sm.) | Yes | - | - | - | 10 | 90 | 450' (150')
-Troop trans. (lg.) | Yes | - | - | - | 20 | 72 | 360' (120')
-Troop trans. (sm.) | Yes | - | - | - | 10 | 90 | 450' (150')
-Warship (large) | Yes | - | - | - | 20 | 72 | 360' (120')
-Warship (small) | Yes | - | - | - | 10 | 90 | 360' (150')
+| Vessel | Requires Captain? | Req. Oarsmen | Row Miles/Day | Row Movement Rate | Req. Sailors | Sail Miles/Day | Sail Movement Rate |
+|--------------|----|---|----|------------|---|---|----|
+| Boat (river) | No | 8 | 36 | 180' (60') | - | - | --|
+| Boat (sailing) | No | - | - | - | 1 | 72 | 360' (120') |
+| Canoe | No | 1&dagger; | 18 | 90' (60') | - | - | --|
+| Galley (large) | Yes | 180 | 18 | 90' (90') | 20 | 72 | 360' (120') |
+| Galley (small) | Yes | 60 | 18 | 90' (90') | 10 | 90 | 450' (150') |
+| Galley (war) | Yes | 300 | 12 | 60' (60') | 30 | 72 | 360' (120') |
+| Lifeboat | No | - | - | - | 1&dagger; | 18 | 90' (30') |
+| Longship | Yes | 60* | 18 | 90' (90') | 75* | 90 | 450' (150') |
+| Raft (makeshift) | No | 1&dagger; | 12 | 60' (30') | - | - | --|
+| Raft (prof.) | No | 1&dagger; | 12 | 60' (30') | - | - | --|
+| Sailing ship (lg.) | Yes | - | - | - | 20 | 72 | 360' (120') |
+| Sailing ship (sm.) | Yes | - | - | - | 10 | 90 | 450' (150') |
+| Troop trans. (lg.) | Yes | - | - | - | 20 | 72 | 360' (120') |
+| Troop trans. (sm.) | Yes | - | - | - | 10 | 90 | 450' (150') |
+| Warship (large) | Yes | - | - | - | 20 | 72 | 360' (120') |
+| Warship (small) | Yes | - | - | - | 10 | 90 | 360' (150') |
 
 **_Movement Rate:_** Distance moved in one exploration turn; per-round encounter movement rate in parentheses.
 
@@ -1170,24 +1170,24 @@ Having less than the required number of oarsmen reduces a vessel's speed. For ev
 
 ### <a name="vessel_combat_stats"></a>Vessel Combat Stats
 
-Vessel | Maximum Mercenaries | Armour Class | Hull Points | Ram? | Catapult?
--------------|---|---|-------|---|---
-Boat (river) | - | 8 | 20-40 | - | -
-Boat (sailing) | - | 8 | 20-40 | - | -
-Canoe | - | 9 | 5-10 | - | -
-Galley (large) | 50 | 7 | 100-120 | Can be added | Up to 2
-Galley (small) | 20 | 8 | 80-100 | Can be added | Up to 2
-Galley (war) | 75 | 7 | 120-150 | Built in | Up to 3
-Lifeboat | - | 9 | 10-20 | - | -
-Longship | 75* | 8 | 60-80 | - | Up to 1
-Raft (makeshift) | - | 9 | 5 per 10' sq | - | -
-Raft (professional) | - | 9 | 5 per 10' sq | - | -
-Sailing ship (large) | - | 7 | 120-180 | - | -
-Sailing ship (small) | - | 8 | 60-90 | - | -
-Troop trans. (lg.) | 100 | 7 | 160-240 | - | -
-Troop trans. (sm.) | 50 | 8 | 80-120 | - | -
-Warship (large) | 50 | 7 | 120-180 | - | Up to 2
-Warship (small) | 25 | 8 | 60-90 | - | Up to 1
+| Vessel | Maximum Mercenaries | Armour Class | Hull Points | Ram? | Catapult? |
+|--------------|---|---|-------|---|----|
+| Boat (river) | - | 8 | 20-40 | - | --|
+| Boat (sailing) | - | 8 | 20-40 | - | --|
+| Canoe | - | 9 | 5-10 | - | --|
+| Galley (large) | 50 | 7 | 100-120 | Can be added | Up to 2 |
+| Galley (small) | 20 | 8 | 80-100 | Can be added | Up to 2 |
+| Galley (war) | 75 | 7 | 120-150 | Built in | Up to 3 |
+| Lifeboat | - | 9 | 10-20 | - | --|
+| Longship | 75* | 8 | 60-80 | - | Up to 1 |
+| Raft (makeshift) | - | 9 | 5 per 10' sq | - | --|
+| Raft (professional) | - | 9 | 5 per 10' sq | - | --|
+| Sailing ship (large) | - | 7 | 120-180 | - | --|
+| Sailing ship (small) | - | 8 | 60-90 | - | --|
+| Troop trans. (lg.) | 100 | 7 | 160-240 | - | --|
+| Troop trans. (sm.) | 50 | 8 | 80-120 | - | --|
+| Warship (large) | 50 | 7 | 120-180 | - | Up to 2 |
+| Warship (small) | 25 | 8 | 60-90 | - | Up to 1 |
 
 #### <a name="marines"></a>Mercenaries
 
@@ -1217,13 +1217,13 @@ The following modifications may be made to an existing ship:
 
 ### <a name="ship_weaponry"></a>Ship Weaponry
 
-Item | Cost (gp)
----------|-----
-Catapult | 100
-Catapult shot | 5
-Catapult shot, pitch | 25
-Ram, large galley | 10,000
-Ram, small galley | 3,000
+| Item | Cost (gp) |
+|----------|------|
+| Catapult | 100 |
+| Catapult shot | 5 |
+| Catapult shot, pitch | 25 |
+| Ram, large galley | 10,000 |
+| Ram, small galley | 3,000 |
 
 ### <a name="weaponry_descriptions"></a>Weaponry Descriptions
 
@@ -1258,20 +1258,20 @@ The monthly rate of pay includes food and basic gear. Most mercenaries already h
 
 ### <a name="common_mercenary_types"></a>Common Mercenary Types
 
-Type | Weapons | AC | Base Morale | Human | Dwarf | Elf | Orc | Goblin
--------|----------|---|---|-----|---|------|-----|----
-Archer | Shortbow | 6 | 8 | 5gp | - | 10gp | 3gp | 2gp
-Archer, mounted | Shortbow | 9 | 9 | 15gp | - | 30gp | - | -
-Crossbowman | Crossbow | 5 | 8 | 4gp | 6gp | - | 2gp | -
-Crossbowman, mounted | Crossbow | 9 | 9 | - | 15gp | - | - | -
-Footman, light | Sword | 6 | 8 | 2gp | - | 4gp | 1gp | 5sp
-Footman, heavy | Sword | 4 | 8 | 3gp | 5gp | 6gp | 15sp | -
-Horseman, light | Lance | 7 | 9 | 10gp | - | 20gp | - | -
-Horseman, med. | Lance | 5 | 9 | 15gp | - | - | - | -
-Horseman, heavy | Lance, sword | 3 | 9 | 20gp | - | - | - | -
-Longbowman | Longbow, sword | 5 | 8 | 10gp | - | 20gp | - | -
-Peasant | None | 9 | 6 | 1gp | - | - | - | -
-Wolf rider | Spear | 7 | 9 | - | - | - | - | 5gp
+| Type | Weapons | AC | Base Morale | Human | Dwarf | Elf | Orc | Goblin |
+|--------|----------|---|---|-----|---|------|-----|-----|
+| Archer | Shortbow | 6 | 8 | 5gp | - | 10gp | 3gp | 2gp |
+| Archer, mounted | Shortbow | 9 | 9 | 15gp | - | 30gp | - | --|
+| Crossbowman | Crossbow | 5 | 8 | 4gp | 6gp | - | 2gp | --|
+| Crossbowman, mounted | Crossbow | 9 | 9 | - | 15gp | - | - | --|
+| Footman, light | Sword | 6 | 8 | 2gp | - | 4gp | 1gp | 5sp |
+| Footman, heavy | Sword | 4 | 8 | 3gp | 5gp | 6gp | 15sp | --|
+| Horseman, light | Lance | 7 | 9 | 10gp | - | 20gp | - | --|
+| Horseman, med. | Lance | 5 | 9 | 15gp | - | - | - | --|
+| Horseman, heavy | Lance, sword | 3 | 9 | 20gp | - | - | - | --|
+| Longbowman | Longbow, sword | 5 | 8 | 10gp | - | 20gp | - | --|
+| Peasant | None | 9 | 6 | 1gp | - | - | - | --|
+| Wolf rider | Spear | 7 | 9 | - | - | - | - | 5gp |
 
 **_Wage per Month:_** This is the rate of pay out of wartime. In wartime, all wages are doubled.
 
@@ -1282,14 +1282,14 @@ Wolf rider | Spear | 7 | 9 | - | - | - | - | 5gp
 Like retainers, mercenaries have a morale rating. However, the morale rating of a group of mercenaries is determined solely by their type---it does not depend on the CHA of the hiring character.
 The table of common mercenary types to the left lists their basic morale rating, but the following chart may be used to calculate the morale of other types of mercenary:
 
-**Mercenary Type** | **Morale**
-------------------|---
-Peasants, Militia | 6
-Barbarians | 7
-Soldiers, Men-at-arms | 8
-Mounted soldiers | +1
-Elite soldiers | +1
-Fanatic soldiers, Berserkers | +2
+| Mercenary Type | Morale |
+|-------------------|----|
+| Peasants, Militia | 6 |
+| Barbarians | 7 |
+| Soldiers, Men-at-arms | 8 |
+| Mounted soldiers | +1 |
+| Elite soldiers | +1 |
+| Fanatic soldiers, Berserkers | +2 |
 
 #### <a name="modifiers"></a>Modifiers
 
@@ -1309,20 +1309,20 @@ Specialists may be located by frequenting pubs or by posting notices of help wan
 
 Several possible types of specialist are described below, along with their typical monthly pay rates. The monthly rate of pay includes food and basic gear. This list is not exhaustive and the referee may create additional types of specialist as needed.
 
-Specialist | Wage per Month
-----------|--------
-Alchemist | 1,000gp
-Animal trainer | 500gp
-Armourer | 100gp
-Assistant armourer | 15gp&dagger;
-Blacksmith | 25gp
-Engineer | 750gp
-Navigator | 150gp
-Oarsman | 2gp
-Sage | 2,000gp
-Sailor | 10gp
-Ship's captain | 250gp
-Spy | 500gp (or more)
+| Specialist | Wage per Month |
+|-----------|---------|
+| Alchemist | 1,000gp |
+| Animal trainer | 500gp |
+| Armourer | 100gp |
+| Assistant armourer | 15gp&dagger; |
+| Blacksmith | 25gp |
+| Engineer | 750gp |
+| Navigator | 150gp |
+| Oarsman | 2gp |
+| Sage | 2,000gp |
+| Sailor | 10gp |
+| Ship's captain | 250gp |
+| Spy | 500gp (or more) |
 
 &dagger; _Not defined in the traditional Expert rules; value extrapolated from similar specialists._
 
@@ -1419,20 +1419,20 @@ The character can expect to gain money through taxes at a rate of 10 gp per sett
 
 ### <a name="standard_structures"></a>Standard Structures
 
-Structure | Description | Dimensions | Cost
-----------|-------------|------------|-----
-Barbican | Heavily fortified entry/exit point in a castle wall. Consists of two small towers, a gatehouse, and a drawbridge. | See small tower, gatehouse, drawbridge | 37,000gp
-Bastion | Semi-circular tower built against a castle wall. | 30' base, 30' high, walls 5' thick | 9,000gp
-Civilian building, stone | Two levels; wooden stairs, doors, floors, and roof; attic. | Outer wall 120' long (e.g. 30'&times;40'), walls 1-2' thick | 3,000gp
-Civilian building, wood | Two levels; wooden stairs, doors, floors, and roof; attic. | Outer wall 120' long (e.g. 30'&times;40') | 1,500gp
-Drawbridge | Raisable wooden bridge crossing a moat. May be attached to a gatehouse. | 10' long | 500gp
-Gatehouse | Fortified entry/exit point in a castle wall. Includes a portcullis. | 30'&times;20' base, 20' high, walls 5' thick | 6,500gp
-Keep | Square, fortified building at the centre of a castle. | 60' base, 80' high, walls 10' thick | 75,000gp
-Moat | Defensive ditch, optionally filled with water. | 100' long, 20' wide, 10' deep | 400gp
-Subterranean passage | Typical dungeon passageway. | 10'&times;10'&times;10' | 500gp
-Tower, large | Round tower, either freestanding or built into a castle wall. | 30' base, 40' high, walls 5' thick | 30,000gp
-Tower, small | Round tower, either freestanding or built into a castle wall. | 20' base, 30' high, walls 5' thick | 15,000gp
-Wall, castle | Stone wall with battlements. | 100' long, 20' high, 10' thick | 5,000gp
+| Structure | Description | Dimensions | Cost |
+|-----------|-------------|------------|------|
+| Barbican | Heavily fortified entry/exit point in a castle wall. Consists of two small towers, a gatehouse, and a drawbridge. | See small tower, gatehouse, drawbridge | 37,000gp |
+| Bastion | Semi-circular tower built against a castle wall. | 30' base, 30' high, walls 5' thick | 9,000gp |
+| Civilian building, stone | Two levels; wooden stairs, doors, floors, and roof; attic. | Outer wall 120' long (e.g. 30'&times;40'), walls 1-2' thick | 3,000gp |
+| Civilian building, wood | Two levels; wooden stairs, doors, floors, and roof; attic. | Outer wall 120' long (e.g. 30'&times;40') | 1,500gp |
+| Drawbridge | Raisable wooden bridge crossing a moat. May be attached to a gatehouse. | 10' long | 500gp |
+| Gatehouse | Fortified entry/exit point in a castle wall. Includes a portcullis. | 30'&times;20' base, 20' high, walls 5' thick | 6,500gp |
+| Keep | Square, fortified building at the centre of a castle. | 60' base, 80' high, walls 10' thick | 75,000gp |
+| Moat | Defensive ditch, optionally filled with water. | 100' long, 20' wide, 10' deep | 400gp |
+| Subterranean passage | Typical dungeon passageway. | 10'&times;10'&times;10' | 500gp |
+| Tower, large | Round tower, either freestanding or built into a castle wall. | 30' base, 40' high, walls 5' thick | 30,000gp |
+| Tower, small | Round tower, either freestanding or built into a castle wall. | 20' base, 30' high, walls 5' thick | 15,000gp |
+| Wall, castle | Stone wall with battlements. | 100' long, 20' high, 10' thick | 5,000gp |
 
 #### <a name="non_standard_dimensions"></a>Non-Standard Dimensions
 
@@ -1460,25 +1460,25 @@ For simplicity, the cost of a stronghold may be increased by 25% to account for 
 
 If the group wishes to perform more detailed calculations or if additional features are desired, the chart below may be consulted.
 
-Detail | Dimensions | Cost
------------|---|-----
-Arrow slit | - | 10gp
-Door, iron | 3' wide, 7' tall | 50gp
-Door, reinforced wood | 3' wide, 7' tall | 20gp
-Door, stone | 3' wide, 7' tall | 50gp
-Door, wood | 3' wide, 7' tall | 10gp
-Floor, flagstones or tiles | 10'&times;10' section | 100gp
-Floor, wood | 10'&times;10' section | 40gp
-Roof, tiled | 10'&times;10' section | 100gp
-Roof, wood | 10'&times;10' section | 40gp
-Secret door or trapdoor | Normal | Five times normal
-Shifting wall | 10'&times;10' section | 1,000gp
-Stairs, stone | 3' wide, 10' long section | 60gp
-Stairs, wooden | 3' wide, 10' long section | 20gp
-Trapdoor, iron | 4'&times;3' | 120gp
-Trapdoor, reinforced wood | 4'&times;3' | 40gp
-Trapdoor, stone | 4'&times;3' | 120gp
-Trapdoor, wood | 4'&times;3' | 20gp
-Window | - | 10gp
-Window bars | - | 10gp
-Window shutters | - | 5gp
+| Detail | Dimensions | Cost |
+|------------|---|------|
+| Arrow slit | - | 10gp |
+| Door, iron | 3' wide, 7' tall | 50gp |
+| Door, reinforced wood | 3' wide, 7' tall | 20gp |
+| Door, stone | 3' wide, 7' tall | 50gp |
+| Door, wood | 3' wide, 7' tall | 10gp |
+| Floor, flagstones or tiles | 10'&times;10' section | 100gp |
+| Floor, wood | 10'&times;10' section | 40gp |
+| Roof, tiled | 10'&times;10' section | 100gp |
+| Roof, wood | 10'&times;10' section | 40gp |
+| Secret door or trapdoor | Normal | Five times normal |
+| Shifting wall | 10'&times;10' section | 1,000gp |
+| Stairs, stone | 3' wide, 10' long section | 60gp |
+| Stairs, wooden | 3' wide, 10' long section | 20gp |
+| Trapdoor, iron | 4'&times;3' | 120gp |
+| Trapdoor, reinforced wood | 4'&times;3' | 40gp |
+| Trapdoor, stone | 4'&times;3' | 120gp |
+| Trapdoor, wood | 4'&times;3' | 20gp |
+| Window | - | 10gp |
+| Window bars | - | 10gp |
+| Window shutters | - | 5gp |

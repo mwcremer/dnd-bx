@@ -63,14 +63,14 @@ In order to consult with an oracle, remove a curse, or find a holy relic, the PC
 
 The central location of an adventure is often a dungeon of some kind. The referee should decide on the basic form and structure of the dungeon, and can begin to come up with ideas for the main rooms or areas. The following table may be used to decide the basic form.
 
-d6 | Setting
---|----------------------
-1 | Crypt or tomb complex
-2 | Natural caverns
-3 | Settlement (e.g. castle, village, city)
-4 | Subterranean delving (e.g. mine)
-5 | Temple
-6 | Tower or fortification
+| d6 | Setting |
+|---|-----------------------|
+| 1 | Crypt or tomb complex |
+| 2 | Natural caverns |
+| 3 | Settlement (e.g. castle, village, city) |
+| 4 | Subterranean delving (e.g. mine) |
+| 5 | Temple |
+| 6 | Tower or fortification |
 
 ### <a name="choose_monsters"></a>2. Choose Monsters
 
@@ -101,12 +101,12 @@ Treasure is usually guarded by monsters or traps, but sometimes an unguarded cac
 
 #### <a name="random_dungeon_room_contents"></a>Random Dungeon Room Contents
 
-d6 | Room Type | Chance of Treasure
-----|-------|-------
-1-2 | Empty | 1-in-6
-3-4 | Monster | 3-in-6
-5 | Special | None
-6 | Trap | 2-in-6
+| d6 | Room Type | Chance of Treasure |
+|-----|-------|--------|
+| 1-2 | Empty | 1-in-6 |
+| 3-4 | Monster | 3-in-6 |
+| 5 | Special | None |
+| 6 | Trap | 2-in-6 |
 
 - **_Monsters:_** May be selected by hand or rolled (see [**_Dungeon Encounter Tables_**](#dungeon_encounter_tables)).
 - **_Specials:_** Unusual, magical, or weird features of an area. This can include tricks or puzzles.
@@ -197,12 +197,12 @@ The standard [**_Wilderness Encounter Tables_**](#wilderness_encounter_tables) m
 
 Decide how large the base town is and roughly how many inhabitants it has:
 
-Town Size | Inhabitants
-----------|------------
-Village | 50 - 999
-Small Town | 1,000 - 4,999
-Large Town | 5,000 - 14,999
-City | 15,000+
+| Town Size | Inhabitants |
+|-----------|-------------|
+| Village | 50 - 999 |
+| Small Town | 1,000 - 4,999 |
+| Large Town | 5,000 - 14,999 |
+| City | 15,000+ |
 
 ### <a name="services"></a>2. Services
 
@@ -239,51 +239,51 @@ Roll 1d20 and look up the result on the column in the table below that correspon
 - **_NPC adventurers:_** Encounters with NPC adventuring parties are listed in the tables as "Basic Adventurers" or "Expert Adventurers". Guidelines for generating NPC adventurers can be found in [**_NPC Parties_**](#npc_parties).
 - **_Number appearing:_** The values listed in the tables for some monsters do not match the values listed in [**_B/X Essentials: Monsters_**](monsters.md). If desired, the referee may use the number appearing value listed in the monsters book, for consistency.
 
-d20 | Level 1 | Level 2 | Level 3
-----|---------|---------|--------
-1 | Acolyte (1d8) | Beetle, Oil (1d8) | Ape, White (1d6)
-2 | Bandit (1d8) | Berserker (1d6) | Basic Adventurers (1d4+4)
-3 | Beetle, Fire (1d8) | Cat, Mountain Lion (1d4) | Beetle, Tiger (1d6)
-4 | Dwarf (1d6) | Elf (1d4) | Bugbear (2d4)
-5 | Gnome (1d6) | Ghoul (1d6) | Carcass Crawler (1d3)
-6 | Goblin (2d4) | Gnoll (1d6) | Doppelgänger (1d6)
-7 | Green Slime (1d4) | Grey Ooze (1) | Driver Ant (2d4)
-8 | Halfling (3d6) | Hobgoblin (1d6) | Gargoyle (1d6)
-9 | Killer Bee (1d10) | Lizard, Draco (1d4) | Gelatinous Cube (1)
-10 | Kobold (4d4) | Lizard Man (2d4) | Harpy (1d6)
-11 | Lizard, Gecko (1d3) | Neanderthal (1d10) | Lvng. Statue, Crystal (1d6)
-12 | Orc (2d4) | Noble (2d6) | Lycan., Wererat (1d8)
-13 | Shrew, Giant (1d10) | Pixie (2d4) | Medium (1d4)
-14 | Skeleton (3d4) | Robber Fly (1d6) | Medusa (1d3)
-15 | Snake, Cobra (1d6) | Rock Baboon (2d6) | Ochre Jelly (1)
-16 | Spider, Crab (1d4) | Snake, Pit Viper (1d8) | Ogre (1d6)
-17 | Sprite (3d6) | Spider, Black Widow (1d3) | Shadow (1d8)
-18 | Stirge (1d10) | Troglodyte (1d8) | Spider, Tarantella (1d3)
-19 | Trader (1d8) | Veteran (2d4) | Thoul (1d6)
-20 | Wolf (2d6) | Zombie (2d4) | Wight (1d6)
+| d20 | Level 1 | Level 2 | Level 3 |
+|-----|---------|---------|---------|
+| 1 | Acolyte (1d8) | Beetle, Oil (1d8) | Ape, White (1d6) |
+| 2 | Bandit (1d8) | Berserker (1d6) | Basic Adventurers (1d4+4) |
+| 3 | Beetle, Fire (1d8) | Cat, Mountain Lion (1d4) | Beetle, Tiger (1d6) |
+| 4 | Dwarf (1d6) | Elf (1d4) | Bugbear (2d4) |
+| 5 | Gnome (1d6) | Ghoul (1d6) | Carcass Crawler (1d3) |
+| 6 | Goblin (2d4) | Gnoll (1d6) | Doppelgänger (1d6) |
+| 7 | Green Slime (1d4) | Grey Ooze (1) | Driver Ant (2d4) |
+| 8 | Halfling (3d6) | Hobgoblin (1d6) | Gargoyle (1d6) |
+| 9 | Killer Bee (1d10) | Lizard, Draco (1d4) | Gelatinous Cube (1) |
+| 10 | Kobold (4d4) | Lizard Man (2d4) | Harpy (1d6) |
+| 11 | Lizard, Gecko (1d3) | Neanderthal (1d10) | Lvng. Statue, Crystal (1d6) |
+| 12 | Orc (2d4) | Noble (2d6) | Lycan., Wererat (1d8) |
+| 13 | Shrew, Giant (1d10) | Pixie (2d4) | Medium (1d4) |
+| 14 | Skeleton (3d4) | Robber Fly (1d6) | Medusa (1d3) |
+| 15 | Snake, Cobra (1d6) | Rock Baboon (2d6) | Ochre Jelly (1) |
+| 16 | Spider, Crab (1d4) | Snake, Pit Viper (1d8) | Ogre (1d6) |
+| 17 | Sprite (3d6) | Spider, Black Widow (1d3) | Shadow (1d8) |
+| 18 | Stirge (1d10) | Troglodyte (1d8) | Spider, Tarantella (1d3) |
+| 19 | Trader (1d8) | Veteran (2d4) | Thoul (1d6) |
+| 20 | Wolf (2d6) | Zombie (2d4) | Wight (1d6) |
 
-d20 | Level 4-5 | Level 6-7 | Level 8+
-----|-----------|-----------|---------
-1 | Bear, Cave (1d2) | Basilisk (1d6) | Black Pudding (1)
-2 | Blink Dog (1d6) | Bear, Cave (1d2) | Chimera (1d2)
-3 | Caecilia (1d3) | Black Pudding (1) | Dragon, Black (1d4)
-4 | Cockatrice (1d4) | Caecilia (1d3) | Dragon, Blue (1d4)
-5 | Doppelgänger (1d6) | Dragon, White (1d4) | Dragon, Gold (1d4)
-6 | Exp. Adventurers (1d6+3) | Exp. Adventurers (1d6+3) | Dragon, Green (1d4)
-7 | Grey Ooze (1) | Gorgon (1d2) | Dragon, Red (1d4)
-8 | Hellhound (2d4) | Hellhound (2d4) | Exp. Adventurers (1d6+3)
-9 | Lizard, Tuatara (1d2) | Hydra, 1d4+4HD (1) | Giant, Hill (1d4)
-10 | Lycan., Wereboar (1d4) | Lycan., Weretiger (1d4) | Giant, Stone (1d2)
-11 | Lycan., Werewolf (1d6) | Minotaur (1d6) | Golem, Amber (1)
-12 | Minotaur (1d6) | Mummy (1d4) | Golem, Bone (1)
-13 | Ochre Jelly (1) | Ochre Jelly (1) | Hydra, 1d4+8HD (1)
-14 | Owl Bear (1d4) | Owl Bear (1d4) | Lycan., Devil Swine (1d3)
-15 | Rhagodessa (1d4) | Rust Monster (1d4) | Lycan., Werebear (1d4)
-16 | Rust Monster (1d4) | Salamndr., Flame (1d4+1) | Manticore (1d2)
-17 | Spectre (1d4) | Scorpion, Giant (1d6) | Purple Worm (1d2)
-18 | Troll (1d8) | Spectre (1d4) | Salamndr., Flame (1d4+1)
-19 | Weasel, Giant (1d4) | Troll (1d8) | Salamander, Frost (1d3)
-20 | Wraith (1d4) | Warp Beast (1d4) | Vampire (1d4)
+| d20 | Level 4-5 | Level 6-7 | Level 8+ |
+|-----|-----------|-----------|----------|
+| 1 | Bear, Cave (1d2) | Basilisk (1d6) | Black Pudding (1) |
+| 2 | Blink Dog (1d6) | Bear, Cave (1d2) | Chimera (1d2) |
+| 3 | Caecilia (1d3) | Black Pudding (1) | Dragon, Black (1d4) |
+| 4 | Cockatrice (1d4) | Caecilia (1d3) | Dragon, Blue (1d4) |
+| 5 | Doppelgänger (1d6) | Dragon, White (1d4) | Dragon, Gold (1d4) |
+| 6 | Exp. Adventurers (1d6+3) | Exp. Adventurers (1d6+3) | Dragon, Green (1d4) |
+| 7 | Grey Ooze (1) | Gorgon (1d2) | Dragon, Red (1d4) |
+| 8 | Hellhound (2d4) | Hellhound (2d4) | Exp. Adventurers (1d6+3) |
+| 9 | Lizard, Tuatara (1d2) | Hydra, 1d4+4HD (1) | Giant, Hill (1d4) |
+| 10 | Lycan., Wereboar (1d4) | Lycan., Weretiger (1d4) | Giant, Stone (1d2) |
+| 11 | Lycan., Werewolf (1d6) | Minotaur (1d6) | Golem, Amber (1) |
+| 12 | Minotaur (1d6) | Mummy (1d4) | Golem, Bone (1) |
+| 13 | Ochre Jelly (1) | Ochre Jelly (1) | Hydra, 1d4+8HD (1) |
+| 14 | Owl Bear (1d4) | Owl Bear (1d4) | Lycan., Devil Swine (1d3) |
+| 15 | Rhagodessa (1d4) | Rust Monster (1d4) | Lycan., Werebear (1d4) |
+| 16 | Rust Monster (1d4) | Salamndr., Flame (1d4+1) | Manticore (1d2) |
+| 17 | Spectre (1d4) | Scorpion, Giant (1d6) | Purple Worm (1d2) |
+| 18 | Troll (1d8) | Spectre (1d4) | Salamndr., Flame (1d4+1) |
+| 19 | Weasel, Giant (1d4) | Troll (1d8) | Salamander, Frost (1d3) |
+| 20 | Wraith (1d4) | Warp Beast (1d4) | Vampire (1d4) |
 
 ## <a name="wilderness_encounter_tables"></a>Wilderness Encounter Tables
 
@@ -302,214 +302,214 @@ Roll 1d8 and 1d12:
 - **_Lost World:_** In Lost World or prehistoric settings, any Animal result may be rolled on the **_Prehistoric Animal_** table, in [sub-table 2](#sub_table_2), below.
 - **_NPC adventurers:_** Encounters with NPC adventuring parties are listed in the tables as "Basic Adventurers", "Expert Adventurers", "High-Level Cleric", "High-Level Fighter", or "High-Level Magic-User". Guidelines for generating NPC adventurers can be found in [**_NPC Parties_**](#npc_parties).
 
-d8 | Barren, Hills, Mountains | City | Clear, Grasslands | Desert | Forest
----|--------------------------|------|-------------------|--------|-------
-1 | B---Animal | C---Human | G---Animal | D---Animal | F---Animal
-2 | 1---Dragon | C---Human | G---Animal | D---Animal | F---Animal
-3 | 1---Dragon | C---Human | 1---Dragon | 1---Dragon | 1---Dragon
-4 | B---Flyer | C---Human | 1---Flyer | D---Flyer | 1---Flyer
-5 | B---Human | C---Human | G---Human | D---Human | F---Human
-6 | B---Humanoid | C---Human | G---Humanoid | D---Human | F---Humanoid
-7 | B---Humanoid | C---Humanoid | 1---Insect | D---Humanoid | 1---Insect
-8 | 2---Unusual | 2---Undead | 2---Unusual | 2---Undead | 2---Unusual
+| d8 | Barren, Hills, Mountains | City | Clear, Grasslands | Desert | Forest |
+|----|--------------------------|------|-------------------|--------|--------|
+| 1 | B---Animal | C---Human | G---Animal | D---Animal | F---Animal |
+| 2 | 1---Dragon | C---Human | G---Animal | D---Animal | F---Animal |
+| 3 | 1---Dragon | C---Human | 1---Dragon | 1---Dragon | 1---Dragon |
+| 4 | B---Flyer | C---Human | 1---Flyer | D---Flyer | 1---Flyer |
+| 5 | B---Human | C---Human | G---Human | D---Human | F---Human |
+| 6 | B---Humanoid | C---Human | G---Humanoid | D---Human | F---Humanoid |
+| 7 | B---Humanoid | C---Humanoid | 1---Insect | D---Humanoid | 1---Insect |
+| 8 | 2---Unusual | 2---Undead | 2---Unusual | 2---Undead | 2---Unusual |
 
-d8 | Jungle | Lake, River | Ocean, Sea | Settled | Swamp
----|--------|-------------|------------|---------|------
-1 | J---Animal | L---Animal | 1---Dragon | C---Animal | 1---Dragon
-2 | J---Animal | 1---Dragon | 1---Flyer | 1---Dragon | 1---Flyer
-3 | 1---Dragon | 1---Flyer | O---Human | 1---Flyer | S---Human
-4 | 1---Flyer | L---Human | O---Swimmer | C---Human | S---Humanoid
-5 | J---Human | L---Humanoid | O---Swimmer | C---Human | 1---Insect
-6 | J---Humanoid | 1---Insect | O---Swimmer | C---Human | S---Swimmer
-7 | 1---Insect | L---Swimmer | O---Swimmer | C---Humanoid | 2---Undead
-8 | 1---Insect | L---Swimmer | O---Swimmer | 1---Insect | 2---Undead
+| d8 | Jungle | Lake, River | Ocean, Sea | Settled | Swamp |
+|----|--------|-------------|------------|---------|-------|
+| 1 | J---Animal | L---Animal | 1---Dragon | C---Animal | 1---Dragon |
+| 2 | J---Animal | 1---Dragon | 1---Flyer | 1---Dragon | 1---Flyer |
+| 3 | 1---Dragon | 1---Flyer | O---Human | 1---Flyer | S---Human |
+| 4 | 1---Flyer | L---Human | O---Swimmer | C---Human | S---Humanoid |
+| 5 | J---Human | L---Humanoid | O---Swimmer | C---Human | 1---Insect |
+| 6 | J---Humanoid | 1---Insect | O---Swimmer | C---Human | S---Swimmer |
+| 7 | 1---Insect | L---Swimmer | O---Swimmer | C---Humanoid | 2---Undead |
+| 8 | 1---Insect | L---Swimmer | O---Swimmer | 1---Insect | 2---Undead |
 
 ### <a name="sub_table_1"></a>Standard Sub-Table 1
 
-d12 | Dragon | Flyer | Insect
-----|--------|-------|-------
-1 | Chimera | Cockatrice | Beetle, Fire
-2 | Dragon, Black | Gargoyle | Beetle, Oil
-3 | Dragon, Blue | Griffon | Beetle, Tiger
-4 | Dragon, Gold | Hawk, Giant | Driver Ant
-5 | Dragon, Green | Hippogriff | Driver Ant
-6 | Dragon, Red | Killer Bee | Killer Bee
-7 | Dragon, White | Pegasus | Rhagodessa
-8 | Hydra (or Sea Hydra) | Pixie | Robber Fly
-9 | Hydra (or Sea Hydra) | Robber Fly | Scorpion, Giant
-10 | Wyvern | Roc, Small | Spider, Black Widow
-11 | Basilisk (re-roll at sea) | Sprite | Spider, Crab
-12 | Salamander (re-roll at sea) | Stirge | Spider, Tarantella
+| d12 | Dragon | Flyer | Insect |
+|-----|--------|-------|--------|
+| 1 | Chimera | Cockatrice | Beetle, Fire |
+| 2 | Dragon, Black | Gargoyle | Beetle, Oil |
+| 3 | Dragon, Blue | Griffon | Beetle, Tiger |
+| 4 | Dragon, Gold | Hawk, Giant | Driver Ant |
+| 5 | Dragon, Green | Hippogriff | Driver Ant |
+| 6 | Dragon, Red | Killer Bee | Killer Bee |
+| 7 | Dragon, White | Pegasus | Rhagodessa |
+| 8 | Hydra (or Sea Hydra) | Pixie | Robber Fly |
+| 9 | Hydra (or Sea Hydra) | Robber Fly | Scorpion, Giant |
+| 10 | Wyvern | Roc, Small | Spider, Black Widow |
+| 11 | Basilisk (re-roll at sea) | Sprite | Spider, Crab |
+| 12 | Salamander (re-roll at sea) | Stirge | Spider, Tarantella |
 
 ### <a name="sub_table_2"></a>Standard Sub-Table 2
 
-d12 | Prehistoric Animal | Undead | Unusual
-----|--------------------|--------|--------
-1 | Bear, Cave | Ghoul | Basilisk
-2 | Cat, Sabre-Toothed | Ghoul | Blink Dog
-3 | Crocodile, Giant | Ghoul | Centaur
-4 | Mastodon | Mummy | Gorgon
-5 | Pterodactyl, Pteranodon | Skeleton | Lycanthrope, Werebear
-6 | Rhino, Woolly | Skeleton | Lycanthrope, Wereboar
-7 | Snake, Pit Viper | Spectre | Lycanthrope, Wererat
-8 | Stegosaurus | Wight | Lycanthrope, Weretiger
-9 | Titanothere | Wraith | Lycanthrope, Werewolf
-10 | Triceratops | Vampire | Medusa
-11 | Tyrannosaurus Rex | Zombie | Treant
-12 | Wolf, Dire | Zombie | Warp Beast
+| d12 | Prehistoric Animal | Undead | Unusual |
+|-----|--------------------|--------|---------|
+| 1 | Bear, Cave | Ghoul | Basilisk |
+| 2 | Cat, Sabre-Toothed | Ghoul | Blink Dog |
+| 3 | Crocodile, Giant | Ghoul | Centaur |
+| 4 | Mastodon | Mummy | Gorgon |
+| 5 | Pterodactyl, Pteranodon | Skeleton | Lycanthrope, Werebear |
+| 6 | Rhino, Woolly | Skeleton | Lycanthrope, Wereboar |
+| 7 | Snake, Pit Viper | Spectre | Lycanthrope, Wererat |
+| 8 | Stegosaurus | Wight | Lycanthrope, Weretiger |
+| 9 | Titanothere | Wraith | Lycanthrope, Werewolf |
+| 10 | Triceratops | Vampire | Medusa |
+| 11 | Tyrannosaurus Rex | Zombie | Treant |
+| 12 | Wolf, Dire | Zombie | Warp Beast |
 
 ### <a name="sub_table_b"></a>Sub-Table B: Barren, Hills, Mountains
 
-d12 | Animal | Flyer | Human | Humanoid
-----|--------|-------|-------|---------
-1 | Antelope | Gargoyle | Bandit | Dwarf
-2 | Ape, White | Griffon | Berserker | Giant, Cloud
-3 | Ape, White | Harpy | Berserker | Giant, Frost
-4 | Bear, Cave | Hawk | Brigand | Giant, Hill
-5 | Cat, Mountain Lion | Hawk, Giant | Brigand | Giant, Stone
-6 | Hawk | Hippogriff | Expert Adventurers | Giant, Storm
-7 | Mule | Manticore | High-Level Cleric | Gnome
-8 | Rock Baboon | Manticore | High-Level Fighter | Goblin
-9 | Snake, Pit Viper | Pegasus | High-Level MU | Kobold
-10 | Snake, Rattler | Roc, Small | Merchant | Orc
-11 | Wolf | Roc, Large | Neanderthal | Troglodyte
-12 | Wolf, Dire | Roc, Giant | Neanderthal | Troll
+| d12 | Animal | Flyer | Human | Humanoid |
+|-----|--------|-------|-------|----------|
+| 1 | Antelope | Gargoyle | Bandit | Dwarf |
+| 2 | Ape, White | Griffon | Berserker | Giant, Cloud |
+| 3 | Ape, White | Harpy | Berserker | Giant, Frost |
+| 4 | Bear, Cave | Hawk | Brigand | Giant, Hill |
+| 5 | Cat, Mountain Lion | Hawk, Giant | Brigand | Giant, Stone |
+| 6 | Hawk | Hippogriff | Expert Adventurers | Giant, Storm |
+| 7 | Mule | Manticore | High-Level Cleric | Gnome |
+| 8 | Rock Baboon | Manticore | High-Level Fighter | Goblin |
+| 9 | Snake, Pit Viper | Pegasus | High-Level MU | Kobold |
+| 10 | Snake, Rattler | Roc, Small | Merchant | Orc |
+| 11 | Wolf | Roc, Large | Neanderthal | Troglodyte |
+| 12 | Wolf, Dire | Roc, Giant | Neanderthal | Troll |
 
 ### <a name="sub_table_c"></a>Sub-Table C: City, Settled
 
-d12 | Animal | Human, City | Human, Settled | Humanoid
-----|--------|-------------|----------------|---------
-1 | Antelope | Acolyte | Acolyte | Dwarf
-2 | Antelope | Basic Adventurers | Basic Adventurers | Elf
-3 | Boar | Bandit | Bandit | Giant, Hill
-4 | Cat, Tiger | Bandit | Bandit | Gnome
-5 | Ferret, Giant | Expert Adventurers | Expert Adventurers | Gnoll
-6 | Hawk | High-Level Fighter | High-Level Cleric | Goblin
-7 | Rat, Giant | Merchant | High-Level Fighter | Halfling
-8 | Shrew, Giant | Noble | High-Level MU | Hobgoblin
-9 | Snake, Pit Viper | Trader | Merchant | Ogre
-10 | Spider, Tarantella | Trader | Noble | Orc
-11 | Weasel, Giant | Trader | Trader | Pixie
-12 | Wolf | Veteran | Veteran | Sprite
+| d12 | Animal | Human, City | Human, Settled | Humanoid |
+|-----|--------|-------------|----------------|----------|
+| 1 | Antelope | Acolyte | Acolyte | Dwarf |
+| 2 | Antelope | Basic Adventurers | Basic Adventurers | Elf |
+| 3 | Boar | Bandit | Bandit | Giant, Hill |
+| 4 | Cat, Tiger | Bandit | Bandit | Gnome |
+| 5 | Ferret, Giant | Expert Adventurers | Expert Adventurers | Gnoll |
+| 6 | Hawk | High-Level Fighter | High-Level Cleric | Goblin |
+| 7 | Rat, Giant | Merchant | High-Level Fighter | Halfling |
+| 8 | Shrew, Giant | Noble | High-Level MU | Hobgoblin |
+| 9 | Snake, Pit Viper | Trader | Merchant | Ogre |
+| 10 | Spider, Tarantella | Trader | Noble | Orc |
+| 11 | Weasel, Giant | Trader | Trader | Pixie |
+| 12 | Wolf | Veteran | Veteran | Sprite |
 
 ### <a name="sub_table_d"></a>Sub-Table D: Desert
 
-d12 | Animal | Flyer | Human | Humanoid
-----|--------|-------|-------|---------
-1 | Antelope | Gargoyle | Expert Adventurers | Giant, Fire
-2 | Antelope | Gargoyle | High-Level Cleric | Goblin
-3 | Camel | Griffon | Dervish | Hobgoblin
-4 | Camel | Hawk | Dervish | Hobgoblin
-5 | Cat, Lion | Hawk, Giant | High-Level Fighter | Ogre
-6 | Cat, Lion | Hawk, Giant | High-Level MU | Ogre
-7 | Hawk | Manticore | Merchant | Ogre
-8 | Lizard, Gecko | Manticore | Noble | Orc
-9 | Lizard, Tuatara | Manticore | Nomad | Orc
-10 | Snake, Pit Viper | Roc, Small | Nomad | Pixie
-11 | Snake, Rattler | Roc, Large | Nomad | Sprite
-12 | Spider, Tarantella | Roc, Giant | Nomad | Thoul
+| d12 | Animal | Flyer | Human | Humanoid |
+|-----|--------|-------|-------|----------|
+| 1 | Antelope | Gargoyle | Expert Adventurers | Giant, Fire |
+| 2 | Antelope | Gargoyle | High-Level Cleric | Goblin |
+| 3 | Camel | Griffon | Dervish | Hobgoblin |
+| 4 | Camel | Hawk | Dervish | Hobgoblin |
+| 5 | Cat, Lion | Hawk, Giant | High-Level Fighter | Ogre |
+| 6 | Cat, Lion | Hawk, Giant | High-Level MU | Ogre |
+| 7 | Hawk | Manticore | Merchant | Ogre |
+| 8 | Lizard, Gecko | Manticore | Noble | Orc |
+| 9 | Lizard, Tuatara | Manticore | Nomad | Orc |
+| 10 | Snake, Pit Viper | Roc, Small | Nomad | Pixie |
+| 11 | Snake, Rattler | Roc, Large | Nomad | Sprite |
+| 12 | Spider, Tarantella | Roc, Giant | Nomad | Thoul |
 
 ### <a name="sub_table_f"></a>Sub-Table F: Forest
 
-d12 | Animal | Human | Humanoid
-----|--------|-------|---------
-1 | Antelope | Basic Adventurers | Bugbear
-2 | Boar | Bandit | Cyclops
-3 | Cat, Panther | Bandit | Dryad
-4 | Cat, Tiger | Berserker | Elf
-5 | Hawk | Brigand | Giant, Hill
-6 | Lizard, Gecko | Brigand | Gnoll
-7 | Lizard, Tuatara | Brigand | Goblin
-8 | Snake, Pit Viper | Expert Adventurers | Hobgoblin
-9 | Spider, Crab | High-Level Cleric | Ogre
-10 | Unicorn | High-Level Fighter | Orc
-11 | Wolf | High-Level Magic-User | Thoul
-12 | Wolf, Dire | Merchant | Troll
+| d12 | Animal | Human | Humanoid |
+|-----|--------|-------|----------|
+| 1 | Antelope | Basic Adventurers | Bugbear |
+| 2 | Boar | Bandit | Cyclops |
+| 3 | Cat, Panther | Bandit | Dryad |
+| 4 | Cat, Tiger | Berserker | Elf |
+| 5 | Hawk | Brigand | Giant, Hill |
+| 6 | Lizard, Gecko | Brigand | Gnoll |
+| 7 | Lizard, Tuatara | Brigand | Goblin |
+| 8 | Snake, Pit Viper | Expert Adventurers | Hobgoblin |
+| 9 | Spider, Crab | High-Level Cleric | Ogre |
+| 10 | Unicorn | High-Level Fighter | Orc |
+| 11 | Wolf | High-Level Magic-User | Thoul |
+| 12 | Wolf, Dire | Merchant | Troll |
 
 ### <a name="sub_table_g"></a>Sub-Table G: Clear, Grasslands
 
-d12 | Animal | Human | Humanoid
-----|--------|-------|---------
-1 | Antelope | Bandit | Bugbear
-2 | Boar | Bandit | Elf
-3 | Cat, Lion | Berserker | Giant, Hill
-4 | Elephant | Brigand | Gnoll
-5 | Ferret, Giant | Expert Adventurers | Goblin
-6 | Hawk, Giant | High-Level Cleric | Halfling
-7 | Horse, Wild | High-Level Fighter | Hobgoblin
-8 | Mule | High-Level Magic-User | Ogre
-9 | Rock Baboon | Merchant | Orc
-10 | Snake, Pit Viper | Merchant | Pixie
-11 | Snake, Rattler | Noble | Thoul
-12 | Weasel, Giant | Nomad | Troll
+| d12 | Animal | Human | Humanoid |
+|-----|--------|-------|----------|
+| 1 | Antelope | Bandit | Bugbear |
+| 2 | Boar | Bandit | Elf |
+| 3 | Cat, Lion | Berserker | Giant, Hill |
+| 4 | Elephant | Brigand | Gnoll |
+| 5 | Ferret, Giant | Expert Adventurers | Goblin |
+| 6 | Hawk, Giant | High-Level Cleric | Halfling |
+| 7 | Horse, Wild | High-Level Fighter | Hobgoblin |
+| 8 | Mule | High-Level Magic-User | Ogre |
+| 9 | Rock Baboon | Merchant | Orc |
+| 10 | Snake, Pit Viper | Merchant | Pixie |
+| 11 | Snake, Rattler | Noble | Thoul |
+| 12 | Weasel, Giant | Nomad | Troll |
 
 ### <a name="sub_table_j"></a>Sub-Table J: Jungle
 
-d12 | Animal | Human | Humanoid
-----|--------|-------|---------
-1 | Antelope | Bandit | Bugbear
-2 | Boar | Berserker | Cyclops
-3 | Cat, Panther | Brigand | Elf
-4 | Lizard, Draco | Brigand | Giant, Fire
-5 | Lizard, Gecko | Brigand | Giant, Hill
-6 | Lzrd., Horned Chameleon | Expert Adventurers | Gnoll
-7 | Rat, Giant | Expert Adventurers | Goblin
-8 | Shrew, Giant | High-Level Cleric | Lizard Man
-9 | Snake, Pit Viper | High-Level Fighter | Ogre
-10 | Snake, Rock Python | High-Level Magic-User | Orc
-11 | Snake, Spitting Cobra | Merchant | Troglodyte
-12 | Spider, Crab | Neanderthal | Troll
+| d12 | Animal | Human | Humanoid |
+|-----|--------|-------|----------|
+| 1 | Antelope | Bandit | Bugbear |
+| 2 | Boar | Berserker | Cyclops |
+| 3 | Cat, Panther | Brigand | Elf |
+| 4 | Lizard, Draco | Brigand | Giant, Fire |
+| 5 | Lizard, Gecko | Brigand | Giant, Hill |
+| 6 | Lzrd., Horned Chameleon | Expert Adventurers | Gnoll |
+| 7 | Rat, Giant | Expert Adventurers | Goblin |
+| 8 | Shrew, Giant | High-Level Cleric | Lizard Man |
+| 9 | Snake, Pit Viper | High-Level Fighter | Ogre |
+| 10 | Snake, Rock Python | High-Level Magic-User | Orc |
+| 11 | Snake, Spitting Cobra | Merchant | Troglodyte |
+| 12 | Spider, Crab | Neanderthal | Troll |
 
 ### <a name="sub_table_l"></a>Sub-Table L: Lake, River
 
-d12 | Animal | Human | Humanoid | Swimmer
-----|--------|-------|----------|--------
-1 | Antelope | Basic Adventurers | Bugbear | Crab, Giant
-2 | Boar | Bandit | Elf | Crocodile
-3 | Cat, Panther | Brigand | Gnoll | Crocodile
-4 | Cat, Tiger | Buccaneer | Hobgoblin | Crocodile, Large
-5 | Crab, Giant | Buccaneer | Lizard Man | Fish, Catfish
-6 | Crocodile | Buccaneer | Lizard Man | Fish, Piranha
-7 | Crocodile, Large | Expert Adventurers | Nixie | Fish, Sturgeon
-8 | Piranha, Giant | High-Level Cleric | Ogre | Leech, Giant
-9 | Leech, Giant | High-Level Fighter | Orc | Lizard Man
-10 | Rat, Giant | High-Level MU | Sprite | Merman
-11 | Shrew, Giant | Merchant | Thoul | Nixie
-12 | Toad, Giant | Merchant | Troll | Termite, Water
+| d12 | Animal | Human | Humanoid | Swimmer |
+|-----|--------|-------|----------|---------|
+| 1 | Antelope | Basic Adventurers | Bugbear | Crab, Giant |
+| 2 | Boar | Bandit | Elf | Crocodile |
+| 3 | Cat, Panther | Brigand | Gnoll | Crocodile |
+| 4 | Cat, Tiger | Buccaneer | Hobgoblin | Crocodile, Large |
+| 5 | Crab, Giant | Buccaneer | Lizard Man | Fish, Catfish |
+| 6 | Crocodile | Buccaneer | Lizard Man | Fish, Piranha |
+| 7 | Crocodile, Large | Expert Adventurers | Nixie | Fish, Sturgeon |
+| 8 | Piranha, Giant | High-Level Cleric | Ogre | Leech, Giant |
+| 9 | Leech, Giant | High-Level Fighter | Orc | Lizard Man |
+| 10 | Rat, Giant | High-Level MU | Sprite | Merman |
+| 11 | Shrew, Giant | Merchant | Thoul | Nixie |
+| 12 | Toad, Giant | Merchant | Troll | Termite, Water |
 
 ### <a name="sub_table_o"></a>Sub-Table O: Ocean, Sea
 
-d12 | Human | Swimmer
-----|-------|--------
-1 | Buccaneer | Dragon Turtle
-2 | Buccaneer | Hydra, Sea
-3 | Expert Adventurers | Merman
-4 | Merchant | Octopus, Giant
-5 | Merchant | Sea Dragon
-6 | Merchant | Sea Serpent
-7 | Merchant | Shark
-8 | Merchant | Shark
-9 | Pirate | Snake, Sea
-10 | Pirate | Squid, Giant
-11 | Pirate | Termite, Water
-12 | Pirate | Whale
+| d12 | Human | Swimmer |
+|-----|-------|---------|
+| 1 | Buccaneer | Dragon Turtle |
+| 2 | Buccaneer | Hydra, Sea |
+| 3 | Expert Adventurers | Merman |
+| 4 | Merchant | Octopus, Giant |
+| 5 | Merchant | Sea Dragon |
+| 6 | Merchant | Sea Serpent |
+| 7 | Merchant | Shark |
+| 8 | Merchant | Shark |
+| 9 | Pirate | Snake, Sea |
+| 10 | Pirate | Squid, Giant |
+| 11 | Pirate | Termite, Water |
+| 12 | Pirate | Whale |
 
 ### <a name="sub_table_s"></a>Sub-Table S: Swamp
 
-d12 | Human | Humanoid | Swimmer
-----|-------|----------|--------
-1 | Basic Adventurers | Gnoll | Crab, Giant
-2 | Bandit | Goblin | Crocodile
-3 | Bandit | Hobgoblin | Crocodile, Large
-4 | Berserker | Lizard Man | Crocodile, Giant
-5 | Brigand | Lizard Man | Fish, Catfish
-6 | Expert Adventurers | Lizard Man | Insect Swarm
-7 | Expert Adventurers | Nixie | Insect Swarm
-8 | High-Level Cleric | Ogre | Leech, Giant
-9 | High-Level Fighter | Orc | Leech, Giant
-10 | High-Level Magic-User | Troglodyte | Lizard Man
-11 | Merchant | Troll | Lizard Man
-12 | Trader | Troll | Termite, Water
+| d12 | Human | Humanoid | Swimmer |
+|-----|-------|----------|---------|
+| 1 | Basic Adventurers | Gnoll | Crab, Giant |
+| 2 | Bandit | Goblin | Crocodile |
+| 3 | Bandit | Hobgoblin | Crocodile, Large |
+| 4 | Berserker | Lizard Man | Crocodile, Giant |
+| 5 | Brigand | Lizard Man | Fish, Catfish |
+| 6 | Expert Adventurers | Lizard Man | Insect Swarm |
+| 7 | Expert Adventurers | Nixie | Insect Swarm |
+| 8 | High-Level Cleric | Ogre | Leech, Giant |
+| 9 | High-Level Fighter | Orc | Leech, Giant |
+| 10 | High-Level Magic-User | Troglodyte | Lizard Man |
+| 11 | Merchant | Troll | Lizard Man |
+| 12 | Trader | Troll | Termite, Water |
 
 ## <a name="stronghold_encounters"></a>Stronghold Encounters
 
@@ -541,14 +541,14 @@ Patrols such as those described are only a small part of the ruler's garrison. F
 
 The reaction of the ruler to travellers in his or her domain depends on the class of the ruler, and can be determined by rolling 1d6 and consulting this table:
 
-d6 | Arcane Caster | Divine Caster | Warrior
----|---------------|---------------|--------
-1 | Chase | Chase | Chase
-2 | Ignore | Chase | Chase
-3 | Ignore | Ignore | Chase
-4 | Ignore | Ignore | Ignore
-5 | Ignore | Invite | Ignore
-6 | Invite | Invite | Invite
+| d6 | Arcane Caster | Divine Caster | Warrior |
+|----|---------------|---------------|---------|
+| 1 | Chase | Chase | Chase |
+| 2 | Ignore | Chase | Chase |
+| 3 | Ignore | Ignore | Chase |
+| 4 | Ignore | Ignore | Ignore |
+| 5 | Ignore | Invite | Ignore |
+| 6 | Invite | Invite | Invite |
 
 **_Chase:_** The patrol is instructed to chase intruders out of the domain. Alternatively, they may demand a toll from travellers passing through. The exact price demanded depends on the ruler's character, the apparent wealth of the PCs, etc. If the PCs refuse to pay the toll, the patrol may attack them, drive them away, or attempt to take them prisoner.
 
@@ -602,24 +602,24 @@ A high-level magic-user, accompanied by his or her apprentices and a group of hi
 
 ### <a name="adventurers_class_and_level"></a>Adventurers' Class and Level
 
-d8 | Class | Basic | Expert
----|-------|-------|-------
-1 | Cleric | 1d3 | 1d6+3
-2 | Dwarf | 1d3 | 1d6+6
-3 | Elf | 1d3 | 1d6+2
-4 | Fighter | 1d3 | 1d6+3
-5 | Fighter | 1d3 | 1d6+5
-6 | Halfling | 1d3 | 1d6+2
-7 | Magic-User | 1d3 | 1d6+3
-8 | Thief | 1d3 | 1d6+4
+| d8 | Class | Basic | Expert |
+|----|-------|-------|--------|
+| 1 | Cleric | 1d3 | 1d6+3 |
+| 2 | Dwarf | 1d3 | 1d6+6 |
+| 3 | Elf | 1d3 | 1d6+2 |
+| 4 | Fighter | 1d3 | 1d6+3 |
+| 5 | Fighter | 1d3 | 1d6+5 |
+| 6 | Halfling | 1d3 | 1d6+2 |
+| 7 | Magic-User | 1d3 | 1d6+3 |
+| 8 | Thief | 1d3 | 1d6+4 |
 
 ### <a name="alignment"></a>Alignment
 
-d6 | Alignment
----|----------
-1-2 | Lawful
-3-4 | Neutral
-5-6 | Chaotic
+| d6 | Alignment |
+|----|-----------|
+| 1-2 | Lawful |
+| 3-4 | Neutral |
+| 5-6 | Chaotic |
 
 ## <a name="placing_treasure"></a>Placing Treasure
 There are two methods of deciding what treasure is in the possession of monsters encountered in an adventure, described below.
@@ -842,13 +842,13 @@ For each gem present in a treasure hoard, roll on the following table to determi
 
 #### <a name="gem_values"></a>Gem Values
 
-d20 | Gem Value
-----|----------
-1-4 | 10gp
-5-9 | 50gp
-10-15 | 100gp
-16-19 | 500gp
-20 | 1,000gp
+| d20 | Gem Value |
+|-----|-----------|
+| 1-4 | 10gp |
+| 5-9 | 50gp |
+| 10-15 | 100gp |
+| 16-19 | 500gp |
+| 20 | 1,000gp |
 
 #### <a name="combining_gem_values"></a>Combining Gem Values
 
@@ -879,16 +879,16 @@ It is recommended that the probabilities appropriate to the group's experience l
 
 ### <a name="magic_item_type"></a>Magic Item Type
 
-B: d% | X: d% | Type of Item
-------|-------|-------------
-1-10 | 1-10 | Armour
-11-15 | 11-15 | Misc. Item
-16-40 | 16-35 | Potion
-41-45 | 36-40 | Rin
-46-65 | 41-70 | Scroll or Map
-66-85 | 71-90 | Sword
-86-90 | 91-95 | Wand/Staff/Rod
-91-00 | 96-00 | Weapon
+| B: d% | X: d% | Type of Item |
+|-------|-------|--------------|
+| 1-10 | 1-10 | Armour |
+| 11-15 | 11-15 | Misc. Item |
+| 16-40 | 16-35 | Potion |
+| 41-45 | 36-40 | Rin |
+| 46-65 | 41-70 | Scroll or Map |
+| 66-85 | 71-90 | Sword |
+| 86-90 | 91-95 | Wand/Staff/Rod |
+| 91-00 | 96-00 | Weapon |
 
 ### <a name="identifying_magic_items"></a>Identifying Magic Items
 
@@ -920,39 +920,39 @@ Some examples of reasonable wishes:
 
 ## <a name="armour"></a>Armour
 
-B: d4 | X: d% | Item
-------|-------|-----
-1 | 1-15 | Armour +1
-2 | 16-25 | Armour +1, Shield +1
- | 26-27 | Armour +1, Shield +2
- | 28 | Armour +1, Shield +3
- | 29-33 | Armour +2
- | 34-36 | Armour +2, Shield +1
- | 37-41 | Armour +2, Shield +2
- | 42 | Armour +2, Shield +3
- | 43-45 | Armour +3
- | 46 | Armour +3, Shield +1
- | 47 | Armour +3, Shield +2
- | 48 | Armour +3, Shield +3
- | 49-51 | Cursed Armour -1
- | 52-53 | Cursed Armour -2
- | 54 | Cursed Armour -2 with Shield +1
-3 | 55-56 | Cursed Armour, AC 9
- | 57-62 | Cursed Shield -2
- | 63-65 | Cursed Shield, AC 9
-4 | 66-85 | Shield +1
- | 86-95 | Shield +2
- | 96-00 | Shield +3
+| B: d4 | X: d% | Item |
+|-------|-------|------|
+| 1 | 1-15 | Armour +1 |
+| 2 | 16-25 | Armour +1, Shield +1 |
+|  | 26-27 | Armour +1, Shield +2 |
+|  | 28 | Armour +1, Shield +3 |
+|  | 29-33 | Armour +2 |
+|  | 34-36 | Armour +2, Shield +1 |
+|  | 37-41 | Armour +2, Shield +2 |
+|  | 42 | Armour +2, Shield +3 |
+|  | 43-45 | Armour +3 |
+|  | 46 | Armour +3, Shield +1 |
+|  | 47 | Armour +3, Shield +2 |
+|  | 48 | Armour +3, Shield +3 |
+|  | 49-51 | Cursed Armour -1 |
+|  | 52-53 | Cursed Armour -2 |
+|  | 54 | Cursed Armour -2 with Shield +1 |
+| 3 | 55-56 | Cursed Armour, AC 9 |
+|  | 57-62 | Cursed Shield -2 |
+|  | 63-65 | Cursed Shield, AC 9 |
+| 4 | 66-85 | Shield +1 |
+|  | 86-95 | Shield +2 |
+|  | 96-00 | Shield +3 |
 
 ### <a name="type_of_armour"></a>Type of Armour
 
 The referee may choose the type of armour in a treasure hoard, or may roll on the following table:
 
-d8 | Type of Armour
----|---------------
-1-2 | Leather
-3-6 | Chainmail
-7-8 | Plate mail
+| d8 | Type of Armour |
+|----|----------------|
+| 1-2 | Leather |
+| 3-6 | Chainmail |
+| 7-8 | Plate mail |
 
 ### <a name="enchanted_armour_and_shields"></a>Enchanted Armour and Shields
 
@@ -968,39 +968,39 @@ d8 | Type of Armour
 
 ### <a name="miscellaneous_magic_items"></a>Miscellaneous Magic Items
 
-B: d10 | X: d% | Item
--------|-------|-----
- | 1-3 | Amulet of Protection Against Scrying
-1 | 4-5 | Bag of Devouring
-2 | 6-11 | Bag of Holding
- | 12-16 | Boots of Levitation
- | 17-21 | Boots of Speed
- | 22-26 | Boots of Travelling and Leaping
-3 | 27-31 | Broom of Flying
-4 | 32-35 | Crystal Ball
- | 36-37 | Crystal Ball with Clairaudience
- | 38 | Crystal Ball with ESP
- | 39-40 | Displacer Cloak
- | 41 | Drums of Panic
- | 42 | Efreeti Bottle
- | 43 | Elemental Summoning Device: Air
- | 44 | Elemental Summoning Device: Earth
- | 45 | Elemental Summoning Device: Fire
- | 46 | Elemental Summoning Device: Water
-5 | 47-56 | Elven Cloak and Boots
- | 57 | Flying Carpet
-6 | 58-64 | Gauntlets of Ogre Power
- | 65-66 | Girdle of Giant Strength
-7 | 67-77 | Helm of Alignment Changing
- | 78-82 | Helm of Reading Languages and Magic
-8 | 83 | Helm of Telepathy
- | 84 | Helm of Teleportation
- | 85 | Horn of Blasting
-9 | 86-90 | Medallion of ESP 30'
- | 91-93 | Medallion of ESP 90'
- | 94-94 | Mirror of Life Trapping
-10 | 95-97 | Rope of Climbing
- | 98-00 | Scarab of Protection
+| B: d10 | X: d% | Item |
+|--------|-------|------|
+|  | 1-3 | Amulet of Protection Against Scrying |
+| 1 | 4-5 | Bag of Devouring |
+| 2 | 6-11 | Bag of Holding |
+|  | 12-16 | Boots of Levitation |
+|  | 17-21 | Boots of Speed |
+|  | 22-26 | Boots of Travelling and Leaping |
+| 3 | 27-31 | Broom of Flying |
+| 4 | 32-35 | Crystal Ball |
+|  | 36-37 | Crystal Ball with Clairaudience |
+|  | 38 | Crystal Ball with ESP |
+|  | 39-40 | Displacer Cloak |
+|  | 41 | Drums of Panic |
+|  | 42 | Efreeti Bottle |
+|  | 43 | Elemental Summoning Device: Air |
+|  | 44 | Elemental Summoning Device: Earth |
+|  | 45 | Elemental Summoning Device: Fire |
+|  | 46 | Elemental Summoning Device: Water |
+| 5 | 47-56 | Elven Cloak and Boots |
+|  | 57 | Flying Carpet |
+| 6 | 58-64 | Gauntlets of Ogre Power |
+|  | 65-66 | Girdle of Giant Strength |
+| 7 | 67-77 | Helm of Alignment Changing |
+|  | 78-82 | Helm of Reading Languages and Magic |
+| 8 | 83 | Helm of Telepathy |
+|  | 84 | Helm of Teleportation |
+|  | 85 | Horn of Blasting |
+| 9 | 86-90 | Medallion of ESP 30' |
+|  | 91-93 | Medallion of ESP 90' |
+|  | 94-94 | Mirror of Life Trapping |
+| 10 | 95-97 | Rope of Climbing |
+|  | 98-00 | Scarab of Protection |
 
 ### <a name="usage"></a>Usage
 
@@ -1239,34 +1239,34 @@ Protects the bearer from baleful magic.
 
 Magical liquids stored in glass vials (similar to the vials holy water is stored in).
 
-B: d8 | X: d% | Potion
-------|-------|-------
- | 1-3 | Clairaudience
- | 4-7 | Clairvoyance
- | 8-10 | Control Animal
- | 11-13 | Control Dragon
- | 14-16 | Control Giant
- | 17-19 | Control Human
- | 20-22 | Control Plant
- | 23-25 | Control Undead
- | 26-32 | Delusion
-1 | 33-35 | Diminution
-2 | 36-39 | ESP
- | 40-43 | Fire Resistance
- | 44-47 | Flying
-3 | 48-51 | Gaseous Form
- | 52-55 | Giant Strength
-4 | 56-59 | Growth
-5 | 60-63 | Healing
- | 64-68 | Heroism
-6 | 69-72 | Invisibility
- | 73-76 | Invulnerability
-7 | 77-80 | Levitation
- | 81-84 | Longevity
-8 | 85-86 | Poison
- | 87-89 | Polymorph Self
- | 90-97 | Speed
- | 98-00 | Treasure Finding
+| B: d8 | X: d% | Potion |
+|-------|-------|--------|
+|  | 1-3 | Clairaudience |
+|  | 4-7 | Clairvoyance |
+|  | 8-10 | Control Animal |
+|  | 11-13 | Control Dragon |
+|  | 14-16 | Control Giant |
+|  | 17-19 | Control Human |
+|  | 20-22 | Control Plant |
+|  | 23-25 | Control Undead |
+|  | 26-32 | Delusion |
+| 1 | 33-35 | Diminution |
+| 2 | 36-39 | ESP |
+|  | 40-43 | Fire Resistance |
+|  | 44-47 | Flying |
+| 3 | 48-51 | Gaseous Form |
+|  | 52-55 | Giant Strength |
+| 4 | 56-59 | Growth |
+| 5 | 60-63 | Healing |
+|  | 64-68 | Heroism |
+| 6 | 69-72 | Invisibility |
+|  | 73-76 | Invulnerability |
+| 7 | 77-80 | Levitation |
+|  | 81-84 | Longevity |
+| 8 | 85-86 | Poison |
+|  | 87-89 | Polymorph Self |
+|  | 90-97 | Speed |
+|  | 98-00 | Treasure Finding |
 
 #### <a name="identifying"></a>Identifying
 
@@ -1476,27 +1476,27 @@ Grants the magical ability to sense treasure.
 
 ## <a name="rings"></a>Rings
 
-B: d6 | X: d% | Ring
-------|-------|-----
-1 | 1-5 | Control Animals
- | 6-10 | Control Humans
- | 11-16 | Control Plants
- | 17-26 | Delusion
- | 27-29 | Djinni Summoning
-2 | 30-39 | Fire Resistance
-3 | 40-50 | Invisibility
- | 51-55 | Protection +1, 5' radius
-4 | 56-70 | Protection +1
- | 71-72 | Regeneration
- | 73-74 | Spell Storing
- | 75-80 | Spell Turning
- | 81-82 | Telekinesis
-5 | 83-88 | Water Walking
-6 | 89-94 | Weakness
- | 95-96 | Wishes, 1-2
- | 97 | Wishes, 1-3
- | 98 | Wishes, 2-4
- | 99-00 | X-Ray Vision
+| B: d6 | X: d% | Ring |
+|-------|-------|------|
+| 1 | 1-5 | Control Animals |
+|  | 6-10 | Control Humans |
+|  | 11-16 | Control Plants |
+|  | 17-26 | Delusion |
+|  | 27-29 | Djinni Summoning |
+| 2 | 30-39 | Fire Resistance |
+| 3 | 40-50 | Invisibility |
+|  | 51-55 | Protection +1, 5' radius |
+| 4 | 56-70 | Protection +1 |
+|  | 71-72 | Regeneration |
+|  | 73-74 | Spell Storing |
+|  | 75-80 | Spell Turning |
+|  | 81-82 | Telekinesis |
+| 5 | 83-88 | Water Walking |
+| 6 | 89-94 | Weakness |
+|  | 95-96 | Wishes, 1-2 |
+|  | 97 | Wishes, 1-3 |
+|  | 98 | Wishes, 2-4 |
+|  | 99-00 | X-Ray Vision |
 
 ### <a name="usage"></a>Usage
 
@@ -1645,30 +1645,30 @@ Grants the power to see through solid objects.
 
 ## <a name="scrolls_and_maps"></a>Scrolls and Maps
 
-B: d8 | X: d% | Scroll
---|------|--------
-1 | 1-15 | 1 Spell
-2 | 16-25 | 2 Spells
-3 | 26-31 | 3 Spells
- | 32-34 | 5 Spells
- | 35 | 7 Spells
-4 | 36-40 | Cursed Scroll
- | 41-50 | Prot. from Elementals
-5 | 51-60 | Prot. from Lycanthropes
- | 61-65 | Protection from Magic
-6 | 66-75 | Prot. from Undead
-7 | 76-78 | Treasure Map: I
- | 79-80 | Treasure Map: II
- | 81-82 | Treasure Map: III
- | 83 | Treasure Map: IV
- | 84 | Treasure Map: V
- | 85 | Treasure Map: VI
- | 86 | Treasure Map: VII
-8 | 87-90 | Treasure Map: VIII
- | 91-95 | Treasure Map: IX
- | 96 | Treasure Map: X
- | 97-98 | Treasure Map: XI
- | 99-00 | Treasure Map: XII
+| B: d8 | X: d% | Scroll |
+|---|------|---------|
+| 1 | 1-15 | 1 Spell |
+| 2 | 16-25 | 2 Spells |
+| 3 | 26-31 | 3 Spells |
+|  | 32-34 | 5 Spells |
+|  | 35 | 7 Spells |
+| 4 | 36-40 | Cursed Scroll |
+|  | 41-50 | Prot. from Elementals |
+| 5 | 51-60 | Prot. from Lycanthropes |
+|  | 61-65 | Protection from Magic |
+| 6 | 66-75 | Prot. from Undead |
+| 7 | 76-78 | Treasure Map: I |
+|  | 79-80 | Treasure Map: II |
+|  | 81-82 | Treasure Map: III |
+|  | 83 | Treasure Map: IV |
+|  | 84 | Treasure Map: V |
+|  | 85 | Treasure Map: VI |
+|  | 86 | Treasure Map: VII |
+| 8 | 87-90 | Treasure Map: VIII |
+|  | 91-95 | Treasure Map: IX |
+|  | 96 | Treasure Map: X |
+|  | 97-98 | Treasure Map: XI |
+|  | 99-00 | Treasure Map: XII |
 
 ### <a name="cursed_scrolls"></a>Cursed Scrolls
 
@@ -1729,14 +1729,14 @@ Casting spells from scrolls works as follows:
 
 The referee may choose the spells on a scroll, or may roll for them randomly. The following table may be used to randomly select the level of each spell on a scroll.
 
-B: d6 | X: d% | Spell Level
-------|-------|------------
-1-3 | 1-25 | 1st
-4-5 | 26-50 | 2nd
-6 | 51-70 | 3rd
- | 71-85 | 4th
- | 86-95 | 5th
- | 96-00 | 6th*
+| B: d6 | X: d% | Spell Level |
+|-------|-------|-------------|
+| 1-3 | 1-25 | 1st |
+| 4-5 | 26-50 | 2nd |
+| 6 | 51-70 | 3rd |
+|  | 71-85 | 4th |
+|  | 86-95 | 5th |
+|  | 96-00 | 6th* |
 
 \* _Re-roll for divine spells._
 
@@ -1767,25 +1767,25 @@ Directions to the location of a valuable treasure. Usable by any character.
 
 ## <a name="swords"></a>Swords
 
-B: d8 | X: d% | Sword
-------|-------|------
-1 | 1-2 | Sword -1, cursed
- | 3-4 | Sword -2, cursed
-2 | 5-44 | Sword +1
-3 | 45-50 | Sword +1, +2 vs lycanthropes
-4 | 51-56 | Sword +1, +2 vs spell users
-5 | 57-61 | Sword +1, +3 vs dragons
- | 62-66 | Sword +1, +3 vs enchanted creatures
- | 67-71 | Sword +1, +3 vs regenerating creatures
-6 | 72-76 | Sword +1, +3 vs undead
- | 77 | Sword +1, energy drain
- | 78-81 | Sword +1, flaming
-7 | 82-89 | Sword +1, light
- | 90-92 | Sword +1, locate objects
- | 93 | Sword +1, wishes
-8 | 94-96 | Sword +2
- | 97-98 | Sword +2, charm person
- | 99-00 | Sword +3
+| B: d8 | X: d% | Sword |
+|-------|-------|-------|
+| 1 | 1-2 | Sword -1, cursed |
+|  | 3-4 | Sword -2, cursed |
+| 2 | 5-44 | Sword +1 |
+| 3 | 45-50 | Sword +1, +2 vs lycanthropes |
+| 4 | 51-56 | Sword +1, +2 vs spell users |
+| 5 | 57-61 | Sword +1, +3 vs dragons |
+|  | 62-66 | Sword +1, +3 vs enchanted creatures |
+|  | 67-71 | Sword +1, +3 vs regenerating creatures |
+| 6 | 72-76 | Sword +1, +3 vs undead |
+|  | 77 | Sword +1, energy drain |
+|  | 78-81 | Sword +1, flaming |
+| 7 | 82-89 | Sword +1, light |
+|  | 90-92 | Sword +1, locate objects |
+|  | 93 | Sword +1, wishes |
+| 8 | 94-96 | Sword +2 |
+|  | 97-98 | Sword +2, charm person |
+|  | 99-00 | Sword +3 |
 
 ### <a name="cursed_swords"></a>Cursed Swords
 
@@ -1844,29 +1844,29 @@ Has the power to grant the wielder's wishes (see [**_Wishes_**](#wishes)).
 
 ## <a name="wands_staves_and_rods"></a>Wands, Staves, and Rods
 
-B: d6 | X: d% | Item
-------|-------|-----
-1 | 1-8 | Rod of Cancellation
- | 9-11 | Staff of Commanding
-2 | 12-21 | Staff of Healing
- | 22-23 | Staff of Power
-3 | 24-28 | Staff of Snakes
- | 29-31 | Staff of Striking
- | 32-34 | Staff of Withering
- | 35 | Staff of Wizardry
- | 36-40 | Wand of Cold
-4 | 41-45 | Wand of Enemy Detection
- | 46-50 | Wand of Fear
- | 51-55 | Wand of Fire Balls
- | 56-60 | Wand of Illusion
- | 61-65 | Wand of Lightning Bolts
-5 | 66-70 | Wand of Magic Detection
- | 71-75 | Wand of Metal Detection
- | 76-80 | Wand of Negation
-6 | 81-85 | Wand of Paralysation
- | 86-90 | Wand of Polymorph
- | 91-95 | Wand of Secret Door Detection
- | 96-00 | Wand of Trap Detection
+| B: d6 | X: d% | Item |
+|-------|-------|------|
+| 1 | 1-8 | Rod of Cancellation |
+|  | 9-11 | Staff of Commanding |
+| 2 | 12-21 | Staff of Healing |
+|  | 22-23 | Staff of Power |
+| 3 | 24-28 | Staff of Snakes |
+|  | 29-31 | Staff of Striking |
+|  | 32-34 | Staff of Withering |
+|  | 35 | Staff of Wizardry |
+|  | 36-40 | Wand of Cold |
+| 4 | 41-45 | Wand of Enemy Detection |
+|  | 46-50 | Wand of Fear |
+|  | 51-55 | Wand of Fire Balls |
+|  | 56-60 | Wand of Illusion |
+|  | 61-65 | Wand of Lightning Bolts |
+| 5 | 66-70 | Wand of Magic Detection |
+|  | 71-75 | Wand of Metal Detection |
+|  | 76-80 | Wand of Negation |
+| 6 | 81-85 | Wand of Paralysation |
+|  | 86-90 | Wand of Polymorph |
+|  | 91-95 | Wand of Secret Door Detection |
+|  | 96-00 | Wand of Trap Detection |
 
 ### <a name="charges"></a>Charges
 
@@ -2080,29 +2080,29 @@ Reveals the location of all traps within 20'.
 
 ## <a name="weapons"></a>Weapons
 
-B: d4 | X: d% | Weapon
-------|-------|-------
- | 1-2 | Arrows +1 (3d10)
-1 | 3-12 | Arrows +1 (Basic: 10; Expert: 2d6)
- | 13-18 | Arrows +2 (1d6)
-2 | 19-27 | Axe +1
- | 28-30 | Axe +2
- | 31-33 | Bow +1
- | 34-43 | Crossbow Bolts +1 (2d6)
- | 44-45 | Crossbow Bolts +1 (3d10)
- | 46-52 | Crossbow Bolts +2 (1d6)
-3 | 53-55 | Dagger +1
- | 56 | Dagger +2, +3 vs orcs, goblins, and kobolds
-4 | 57-64 | Mace +1
- | 65-67 | Mace +2
- | 68 | Mace +3
- | 69-74 | Sling +1
- | 75-82 | Spear +1
- | 83-86 | Spear +2
- | 87 | Spear +3
- | 88-94 | War Hammer +1
- | 95-99 | War Hammer +2
- | 00 | War Hammer +3, Dwarven Thrower
+| B: d4 | X: d% | Weapon |
+|-------|-------|--------|
+|  | 1-2 | Arrows +1 (3d10) |
+| 1 | 3-12 | Arrows +1 (Basic: 10; Expert: 2d6) |
+|  | 13-18 | Arrows +2 (1d6) |
+| 2 | 19-27 | Axe +1 |
+|  | 28-30 | Axe +2 |
+|  | 31-33 | Bow +1 |
+|  | 34-43 | Crossbow Bolts +1 (2d6) |
+|  | 44-45 | Crossbow Bolts +1 (3d10) |
+|  | 46-52 | Crossbow Bolts +2 (1d6) |
+| 3 | 53-55 | Dagger +1 |
+|  | 56 | Dagger +2, +3 vs orcs, goblins, and kobolds |
+| 4 | 57-64 | Mace +1 |
+|  | 65-67 | Mace +2 |
+|  | 68 | Mace +3 |
+|  | 69-74 | Sling +1 |
+|  | 75-82 | Spear +1 |
+|  | 83-86 | Spear +2 |
+|  | 87 | Spear +3 |
+|  | 88-94 | War Hammer +1 |
+|  | 95-99 | War Hammer +2 |
+|  | 00 | War Hammer +3, Dwarven Thrower |
 
 - **_Ammunition:_** The number of rounds found is indicated in parentheses.
 
@@ -2144,44 +2144,44 @@ Some magic swords possess sentience (see [**_Swords_**](#swords) for the chances
 
 ### <a name="communication"></a>Communication
 
-INT | Reading | Communication
-----|---------|--------------
-7 | No | Empathy
-8 | No | Empathy
-9 | No | Empathy
-10 | No | Speech
-11 | Yes | Speech
-12 | Yes | Speech
+| INT | Reading | Communication |
+|-----|---------|---------------|
+| 7 | No | Empathy |
+| 8 | No | Empathy |
+| 9 | No | Empathy |
+| 10 | No | Speech |
+| 11 | Yes | Speech |
+| 12 | Yes | Speech |
 
 ### <a name="languages"></a>Languages
 
-d100 | Languages
------|----------
-01-50 | 1
-51-70 | 2
-71-85 | 3
-86-95 | 4
-96-99 | 5
-00 | Roll twice again, adding results
+| d100 | Languages |
+|------|-----------|
+| 01-50 | 1 |
+| 51-70 | 2 |
+| 71-85 | 3 |
+| 86-95 | 4 |
+| 96-99 | 5 |
+| 00 | Roll twice again, adding results |
 
 ### <a name="powers"></a>Powers
 
-INT | Powers
-----|-------
-7 | 1 sensory power
-8 | 2 sensory powers
-9 | 3 sensory powers
-10 | 3 sensory powers
-11 | 3 sensory powers
-12 | 3 sensory powers + 1 extraordinary power
+| INT | Powers |
+|-----|--------|
+| 7 | 1 sensory power |
+| 8 | 2 sensory powers |
+| 9 | 3 sensory powers |
+| 10 | 3 sensory powers |
+| 11 | 3 sensory powers |
+| 12 | 3 sensory powers + 1 extraordinary power |
 
 ### <a name="alignment"></a>Alignment
 
-d20 | Alignment
-----|----------
-1-13 | Lawful
-14-18 | Neutral
-19-20 | Chaotic
+| d20 | Alignment |
+|-----|-----------|
+| 1-13 | Lawful |
+| 14-18 | Neutral |
+| 19-20 | Chaotic |
 
 ### <a name="using_a_sentient_sword"></a>Using a Sentient Sword
 
@@ -2243,22 +2243,22 @@ Once in control, the sword will only release the character when the circumstance
 - Each power should be rolled on the table below. Duplicates should be re-rolled, unless noted.
 - Unless a power's description notes otherwise, it may be used at most three times a day.
 
-d100 | Power
------|------
-01-10 | Clairaudience
-11-20 | Clairvoyance
-21-30 | ESP
-31-35 | Extra damage (duplicates allowed)
-36-40 | Flying
-41-45 | Healing (duplicates allowed)
-46-54 | Illusion
-55-59 | Levitation
-60-69 | Telekinesis
-70-79 | Telepathy
-80-88 | Teleportation
-89-97 | X-ray vision
-98-99 | Roll twice again on this table
-0 | Roll three times again on this table
+| d100 | Power |
+|------|-------|
+| 01-10 | Clairaudience |
+| 11-20 | Clairvoyance |
+| 21-30 | ESP |
+| 31-35 | Extra damage (duplicates allowed) |
+| 36-40 | Flying |
+| 41-45 | Healing (duplicates allowed) |
+| 46-54 | Illusion |
+| 55-59 | Levitation |
+| 60-69 | Telekinesis |
+| 70-79 | Telepathy |
+| 80-88 | Teleportation |
+| 89-97 | X-ray vision |
+| 98-99 | Roll twice again on this table |
+| 00 | Roll three times again on this table |
 
 #### <a name="clairaudience"></a>Clairaudience
 
@@ -2360,19 +2360,19 @@ Allows the wielder to see through solid objects.
 - Each sensory power should be rolled on the table below, with duplicates re-rolled.
 - Unless a power's description notes otherwise, it may be used without limit.
 
-d100 | Power
------|------
-01-10 | Detect evil or good
-11-15 | Detect gems
-16-25 | Detect magic
-26-35 | Detect metals
-36-50 | Detect shifting architecture
-51-65 | Detect slopes
-66-75 | Detect traps
-76-85 | Locate secret doors
-86-95 | See invisible objects
-96-99 | Roll an extraordinary power
-00 | Roll twice again on this table
+| d100 | Power |
+|------|-------|
+| 01-10 | Detect evil or good |
+| 11-15 | Detect gems |
+| 16-25 | Detect magic |
+| 26-35 | Detect metals |
+| 36-50 | Detect shifting architecture |
+| 51-65 | Detect slopes |
+| 66-75 | Detect traps |
+| 76-85 | Locate secret doors |
+| 86-95 | See invisible objects |
+| 96-99 | Roll an extraordinary power |
+| 00 | Roll twice again on this table |
 
 #### <a name="detect_evil_or_good"></a>Detect Evil or Good
 
@@ -2419,14 +2419,14 @@ The wielder can see invisible or concealed objects up to 20' distant. (This powe
 
 The purpose of such swords is typically to slay a certain type of character or creature. The purpose may be rolled on the table below, or the referee may invent others.
 
-d6 | Target
----|-------
-1 | Arcane spell casters
-2 | Divine spell casters
-3 | Warriors (e.g. fighters or other primarily combat-oriented, non-spell casting classes, including non-spell casting demihumans)
-4 | Specific type of monster (determine randomly)
-5 | Lawful creatures (or chaotic creatures, if the sword is lawful)
-6 | Chaotic creatures (or lawful creatures, if the sword is chaotic)
+| d6 | Target |
+|----|--------|
+| 1 | Arcane spell casters |
+| 2 | Divine spell casters |
+| 3 | Warriors (e.g. fighters or other primarily combat-oriented, non-spell casting classes, including non-spell casting demihumans) |
+| 4 | Specific type of monster (determine randomly) |
+| 5 | Lawful creatures (or chaotic creatures, if the sword is lawful) |
+| 6 | Chaotic creatures (or lawful creatures, if the sword is chaotic) |
 
 ### <a name="alignment_power"></a>Alignment Power
 

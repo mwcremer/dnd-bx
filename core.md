@@ -26,15 +26,15 @@ This product is released under the terms of the Open Game License Version 1.0a, 
 
 ### <a name="standard_adjustments"></a>Standard Adjustments
 
-Ability | Standard Adjustment
---------|--------------------
-3 | -3
-4-5 | -2
-6-8 | -1
-9-12 | None
-13-15 | +1
-16-17 | +2
-18 | +3
+| Ability | Standard Adjustment |
+|---------|---------------------|
+| 3 | -3 |
+| 4-5 | -2 |
+| 6-8 | -1 |
+| 9-12 | None |
+| 13-15 | +1 |
+| 16-17 | +2 |
+| 18 | +3 |
 
 ### <a name="cha"></a>Charisma
 
@@ -44,15 +44,15 @@ Charisma (CHA) measures a character's force of personality, persuasiveness, pers
 
 - **_Max # of Retainers_** and **_Retainer Morale_** determine the number of [**_Retainers_**](#retainers) a character may have in his or her pay at any one time and their loyalty to the character.
 
-CHA | Reaction Adjustment | Max # of Retainers | Retainer Morale
---|----|---|---
-3 | -2 | 1 | 4
-4-5 | -1 | 2 | 5
-6-8 | -1 | 3 | 6
-9-12 | None | 4 | 7
-13-15 | +1 | 5 | 8
-16-17 | +1 | 6 | 9
-18 | +2 | 7 | 10
+| CHA | Reaction Adjustment | Max # of Retainers | Retainer Morale |
+|---|----|---|----|
+| 3 | -2 | 1 | 4 |
+| 4-5 | -1 | 2 | 5 |
+| 6-8 | -1 | 3 | 6 |
+| 9-12 | None | 4 | 7 |
+| 13-15 | +1 | 5 | 8 |
+| 16-17 | +1 | 6 | 9 |
+| 18 | +2 | 7 | 10 |
 
 ### <a name="con"></a>Constitution
 
@@ -68,15 +68,15 @@ Dexterity (DEX) measures hand-eye coordination, agility, reflexes, and balance. 
 
 - **_Initiative Adjustment_** modifies the character's initiative roll, if the optional rule for individual initiative is being used (see [**_Basic Combat Procedure_**](#basic_combat_procedure)).
 
-DEX | Initiative Adjustment
---|---
-3 | -2
-4-5 | -1
-6-8 | -1
-9-12 | None
-13-15 | +1
-16-17 | +1
-18 | +2
+| DEX | Initiative Adjustment |
+|---|----|
+| 3 | -2 |
+| 4-5 | -1 |
+| 6-8 | -1 |
+| 9-12 | None |
+| 13-15 | +1 |
+| 16-17 | +1 |
+| 18 | +2 |
 
 ### <a name="int"></a>Intelligence
 
@@ -86,15 +86,15 @@ Intelligence (INT) determines how well a character learns, remembers, and reason
 
 - **_Bonus Languages_** determines the number of additional languages the character can choose during character creation.
 
-INT | Language Ability | Bonus Languages
---|--|--
-3 | Unable to read or write, broken speech | 0
-4-5 | Unable to read or write | 0
-6-8 | Can write simple words | 0
-9-12 | Can read and write native languages | 0
-13-15 | Can read and write native languages | 1
-16-17 | Can read and write native languages | 2
-18 | Can read and write native languages | 3
+| INT | Language Ability | Bonus Languages |
+|---|--|---|
+| 3 | Unable to read or write, broken speech | 0 |
+| 4-5 | Unable to read or write | 0 |
+| 6-8 | Can write simple words | 0 |
+| 9-12 | Can read and write native languages | 0 |
+| 13-15 | Can read and write native languages | 1 |
+| 16-17 | Can read and write native languages | 2 |
+| 18 | Can read and write native languages | 3 |
 
 ### <a name="str"></a>Strength
 
@@ -114,13 +114,13 @@ Each character class has one or more prime requisites, that is, an ability score
 
 - **_XP Adjustment_** is applied to all experience points awarded to the character, unless otherwise noted in the description of the class.
 
-Score | XP Adjustment
---|--
-3-5 | -20%
-6-8 | -10%
-9-12 | None
-13-15 | +5%
-16-18 | +10%
+| Score | XP Adjustment |
+|---|---|
+| 3-5 | -20% |
+| 6-8 | -10% |
+| 9-12 | None |
+| 13-15 | +5% |
+| 16-18 | +10% |
 
 ## <a name="sequence_of_play"></a>Sequence of Play
 
@@ -237,12 +237,12 @@ The following procedure is followed, day by day, until the chase is over:
 
     b. If the pursuing side is faster, there is a 50% chance of them catching up. If the roll succeeds, the fleeing side has been caught; the chase is over. If the roll fails, the fleeing party has another chance to escape; return to step 1.
 
-Fleeing group size | 10% | 25% | 35% | 50% | 70% | 90%
----|---|---|---|---|---|---
-1-4 | -- | -- | -- | 1 pursuer | 2-3 pursuers | 4+ pursuers
-5-12 | -- | -- | 1-3 pursuers | 4-8 pursuers | 9+ pursuers | --
-13-24 | -- | 1-6 pursuers | 7-16 pursuers | 17+ pursuers | -- | --
-25+ | 1-10 pursuers | 11-30 pursuers | 31+ pursuers | -- | -- | --
+| Fleeing group size | 10% | 25% | 35% | 50% | 70% | 90% |
+|----|---|---|---|---|---|----|
+| 1-4 | -- | -- | -- | 1 pursuer | 2-3 pursuers | 4+ pursuers |
+| 5-12 | -- | -- | 1-3 pursuers | 4-8 pursuers | 9+ pursuers | ---|
+| 13-24 | -- | 1-6 pursuers | 7-16 pursuers | 17+ pursuers | -- | ---|
+| 25+ | 1-10 pursuers | 11-30 pursuers | 31+ pursuers | -- | -- | ---|
 
 #### <a name="waterborne_chases"></a>Waterborne Chases
 
@@ -254,14 +254,14 @@ If the roll to escape succeeds, the pursuers cannot attempt to catch up with the
 
 If the roll to escape fails, the distance between the two sides will decrease by the pursuer's movement rate each round (or a minimum of 30' per round, if the pursuer has a slower movement rate than the fleeing side).
 
-Fleeing Side's Movement Rate | Chance of Escape
----|---
-Faster than pursuer | 80%
-Equal movement rate or up to 30' per round slower than pursuer | 50%
-Up to 60' per round slower than pursuer | 40%
-Up to 90' per round slower than pursuer | 35%
-Up to 120' per round slower than pursuer | 25%
-More than 120' per round slower than pursuer | 10%
+| Fleeing Side's Movement Rate | Chance of Escape |
+|----|----|
+| Faster than pursuer | 80% |
+| Equal movement rate or up to 30' per round slower than pursuer | 50% |
+| Up to 60' per round slower than pursuer | 40% |
+| Up to 90' per round slower than pursuer | 35% |
+| Up to 120' per round slower than pursuer | 25% |
+| More than 120' per round slower than pursuer | 10% |
 
 ### <a name="climbing"></a>Climbing
 
@@ -341,13 +341,13 @@ The situation in which the encounter occurs often determines how far away the mo
 
 Very often, circumstances make it obvious how a monster will react when encountered. However, sometimes the referee may wish to roll on the table below to determine how a monster reacts to encountering the party. If one specific character attempts to interact with monsters, that character's CHA score is used to modify the reaction roll.
 
-2d6 | Result
----|---
-2 or less | Hostile, attacks
-3-5 | Unfriendly, may attack
-6-8 | Neutral, uncertain
-9-11 | Indifferent, uninterested
-12 or more | Friendly, helpful
+| 2d6 | Result |
+|----|----|
+| 2 or less | Hostile, attacks |
+| 3-5 | Unfriendly, may attack |
+| 6-8 | Neutral, uncertain |
+| 9-11 | Indifferent, uninterested |
+| 12 or more | Friendly, helpful |
 
 #### <a name="evasion"></a>Evasion
 
@@ -367,16 +367,16 @@ As coins are the most common form of treasure found by adventurers, both encumbr
 
 **Treasure Encumbrance in Coins**
 
-Treasure | Weight in Coins
----|---
-Coin (any type) | 1
-Gem | 1
-Jewellery (1 piece) | 10
-Potion | 10
-Rod | 20
-Scroll | 1
-Staff | 40
-Wand | 10
+| Treasure | Weight in Coins |
+|----|----|
+| Coin (any type) | 1 |
+| Gem | 1 |
+| Jewellery (1 piece) | 10 |
+| Potion | 10 |
+| Rod | 20 |
+| Scroll | 1 |
+| Staff | 40 |
+| Wand | 10 |
 
 #### <a name="encumbrance_by_armor"></a>Option 1: Encumbrance by Armour Type
 
@@ -386,11 +386,11 @@ A character's movement rate is determined by two factors: the armour he or she i
 
 The maximum amount of treasure any character can carry is 1,600 coins or equivalent. For this reason, the weight of treasure carried must be tracked. The encumbrance of common types of treasure is shown in the table above. The weight of the character's standard adventuring gear (including armour and weapons) is _not _counted.
 
-Armour | Without Treasure | Carrying Treasure
----|---|---
-Unarmoured | 120' | 90'
-Leather armour | 90' | 60'
-Metal armour | 60' | 30'
+| Armour | Without Treasure | Carrying Treasure |
+|----|---|----|
+| Unarmoured | 120' | 90' |
+| Leather armour | 90' | 60' |
+| Metal armour | 60' | 30' |
 
 #### <a name="encumbrance_by_weight"></a>Option 2: Encumbrance by Weight Carried
 
@@ -400,39 +400,39 @@ A character's encumbrance value is calculated based on adding the weights of all
 
 The maximum any character can carry is 1,600 coins.
 
-Encumbrance | Movement Rate
----|---
-Up to 400 coins | 120'
-Up to 600 coins | 90'
-Up to 800 coins | 60'
-Up to 1,600 coins | 30'
+| Encumbrance | Movement Rate |
+|----|----|
+| Up to 400 coins | 120' |
+| Up to 600 coins | 90' |
+| Up to 800 coins | 60' |
+| Up to 1,600 coins | 30' |
 
 #### <a name="equipment_encumbrance"></a>Equipment Encumbrance in Coins
 
 (Only used with encumbrance option 2.)
 
-Armour | Weight in Coins
----|---
-Leather armour | 200
-Chain mail | 400
-Plate mail | 500
-Shield | 100
+| Armour | Weight in Coins |
+|----|----|
+| Leather armour | 200 |
+| Chain mail | 400 |
+| Plate mail | 500 |
+| Shield | 100 |
 
-Weapon | Weight in Coins
----|---
-Battle axe | 50
-Bow + 20 arrows | 30
-Club | 50
-Crossbow + 30 quarrels | 50
-Dagger | 10
-Hand axe | 30
-Long sword | 60
-Mace | 30
-Polearm | 150
-Short sword | 30
-Spear | 30
-Two-handed sword | 150
-Warhammer | 30
+| Weapon | Weight in Coins |
+|----|----|
+| Battle axe | 50 |
+| Bow + 20 arrows | 30 |
+| Club | 50 |
+| Crossbow + 30 quarrels | 50 |
+| Dagger | 10 |
+| Hand axe | 30 |
+| Long sword | 60 |
+| Mace | 30 |
+| Polearm | 150 |
+| Short sword | 30 |
+| Spear | 30 |
+| Two-handed sword | 150 |
+| Warhammer | 30 |
 
 ### <a name="experience_points"></a>Experience Points
 
@@ -446,28 +446,28 @@ Characters gain XP from treasure at the rate of 1 XP per 1 gold piece (gp) value
 
 All monsters defeated by the party (slain, outsmarted, captured, scared away, etc.) grant XP based on how powerful they are. The XP value of a monster is determined by its Hit Dice plus a bonus for each special ability it has (e.g. breath attacks, spell-like abilities, etc.). See the chart below. A monster defeated under especially dangerous circumstances may be treated as one Hit Dice category higher on the chart.
 
-Monster HD | Base XP | Bonus XP / Ability
----|---|---
-Less than 1 | 5 | 1
-1 | 10 | 3
-1+ | 15 | 4
-2 | 20 | 5
-2+ | 25 | 10
-3 | 35 | 15
-3+ | 50 | 25
-4 | 75 | 50
-4+ | 125 | 75
-5 | 175 | 125
-5+ | 225 | 175
-6 | 275 | 225
-6+ | 350 | 300
-7 | 450 | 400
-8 | 650 | 550
-9-10+ | 900 | 700
-11-12+ | 1,100 | 800
-13-16+ | 1,350 | 950
-17-20+ | 2,000 | 1,150
-21+* | 2,500 | 2,000
+| Monster HD | Base XP | Bonus XP / Ability |
+|----|---|----|
+| Less than 1 | 5 | 1 |
+| 1 | 10 | 3 |
+| 1+ | 15 | 4 |
+| 2 | 20 | 5 |
+| 2+ | 25 | 10 |
+| 3 | 35 | 15 |
+| 3+ | 50 | 25 |
+| 4 | 75 | 50 |
+| 4+ | 125 | 75 |
+| 5 | 175 | 125 |
+| 5+ | 225 | 175 |
+| 6 | 275 | 225 |
+| 6+ | 350 | 300 |
+| 7 | 450 | 400 |
+| 8 | 650 | 550 |
+| 9-10+ | 900 | 700 |
+| 11-12+ | 1,100 | 800 |
+| 13-16+ | 1,350 | 950 |
+| 17-20+ | 2,000 | 1,150 |
+| 21+* | 2,500 | 2,000 |
 
 \* _For monsters of HD 22 and higher, add a cumulative 250 XP for the Base and Bonus categories.__
 
@@ -647,13 +647,13 @@ Retainers are recruited through negotiation, with the referee playing the roles 
 
 After an offer is made, the referee rolls 2d6 on the table below to decide the potential retainer's reaction. The roll is modified by the hiring character's CHA and the referee may apply a bonus or penalty, depending on the attractiveness of the deal (+1 or +2 for generous offers, -1 or -2 for poor offers).
 
-2d6 | Result
----|---
-2 or less | Offer refused *
-3-5 | Offer refused
-6-8 | Roll again
-9-11 | Offer accepted
-12 or more | Offer accepted &dagger;
+| 2d6 | Result |
+|----|----|
+| 2 or less | Offer refused * |
+| 3-5 | Offer refused |
+| 6-8 | Roll again |
+| 9-11 | Offer accepted |
+| 12 or more | Offer accepted &dagger; |
 
 \* _The potential retainer reacts so negatively to the offer that he or she spreads negative rumours about the PC, which results in a -1 penalty on any further hiring reaction rolls while recruiting in the same town or area._
 
@@ -783,17 +783,17 @@ If the ship encounters land during this travel, there is a 75% chance of it wrec
 
 Groups who prefer a slightly more detailed system of sea travel may use the following chart, which adds additional detail to the daily 2d6 roll to determine wind conditions.
 
-2d6 | Wind | Effect
----|---|---		
-2 | No wind | Movement is only possible by oar. Oarsmen fatigued: movement reduced by one third.
-3 | Faint breeze | Movement rate reduced to one third normal.
-4 | Gentle breeze | Movement rate reduced to half normal.
-5 | Moderate breeze | Movement rate reduced to two thirds normal.
-6-8 | Fresh breeze | Normal movement rate.
-9 | Strong breeze | Movement rate increased by one third.
-10 | High wind | Movement rate increased by half.
-11 | Near gale | Movement rate doubled. 10% chance of taking on water (speed reduced by one third until repaired at a dock).
-12 | Gale | Movement rate tripled. See [**_Gales_**](#gales), above.
+| 2d6 | Wind | Effect |
+|----|---|---		 |
+| 2 | No wind | Movement is only possible by oar. Oarsmen fatigued: movement reduced by one third. |
+| 3 | Faint breeze | Movement rate reduced to one third normal. |
+| 4 | Gentle breeze | Movement rate reduced to half normal. |
+| 5 | Moderate breeze | Movement rate reduced to two thirds normal. |
+| 6-8 | Fresh breeze | Normal movement rate. |
+| 9 | Strong breeze | Movement rate increased by one third. |
+| 10 | High wind | Movement rate increased by half. |
+| 11 | Near gale | Movement rate doubled. 10% chance of taking on water (speed reduced by one third until repaired at a dock). |
+| 12 | Gale | Movement rate tripled. See [**_Gales_**](#gales), above. |
 
 ## <a name="basic_combat_procedure"></a>Basic Combat Procedure
 
@@ -998,7 +998,7 @@ Characters fighting in or beneath water should have a penalty applied to their a
 ### <a name="adventurer_attack_chart"></a>Adventurer Attack Chart
 
 | Class   | and | Level | AC |    |    |    |    |    |    |    |    |    |    |    |    |
-| --------|-----|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|---------|-----|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | F D E H | C T |    MU | -3 | -2 | -1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
 |   1-3 |   1-4 |   1-5 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
 |   4-6 |   5-8 |  6-10 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |
@@ -1009,7 +1009,7 @@ Characters fighting in or beneath water should have a penalty applied to their a
 ### <a name="monster_attack_chart"></a>Monster Attack Chart
 
 |  Hit Dice   | AC |    |    |    |    |    |    |    |    |    |    |    |    |
-| ------------|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|-------------|----|----|----|----|----|----|----|----|----|----|----|----|----|
 |             | -3 | -2 | -1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
 | Up to 1     | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
 | 1+ to 2     | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |
@@ -1029,69 +1029,69 @@ Characters fighting in or beneath water should have a penalty applied to their a
 
 ### <a name="normal_human_attack_chart"></a>Normal Human Attack Chart
 
-To Hit AC   | -3 | -2 | -1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9
-------------|----|----|----|----|----|----|----|----|----|----|----|----|----
-Attack Roll | 20 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11
+| To Hit AC   | -3 | -2 | -1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
+|-------------|----|----|----|----|----|----|----|----|----|----|----|----|-----|
+| Attack Roll | 20 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 |
 
 ### <a name="cleric_saving_throw_chart"></a>Cleric Saving Throw Chart
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1-4 | 11 | 12 | 14 | 16 | 15
-5-8 | 9 | 10 | 12 | 14 | 12
-9-12 | 6 | 7 | 9 | 11 | 9
-13-16 | 3 | 5 | 7 | 8 | 7
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1-4 | 11 | 12 | 14 | 16 | 15 |
+| 5-8 | 9 | 10 | 12 | 14 | 12 |
+| 9-12 | 6 | 7 | 9 | 11 | 9 |
+| 13-16 | 3 | 5 | 7 | 8 | 7 |
 
 ### <a name="dwarf_and_halfling_saving_throw_chart"></a>Dwarf and Halfling Saving Throw Chart
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1-3 | 8 | 9 | 10 | 13 | 12
-4-6 | 6 | 7 | 8 | 10 | 10
-7-9 | 4 | 5 | 6 | 7 | 8
-10-12 | 2 | 3 | 4 | 4 | 6
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1-3 | 8 | 9 | 10 | 13 | 12 |
+| 4-6 | 6 | 7 | 8 | 10 | 10 |
+| 7-9 | 4 | 5 | 6 | 7 | 8 |
+| 10-12 | 2 | 3 | 4 | 4 | 6 |
 
 ### <a name="elf_saving_throw_chart"></a>Elf Saving Throw Chart
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1-3 | 12 | 13 | 13 | 15 | 15
-4-6 | 10 | 11 | 11 | 13 | 12
-7-9 | 8 | 9 | 9 | 10 | 10
-10 | 6 | 7 | 8 | 8 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1-3 | 12 | 13 | 13 | 15 | 15 |
+| 4-6 | 10 | 11 | 11 | 13 | 12 |
+| 7-9 | 8 | 9 | 9 | 10 | 10 |
+| 10 | 6 | 7 | 8 | 8 | 8 |
 
 ### <a name="fighter_saving_throw_chart"></a>Fighter Saving Throw Chart
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1-3 | 12 | 13 | 14 | 15 | 16
-4-6 | 10 | 11 | 12 | 13 | 14
-7-9 | 8 | 9 | 10 | 10 | 12
-10-12 | 6 | 7 | 8 | 8 | 10
-13-15 | 4 | 5 | 6 | 5 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1-3 | 12 | 13 | 14 | 15 | 16 |
+| 4-6 | 10 | 11 | 12 | 13 | 14 |
+| 7-9 | 8 | 9 | 10 | 10 | 12 |
+| 10-12 | 6 | 7 | 8 | 8 | 10 |
+| 13-15 | 4 | 5 | 6 | 5 | 8 |
 
 ### <a name="magic_user_saving_throw_chart"></a>Magic-User Saving Throw Chart
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1-5 | 13 | 14 | 13 | 16 | 15
-6-10 | 11 | 12 | 11 | 14 | 12
-11-15 | 8 | 9 | 8 | 11 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1-5 | 13 | 14 | 13 | 16 | 15 |
+| 6-10 | 11 | 12 | 11 | 14 | 12 |
+| 11-15 | 8 | 9 | 8 | 11 | 8 |
 
 ### <a name="thief_saving_throw_chart"></a>Thief Saving Throw Chart
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1-4 | 13 | 14 | 13 | 16 | 15
-5-8 | 12 | 13 | 11 | 14 | 13
-9-12 | 10 | 11 | 9 | 12 | 10
-13-16 | 8 | 9 | 7 | 10 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1-4 | 13 | 14 | 13 | 16 | 15 |
+| 5-8 | 12 | 13 | 11 | 14 | 13 |
+| 9-12 | 10 | 11 | 9 | 12 | 10 |
+| 13-16 | 8 | 9 | 7 | 10 | 8 |
 
 ### <a name="normal_human_saving_throw_chart"></a>Normal Human Saving Throw Chart
 
-Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
----|----|----|----|---
-14 | 15 | 16 | 17 | 18
+| Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|----|----|----|----|----|
+| 14 | 15 | 16 | 17 | 18 |
 
 ## <a name="magic"></a>Magic
 

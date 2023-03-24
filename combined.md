@@ -36,15 +36,15 @@ Character ability scores are determined by rolling randomly. Roll 3d6 for your c
 
 Below are the standard ability score modifiers.
 
-Ability | Standard Modifier
---------|--------------------
-3 | &minus;3
-4--5 | &minus;2
-6--8 | &minus;1
-9--12 | None
-13--15 | +1
-16--17 | +2
-18 | +3
+| Ability | Standard Modifier |
+|---------|---------------------|
+| 3 | &minus;3 |
+| 4--5 | &minus;2 |
+| 6--8 | &minus;1 |
+| 9--12 | None |
+| 13--15 | +1 |
+| 16--17 | +2 |
+| 18 | +3 |
 
 ### [Strength](@str)
 
@@ -59,15 +59,15 @@ Intelligence (INT) determines how well a character learns, remembers, and reason
 - ***Language Ability*** denotes the character's ability to speak, read, and write in his or her native tongue and other languages.
 - ***Bonus Languages*** determines the number of additional languages the character can choose during character creation.
 
-INT | Language Ability | Bonus Languages
---|--|--
-3 | Unable to read or write, broken speech | 0
-4--5 | Unable to read or write | 0
-6--8 | Can write simple words | 0
-9--12 | Can read and write native languages | 0
-13--15 | Can read and write native languages | 1
-16--17 | Can read and write native languages | 2
-18 | Can read and write native languages | 3
+| INT | Language Ability | Bonus Languages |
+|---|--|---|
+| 3 | Unable to read or write, broken speech | 0 |
+| 4--5 | Unable to read or write | 0 |
+| 6--8 | Can write simple words | 0 |
+| 9--12 | Can read and write native languages | 0 |
+| 13--15 | Can read and write native languages | 1 |
+| 16--17 | Can read and write native languages | 2 |
+| 18 | Can read and write native languages | 3 |
 
 ### [Wisdom](@wis)
 
@@ -82,15 +82,15 @@ Dexterity (DEX) measures hand-eye coordination, agility, reflexes, and balance. 
 - The [***Standard Modifier***](#ability_score_modifiers) is applied to attack rolls (but not damage rolls) made with a ranged weapon and modifies the character's Armour Class (a bonus lowers AC, a penalty raises it).
 - ***Initiative Adjustment*** modifies the character's initiative roll, if the optional rule for individual initiative is being used (see [***Basic Combat Procedure***](#basic_combat_procedure)).
 
-DEX | Initiative Adjustment
---|---
-3 | &minus;2
-4--5 | &minus;1
-6--8 | &minus;1
-9--12 | None
-13--15 | +1
-16--17 | +1
-18 | +2
+| DEX | Initiative Adjustment |
+|---|----|
+| 3 | &minus;2 |
+| 4--5 | &minus;1 |
+| 6--8 | &minus;1 |
+| 9--12 | None |
+| 13--15 | +1 |
+| 16--17 | +1 |
+| 18 | +2 |
 
 ### [Constitution](@con)
 
@@ -105,15 +105,15 @@ Charisma (CHA) measures a character's force of personality, persuasiveness, pers
 - ***Reaction Adjustment*** applies when hiring Retainers and when interacting with monsters (see [***Encounters***](#encounters)).
 - ***Max # of Retainers*** and ***Retainer Morale*** determine the number of [***Retainers***](#retainers) a character may have in his or her pay at any one time and their loyalty to the character.
 
-CHA | Reaction Adjustment | Max # of Retainers | Retainer Morale
---|----|---|---
-3 | &minus;2 | 1 | 4
-4--5 | &minus;1 | 2 | 5
-6--8 | &minus;1 | 3 | 6
-9--12 | None | 4 | 7
-13--15 | +1 | 5 | 8
-16--17 | +1 | 6 | 9
-18 | +2 | 7 | 10
+| CHA | Reaction Adjustment | Max # of Retainers | Retainer Morale |
+|---|----|---|----|
+| 3 | &minus;2 | 1 | 4 |
+| 4--5 | &minus;1 | 2 | 5 |
+| 6--8 | &minus;1 | 3 | 6 |
+| 9--12 | None | 4 | 7 |
+| 13--15 | +1 | 5 | 8 |
+| 16--17 | +1 | 6 | 9 |
+| 18 | +2 | 7 | 10 |
 
 ### [Sub-Par Characters](@sub_par_characters)
 
@@ -125,13 +125,13 @@ Each character class has one or more prime requisites, that is, an ability score
 
 - ***XP Adjustment*** is applied to all experience points awarded to the character, unless otherwise noted in the description of the class.
 
-Score | XP Adjustment
---|--
-3--5 | &minus;20%
-6--8 | &minus;10%
-9--12 | None
-13--15 | +5%
-16--18 | +10%
+| Score | XP Adjustment |
+|---|---|
+| 3--5 | &minus;20% |
+| 6--8 | &minus;10% |
+| 9--12 | None |
+| 13--15 | +5% |
+| 16--18 | +10% |
 
 ### [Adjust Ability Scores](@adjust_ability_scores)
 
@@ -169,22 +169,22 @@ Upon achieving 9th level, a fighter may be granted a title such as Baron or Baro
 
 #### [Fighter Level Progression](@fighter_level_progression)
 
-Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|----|----|----|----|---
-1 | 0 | 1d8 | 19 | 12 | 13 | 14 | 15 | 16
-2 | 2,000 | 2d8 | 19 | 12 | 13 | 14 | 15 | 16
-3 | 4,000 | 3d8 | 19 | 12 | 13 | 14 | 15 | 16
-4 | 8,000 | 4d8 | 17 | 10 | 11 | 12 | 13 | 14
-5 | 16,000 | 5d8 | 17 | 10 | 11 | 12 | 13 | 14
-6 | 32,000 | 6d8 | 17 | 10 | 11 | 12 | 13 | 14
-7 | 64,000 | 7d8 | 14 | 8 | 9 | 10 | 10 | 12
-8 | 120,000 | 8d8 | 14 | 8 | 9 | 10 | 10 | 12
-9 | 240,000 | 9d8 | 14 | 8 | 9 | 10 | 10 | 12
-10 | 360,000 | 9d8+2* | 12 | 6 | 7 | 8 | 8 | 10
-11 | 480,000 | 9d8+4* | 12 | 6 | 7 | 8 | 8 | 10
-12 | 600,000 | 9d8+6* | 12 | 6 | 7 | 8 | 8 | 10
-13 | 720,000 | 9d8+8* | 10 | 4 | 5 | 6 | 5 | 8
-14 | 840,000 | 9d8+10* | 10 | 4 | 5 | 6 | 5 | 8
+| Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|----|----|----|----|----|
+| 1 | 0 | 1d8 | 19 | 12 | 13 | 14 | 15 | 16 |
+| 2 | 2,000 | 2d8 | 19 | 12 | 13 | 14 | 15 | 16 |
+| 3 | 4,000 | 3d8 | 19 | 12 | 13 | 14 | 15 | 16 |
+| 4 | 8,000 | 4d8 | 17 | 10 | 11 | 12 | 13 | 14 |
+| 5 | 16,000 | 5d8 | 17 | 10 | 11 | 12 | 13 | 14 |
+| 6 | 32,000 | 6d8 | 17 | 10 | 11 | 12 | 13 | 14 |
+| 7 | 64,000 | 7d8 | 14 | 8 | 9 | 10 | 10 | 12 |
+| 8 | 120,000 | 8d8 | 14 | 8 | 9 | 10 | 10 | 12 |
+| 9 | 240,000 | 9d8 | 14 | 8 | 9 | 10 | 10 | 12 |
+| 10 | 360,000 | 9d8+2* | 12 | 6 | 7 | 8 | 8 | 10 |
+| 11 | 480,000 | 9d8+4* | 12 | 6 | 7 | 8 | 8 | 10 |
+| 12 | 600,000 | 9d8+6* | 12 | 6 | 7 | 8 | 8 | 10 |
+| 13 | 720,000 | 9d8+8* | 10 | 4 | 5 | 6 | 5 | 8 |
+| 14 | 840,000 | 9d8+10* | 10 | 4 | 5 | 6 | 5 | 8 |
 
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
@@ -201,13 +201,13 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 #### [Fighter Saving Throw Chart](@fighter_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--3 | 12 | 13 | 14 | 15 | 16
-4--6 | 10 | 11 | 12 | 13 | 14
-7--9 | 8 | 9 | 10 | 10 | 12
-10--12 | 6 | 7 | 8 | 8 | 10
-13--14 | 4 | 5 | 6 | 5 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--3 | 12 | 13 | 14 | 15 | 16 |
+| 4--6 | 10 | 11 | 12 | 13 | 14 |
+| 7--9 | 8 | 9 | 10 | 10 | 12 |
+| 10--12 | 6 | 7 | 8 | 8 | 10 |
+| 13--14 | 4 | 5 | 6 | 5 | 8 |
 
 ### [Cleric](@cleric)
 
@@ -254,22 +254,22 @@ Once a stronghold is established, the cleric will attract followers (5d6 &times;
 
 #### [Cleric Level Progression](@cleric_level_progression)
 
-Level | XP | Hit Dice | AC0 | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|----|----|----|----|---
-1 | 0 | 1d6 | 19 | 11 | 12 | 14 | 16 | 15
-2 | 1,500 | 2d6 | 19 | 11 | 12 | 14 | 16 | 15
-3 | 3,000 | 3d6 | 19 | 11 | 12 | 14 | 16 | 15
-4 | 6,000 | 4d6 | 19 | 11 | 12 | 14 | 16 | 15
-5 | 12,000 | 5d6 | 17 | 9 | 10 | 12 | 14 | 12
-6 | 25,000 | 6d6 | 17 | 9 | 10 | 12 | 14 | 12
-7 | 50,000 | 7d6 | 17 | 9 | 10 | 12 | 14 | 12
-8 | 100,000 | 8d6 | 17 | 9 | 10 | 12 | 14 | 12
-9 | 200,000 | 9d6 | 14 | 6 | 7 | 9 | 11 | 9
-10 | 300,000 | 9d6+1* | 14 | 6 | 7 | 9 | 11 | 9
-11 | 400,000 | 9d6+2* | 14 | 6 | 7 | 9 | 11 | 9
-12 | 500,000 | 9d6+3* | 14 | 6 | 7 | 9 | 11 | 9
-13 | 600,000 | 9d6+4* | 12 | 3 | 5 | 7 | 8 | 7
-14 | 700,000 | 9d6+5* | 12 | 3 | 5 | 7 | 8 | 7
+| Level | XP | Hit Dice | AC0 | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|----|----|----|----|----|
+| 1 | 0 | 1d6 | 19 | 11 | 12 | 14 | 16 | 15 |
+| 2 | 1,500 | 2d6 | 19 | 11 | 12 | 14 | 16 | 15 |
+| 3 | 3,000 | 3d6 | 19 | 11 | 12 | 14 | 16 | 15 |
+| 4 | 6,000 | 4d6 | 19 | 11 | 12 | 14 | 16 | 15 |
+| 5 | 12,000 | 5d6 | 17 | 9 | 10 | 12 | 14 | 12 |
+| 6 | 25,000 | 6d6 | 17 | 9 | 10 | 12 | 14 | 12 |
+| 7 | 50,000 | 7d6 | 17 | 9 | 10 | 12 | 14 | 12 |
+| 8 | 100,000 | 8d6 | 17 | 9 | 10 | 12 | 14 | 12 |
+| 9 | 200,000 | 9d6 | 14 | 6 | 7 | 9 | 11 | 9 |
+| 10 | 300,000 | 9d6+1* | 14 | 6 | 7 | 9 | 11 | 9 |
+| 11 | 400,000 | 9d6+2* | 14 | 6 | 7 | 9 | 11 | 9 |
+| 12 | 500,000 | 9d6+3* | 14 | 6 | 7 | 9 | 11 | 9 |
+| 13 | 600,000 | 9d6+4* | 12 | 3 | 5 | 7 | 8 | 7 |
+| 14 | 700,000 | 9d6+5* | 12 | 3 | 5 | 7 | 8 | 7 |
 
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
@@ -285,47 +285,47 @@ Level | XP | Hit Dice | AC0 | Death | Wands | Paralysis | Breath | Spells
 
 #### [Cleric Saving Throw Chart](@cleric_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--4 | 11 | 12 | 14 | 16 | 15
-5--8 | 9 | 10 | 12 | 14 | 12
-9--12 | 6 | 7 | 9 | 11 | 9
-13--14 | 3 | 5 | 7 | 8 | 7
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--4 | 11 | 12 | 14 | 16 | 15 |
+| 5--8 | 9 | 10 | 12 | 14 | 12 |
+| 9--12 | 6 | 7 | 9 | 11 | 9 |
+| 13--14 | 3 | 5 | 7 | 8 | 7 |
 
 #### [Cleric Spell Casting](@cleric_spell_casting)
 
-Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level
---|---|---|---|---|--
-1 | -- | -- | -- | -- | --
-2 | 1 | -- | -- | -- | --
-3 | 2 | -- | -- | -- | --
-4 | 2 | 1 | -- | -- | --
-5 | 2 | 2 | -- | -- | --
-6 | 2 | 2 | 1 | 1 | --
-7 | 2 | 2 | 2 | 1 | 1
-8 | 3 | 3 | 2 | 2 | 1
-9 | 3 | 3 | 3 | 2 | 2
-10 | 4 | 4 | 3 | 3 | 2
-11 | 4 | 4 | 4 | 3 | 3
-12 | 5 | 5 | 4 | 4 | 3
-13 | 5 | 5 | 5 | 4 | 4
-14 | 6 | 5 | 5 | 5 | 4
+| Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level |
+|---|---|---|---|---|---|
+| 1 | -- | -- | -- | -- | ---|
+| 2 | 1 | -- | -- | -- | ---|
+| 3 | 2 | -- | -- | -- | ---|
+| 4 | 2 | 1 | -- | -- | ---|
+| 5 | 2 | 2 | -- | -- | ---|
+| 6 | 2 | 2 | 1 | 1 | ---|
+| 7 | 2 | 2 | 2 | 1 | 1 |
+| 8 | 3 | 3 | 2 | 2 | 1 |
+| 9 | 3 | 3 | 3 | 2 | 2 |
+| 10 | 4 | 4 | 3 | 3 | 2 |
+| 11 | 4 | 4 | 4 | 3 | 3 |
+| 12 | 5 | 5 | 4 | 4 | 3 |
+| 13 | 5 | 5 | 5 | 4 | 4 |
+| 14 | 6 | 5 | 5 | 5 | 4 |
 
 #### [Turning the Undead](@turning_the_undead)
 
-Level | 1 HD | 2 HD | 2 HD* | 3 HD | 4 HD | 5 HD | 6 HD | 7+ HD
---|---|---|----|---|---|---|---|---
-1 | 7 | 9 | 11 | -- | -- | -- | -- | --
-2 | T | 7 | 9 | 11 | -- | -- | -- | --
-3 | T | T | 7 | 9 | 11 | -- | -- | --
-4 | D | T | T | 7 | 9 | 11 | -- | --
-5 | D | D | T | T | 7 | 9 | 11 | --
-6 | D | D | D | T | T | 7 | 9 | 11
-7 | D | D | D | D | T | T | 7 | 9
-8 | D | D | D | D | D | T | T | 7
-9 | D | D | D | D | D | D | T | T
-10 | D | D | D | D | D | D | D | T
-11+ | D | D | D | D | D | D | D | D
+| Level | 1 HD | 2 HD | 2 HD* | 3 HD | 4 HD | 5 HD | 6 HD | 7+ HD |
+|---|---|---|----|---|---|---|---|----|
+| 1 | 7 | 9 | 11 | -- | -- | -- | -- | ---|
+| 2 | T | 7 | 9 | 11 | -- | -- | -- | ---|
+| 3 | T | T | 7 | 9 | 11 | -- | -- | ---|
+| 4 | D | T | T | 7 | 9 | 11 | -- | ---|
+| 5 | D | D | T | T | 7 | 9 | 11 | ---|
+| 6 | D | D | D | T | T | 7 | 9 | 11 |
+| 7 | D | D | D | D | T | T | 7 | 9 |
+| 8 | D | D | D | D | D | T | T | 7 |
+| 9 | D | D | D | D | D | D | T | T |
+| 10 | D | D | D | D | D | D | D | T |
+| 11+ | D | D | D | D | D | D | D | D |
 
 \* _2 Hit Dice monsters with a special ability (e.g. paralysing touch, immunity to normal weapons, etc.) are more difficult to turn, as indicated by this column of the chart. Such monsters will have an asterisk next to their HD rating, in the monster description._
 
@@ -357,22 +357,22 @@ A magic-user may build a stronghold, often a great tower, when he or she reaches
 
 #### [Magic-User Level Progression](@magic_user_level_progression)
 
-Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|----|----|----|----|---
-1 | 0 | 1d4 | 19 | 13 | 14 | 13 | 16 | 15
-2 | 2,500 | 2d4 | 19 | 13 | 14 | 13 | 16 | 15
-3 | 5,000 | 3d4 | 19 | 13 | 14 | 13 | 16 | 15
-4 | 10,000 | 4d4 | 19 | 13 | 14 | 13 | 16 | 15
-5 | 20,000 | 5d4 | 19 | 13 | 14 | 13 | 16 | 15
-6 | 40,000 | 6d4 | 17 | 11 | 12 | 11 | 14 | 12
-7 | 80,000 | 7d4 | 17 | 11 | 12 | 11 | 14 | 12
-8 | 150,000 | 8d4 | 17 | 11 | 12 | 11 | 14 | 12
-9 | 300,000 | 9d4 | 17 | 11 | 12 | 11 | 14 | 12
-10 | 450,000 | 9d4+1* | 17 | 11 | 12 | 11 | 14 | 12
-11 | 600,000 | 9d4+2* | 14 | 8 | 9 | 8 | 11 | 8
-12 | 750,000 | 9d4+3* | 14 | 8 | 9 | 8 | 11 | 8
-13 | 900,000 | 9d4+4* | 14 | 8 | 9 | 8 | 11 | 8
-14 | 1,050,000 | 9d4+5* | 14 | 8 | 9 | 8 | 11 | 8
+| Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|----|----|----|----|----|
+| 1 | 0 | 1d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 2 | 2,500 | 2d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 3 | 5,000 | 3d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 4 | 10,000 | 4d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 5 | 20,000 | 5d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 6 | 40,000 | 6d4 | 17 | 11 | 12 | 11 | 14 | 12 |
+| 7 | 80,000 | 7d4 | 17 | 11 | 12 | 11 | 14 | 12 |
+| 8 | 150,000 | 8d4 | 17 | 11 | 12 | 11 | 14 | 12 |
+| 9 | 300,000 | 9d4 | 17 | 11 | 12 | 11 | 14 | 12 |
+| 10 | 450,000 | 9d4+1* | 17 | 11 | 12 | 11 | 14 | 12 |
+| 11 | 600,000 | 9d4+2* | 14 | 8 | 9 | 8 | 11 | 8 |
+| 12 | 750,000 | 9d4+3* | 14 | 8 | 9 | 8 | 11 | 8 |
+| 13 | 900,000 | 9d4+4* | 14 | 8 | 9 | 8 | 11 | 8 |
+| 14 | 1,050,000 | 9d4+5* | 14 | 8 | 9 | 8 | 11 | 8 |
 
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
@@ -387,30 +387,30 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 #### [Magic-User Saving Throw Chart](@magic_user_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--5 | 13 | 14 | 13 | 16 | 15
-6--10 | 11 | 12 | 11 | 14 | 12
-11--14 | 8 | 9 | 8 | 11 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--5 | 13 | 14 | 13 | 16 | 15 |
+| 6--10 | 11 | 12 | 11 | 14 | 12 |
+| 11--14 | 8 | 9 | 8 | 11 | 8 |
 
 #### [Magic-User Spell Casting](@magic_user_spell_casting)
 
-Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level | 6th Level
---|---|---|---|---|---|---
-1 | 1 | -- | -- | -- | -- | --
-2 | 2 | -- | -- | -- | -- | --
-3 | 2 | 1 | -- | -- | -- | --
-4 | 2 | 2 | -- | -- | -- | --
-5 | 2 | 2 | 1 | -- | -- | --
-6 | 2 | 2 | 2 | -- | -- | --
-7 | 3 | 2 | 2 | 1 | -- | --
-8 | 3 | 3 | 2 | 2 | -- | --
-9 | 3 | 3 | 3 | 2 | 1 | --
-10 | 3 | 3 | 3 | 3 | 2 | --
-11 | 4 | 3 | 3 | 3 | 2 | 1
-12 | 4 | 4 | 3 | 3 | 3 | 2
-13 | 4 | 4 | 4 | 3 | 3 | 3
-14 | 4 | 4 | 4 | 4 | 3 | 3
+| Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level | 6th Level |
+|---|---|---|---|---|---|----|
+| 1 | 1 | -- | -- | -- | -- | ---|
+| 2 | 2 | -- | -- | -- | -- | ---|
+| 3 | 2 | 1 | -- | -- | -- | ---|
+| 4 | 2 | 2 | -- | -- | -- | ---|
+| 5 | 2 | 2 | 1 | -- | -- | ---|
+| 6 | 2 | 2 | 2 | -- | -- | ---|
+| 7 | 3 | 2 | 2 | 1 | -- | ---|
+| 8 | 3 | 3 | 2 | 2 | -- | ---|
+| 9 | 3 | 3 | 3 | 2 | 1 | ---|
+| 10 | 3 | 3 | 3 | 3 | 2 | ---|
+| 11 | 4 | 3 | 3 | 3 | 2 | 1 |
+| 12 | 4 | 4 | 3 | 3 | 3 | 2 |
+| 13 | 4 | 4 | 4 | 3 | 3 | 3 |
+| 14 | 4 | 4 | 4 | 4 | 3 | 3 |
 
 ### [Thief](@thief)
 
@@ -452,22 +452,22 @@ When a thief attains level 9, he or she can establish a thief den. 2d6 thief app
 
 #### [Thief Level Progression](@thief_level_progression)
 
-Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|----|----|----|----|---
-1 | 0 | 1d4 | 19 | 13 | 14 | 13 | 16 | 15
-2 | 1,200 | 2d4 | 19 | 13 | 14 | 13 | 16 | 15
-3 | 2,400 | 3d4 | 19 | 13 | 14 | 13 | 16 | 15
-4 | 4,800 | 4d4 | 19 | 13 | 14 | 13 | 16 | 15
-5 | 9,600 | 5d4 | 17 | 12 | 13 | 11 | 14 | 13
-6 | 20,000 | 6d4 | 17 | 12 | 13 | 11 | 14 | 13
-7 | 40,000 | 7d4 | 17 | 12 | 13 | 11 | 14 | 13
-8 | 80,000 | 8d4 | 17 | 12 | 13 | 11 | 14 | 13
-9 | 160,000 | 9d4 | 14 | 10 | 11 | 9 | 12 | 10
-10 | 280,000 | 9d4+2* | 14 | 10 | 11 | 9 | 12 | 10
-11 | 400,000 | 9d4+4* | 14 | 10 | 11 | 9 | 12 | 10
-12 | 520,000 | 9d4+6* | 14 | 10 | 11 | 9 | 12 | 10
-13 | 640,000 | 9d4+8* | 12 | 8 | 9 | 7 | 10 | 8
-14 | 760,000 | 9d4+10* | 12 | 8 | 9 | 7 | 10 | 8
+| Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|----|----|----|----|----|
+| 1 | 0 | 1d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 2 | 1,200 | 2d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 3 | 2,400 | 3d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 4 | 4,800 | 4d4 | 19 | 13 | 14 | 13 | 16 | 15 |
+| 5 | 9,600 | 5d4 | 17 | 12 | 13 | 11 | 14 | 13 |
+| 6 | 20,000 | 6d4 | 17 | 12 | 13 | 11 | 14 | 13 |
+| 7 | 40,000 | 7d4 | 17 | 12 | 13 | 11 | 14 | 13 |
+| 8 | 80,000 | 8d4 | 17 | 12 | 13 | 11 | 14 | 13 |
+| 9 | 160,000 | 9d4 | 14 | 10 | 11 | 9 | 12 | 10 |
+| 10 | 280,000 | 9d4+2* | 14 | 10 | 11 | 9 | 12 | 10 |
+| 11 | 400,000 | 9d4+4* | 14 | 10 | 11 | 9 | 12 | 10 |
+| 12 | 520,000 | 9d4+6* | 14 | 10 | 11 | 9 | 12 | 10 |
+| 13 | 640,000 | 9d4+8* | 12 | 8 | 9 | 7 | 10 | 8 |
+| 14 | 760,000 | 9d4+10* | 12 | 8 | 9 | 7 | 10 | 8 |
 
 \* _Hit point modifiers from CON no longer apply._
 &dagger; _Modified attack roll needed to hit Armour Class 0._
@@ -483,31 +483,31 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 #### [Thief Saving Throw Chart](@thief_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--4 | 13 | 14 | 13 | 16 | 15
-5--8 | 12 | 13 | 11 | 14 | 13
-9--12 | 10 | 11 | 9 | 12 | 10
-13--14 | 8 | 9 | 7 | 10 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--4 | 13 | 14 | 13 | 16 | 15 |
+| 5--8 | 12 | 13 | 11 | 14 | 13 |
+| 9--12 | 10 | 11 | 9 | 12 | 10 |
+| 13--14 | 8 | 9 | 7 | 10 | 8 |
 
 #### [Thief Skills](@thief_skills)
 
-Level | Climb Sheer Surfaces | Find or Remove Traps | Hear Noise | Hide in Shadows | Move Silently | Pick Locks | Pick Pockets
---|-----|-----|--------|-----|-----|-----|----
-1 | 87% | 10% | 2-in-6 | 10% | 20% | 15% | 20%
-2 | 88% | 15% | 2-in-6 | 15% | 25% | 20% | 25%
-3 | 89% | 20% | 3-in-6 | 20% | 30% | 25% | 30%
-4 | 90% | 25% | 3-in-6 | 25% | 35% | 30% | 35%
-5 | 91% | 30% | 3-in-6 | 30% | 40% | 35% | 40%
-6 | 92% | 40% | 3-in-6 | 36% | 45% | 45% | 45%
-7 | 93% | 50% | 4-in-6 | 45% | 55% | 55% | 55%
-8 | 94% | 60% | 4-in-6 | 55% | 65% | 65% | 65%
-9 | 95% | 70% | 4-in-6 | 65% | 75% | 75% | 75%
-10 | 96% | 80% | 4-in-6 | 75% | 85% | 85% | 85%
-11 | 97% | 90% | 5-in-6 | 85% | 95% | 95% | 95%
-12 | 98% | 95% | 5-in-6 | 90% | 96% | 96% | 105%
-13 | 99% | 97% | 5-in-6 | 95% | 98% | 97% | 115%
-14 | 99% | 99% | 5-in-6 | 99% | 99% | 99% | 125%
+| Level | Climb Sheer Surfaces | Find or Remove Traps | Hear Noise | Hide in Shadows | Move Silently | Pick Locks | Pick Pockets |
+|---|-----|-----|--------|-----|-----|-----|-----|
+| 1 | 87% | 10% | 2-in-6 | 10% | 20% | 15% | 20% |
+| 2 | 88% | 15% | 2-in-6 | 15% | 25% | 20% | 25% |
+| 3 | 89% | 20% | 3-in-6 | 20% | 30% | 25% | 30% |
+| 4 | 90% | 25% | 3-in-6 | 25% | 35% | 30% | 35% |
+| 5 | 91% | 30% | 3-in-6 | 30% | 40% | 35% | 40% |
+| 6 | 92% | 40% | 3-in-6 | 36% | 45% | 45% | 45% |
+| 7 | 93% | 50% | 4-in-6 | 45% | 55% | 55% | 55% |
+| 8 | 94% | 60% | 4-in-6 | 55% | 65% | 65% | 65% |
+| 9 | 95% | 70% | 4-in-6 | 65% | 75% | 75% | 75% |
+| 10 | 96% | 80% | 4-in-6 | 75% | 85% | 85% | 85% |
+| 11 | 97% | 90% | 5-in-6 | 85% | 95% | 95% | 95% |
+| 12 | 98% | 95% | 5-in-6 | 90% | 96% | 96% | 105% |
+| 13 | 99% | 97% | 5-in-6 | 95% | 98% | 97% | 115% |
+| 14 | 99% | 99% | 5-in-6 | 99% | 99% | 99% | 125% |
 
 ### [Dwarf](@dwarf)
 
@@ -539,20 +539,20 @@ When a dwarf reaches level 9, he or she has the option of creating an undergroun
 
 #### [Dwarf Level Progression](@dwarf_level_progression)
 
-Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|---|---|----|----|---
-1 | 0 | 1d8 | 19 | 8 | 9 | 10 | 13 | 12
-2 | 2,200 | 2d8 | 19 | 8 | 9 | 10 | 13 | 12
-3 | 4,400 | 3d8 | 19 | 8 | 9 | 10 | 13 | 12
-4 | 8,800 | 4d8 | 17 | 6 | 7 | 8 | 10 | 10
-5 | 17,000 | 5d8 | 17 | 6 | 7 | 8 | 10 | 10
-6 | 35,000 | 6d8 | 17 | 6 | 7 | 8 | 10 | 10
-7 | 70,000 | 7d8 | 14 | 4 | 5 | 6 | 7 | 8
-8 | 140,000 | 8d8 | 14 | 4 | 5 | 6 | 7 | 8
-9 | 270,000 | 9d8 | 14 | 4 | 5 | 6 | 7 | 8
-10 | 400,000 | 9d8+3* | 12 | 2 | 3 | 4 | 4 | 6
-11 | 530,000 | 9d8+6* | 12 | 2 | 3 | 4 | 4 | 6
-12 | 660,000 | 9d8+9* | 12 | 2 | 3 | 4 | 4 | 6
+| Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|---|---|----|----|----|
+| 1 | 0 | 1d8 | 19 | 8 | 9 | 10 | 13 | 12 |
+| 2 | 2,200 | 2d8 | 19 | 8 | 9 | 10 | 13 | 12 |
+| 3 | 4,400 | 3d8 | 19 | 8 | 9 | 10 | 13 | 12 |
+| 4 | 8,800 | 4d8 | 17 | 6 | 7 | 8 | 10 | 10 |
+| 5 | 17,000 | 5d8 | 17 | 6 | 7 | 8 | 10 | 10 |
+| 6 | 35,000 | 6d8 | 17 | 6 | 7 | 8 | 10 | 10 |
+| 7 | 70,000 | 7d8 | 14 | 4 | 5 | 6 | 7 | 8 |
+| 8 | 140,000 | 8d8 | 14 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 270,000 | 9d8 | 14 | 4 | 5 | 6 | 7 | 8 |
+| 10 | 400,000 | 9d8+3* | 12 | 2 | 3 | 4 | 4 | 6 |
+| 11 | 530,000 | 9d8+6* | 12 | 2 | 3 | 4 | 4 | 6 |
+| 12 | 660,000 | 9d8+9* | 12 | 2 | 3 | 4 | 4 | 6 |
 
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
@@ -568,12 +568,12 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 ## [Dwarf Saving Throw Chart](@dwarf_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--3 | 8 | 9 | 10 | 13 | 12
-4--6 | 6 | 7 | 8 | 10 | 10
-7--9 | 4 | 5 | 6 | 7 | 8
-10--12 | 2 | 3 | 4 | 4 | 6
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--3 | 8 | 9 | 10 | 13 | 12 |
+| 4--6 | 6 | 7 | 8 | 10 | 10 |
+| 7--9 | 4 | 5 | 6 | 7 | 8 |
+| 10--12 | 2 | 3 | 4 | 4 | 6 |
 
 ### [Elf](@elf)
 
@@ -613,18 +613,18 @@ An elf can establish a stronghold in a natural setting, such as a forest or glen
 
 #### [Elf Level Progression](@elf_level_progression)
 
-Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|----|----|----|----|---
-1 | 0 | 1d6 | 19 | 12 | 13 | 13 | 15 | 15
-2 | 4,000 | 2d6 | 19 | 12 | 13 | 13 | 15 | 15
-3 | 8,000 | 3d6 | 19 | 12 | 13 | 13 | 15 | 15
-4 | 16,000 | 4d6 | 17 | 10 | 11 | 11 | 13 | 12
-5 | 32,000 | 5d6 | 17 | 10 | 11 | 11 | 13 | 12
-6 | 64,000 | 6d6 | 17 | 10 | 11 | 11 | 13 | 12
-7 | 120,000 | 7d6 | 14 | 8 | 9 | 9 | 10 | 10
-8 | 250,000 | 8d6 | 14 | 8 | 9 | 9 | 10 | 10
-9 | 400,000 | 9d6 | 14 | 8 | 9 | 9 | 10 | 10
-10 | 600,000 | 9d6+2* | 12 | 6 | 7 | 8 | 8 | 8
+| Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|----|----|----|----|----|
+| 1 | 0 | 1d6 | 19 | 12 | 13 | 13 | 15 | 15 |
+| 2 | 4,000 | 2d6 | 19 | 12 | 13 | 13 | 15 | 15 |
+| 3 | 8,000 | 3d6 | 19 | 12 | 13 | 13 | 15 | 15 |
+| 4 | 16,000 | 4d6 | 17 | 10 | 11 | 11 | 13 | 12 |
+| 5 | 32,000 | 5d6 | 17 | 10 | 11 | 11 | 13 | 12 |
+| 6 | 64,000 | 6d6 | 17 | 10 | 11 | 11 | 13 | 12 |
+| 7 | 120,000 | 7d6 | 14 | 8 | 9 | 9 | 10 | 10 |
+| 8 | 250,000 | 8d6 | 14 | 8 | 9 | 9 | 10 | 10 |
+| 9 | 400,000 | 9d6 | 14 | 8 | 9 | 9 | 10 | 10 |
+| 10 | 600,000 | 9d6+2* | 12 | 6 | 7 | 8 | 8 | 8 |
 
 \* _Hit point modifiers from CON no longer apply._  
 &dagger; _Modified attack roll needed to hit Armour Class 0._
@@ -640,27 +640,27 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 ## [Elf Saving Throw Chart](@elf_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--3 | 12 | 13 | 13 | 15 | 15
-4--6 | 10 | 11 | 11 | 13 | 12
-7--9 | 8 | 9 | 9 | 10 | 10
-10 | 6 | 7 | 8 | 8 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--3 | 12 | 13 | 13 | 15 | 15 |
+| 4--6 | 10 | 11 | 11 | 13 | 12 |
+| 7--9 | 8 | 9 | 9 | 10 | 10 |
+| 10 | 6 | 7 | 8 | 8 | 8 |
 
 #### [Elf Spell Casting](@elf_spell_casting)
 
-Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level
---|---|---|---|---|---
-1 | 1 | -- | -- | -- | --
-2 | 2 | -- | -- | -- | --
-3 | 2 | 1 | -- | -- | --
-4 | 2 | 2 | -- | -- | --
-5 | 2 | 2 | 1 | -- | --
-6 | 2 | 2 | 2 | -- | --
-7 | 3 | 2 | 2 | 1 | --
-8 | 3 | 3 | 2 | 2 | --
-9 | 3 | 3 | 3 | 2 | 1
-10 | 3 | 3 | 3 | 3 | 2
+| Level | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level |
+|---|---|---|---|---|----|
+| 1 | 1 | -- | -- | -- | ---|
+| 2 | 2 | -- | -- | -- | ---|
+| 3 | 2 | 1 | -- | -- | ---|
+| 4 | 2 | 2 | -- | -- | ---|
+| 5 | 2 | 2 | 1 | -- | ---|
+| 6 | 2 | 2 | 2 | -- | ---|
+| 7 | 3 | 2 | 2 | 1 | ---|
+| 8 | 3 | 3 | 2 | 2 | ---|
+| 9 | 3 | 3 | 3 | 2 | 1 |
+| 10 | 3 | 3 | 3 | 3 | 2 |
 
 ### [Halfling](@halfling)
 
@@ -697,16 +697,16 @@ Halflings are small, rotund demi-humans with furry feet and curly hair. They wei
 
 #### [Halfling Level Progression](@halfling_level_progression)
 
-Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells
---|---|-----|----|---|---|----|----|---
-1 | 0 | 1d6 | 19 | 8 | 9 | 10 | 13 | 12
-2 | 2,000 | 2d6 | 19 | 8 | 9 | 10 | 13 | 12
-3 | 4,000 | 3d6 | 19 | 8 | 9 | 10 | 13 | 12
-4 | 8,000 | 4d6 | 17 | 6 | 7 | 8 | 10 | 10
-5 | 16,000 | 5d6 | 17 | 6 | 7 | 8 | 10 | 10
-6 | 32,000 | 6d6 | 17 | 6 | 7 | 8 | 10 | 10
-7 | 64,000 | 7d6 | 14 | 4 | 5 | 6 | 7 | 8
-8 | 120,000 | 8d6 | 14 | 4 | 5 | 6 | 7 | 8
+| Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spells |
+|---|---|-----|----|---|---|----|----|----|
+| 1 | 0 | 1d6 | 19 | 8 | 9 | 10 | 13 | 12 |
+| 2 | 2,000 | 2d6 | 19 | 8 | 9 | 10 | 13 | 12 |
+| 3 | 4,000 | 3d6 | 19 | 8 | 9 | 10 | 13 | 12 |
+| 4 | 8,000 | 4d6 | 17 | 6 | 7 | 8 | 10 | 10 |
+| 5 | 16,000 | 5d6 | 17 | 6 | 7 | 8 | 10 | 10 |
+| 6 | 32,000 | 6d6 | 17 | 6 | 7 | 8 | 10 | 10 |
+| 7 | 64,000 | 7d6 | 14 | 4 | 5 | 6 | 7 | 8 |
+| 8 | 120,000 | 8d6 | 14 | 4 | 5 | 6 | 7 | 8 |
 
 &dagger; _Modified attack roll needed to hit Armour Class 0._
 
@@ -720,11 +720,11 @@ Level | XP | Hit Dice | AC0&dagger; | Death | Wands | Paralysis | Breath | Spell
 
 ## [Halfling Saving Throw Chart](@halfling_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--3 | 8 | 9 | 10 | 13 | 12
-4--6 | 6 | 7 | 8 | 10 | 10
-7--8 | 4 | 5 | 6 | 7 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--3 | 8 | 9 | 10 | 13 | 12 |
+| 4--6 | 6 | 7 | 8 | 10 | 10 |
+| 7--8 | 4 | 5 | 6 | 7 | 8 |
 
 ## [Hit Points](@roll_hit_points)
 
@@ -742,13 +742,13 @@ The most common coin is the gold piece (gp). Coins made of other types of precio
 
 #### [Coin Conversion Rates](@coin_conversion_rates)
 
-Coin | 1 pp | 1 gp | 1 ep | 1 sp | 1 cp
------|------|------|------|------|-----
-Value in pp | 1 | 1/5 | 1/10 | 1/50 | 1/500
-Value in gp | 5 | 1 | 1/2 | 1/10 | 1/100
-Value in ep | 10 | 2 | 1 | 1/5 | 1/50
-Value in sp | 50 | 10 | 5 | 1 | 1/10
-Value in cp | 500 | 100 | 50 | 10 | 1
+| Coin | 1 pp | 1 gp | 1 ep | 1 sp | 1 cp |
+|------|------|------|------|------|------|
+| Value in pp | 1 | 1/5 | 1/10 | 1/50 | 1/500 |
+| Value in gp | 5 | 1 | 1/2 | 1/10 | 1/100 |
+| Value in ep | 10 | 2 | 1 | 1/5 | 1/50 |
+| Value in sp | 50 | 10 | 5 | 1 | 1/10 |
+| Value in cp | 500 | 100 | 50 | 10 | 1 |
 
 ### [Starting Money](@starting_money)
 
@@ -768,67 +768,67 @@ Faced with the possibility of character death, players may take efforts to ensur
 
 ### [Adventuring Gear](@adventuring_gear)
 
-Item | Cost (gp)
------|----------
-Backpack | 5
-Crowbar | 10
-Garlic | 5
-Grappling hook | 25
-Hammer (small) | 2
-Holy symbol | 25
-Holy water (vial) | 25
-Iron spikes (12) | 1
-Lantern | 10
-Mirror (hand-sized, steel) | 5
-Oil (1 flask) | 2
-Pole (10' long, wooden) | 1
-Rations (iron, 7 days) | 15
-Rations (standard, 7 days) | 5
-Rope (50') | 1
-Sack (small) | 1
-Sack (large) | 2
-Stakes (3) and mallet | 3
-Thieves' tools | 25
-Tinder box (flint &amp; steel) | 3
-Torches (6) | 1
-Waterskin | 1
-Wine (2 pints) | 1
-Wolfsbane (1 bunch) | 10
+| Item | Cost (gp) |
+|------|-----------|
+| Backpack | 5 |
+| Crowbar | 10 |
+| Garlic | 5 |
+| Grappling hook | 25 |
+| Hammer (small) | 2 |
+| Holy symbol | 25 |
+| Holy water (vial) | 25 |
+| Iron spikes (12) | 1 |
+| Lantern | 10 |
+| Mirror (hand-sized, steel) | 5 |
+| Oil (1 flask) | 2 |
+| Pole (10' long, wooden) | 1 |
+| Rations (iron, 7 days) | 15 |
+| Rations (standard, 7 days) | 5 |
+| Rope (50') | 1 |
+| Sack (small) | 1 |
+| Sack (large) | 2 |
+| Stakes (3) and mallet | 3 |
+| Thieves' tools | 25 |
+| Tinder box (flint &amp; steel) | 3 |
+| Torches (6) | 1 |
+| Waterskin | 1 |
+| Wine (2 pints) | 1 |
+| Wolfsbane (1 bunch) | 10 |
 
 ### [Armour](@armour)
 
-Armour | AC | Cost (gp) | Weight (Coins)
--------|----|-----------|---------------
-Leather | 7 | 20 | 200
-Chain mail | 5 | 40 | 400
-Plate mail | 3 | 60 | 500
-Shield | &minus;1 bonus | 10 | 100
+| Armour | AC | Cost (gp) | Weight (Coins) |
+|--------|----|-----------|----------------|
+| Leather | 7 | 20 | 200 |
+| Chain mail | 5 | 40 | 400 |
+| Plate mail | 3 | 60 | 500 |
+| Shield | &minus;1 bonus | 10 | 100 |
 
 ***Weight (Coins):*** The weight of armour is only tracked with [encumbrance option 2](#encumbrance_by_weight).
 
 ### [Weapons](@weapons)
 
-Weapon | Cost (gp) | Weight (Coins)#
--------|-----------|-----------------
-Battle axe | 7 | 50
-Club | 3 | 50
-Crossbow | 30 | 50*
-Dagger | 3 | 10
-Hand axe | 4 | 30
-Javelin | 1 | 20&dagger;
-Lance | 5 | 120&dagger;
-Mace | 5 | 30
-Polearm | 7 | 150
-Long bow | 40 | 30*
-Short bow | 25 | 30*
-Short sword | 7 | 30
-Silver dagger | 30 | 10
-Sling | 2 | 20*&dagger;
-Spear | 3 | 30
-Staff | 2 | 40&dagger;
-Sword | 10 | 60
-Two-handed sword | 15 | 150
-Warhammer | 5 | 30
+| Weapon | Cost (gp) | Weight (Coins)# |
+|--------|-----------|------------------|
+| Battle axe | 7 | 50 |
+| Club | 3 | 50 |
+| Crossbow | 30 | 50* |
+| Dagger | 3 | 10 |
+| Hand axe | 4 | 30 |
+| Javelin | 1 | 20&dagger; |
+| Lance | 5 | 120&dagger; |
+| Mace | 5 | 30 |
+| Polearm | 7 | 150 |
+| Long bow | 40 | 30* |
+| Short bow | 25 | 30* |
+| Short sword | 7 | 30 |
+| Silver dagger | 30 | 10 |
+| Sling | 2 | 20*&dagger; |
+| Spear | 3 | 30 |
+| Staff | 2 | 40&dagger; |
+| Sword | 10 | 60 |
+| Two-handed sword | 15 | 150 |
+| Warhammer | 5 | 30 |
 
 \# _The weight of weapons is only tracked with [encumbrance option 2](#encumbrance_by_weight))._  
 \* _Includes weight of ammunition/container._  
@@ -836,39 +836,39 @@ Warhammer | 5 | 30
 
 ### [Ammunition](@ammunition)
 
-Ammunition | Cost (gp)
------------|----------
-Crossbow bolts (case of 30) | 10
-Arrows (quiver of 20) | 5
-Silver tipped arrow (1) | 5
-Sling stones | Free
+| Ammunition | Cost (gp) |
+|------------|-----------|
+| Crossbow bolts (case of 30) | 10 |
+| Arrows (quiver of 20) | 5 |
+| Silver tipped arrow (1) | 5 |
+| Sling stones | Free |
 
 ### [Weapon Combat Stats](@weapon_combat_stats)
 
-Weapon | Damage | Qualities
--------|--------|----------
-Battle axe | 1d8 | Melee, Slow, Two-handed
-Club | 1d4 | Blunt, Melee
-Crossbow | 1d6 | Missile (5'--80' / 81'--160' / 161'--240'), Reload, Slow, Two-handed
-Dagger | 1d4 | Melee, Missile (5'--10' / 11'--20' / 21'--30')
-Hand axe | 1d6 | Melee, Missile (5'--10' / 11'--20' / 21'--30')
-Holy water vial | 1d8 | Missile (5'--10' / 11'--30' / 31'--50'), Splash weapon
-Javelin | 1d4 | Missile (5'--30' / 31'--60' / 61'--90' &dagger;)
-Lance | 1d6 | Charge, Melee
-Long bow | 1d6 | Missile (5'--70' / 71'--140' / 141'--210'), Two-handed
-Mace | 1d6 | Blunt, Melee
-Oil flask, burning | 1d8 | Missile (5'--10' / 11'--30' / 31'--50'), Splash weapon
-Polearm | 1d10 | Brace, Melee, Slow, Two-handed
-Short bow | 1d6 | Missile (5'--50' / 51'--100' / 101'--150'), Two-handed
-Short sword | 1d6 | Melee
-Silver dagger | 1d4 | Melee, Missile (5'--10' / 11'--20' / 21'--30')
-Sling | 1d4 | Blunt, Missile (5'--40' / 41'--80' / 81'--160')
-Spear | 1d6 | Brace, Melee, Missile (5'--20' / 21'--40' / 41'--60')
-Staff | 1d4 | Blunt, Melee, Slow, Two-handed
-Sword | 1d8 | Melee
-Torch | 1d4 | Melee
-Two-handed sword | 1d10 | Melee, Slow, Two-handed
-Warhammer | 1d6 | Blunt, Melee
+| Weapon | Damage | Qualities |
+|--------|--------|-----------|
+| Battle axe | 1d8 | Melee, Slow, Two-handed |
+| Club | 1d4 | Blunt, Melee |
+| Crossbow | 1d6 | Missile (5'--80' / 81'--160' / 161'--240'), Reload, Slow, Two-handed |
+| Dagger | 1d4 | Melee, Missile (5'--10' / 11'--20' / 21'--30') |
+| Hand axe | 1d6 | Melee, Missile (5'--10' / 11'--20' / 21'--30') |
+| Holy water vial | 1d8 | Missile (5'--10' / 11'--30' / 31'--50'), Splash weapon |
+| Javelin | 1d4 | Missile (5'--30' / 31'--60' / 61'--90' &dagger;) |
+| Lance | 1d6 | Charge, Melee |
+| Long bow | 1d6 | Missile (5'--70' / 71'--140' / 141'--210'), Two-handed |
+| Mace | 1d6 | Blunt, Melee |
+| Oil flask, burning | 1d8 | Missile (5'--10' / 11'--30' / 31'--50'), Splash weapon |
+| Polearm | 1d10 | Brace, Melee, Slow, Two-handed |
+| Short bow | 1d6 | Missile (5'--50' / 51'--100' / 101'--150'), Two-handed |
+| Short sword | 1d6 | Melee |
+| Silver dagger | 1d4 | Melee, Missile (5'--10' / 11'--20' / 21'--30') |
+| Sling | 1d4 | Blunt, Missile (5'--40' / 41'--80' / 81'--160') |
+| Spear | 1d6 | Brace, Melee, Missile (5'--20' / 21'--40' / 41'--60') |
+| Staff | 1d4 | Blunt, Melee, Slow, Two-handed |
+| Sword | 1d8 | Melee |
+| Torch | 1d4 | Melee |
+| Two-handed sword | 1d10 | Melee, Slow, Two-handed |
+| Warhammer | 1d6 | Blunt, Melee |
 
 ***Damage:*** _Die rolled when using the optional rule for [variable weapon damage](#variable_weapon_damage)._  
 &dagger; _Not defined in the traditional Basic/Expert rules; value extrapolated from similar items._
@@ -964,9 +964,9 @@ For example, a character who needs a 17 to hit AC 0 could hit AC 5 on a roll of 
 
 It is usual to pre-calculate the modified attack values required to hit AC 0--9 and record them in a matrix. 1st level characters need to roll a 19 to hit AC 0, resulting in an attack matrix like this:
 
-Opponent's AC        |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9
----------------------|----|----|----|----|----|----|----|----|----|----
-Attack roll required | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10
+| Opponent's AC        |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
+|----------------------|----|----|----|----|----|----|----|----|----|-----|
+| Attack roll required | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
 
 ### [Saving Throws and Class Abilities](@note_saving_throws_and_class_abilities)
 
@@ -2213,11 +2213,11 @@ This spell causes 3d6 targets within 60' of one another to become confused, maki
 - Targets of 2 HD or lower get no save.
 - Roll on the following table separately for each affected target each round to see what that target does that round:
 
-2d6 | Behaviour
-----|----------
-2--5 | Attack caster's group
-6--8 | No action
-9--12 | Attack creature's group
+| 2d6 | Behaviour |
+|-----|-----------|
+| 2--5 | Attack caster's group |
+| 6--8 | No action |
+| 9--12 | Attack creature's group |
 
 ### [Dimension Door](@dimension_door)
 
@@ -2402,18 +2402,18 @@ Casting _contact higher plane_ is a great and perilous deed.
 - It may be cast at most once per week. (The referee may limit the spell's usage to even less frequently, if desired.)
 - Communion with otherworldly beings of great power can shatter the caster's sanity. The basic chance is shown in the chart above. For every level of the caster above 11, this chance is reduced by 5%. If the caster is driven insane as a result of the communion, the recovery time is a number of weeks equal to the number of the plane contacted.
 
-Plane | #Questions | Don't Know | Truth | Insanity
-----|---|-----|-----|-----
-3rd | 3 | 75% | 50% | 5%
-4th | 4 | 70% | 55% | 10%
-5th | 5 | 65% | 60% | 15%
-6th | 6 | 60% | 65% | 20%
-7th | 7 | 50% | 70% | 25%
-8th | 8 | 40% | 75% | 30%
-9th | 9 | 30% | 80% | 35%
-10th | 10 | 20% | 85% | 40%
-11th | 11 | 10% | 90% | 45%
-12th | 12 | 5% | 95% | 50%
+| Plane | #Questions | Don't Know | Truth | Insanity |
+|-----|---|-----|-----|------|
+| 3rd | 3 | 75% | 50% | 5% |
+| 4th | 4 | 70% | 55% | 10% |
+| 5th | 5 | 65% | 60% | 15% |
+| 6th | 6 | 60% | 65% | 20% |
+| 7th | 7 | 50% | 70% | 25% |
+| 8th | 8 | 40% | 75% | 30% |
+| 9th | 9 | 30% | 80% | 35% |
+| 10th | 10 | 20% | 85% | 40% |
+| 11th | 11 | 10% | 90% | 45% |
+| 12th | 12 | 5% | 95% | 50% |
 
 ### [Feeblemind](@feeblemind)
 
@@ -2486,11 +2486,11 @@ The caster or a chosen creature vanishes and reappears at a location of the cast
 
 There is a risk, when teleporting, of accidentally arriving above or below ground level. The chance of a successful teleportation depends on the caster's knowledge of the destination (see below). Roll d% and consult the following chart:
 
-Knowledge of Destination | Ground Level | Too High | Too Low
--------------------------|--------------|----------|--------
-Scant | 01--50 | 51--75 | 76--00
-Moderate | 01--80 | 81--90 | 91--00
-Exact | 01--95 | 96--99 | 00
+| Knowledge of Destination | Ground Level | Too High | Too Low |
+|--------------------------|--------------|----------|---------|
+| Scant | 01--50 | 51--75 | 76--00 |
+| Moderate | 01--80 | 81--90 | 91--00 |
+| Exact | 01--95 | 96--99 | 00 |
 
 - ***Ground level:*** The subject appears at the desired destination.
 - ***Too high:*** The subject appears 1d10×10 feet above the intended destination. Should this location already be occupied by solid matter, the subject is instantly killed. Otherwise, the subject falls (suffering 1d6 damage per 10' fallen).
@@ -2643,54 +2643,54 @@ The descriptions and stats of the monsters listed in the standard tables given h
 
 **Reincarnated Class**
 
-d10 | Reincarnation
-----|--------------
-1 | Cleric
-2 | Dwarf
-3 | Elf
-4 | Fighter
-5 | Halfling
-6 | Magic-user
-7 | Thief
-8 | Monster (roll on alignment table)
-9--10 | Same class
+| d10 | Reincarnation |
+|-----|---------------|
+| 1 | Cleric |
+| 2 | Dwarf |
+| 3 | Elf |
+| 4 | Fighter |
+| 5 | Halfling |
+| 6 | Magic-user |
+| 7 | Thief |
+| 8 | Monster (roll on alignment table) |
+| 9--10 | Same class |
 
 **Lawful Monsters**
 
-d6 | Reincarnation | HD
----|---------------|---
-1 | [Gnome](#gnome) | 1
-2 | [Neanderthal](#neanderthal) | 2
-3 | [Pegasus](#pegasus) | 2
-4 | [Blink dog](#blink_dog) | 4
-5 | [Unicorn](#unicorn) | 4
-6 | [Roc, small](#small_roc) | 6
+| d6 | Reincarnation | HD |
+|----|---------------|----|
+| 1 | [Gnome](#gnome) | 1 |
+| 2 | [Neanderthal](#neanderthal) | 2 |
+| 3 | [Pegasus](#pegasus) | 2 |
+| 4 | [Blink dog](#blink_dog) | 4 |
+| 5 | [Unicorn](#unicorn) | 4 |
+| 6 | [Roc, small](#small_roc) | 6 |
 
 **Neutral Monsters**
 
-d6 | Reincarnation | HD
----|---------------|---
-1 | [Pixie](#pixie) or [sprite](#sprite) | 1
-2 | [Lizard man](#lizard_man) | 2
-3 | [Rock baboon](#rock_baboon) | 2
-4 | [Ape, white](#ape_white) | 4
-5 | [Centaur](#centaur) | 4
-6 | [Werebear](#werebear) | 6
+| d6 | Reincarnation | HD |
+|----|---------------|----|
+| 1 | [Pixie](#pixie) or [sprite](#sprite) | 1 |
+| 2 | [Lizard man](#lizard_man) | 2 |
+| 3 | [Rock baboon](#rock_baboon) | 2 |
+| 4 | [Ape, white](#ape_white) | 4 |
+| 5 | [Centaur](#centaur) | 4 |
+| 6 | [Werebear](#werebear) | 6 |
 
 **Chaotic Monsters**
 
-d10 | Reincarnation | HD
-----|---------------|---
-1 | [Goblin](#goblin) | 1
-2 | [Hobgoblin](#hobgoblin) | 1
-3 | [Kobold](#kobold) | 1
-4 | [Orc](#orc) | 1
-5 | [Gnoll](#gnoll) | 2
-6 | [Bugbear](#bugbear) | 3
-7 | [Wererat](#wererat) | 3
-8 | [Ogre](#ogre) | 4
-9 | [Werewolf](#werewolf) | 4
-10 | [Minotaur](#minotaur) | 6
+| d10 | Reincarnation | HD |
+|-----|---------------|----|
+| 1 | [Goblin](#goblin) | 1 |
+| 2 | [Hobgoblin](#hobgoblin) | 1 |
+| 3 | [Kobold](#kobold) | 1 |
+| 4 | [Orc](#orc) | 1 |
+| 5 | [Gnoll](#gnoll) | 2 |
+| 6 | [Bugbear](#bugbear) | 3 |
+| 7 | [Wererat](#wererat) | 3 |
+| 8 | [Ogre](#ogre) | 4 |
+| 9 | [Werewolf](#werewolf) | 4 |
+| 10 | [Minotaur](#minotaur) | 6 |
 
 ### [Stone to Flesh](@stone_to_flesh)
 
@@ -2925,7 +2925,7 @@ Characters fighting in or beneath water should have a penalty applied to their a
 ## [Adventurer Attack Chart](@adventurer_attack_chart)
 
 | Class   | and | Level | AC |    |    |    |    |    |    |    |    |    |    |    |    |
-| --------|-----|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|---------|-----|-------|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | F D E H | C T |    MU | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
 |   1--3 |   1--4 |   1--5 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
 |   4--6 |   5--8 |  6--10 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |
@@ -2936,7 +2936,7 @@ Characters fighting in or beneath water should have a penalty applied to their a
 ## [Monster Attack Chart](@monster_attack_chart)
 
 |  Hit Dice   | AC |    |    |    |    |    |    |    |    |    |    |    |    |
-| ------------|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|-------------|----|----|----|----|----|----|----|----|----|----|----|----|----|
 |             | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
 | Up to 1     | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
 | 1+ to 2     | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |
@@ -2956,69 +2956,69 @@ Characters fighting in or beneath water should have a penalty applied to their a
 
 ## [Normal Human Attack Chart](@normal_human_attack_chart)
 
-To Hit AC   | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9
-------------|----|----|----|----|----|----|----|----|----|----|----|----|----
-Attack Roll | 20 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11
+| To Hit AC   | &minus;3 | &minus;2 | &minus;1 |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 |
+|-------------|----|----|----|----|----|----|----|----|----|----|----|----|-----|
+| Attack Roll | 20 | 20 | 20 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 |
 
 ## Cleric Saving Throw Chart](@standard_cleric_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--4 | 11 | 12 | 14 | 16 | 15
-5--8 | 9 | 10 | 12 | 14 | 12
-9--12 | 6 | 7 | 9 | 11 | 9
-13--16 | 3 | 5 | 7 | 8 | 7
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--4 | 11 | 12 | 14 | 16 | 15 |
+| 5--8 | 9 | 10 | 12 | 14 | 12 |
+| 9--12 | 6 | 7 | 9 | 11 | 9 |
+| 13--16 | 3 | 5 | 7 | 8 | 7 |
 
 ## [Dwarf and Halfling Saving Throw Chart](@standard_dwarf_and_halfling_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--3 | 8 | 9 | 10 | 13 | 12
-4--6 | 6 | 7 | 8 | 10 | 10
-7--9 | 4 | 5 | 6 | 7 | 8
-10--12 | 2 | 3 | 4 | 4 | 6
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--3 | 8 | 9 | 10 | 13 | 12 |
+| 4--6 | 6 | 7 | 8 | 10 | 10 |
+| 7--9 | 4 | 5 | 6 | 7 | 8 |
+| 10--12 | 2 | 3 | 4 | 4 | 6 |
 
 ## [Elf Saving Throw Chart](@standard_elf_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--3 | 12 | 13 | 13 | 15 | 15
-4--6 | 10 | 11 | 11 | 13 | 12
-7--9 | 8 | 9 | 9 | 10 | 10
-10 | 6 | 7 | 8 | 8 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--3 | 12 | 13 | 13 | 15 | 15 |
+| 4--6 | 10 | 11 | 11 | 13 | 12 |
+| 7--9 | 8 | 9 | 9 | 10 | 10 |
+| 10 | 6 | 7 | 8 | 8 | 8 |
 
 ## [Fighter Saving Throw Chart](@standard_fighter_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--3 | 12 | 13 | 14 | 15 | 16
-4--6 | 10 | 11 | 12 | 13 | 14
-7--9 | 8 | 9 | 10 | 10 | 12
-10--12 | 6 | 7 | 8 | 8 | 10
-13--15 | 4 | 5 | 6 | 5 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--3 | 12 | 13 | 14 | 15 | 16 |
+| 4--6 | 10 | 11 | 12 | 13 | 14 |
+| 7--9 | 8 | 9 | 10 | 10 | 12 |
+| 10--12 | 6 | 7 | 8 | 8 | 10 |
+| 13--15 | 4 | 5 | 6 | 5 | 8 |
 
 ## [Magic-User Saving Throw Chart](@standard_magic_user_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--5 | 13 | 14 | 13 | 16 | 15
-6--10 | 11 | 12 | 11 | 14 | 12
-11--15 | 8 | 9 | 8 | 11 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--5 | 13 | 14 | 13 | 16 | 15 |
+| 6--10 | 11 | 12 | 11 | 14 | 12 |
+| 11--15 | 8 | 9 | 8 | 11 | 8 |
 
 ## [Thief Saving Throw Chart](@standard_thief_saving_throw_chart)
 
-Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
-----|----|----|----|----|---
-1--4 | 13 | 14 | 13 | 16 | 15
-5--8 | 12 | 13 | 11 | 14 | 13
-9--12 | 10 | 11 | 9 | 12 | 10
-13--16 | 8 | 9 | 7 | 10 | 8
+| Level | Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|-----|----|----|----|----|----|
+| 1--4 | 13 | 14 | 13 | 16 | 15 |
+| 5--8 | 12 | 13 | 11 | 14 | 13 |
+| 9--12 | 10 | 11 | 9 | 12 | 10 |
+| 13--16 | 8 | 9 | 7 | 10 | 8 |
 
 ## [Normal Human Saving Throw Chart](@normal_human_saving_throw_chart)
 
-Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells
----|----|----|----|---
-14 | 15 | 16 | 17 | 18
+| Death Ray or Poison | Magic Wands | Paralysis or Turn to Stone | Dragon Breath | Rods, Staves, or Spells |
+|----|----|----|----|----|
+| 14 | 15 | 16 | 17 | 18 |
 
 # [Adventuring Rules](@adventuring_rules)
 
@@ -3062,20 +3062,20 @@ The character can expect to gain money through taxes at a rate of 10 gp per sett
 
 ### [Standard Structures](@standard_structures)
 
-Structure | Description | Dimensions | Cost
-----------|-------------|------------|-----
-Barbican | Heavily fortified entry/exit point in a castle wall. Consists of two small towers, a gatehouse, and a drawbridge. | See small tower, gatehouse, drawbridge | 37,000gp
-Bastion | Semi-circular tower built against a castle wall. | 30' base, 30' high, walls 5' thick | 9,000gp
-Civilian building, stone | Two levels; wooden stairs, doors, floors, and roof; attic. | Outer wall 120' long (e.g. 30'&times;40'), walls 1--2' thick | 3,000gp
-Civilian building, wood | Two levels; wooden stairs, doors, floors, and roof; attic. | Outer wall 120' long (e.g. 30'&times;40') | 1,500gp
-Drawbridge | Raisable wooden bridge crossing a moat. May be attached to a gatehouse. | 10' long | 500gp
-Gatehouse | Fortified entry/exit point in a castle wall. Includes a portcullis. | 30'&times;20' base, 20' high, walls 5' thick | 6,500gp
-Keep | Square, fortified building at the centre of a castle. | 60' base, 80' high, walls 10' thick | 75,000gp
-Moat | Defensive ditch, optionally filled with water. | 100' long, 20' wide, 10' deep | 400gp
-Subterranean passage | Typical dungeon passageway. | 10'&times;10'&times;10' | 500gp
-Tower, large | Round tower, either freestanding or built into a castle wall. | 30' base, 40' high, walls 5' thick | 30,000gp
-Tower, small | Round tower, either freestanding or built into a castle wall. | 20' base, 30' high, walls 5' thick | 15,000gp
-Wall, castle | Stone wall with battlements. | 100' long, 20' high, 10' thick | 5,000gp
+| Structure | Description | Dimensions | Cost |
+|-----------|-------------|------------|------|
+| Barbican | Heavily fortified entry/exit point in a castle wall. Consists of two small towers, a gatehouse, and a drawbridge. | See small tower, gatehouse, drawbridge | 37,000gp |
+| Bastion | Semi-circular tower built against a castle wall. | 30' base, 30' high, walls 5' thick | 9,000gp |
+| Civilian building, stone | Two levels; wooden stairs, doors, floors, and roof; attic. | Outer wall 120' long (e.g. 30'&times;40'), walls 1--2' thick | 3,000gp |
+| Civilian building, wood | Two levels; wooden stairs, doors, floors, and roof; attic. | Outer wall 120' long (e.g. 30'&times;40') | 1,500gp |
+| Drawbridge | Raisable wooden bridge crossing a moat. May be attached to a gatehouse. | 10' long | 500gp |
+| Gatehouse | Fortified entry/exit point in a castle wall. Includes a portcullis. | 30'&times;20' base, 20' high, walls 5' thick | 6,500gp |
+| Keep | Square, fortified building at the centre of a castle. | 60' base, 80' high, walls 10' thick | 75,000gp |
+| Moat | Defensive ditch, optionally filled with water. | 100' long, 20' wide, 10' deep | 400gp |
+| Subterranean passage | Typical dungeon passageway. | 10'&times;10'&times;10' | 500gp |
+| Tower, large | Round tower, either freestanding or built into a castle wall. | 30' base, 40' high, walls 5' thick | 30,000gp |
+| Tower, small | Round tower, either freestanding or built into a castle wall. | 20' base, 30' high, walls 5' thick | 15,000gp |
+| Wall, castle | Stone wall with battlements. | 100' long, 20' high, 10' thick | 5,000gp |
 
 #### [Non-Standard Dimensions](@non_standard_dimensions)
 
@@ -3103,28 +3103,28 @@ For simplicity, the cost of a stronghold may be increased by 25% to account for 
 
 If the group wishes to perform more detailed calculations or if additional features are desired, the chart below may be consulted.
 
-Detail | Dimensions | Cost
------------|---|-----
-Arrow slit | -- | 10gp
-Door, iron | 3' wide, 7' tall | 50gp
-Door, reinforced wood | 3' wide, 7' tall | 20gp
-Door, stone | 3' wide, 7' tall | 50gp
-Door, wood | 3' wide, 7' tall | 10gp
-Floor, flagstones or tiles | 10'&times;10' section | 100gp
-Floor, wood | 10'&times;10' section | 40gp
-Roof, tiled | 10'&times;10' section | 100gp
-Roof, wood | 10'&times;10' section | 40gp
-Secret door or trapdoor | Normal | Five times normal
-Shifting wall | 10'&times;10' section | 1,000gp
-Stairs, stone | 3' wide, 10' long section | 60gp
-Stairs, wooden | 3' wide, 10' long section | 20gp
-Trapdoor, iron | 4'&times;3' | 120gp
-Trapdoor, reinforced wood | 4'&times;3' | 40gp
-Trapdoor, stone | 4'&times;3' | 120gp
-Trapdoor, wood | 4'&times;3' | 20gp
-Window | -- | 10gp
-Window bars | -- | 10gp
-Window shutters | -- | 5gp
+| Detail | Dimensions | Cost |
+|------------|---|------|
+| Arrow slit | -- | 10gp |
+| Door, iron | 3' wide, 7' tall | 50gp |
+| Door, reinforced wood | 3' wide, 7' tall | 20gp |
+| Door, stone | 3' wide, 7' tall | 50gp |
+| Door, wood | 3' wide, 7' tall | 10gp |
+| Floor, flagstones or tiles | 10'&times;10' section | 100gp |
+| Floor, wood | 10'&times;10' section | 40gp |
+| Roof, tiled | 10'&times;10' section | 100gp |
+| Roof, wood | 10'&times;10' section | 40gp |
+| Secret door or trapdoor | Normal | Five times normal |
+| Shifting wall | 10'&times;10' section | 1,000gp |
+| Stairs, stone | 3' wide, 10' long section | 60gp |
+| Stairs, wooden | 3' wide, 10' long section | 20gp |
+| Trapdoor, iron | 4'&times;3' | 120gp |
+| Trapdoor, reinforced wood | 4'&times;3' | 40gp |
+| Trapdoor, stone | 4'&times;3' | 120gp |
+| Trapdoor, wood | 4'&times;3' | 20gp |
+| Window | -- | 10gp |
+| Window bars | -- | 10gp |
+| Window shutters | -- | 5gp |
 
 ## [Chases](@chases)
 
@@ -3165,12 +3165,12 @@ The following procedure is followed, day by day, until the chase is over:
     1. If the fleeing side is at least as fast as the pursuing side, it has another chance to escape; return to step 1.
     2. If the pursuing side is faster, there is a 50% chance of them catching up. If the roll succeeds, the fleeing side has been caught; the chase is over. If the roll fails, the fleeing party has another chance to escape; return to step 1.
 
-Fleeing group size | 10% | 25% | 35% | 50% | 70% | 90%
----|---|---|---|---|---|---
-1--4 | -- | -- | -- | 1 pursuer | 2--3 pursuers | 4+ pursuers
-5--12 | -- | -- | 1--3 pursuers | 4--8 pursuers | 9+ pursuers | --
-13--24 | -- | 1--6 pursuers | 7--16 pursuers | 17+ pursuers | -- | --
-25+ | 1--10 pursuers | 11--30 pursuers | 31+ pursuers | -- | -- | --
+| Fleeing group size | 10% | 25% | 35% | 50% | 70% | 90% |
+|----|---|---|---|---|---|----|
+| 1--4 | -- | -- | -- | 1 pursuer | 2--3 pursuers | 4+ pursuers |
+| 5--12 | -- | -- | 1--3 pursuers | 4--8 pursuers | 9+ pursuers | ---|
+| 13--24 | -- | 1--6 pursuers | 7--16 pursuers | 17+ pursuers | -- | ---|
+| 25+ | 1--10 pursuers | 11--30 pursuers | 31+ pursuers | -- | -- | ---|
 
 ### [Waterborne Chases](@waterborne_chases)
 
@@ -3182,14 +3182,14 @@ If the roll to escape succeeds, the pursuers cannot attempt to catch up with the
 
 If the roll to escape fails, the distance between the two sides will decrease by the pursuer's movement rate each round (or a minimum of 30' per round, if the pursuer has a slower movement rate than the fleeing side).
 
-Fleeing Side's Movement Rate | Chance of Escape
----|---
-Faster than pursuer | 80%
-Equal movement rate or up to 30' per round slower than pursuer | 50%
-Up to 60' per round slower than pursuer | 40%
-Up to 90' per round slower than pursuer | 35%
-Up to 120' per round slower than pursuer | 25%
-More than 120' per round slower than pursuer | 10%
+| Fleeing Side's Movement Rate | Chance of Escape |
+|----|----|
+| Faster than pursuer | 80% |
+| Equal movement rate or up to 30' per round slower than pursuer | 50% |
+| Up to 60' per round slower than pursuer | 40% |
+| Up to 90' per round slower than pursuer | 35% |
+| Up to 120' per round slower than pursuer | 25% |
+| More than 120' per round slower than pursuer | 10% |
 
 ## [Climbing](@climbing)
 
@@ -3265,13 +3265,13 @@ The situation in which the encounter occurs often determines how far away the mo
 
 Very often, circumstances make it obvious how a monster will react when encountered. However, sometimes the referee may wish to roll on the table below to determine how a monster reacts to encountering the party. If one specific character attempts to interact with monsters, that character's CHA score is used to modify the reaction roll.
 
-2d6 | Result
----|---
-2 or less | Hostile, attacks
-3--5 | Unfriendly, may attack
-6--8 | Neutral, uncertain
-9--11 | Indifferent, uninterested
-12 or more | Friendly, helpful
+| 2d6 | Result |
+|----|----|
+| 2 or less | Hostile, attacks |
+| 3--5 | Unfriendly, may attack |
+| 6--8 | Neutral, uncertain |
+| 9--11 | Indifferent, uninterested |
+| 12 or more | Friendly, helpful |
 
 ### [Evasion](@evasion)
 
@@ -3291,16 +3291,16 @@ As coins are the most common form of treasure found by adventurers, both encumbr
 
 **Treasure Encumbrance in Coins**
 
-Treasure | Weight in Coins
----|---
-Coin (any type) | 1
-Gem | 1
-Jewellery (1 piece) | 10
-Potion | 10
-Rod | 20
-Scroll | 1
-Staff | 40
-Wand | 10
+| Treasure | Weight in Coins |
+|----|----|
+| Coin (any type) | 1 |
+| Gem | 1 |
+| Jewellery (1 piece) | 10 |
+| Potion | 10 |
+| Rod | 20 |
+| Scroll | 1 |
+| Staff | 40 |
+| Wand | 10 |
 
 ### [Option 1: Encumbrance by Armour Type](@encumbrance_by_armor)
 
@@ -3310,11 +3310,11 @@ A character's movement rate is determined by two factors: the armour he or she i
 
 The maximum amount of treasure any character can carry is 1,600 coins or equivalent. For this reason, the weight of treasure carried must be tracked. The encumbrance of common types of treasure is shown in the table above. The weight of the character's standard adventuring gear (including armour and weapons) is _not_ counted.
 
-Armour | Without Treasure | Carrying Treasure
----|---|---
-Unarmoured | 120' | 90'
-Leather armour | 90' | 60'
-Metal armour | 60' | 30'
+| Armour | Without Treasure | Carrying Treasure |
+|----|---|----|
+| Unarmoured | 120' | 90' |
+| Leather armour | 90' | 60' |
+| Metal armour | 60' | 30' |
 
 ### [Option 2: Encumbrance by Weight Carried](@encumbrance_by_weight)
 
@@ -3324,39 +3324,39 @@ A character's encumbrance value is calculated based on adding the weights of all
 
 The maximum any character can carry is 1,600 coins.
 
-Encumbrance | Movement Rate
----|---
-Up to 400 coins | 120'
-Up to 600 coins | 90'
-Up to 800 coins | 60'
-Up to 1,600 coins | 30'
+| Encumbrance | Movement Rate |
+|----|----|
+| Up to 400 coins | 120' |
+| Up to 600 coins | 90' |
+| Up to 800 coins | 60' |
+| Up to 1,600 coins | 30' |
 
 ### [Equipment Encumbrance in Coins](@equipment_encumbrance)
 
 (Only used with encumbrance option 2.)
 
-Armour | Weight in Coins
----|---
-Leather armour | 200
-Chain mail | 400
-Plate mail | 500
-Shield | 100
+| Armour | Weight in Coins |
+|----|----|
+| Leather armour | 200 |
+| Chain mail | 400 |
+| Plate mail | 500 |
+| Shield | 100 |
 
-Weapon | Weight in Coins
----|---
-Battle axe | 50
-Bow + 20 arrows | 30
-Club | 50
-Crossbow + 30 quarrels | 50
-Dagger | 10
-Hand axe | 30
-Long sword | 60
-Mace | 30
-Polearm | 150
-Short sword | 30
-Spear | 30
-Two-handed sword | 150
-Warhammer | 30
+| Weapon | Weight in Coins |
+|----|----|
+| Battle axe | 50 |
+| Bow + 20 arrows | 30 |
+| Club | 50 |
+| Crossbow + 30 quarrels | 50 |
+| Dagger | 10 |
+| Hand axe | 30 |
+| Long sword | 60 |
+| Mace | 30 |
+| Polearm | 150 |
+| Short sword | 30 |
+| Spear | 30 |
+| Two-handed sword | 150 |
+| Warhammer | 30 |
 
 ## [Experience Points](@experience_points)
 
@@ -3370,28 +3370,28 @@ Characters gain XP from treasure at the rate of 1 XP per 1 gold piece (gp) value
 
 All monsters defeated by the party (slain, outsmarted, captured, scared away, etc.) grant XP based on how powerful they are. The XP value of a monster is determined by its Hit Dice plus a bonus for each special ability it has (e.g. breath attacks, spell-like abilities, etc.). See the chart below. A monster defeated under especially dangerous circumstances may be treated as one Hit Dice category higher on the chart.
 
-Monster HD | Base XP | Bonus XP / Ability
----|---|---
-Less than 1 | 5 | 1
-1 | 10 | 3
-1+ | 15 | 4
-2 | 20 | 5
-2+ | 25 | 10
-3 | 35 | 15
-3+ | 50 | 25
-4 | 75 | 50
-4+ | 125 | 75
-5 | 175 | 125
-5+ | 225 | 175
-6 | 275 | 225
-6+ | 350 | 300
-7 | 450 | 400
-8 | 650 | 550
-9--10+ | 900 | 700
-11--12+ | 1,100 | 800
-13--16+ | 1,350 | 950
-17--20+ | 2,000 | 1,150
-21+* | 2,500 | 2,000
+| Monster HD | Base XP | Bonus XP / Ability |
+|----|---|----|
+| Less than 1 | 5 | 1 |
+| 1 | 10 | 3 |
+| 1+ | 15 | 4 |
+| 2 | 20 | 5 |
+| 2+ | 25 | 10 |
+| 3 | 35 | 15 |
+| 3+ | 50 | 25 |
+| 4 | 75 | 50 |
+| 4+ | 125 | 75 |
+| 5 | 175 | 125 |
+| 5+ | 225 | 175 |
+| 6 | 275 | 225 |
+| 6+ | 350 | 300 |
+| 7 | 450 | 400 |
+| 8 | 650 | 550 |
+| 9--10+ | 900 | 700 |
+| 11--12+ | 1,100 | 800 |
+| 13--16+ | 1,350 | 950 |
+| 17--20+ | 2,000 | 1,150 |
+| 21+* | 2,500 | 2,000 |
 
 \* _For monsters of HD 22 and higher, add a cumulative 250 XP for the Base and Bonus categories._
 
@@ -3512,20 +3512,20 @@ The monthly rate of pay includes food and basic gear. Most mercenaries already h
 
 ### [Common Mercenary Types](@common_mercenary_types)
 
-Type | Weapons | AC | Base Morale | Human | Dwarf | Elf | Orc | Goblin
--------|----------|---|---|-----|---|------|-----|----
-Archer | Shortbow | 6 | 8 | 5gp | -- | 10gp | 3gp | 2gp
-Archer, mounted | Shortbow | 9 | 9 | 15gp | -- | 30gp | -- | --
-Crossbowman | Crossbow | 5 | 8 | 4gp | 6gp | -- | 2gp | --
-Crossbowman, mounted | Crossbow | 9 | 9 | -- | 15gp | -- | -- | --
-Footman, light | Sword | 6 | 8 | 2gp | -- | 4gp | 1gp | 5sp
-Footman, heavy | Sword | 4 | 8 | 3gp | 5gp | 6gp | 15sp | --
-Horseman, light | Lance | 7 | 9 | 10gp | -- | 20gp | -- | --
-Horseman, med. | Lance | 5 | 9 | 15gp | -- | -- | -- | --
-Horseman, heavy | Lance, sword | 3 | 9 | 20gp | -- | -- | -- | --
-Longbowman | Longbow, sword | 5 | 8 | 10gp | -- | 20gp | -- | --
-Peasant | None | 9 | 6 | 1gp | -- | -- | -- | --
-Wolf rider | Spear | 7 | 9 | -- | -- | -- | -- | 5gp
+| Type | Weapons | AC | Base Morale | Human | Dwarf | Elf | Orc | Goblin |
+|--------|----------|---|---|-----|---|------|-----|-----|
+| Archer | Shortbow | 6 | 8 | 5gp | -- | 10gp | 3gp | 2gp |
+| Archer, mounted | Shortbow | 9 | 9 | 15gp | -- | 30gp | -- | ---|
+| Crossbowman | Crossbow | 5 | 8 | 4gp | 6gp | -- | 2gp | ---|
+| Crossbowman, mounted | Crossbow | 9 | 9 | -- | 15gp | -- | -- | ---|
+| Footman, light | Sword | 6 | 8 | 2gp | -- | 4gp | 1gp | 5sp |
+| Footman, heavy | Sword | 4 | 8 | 3gp | 5gp | 6gp | 15sp | ---|
+| Horseman, light | Lance | 7 | 9 | 10gp | -- | 20gp | -- | ---|
+| Horseman, med. | Lance | 5 | 9 | 15gp | -- | -- | -- | ---|
+| Horseman, heavy | Lance, sword | 3 | 9 | 20gp | -- | -- | -- | ---|
+| Longbowman | Longbow, sword | 5 | 8 | 10gp | -- | 20gp | -- | ---|
+| Peasant | None | 9 | 6 | 1gp | -- | -- | -- | ---|
+| Wolf rider | Spear | 7 | 9 | -- | -- | -- | -- | 5gp |
 
 ***Wage per Month:*** This is the rate of pay out of wartime. In wartime, all wages are doubled.  
 ***AC:*** 9 = no armour; 7 = leather; 6 = leather + shield; 5 = chainmail; 4 = chainmail + shield; 3 = plate mail.
@@ -3536,14 +3536,14 @@ Like retainers, mercenaries have a morale rating. However, the morale rating of 
 
 The table of common mercenary types to the left lists their basic morale rating, but the following chart may be used to calculate the morale of other types of mercenary:
 
-**Mercenary Type** | **Morale**
-------------------|---
-Peasants, Militia | 6
-Barbarians | 7
-Soldiers, Men-at-arms | 8
-Mounted soldiers | +1
-Elite soldiers | +1
-Fanatic soldiers, Berserkers | +2
+| Mercenary Type | Morale |
+|-------------------|----|
+| Peasants, Militia | 6 |
+| Barbarians | 7 |
+| Soldiers, Men-at-arms | 8 |
+| Mounted soldiers | +1 |
+| Elite soldiers | +1 |
+| Fanatic soldiers, Berserkers | +2 |
 
 #### [Modifiers](@modifiers)
 
@@ -3625,13 +3625,13 @@ Retainers are recruited through negotiation, with the referee playing the roles 
 
 After an offer is made, the referee rolls 2d6 on the table below to decide the potential retainer's reaction. The roll is modified by the hiring character's CHA and the referee may apply a bonus or penalty, depending on the attractiveness of the deal (+1 or +2 for generous offers, &minus;1 or &minus;2 for poor offers).
 
-2d6 | Result
----|---
-2 or less | Offer refused *
-3--5 | Offer refused
-6--8 | Roll again
-9--11 | Offer accepted
-12 or more | Offer accepted &dagger;
+| 2d6 | Result |
+|----|----|
+| 2 or less | Offer refused \* |
+| 3--5 | Offer refused |
+| 6--8 | Roll again |
+| 9--11 | Offer accepted |
+| 12 or more | Offer accepted &dagger; |
 
 \* _The potential retainer reacts so negatively to the offer that he or she spreads negative rumours about the PC, which results in a &minus;1 penalty on any further hiring reaction rolls while recruiting in the same town or area._  
 &dagger; _The offer is accepted in very good spirits and the retainer's morale is increased by one._
@@ -3699,20 +3699,20 @@ Specialists may be located by frequenting pubs or by posting notices of help wan
 
 Several possible types of specialist are described below, along with their typical monthly pay rates. The monthly rate of pay includes food and basic gear. This list is not exhaustive and the referee may create additional types of specialist as needed.
 
-Specialist | Wage per Month
-----------|--------
-Alchemist | 1,000gp
-Animal trainer | 500gp
-Armourer | 100gp
-Assistant armourer | 15gp&dagger;
-Blacksmith | 25gp
-Engineer | 750gp
-Navigator | 150gp
-Oarsman | 2gp
-Sage | 2,000gp
-Sailor | 10gp
-Ship's captain | 250gp
-Spy | 500gp (or more)
+| Specialist | Wage per Month |
+|-----------|---------|
+| Alchemist | 1,000gp |
+| Animal trainer | 500gp |
+| Armourer | 100gp |
+| Assistant armourer | 15gp&dagger; |
+| Blacksmith | 25gp |
+| Engineer | 750gp |
+| Navigator | 150gp |
+| Oarsman | 2gp |
+| Sage | 2,000gp |
+| Sailor | 10gp |
+| Ship's captain | 250gp |
+| Spy | 500gp (or more) |
 
 &dagger; _Not defined in the traditional Expert rules; value extrapolated from similar specialists._
 
@@ -3815,13 +3815,13 @@ Adventurers may choose to search objects or areas for traps. See [***Searching**
 
 #### [Animals of Burden](@animals_of_burden)
 
-Animal | Cost (gp) | Miles per Day | Movement Rate | Maximum Encumbrance (Coins)
-------|-----|----|------------|------
-Camel | 100 | 30 | 150' (50') | 6,000
-Horse (draft) | 40 | 18 | 90' (30') | 9,000
-Horse (riding) | 75 | 48 | 240' (80') | 6,000
-Horse (war) | 250 | 24 | 120' (40') | 8,000
-Mule | 30 | 24 | 120' (40') | 4,000
+| Animal | Cost (gp) | Miles per Day | Movement Rate | Maximum Encumbrance (Coins) |
+|-------|-----|----|------------|-------|
+| Camel | 100 | 30 | 150' (50') | 6,000 |
+| Horse (draft) | 40 | 18 | 90' (30') | 9,000 |
+| Horse (riding) | 75 | 48 | 240' (80') | 6,000 |
+| Horse (war) | 250 | 24 | 120' (40') | 8,000 |
+| Mule | 30 | 24 | 120' (40') | 4,000 |
 
 ***Movement Rate:*** Distance moved in one exploration turn; per-round encounter movement rate in parentheses.
 
@@ -3829,18 +3829,18 @@ Mule | 30 | 24 | 120' (40') | 4,000
 
 #### [Tack and Harness](@tack_and_harness)
 
-Item | Cost (gp)
------|----------
-Barding | 150
-Saddle and bridle | 25
-Saddle bags| 5
+| Item | Cost (gp) |
+|------|-----------|
+| Barding | 150 |
+| Saddle and bridle | 25 |
+| Saddle bags| 5 |
 
 #### [Vehicles](@vehicles)
 
-Vehicle | Cost (gp) | Miles per Day | Movement Rate | Max Load (Coins)
------|-----|----|-----------|--------------
-Cart | 100 | 12 | 60' (20') | 4,000 / 8,000
-Wagon | 200 | 12 | 60' (20') | 15,000 / 25,000
+| Vehicle | Cost (gp) | Miles per Day | Movement Rate | Max Load (Coins) |
+|------|-----|----|-----------|---------------|
+| Cart | 100 | 12 | 60' (20') | 4,000 / 8,000 |
+| Wagon | 200 | 12 | 60' (20') | 15,000 / 25,000 |
 
 ***Movement Rate:*** Distance moved in one exploration turn; per-round encounter movement rate in parentheses.
 
@@ -3904,17 +3904,17 @@ If the ship encounters land during this travel, there is a 75% chance of it wrec
 
 Groups who prefer a slightly more detailed system of sea travel may use the following chart, which adds additional detail to the daily 2d6 roll to determine wind conditions.
 
-2d6 | Wind | Effect
----|---|---
-2 | No wind | Movement is only possible by oar. Oarsmen fatigued: movement reduced by one third.
-3 | Faint breeze | Movement rate reduced to one third normal.
-4 | Gentle breeze | Movement rate reduced to half normal.
-5 | Moderate breeze | Movement rate reduced to two thirds normal.
-6--8 | Fresh breeze | Normal movement rate.
-9 | Strong breeze | Movement rate increased by one third.
-10 | High wind | Movement rate increased by half.
-11 | Near gale | Movement rate doubled. 10% chance of taking on water (speed reduced by one third until repaired at a dock).
-12 | Gale | Movement rate tripled. See [***Gales***](#gales), above.
+| 2d6 | Wind | Effect |
+|----|---|----|
+| 2 | No wind | Movement is only possible by oar. Oarsmen fatigued: movement reduced by one third. |
+| 3 | Faint breeze | Movement rate reduced to one third normal. |
+| 4 | Gentle breeze | Movement rate reduced to half normal. |
+| 5 | Moderate breeze | Movement rate reduced to two thirds normal. |
+| 6--8 | Fresh breeze | Normal movement rate. |
+| 9 | Strong breeze | Movement rate increased by one third. |
+| 10 | High wind | Movement rate increased by half. |
+| 11 | Near gale | Movement rate doubled. 10% chance of taking on water (speed reduced by one third until repaired at a dock). |
+| 12 | Gale | Movement rate tripled. See [***Gales***](#gales), above. |
 
 ### [Water Transportation](@water_transportation)
 
@@ -3930,29 +3930,29 @@ A ship's _beam_ is its width and its _draft_ is the depth it extends beneath the
 
 ##### [Seaworthy Vessels](@seaworthy_vessels)
 
-Vessel | Cost (gp) | Maximum Cargo (Coins) | Usage | Length | Beam | Draft
----------|-------|--------|-----|-----|-------|------
-Lifeboat | 1,000 | 15,000 | Any | 20' | 4'--5' | 1'--2'
-Longship | 15,000 | 40,000 | Any | 60'--80' | 10'--15' | 2'--3'
-Sailing ship (large) | 20,000 | 300,000 | Coastal waters, open seas | 100'--150' | 25'--30' | 10'--12'
-Sailing ship (small) | 5,000 | 100,000 | Coastal waters, open seas | 60'--80' | 20'--30' | 5'--8'
-Troop transport (large) | 26,600 | 300,000 | Coastal waters, open seas | 100'--150' | 25'--30' | 10'--12'
-Troop transport (small) | 6,600 | 100,000 | Coastal waters, open seas | 60'--80' | 20'--30' | 5'--8'
-Warship (large) | 26,600 | 300,000 | Coastal waters, open seas | 100'--150' | 25'--30' | 10'--12'
-Warship (small) | 6,600 | 100,000 | Coastal waters, open seas | 60'--80' | 20'--30' | 5'--8'
+| Vessel | Cost (gp) | Maximum Cargo (Coins) | Usage | Length | Beam | Draft |
+|----------|-------|--------|-----|-----|-------|-------|
+| Lifeboat | 1,000 | 15,000 | Any | 20' | 4'--5' | 1'--2' |
+| Longship | 15,000 | 40,000 | Any | 60'--80' | 10'--15' | 2'--3' |
+| Sailing ship (large) | 20,000 | 300,000 | Coastal waters, open seas | 100'--150' | 25'--30' | 10'--12' |
+| Sailing ship (small) | 5,000 | 100,000 | Coastal waters, open seas | 60'--80' | 20'--30' | 5'--8' |
+| Troop transport (large) | 26,600 | 300,000 | Coastal waters, open seas | 100'--150' | 25'--30' | 10'--12' |
+| Troop transport (small) | 6,600 | 100,000 | Coastal waters, open seas | 60'--80' | 20'--30' | 5'--8' |
+| Warship (large) | 26,600 | 300,000 | Coastal waters, open seas | 100'--150' | 25'--30' | 10'--12' |
+| Warship (small) | 6,600 | 100,000 | Coastal waters, open seas | 60'--80' | 20'--30' | 5'--8' |
 
 ##### [Unseaworthy Vessels](@unseaworthy_vessels)
 
-Vessel | Cost (gp) | Maximum Cargo (Coins) | Usage | Length | Beam | Draft
----------|-------|--------|-----|-----|-------|------
-Boat (river) | 4,000 | 30,000 | Rivers, lakes | 20'--30' | 10' | 2'--3'
-Boat (sailing) | 2,000 | 20,000 | Lakes, coastal waters | 20'--40' | 10'--15' | 2'--3'
-Canoe | 50 | 6,000 | Rivers, swamps | 15' | 3' | 1' &dagger;
-Galley (large) | 30,000 | 40,000 | Coastal waters | 120'--150' | 15'--20' | 3'
-Galley (small) | 10,000 | 20,000 | Coastal waters | 60'--100' | 10'--15' | 2'--3'
-Galley (war) | 60,000 | 60,000 | Coastal waters | 120'--150' | 20'--30' | 4'--6'
-Raft (makeshift) | -- | 50 per square foot | Rivers, lakes | Varies | Varies | 1/2' &dagger;
-Raft (professional) | 1gp / square foot | 100 per square foot | Rivers, lakes | Varies | Varies | 1/2' &dagger;
+| Vessel | Cost (gp) | Maximum Cargo (Coins) | Usage | Length | Beam | Draft |
+|----------|-------|--------|-----|-----|-------|-------|
+| Boat (river) | 4,000 | 30,000 | Rivers, lakes | 20'--30' | 10' | 2'--3' |
+| Boat (sailing) | 2,000 | 20,000 | Lakes, coastal waters | 20'--40' | 10'--15' | 2'--3' |
+| Canoe | 50 | 6,000 | Rivers, swamps | 15' | 3' | 1' &dagger; |
+| Galley (large) | 30,000 | 40,000 | Coastal waters | 120'--150' | 15'--20' | 3' |
+| Galley (small) | 10,000 | 20,000 | Coastal waters | 60'--100' | 10'--15' | 2'--3' |
+| Galley (war) | 60,000 | 60,000 | Coastal waters | 120'--150' | 20'--30' | 4'--6' |
+| Raft (makeshift) | -- | 50 per square foot | Rivers, lakes | Varies | Varies | 1/2' &dagger; |
+| Raft (professional) | 1gp / square foot | 100 per square foot | Rivers, lakes | Varies | Varies | 1/2' &dagger; |
 
 &dagger; _Not defined in the traditional Expert rules; value extrapolated from similar vessels._
 
@@ -4000,24 +4000,24 @@ Unseaworthy vessels are designed for use in rivers, lakes, or coastal waters, no
 
 #### [Vessel Movement Rates and Crew](@vessel_movement_rates_and_crew)
 
-Vessel | Requires Captain? | Req. Oarsmen | Row Miles/Day | Row Movement Rate | Req. Sailors | Sail Miles/Day | Sail Movement Rate
--------------|----|---|----|------------|---|---|---
-Boat (river) | No | 8 | 36 | 180' (60') | -- | -- | --
-Boat (sailing) | No | -- | -- | -- | 1 | 72 | 360' (120')
-Canoe | No | 1&dagger; | 18 | 90' (60') | -- | -- | --
-Galley (large) | Yes | 180 | 18 | 90' (90') | 20 | 72 | 360' (120')
-Galley (small) | Yes | 60 | 18 | 90' (90') | 10 | 90 | 450' (150')
-Galley (war) | Yes | 300 | 12 | 60' (60') | 30 | 72 | 360' (120')
-Lifeboat | No | -- | -- | -- | 1&dagger; | 18 | 90' (30')
-Longship | Yes | 60* | 18 | 90' (90') | 75* | 90 | 450' (150')
-Raft (makeshift) | No | 1&dagger; | 12 | 60' (30') | -- | -- | --
-Raft (prof.) | No | 1&dagger; | 12 | 60' (30') | -- | -- | --
-Sailing ship (lg.) | Yes | -- | -- | -- | 20 | 72 | 360' (120')
-Sailing ship (sm.) | Yes | -- | -- | -- | 10 | 90 | 450' (150')
-Troop trans. (lg.) | Yes | -- | -- | -- | 20 | 72 | 360' (120')
-Troop trans. (sm.) | Yes | -- | -- | -- | 10 | 90 | 450' (150')
-Warship (large) | Yes | -- | -- | -- | 20 | 72 | 360' (120')
-Warship (small) | Yes | -- | -- | -- | 10 | 90 | 360' (150')
+| Vessel | Requires Captain? | Req. Oarsmen | Row Miles/Day | Row Movement Rate | Req. Sailors | Sail Miles/Day | Sail Movement Rate |
+|--------------|----|---|----|------------|---|---|----|
+| Boat (river) | No | 8 | 36 | 180' (60') | -- | -- | ---|
+| Boat (sailing) | No | -- | -- | -- | 1 | 72 | 360' (120') |
+| Canoe | No | 1&dagger; | 18 | 90' (60') | -- | -- | ---|
+| Galley (large) | Yes | 180 | 18 | 90' (90') | 20 | 72 | 360' (120') |
+| Galley (small) | Yes | 60 | 18 | 90' (90') | 10 | 90 | 450' (150') |
+| Galley (war) | Yes | 300 | 12 | 60' (60') | 30 | 72 | 360' (120') |
+| Lifeboat | No | -- | -- | -- | 1&dagger; | 18 | 90' (30') |
+| Longship | Yes | 60* | 18 | 90' (90') | 75* | 90 | 450' (150') |
+| Raft (makeshift) | No | 1&dagger; | 12 | 60' (30') | -- | -- | ---|
+| Raft (prof.) | No | 1&dagger; | 12 | 60' (30') | -- | -- | ---|
+| Sailing ship (lg.) | Yes | -- | -- | -- | 20 | 72 | 360' (120') |
+| Sailing ship (sm.) | Yes | -- | -- | -- | 10 | 90 | 450' (150') |
+| Troop trans. (lg.) | Yes | -- | -- | -- | 20 | 72 | 360' (120') |
+| Troop trans. (sm.) | Yes | -- | -- | -- | 10 | 90 | 450' (150') |
+| Warship (large) | Yes | -- | -- | -- | 20 | 72 | 360' (120') |
+| Warship (small) | Yes | -- | -- | -- | 10 | 90 | 360' (150') |
 
 \* _Crew may take on the roles of oarsmen, sailors, and fighters._  
 &dagger; _Specialist crew not required. Unskilled characters (e.g. PCs) may pilot the vessel._
@@ -4034,24 +4034,24 @@ Having less than the required number of oarsmen reduces a vessel's speed. For ev
 
 #### [Vessel Combat Stats](@vessel_combat_stats)
 
-Vessel | Maximum Mercenaries | Armour Class | Hull Points | Ram? | Catapult?
--------------|---|---|-------|---|---
-Boat (river) | -- | 8 | 20--40 | -- | --
-Boat (sailing) | -- | 8 | 20--40 | -- | --
-Canoe | -- | 9 | 5--10 | -- | --
-Galley (large) | 50 | 7 | 100--120 | Can be added | Up to 2
-Galley (small) | 20 | 8 | 80--100 | Can be added | Up to 2
-Galley (war) | 75 | 7 | 120--150 | Built in | Up to 3
-Lifeboat | -- | 9 | 10--20 | -- | --
-Longship | 75* | 8 | 60--80 | -- | Up to 1
-Raft (makeshift) | -- | 9 | 5 per 10' sq | -- | --
-Raft (professional) | -- | 9 | 5 per 10' sq | -- | --
-Sailing ship (large) | -- | 7 | 120--180 | -- | --
-Sailing ship (small) | -- | 8 | 60--90 | -- | --
-Troop trans. (lg.) | 100 | 7 | 160--240 | -- | --
-Troop trans. (sm.) | 50 | 8 | 80--120 | -- | --
-Warship (large) | 50 | 7 | 120--180 | -- | Up to 2
-Warship (small) | 25 | 8 | 60--90 | -- | Up to 1
+| Vessel | Maximum Mercenaries | Armour Class | Hull Points | Ram? | Catapult? |
+|--------------|---|---|-------|---|----|
+| Boat (river) | -- | 8 | 20--40 | -- | ---|
+| Boat (sailing) | -- | 8 | 20--40 | -- | ---|
+| Canoe | -- | 9 | 5--10 | -- | ---|
+| Galley (large) | 50 | 7 | 100--120 | Can be added | Up to 2 |
+| Galley (small) | 20 | 8 | 80--100 | Can be added | Up to 2 |
+| Galley (war) | 75 | 7 | 120--150 | Built in | Up to 3 |
+| Lifeboat | -- | 9 | 10--20 | -- | ---|
+| Longship | 75* | 8 | 60--80 | -- | Up to 1 |
+| Raft (makeshift) | -- | 9 | 5 per 10' sq | -- | ---|
+| Raft (professional) | -- | 9 | 5 per 10' sq | -- | ---|
+| Sailing ship (large) | -- | 7 | 120--180 | -- | ---|
+| Sailing ship (small) | -- | 8 | 60--90 | -- | ---|
+| Troop trans. (lg.) | 100 | 7 | 160--240 | -- | ---|
+| Troop trans. (sm.) | 50 | 8 | 80--120 | -- | ---|
+| Warship (large) | 50 | 7 | 120--180 | -- | Up to 2 |
+| Warship (small) | 25 | 8 | 60--90 | -- | Up to 1 |
 
 ##### [Mercenaries](@marines)
 
@@ -4081,13 +4081,13 @@ The following modifications may be made to an existing ship:
 
 #### [Ship Weaponry](@ship_weaponry)
 
-Item | Cost (gp)
----------|-----
-Catapult | 100
-Catapult shot | 5
-Catapult shot, pitch | 25
-Ram, large galley | 10,000
-Ram, small galley | 3,000
+| Item | Cost (gp) |
+|----------|------|
+| Catapult | 100 |
+| Catapult shot | 5 |
+| Catapult shot, pitch | 25 |
+| Ram, large galley | 10,000 |
+| Ram, small galley | 3,000 |
 
 #### [Weaponry Descriptions](@weaponry_descriptions)
 
@@ -4172,14 +4172,14 @@ In order to consult with an oracle, remove a curse, or find a holy relic, the PC
 
 The central location of an adventure is often a dungeon of some kind. The referee should decide on the basic form and structure of the dungeon, and can begin to come up with ideas for the main rooms or areas. The following table may be used to decide the basic form.
 
-d6 | Setting
---|----------------------
-1 | Crypt or tomb complex
-2 | Natural caverns
-3 | Settlement (e.g. castle, village, city)
-4 | Subterranean delving (e.g. mine)
-5 | Temple
-6 | Tower or fortification
+| d6 | Setting |
+|---|-----------------------|
+| 1 | Crypt or tomb complex |
+| 2 | Natural caverns |
+| 3 | Settlement (e.g. castle, village, city) |
+| 4 | Subterranean delving (e.g. mine) |
+| 5 | Temple |
+| 6 | Tower or fortification |
 
 ## [2. Choose Monsters](@choose_monsters)
 
@@ -4210,12 +4210,12 @@ Treasure is usually guarded by monsters or traps, but sometimes an unguarded cac
 
 ### [Random Dungeon Room Contents](@random_dungeon_room_contents)
 
-d6 | Room Type | Chance of Treasure
-----|-------|-------
-1--2 | Empty | 1-in-6
-3--4 | Monster | 3-in-6
-5 | Special | None
-6 | Trap | 2-in-6
+| d6 | Room Type | Chance of Treasure |
+|-----|-------|--------|
+| 1--2 | Empty | 1-in-6 |
+| 3--4 | Monster | 3-in-6 |
+| 5 | Special | None |
+| 6 | Trap | 2-in-6 |
 
 - ***Monsters:*** May be selected by hand or rolled (see [***Dungeon Encounter Tables***](#dungeon_encounter_tables)).
 - ***Specials:*** Unusual, magical, or weird features of an area. This can include tricks or puzzles.
@@ -4275,51 +4275,51 @@ Roll 1d20 and look up the result on the column in the table below that correspon
 - ***NPC adventurers:*** Encounters with NPC adventuring parties are listed in the tables as "Basic Adventurers" or "Expert Adventurers". Guidelines for generating NPC adventurers can be found in [***NPC Parties***](#npc_parties).
 - ***Number appearing:*** The values listed in the tables for some monsters do not match the values listed in [***Monsters***](#monsters). If desired, the referee may use the number appearing value listed in the monsters book, for consistency.
 
-d20 | Level 1 | Level 2 | Level 3
-----|---------|---------|--------
-1 | Acolyte (1d8) | Beetle, Oil (1d8) | Ape, White (1d6)
-2 | Bandit (1d8) | Berserker (1d6) | Basic Adventurers (1d4+4)
-3 | Beetle, Fire (1d8) | Cat, Mountain Lion (1d4) | Beetle, Tiger (1d6)
-4 | Dwarf (1d6) | Elf (1d4) | Bugbear (2d4)
-5 | Gnome (1d6) | Ghoul (1d6) | Carcass Crawler (1d3)
-6 | Goblin (2d4) | Gnoll (1d6) | Doppelg&auml;nger (1d6)
-7 | Green Slime (1d4) | Grey Ooze (1) | Driver Ant (2d4)
-8 | Halfling (3d6) | Hobgoblin (1d6) | Gargoyle (1d6)
-9 | Killer Bee (1d10) | Lizard, Draco (1d4) | Gelatinous Cube (1)
-10 | Kobold (4d4) | Lizard Man (2d4) | Harpy (1d6)
-11 | Lizard, Gecko (1d3) | Neanderthal (1d10) | Lvng. Statue, Crystal (1d6)
-12 | Orc (2d4) | Noble (2d6) | Lycan., Wererat (1d8)
-13 | Shrew, Giant (1d10) | Pixie (2d4) | Medium (1d4)
-14 | Skeleton (3d4) | Robber Fly (1d6) | Medusa (1d3)
-15 | Snake, Cobra (1d6) | Rock Baboon (2d6) | Ochre Jelly (1)
-16 | Spider, Crab (1d4) | Snake, Pit Viper (1d8) | Ogre (1d6)
-17 | Sprite (3d6) | Spider, Black Widow (1d3) | Shadow (1d8)
-18 | Stirge (1d10) | Troglodyte (1d8) | Spider, Tarantella (1d3)
-19 | Trader (1d8) | Veteran (2d4) | Thoul (1d6)
-20 | Wolf (2d6) | Zombie (2d4) | Wight (1d6)
+| d20 | Level 1 | Level 2 | Level 3 |
+|-----|---------|---------|---------|
+| 1 | Acolyte (1d8) | Beetle, Oil (1d8) | Ape, White (1d6) |
+| 2 | Bandit (1d8) | Berserker (1d6) | Basic Adventurers (1d4+4) |
+| 3 | Beetle, Fire (1d8) | Cat, Mountain Lion (1d4) | Beetle, Tiger (1d6) |
+| 4 | Dwarf (1d6) | Elf (1d4) | Bugbear (2d4) |
+| 5 | Gnome (1d6) | Ghoul (1d6) | Carcass Crawler (1d3) |
+| 6 | Goblin (2d4) | Gnoll (1d6) | Doppelg&auml;nger (1d6) |
+| 7 | Green Slime (1d4) | Grey Ooze (1) | Driver Ant (2d4) |
+| 8 | Halfling (3d6) | Hobgoblin (1d6) | Gargoyle (1d6) |
+| 9 | Killer Bee (1d10) | Lizard, Draco (1d4) | Gelatinous Cube (1) |
+| 10 | Kobold (4d4) | Lizard Man (2d4) | Harpy (1d6) |
+| 11 | Lizard, Gecko (1d3) | Neanderthal (1d10) | Lvng. Statue, Crystal (1d6) |
+| 12 | Orc (2d4) | Noble (2d6) | Lycan., Wererat (1d8) |
+| 13 | Shrew, Giant (1d10) | Pixie (2d4) | Medium (1d4) |
+| 14 | Skeleton (3d4) | Robber Fly (1d6) | Medusa (1d3) |
+| 15 | Snake, Cobra (1d6) | Rock Baboon (2d6) | Ochre Jelly (1) |
+| 16 | Spider, Crab (1d4) | Snake, Pit Viper (1d8) | Ogre (1d6) |
+| 17 | Sprite (3d6) | Spider, Black Widow (1d3) | Shadow (1d8) |
+| 18 | Stirge (1d10) | Troglodyte (1d8) | Spider, Tarantella (1d3) |
+| 19 | Trader (1d8) | Veteran (2d4) | Thoul (1d6) |
+| 20 | Wolf (2d6) | Zombie (2d4) | Wight (1d6) |
 
-d20 | Level 4--5 | Level 6--7 | Level 8+
-----|-----------|-----------|---------
-1 | Bear, Cave (1d2) | Basilisk (1d6) | Black Pudding (1)
-2 | Blink Dog (1d6) | Bear, Cave (1d2) | Chimera (1d2)
-3 | Caecilia (1d3) | Black Pudding (1) | Dragon, Black (1d4)
-4 | Cockatrice (1d4) | Caecilia (1d3) | Dragon, Blue (1d4)
-5 | Doppelg&auml;nger (1d6) | Dragon, White (1d4) | Dragon, Gold (1d4)
-6 | Exp. Adventurers (1d6+3) | Exp. Adventurers (1d6+3) | Dragon, Green (1d4)
-7 | Grey Ooze (1) | Gorgon (1d2) | Dragon, Red (1d4)
-8 | Hellhound (2d4) | Hellhound (2d4) | Exp. Adventurers (1d6+3)
-9 | Lizard, Tuatara (1d2) | Hydra, 1d4+4HD (1) | Giant, Hill (1d4)
-10 | Lycan., Wereboar (1d4) | Lycan., Weretiger (1d4) | Giant, Stone (1d2)
-11 | Lycan., Werewolf (1d6) | Minotaur (1d6) | Golem, Amber (1)
-12 | Minotaur (1d6) | Mummy (1d4) | Golem, Bone (1)
-13 | Ochre Jelly (1) | Ochre Jelly (1) | Hydra, 1d4+8HD (1)
-14 | Owl Bear (1d4) | Owl Bear (1d4) | Lycan., Devil Swine (1d3)
-15 | Rhagodessa (1d4) | Rust Monster (1d4) | Lycan., Werebear (1d4)
-16 | Rust Monster (1d4) | Salamndr., Flame (1d4+1) | Manticore (1d2)
-17 | Spectre (1d4) | Scorpion, Giant (1d6) | Purple Worm (1d2)
-18 | Troll (1d8) | Spectre (1d4) | Salamndr., Flame (1d4+1)
-19 | Weasel, Giant (1d4) | Troll (1d8) | Salamander, Frost (1d3)
-20 | Wraith (1d4) | Warp Beast (1d4) | Vampire (1d4)
+| d20 | Level 4--5 | Level 6--7 | Level 8+ |
+|-----|-----------|-----------|----------|
+| 1 | Bear, Cave (1d2) | Basilisk (1d6) | Black Pudding (1) |
+| 2 | Blink Dog (1d6) | Bear, Cave (1d2) | Chimera (1d2) |
+| 3 | Caecilia (1d3) | Black Pudding (1) | Dragon, Black (1d4) |
+| 4 | Cockatrice (1d4) | Caecilia (1d3) | Dragon, Blue (1d4) |
+| 5 | Doppelg&auml;nger (1d6) | Dragon, White (1d4) | Dragon, Gold (1d4) |
+| 6 | Exp. Adventurers (1d6+3) | Exp. Adventurers (1d6+3) | Dragon, Green (1d4) |
+| 7 | Grey Ooze (1) | Gorgon (1d2) | Dragon, Red (1d4) |
+| 8 | Hellhound (2d4) | Hellhound (2d4) | Exp. Adventurers (1d6+3) |
+| 9 | Lizard, Tuatara (1d2) | Hydra, 1d4+4HD (1) | Giant, Hill (1d4) |
+| 10 | Lycan., Wereboar (1d4) | Lycan., Weretiger (1d4) | Giant, Stone (1d2) |
+| 11 | Lycan., Werewolf (1d6) | Minotaur (1d6) | Golem, Amber (1) |
+| 12 | Minotaur (1d6) | Mummy (1d4) | Golem, Bone (1) |
+| 13 | Ochre Jelly (1) | Ochre Jelly (1) | Hydra, 1d4+8HD (1) |
+| 14 | Owl Bear (1d4) | Owl Bear (1d4) | Lycan., Devil Swine (1d3) |
+| 15 | Rhagodessa (1d4) | Rust Monster (1d4) | Lycan., Werebear (1d4) |
+| 16 | Rust Monster (1d4) | Salamndr., Flame (1d4+1) | Manticore (1d2) |
+| 17 | Spectre (1d4) | Scorpion, Giant (1d6) | Purple Worm (1d2) |
+| 18 | Troll (1d8) | Spectre (1d4) | Salamndr., Flame (1d4+1) |
+| 19 | Weasel, Giant (1d4) | Troll (1d8) | Salamander, Frost (1d3) |
+| 20 | Wraith (1d4) | Warp Beast (1d4) | Vampire (1d4) |
 
 # [Designing a Wilderness](@designing_a_wilderness)
 
@@ -4376,214 +4376,214 @@ Roll 1d8 and 1d12:
 - ***Lost World:*** In Lost World or prehistoric settings, any Animal result may be rolled on the ***Prehistoric Animal*** table, in [sub-table 2](#sub_table_2), below.
 - ***NPC adventurers:*** Encounters with NPC adventuring parties are listed in the tables as "Basic Adventurers", "Expert Adventurers", "High-Level Cleric", "High-Level Fighter", or "High-Level Magic-User". Guidelines for generating NPC adventurers can be found in [***NPC Parties***](#npc_parties).
 
-d8 | Barren, Hills, Mountains | City | Clear, Grasslands | Desert | Forest
----|--------------------------|------|-------------------|--------|-------
-1 | B---Animal | C---Human | G---Animal | D---Animal | F---Animal
-2 | 1---Dragon | C---Human | G---Animal | D---Animal | F---Animal
-3 | 1---Dragon | C---Human | 1---Dragon | 1---Dragon | 1---Dragon
-4 | B---Flyer | C---Human | 1---Flyer | D---Flyer | 1---Flyer
-5 | B---Human | C---Human | G---Human | D---Human | F---Human
-6 | B---Humanoid | C---Human | G---Humanoid | D---Human | F---Humanoid
-7 | B---Humanoid | C---Humanoid | 1---Insect | D---Humanoid | 1---Insect
-8 | 2---Unusual | 2---Undead | 2---Unusual | 2---Undead | 2---Unusual
+| d8 | Barren, Hills, Mountains | City | Clear, Grasslands | Desert | Forest |
+|----|--------------------------|------|-------------------|--------|--------|
+| 1 | B---Animal | C---Human | G---Animal | D---Animal | F---Animal |
+| 2 | 1---Dragon | C---Human | G---Animal | D---Animal | F---Animal |
+| 3 | 1---Dragon | C---Human | 1---Dragon | 1---Dragon | 1---Dragon |
+| 4 | B---Flyer | C---Human | 1---Flyer | D---Flyer | 1---Flyer |
+| 5 | B---Human | C---Human | G---Human | D---Human | F---Human |
+| 6 | B---Humanoid | C---Human | G---Humanoid | D---Human | F---Humanoid |
+| 7 | B---Humanoid | C---Humanoid | 1---Insect | D---Humanoid | 1---Insect |
+| 8 | 2---Unusual | 2---Undead | 2---Unusual | 2---Undead | 2---Unusual |
 
-d8 | Jungle | Lake, River | Ocean, Sea | Settled | Swamp
----|--------|-------------|------------|---------|------
-1 | J---Animal | L---Animal | 1---Dragon | C---Animal | 1---Dragon
-2 | J---Animal | 1---Dragon | 1---Flyer | 1---Dragon | 1---Flyer
-3 | 1---Dragon | 1---Flyer | O---Human | 1---Flyer | S---Human
-4 | 1---Flyer | L---Human | O---Swimmer | C---Human | S---Humanoid
-5 | J---Human | L---Humanoid | O---Swimmer | C---Human | 1---Insect
-6 | J---Humanoid | 1---Insect | O---Swimmer | C---Human | S---Swimmer
-7 | 1---Insect | L---Swimmer | O---Swimmer | C---Humanoid | 2---Undead
-8 | 1---Insect | L---Swimmer | O---Swimmer | 1---Insect | 2---Undead
+| d8 | Jungle | Lake, River | Ocean, Sea | Settled | Swamp |
+|----|--------|-------------|------------|---------|-------|
+| 1 | J---Animal | L---Animal | 1---Dragon | C---Animal | 1---Dragon |
+| 2 | J---Animal | 1---Dragon | 1---Flyer | 1---Dragon | 1---Flyer |
+| 3 | 1---Dragon | 1---Flyer | O---Human | 1---Flyer | S---Human |
+| 4 | 1---Flyer | L---Human | O---Swimmer | C---Human | S---Humanoid |
+| 5 | J---Human | L---Humanoid | O---Swimmer | C---Human | 1---Insect |
+| 6 | J---Humanoid | 1---Insect | O---Swimmer | C---Human | S---Swimmer |
+| 7 | 1---Insect | L---Swimmer | O---Swimmer | C---Humanoid | 2---Undead |
+| 8 | 1---Insect | L---Swimmer | O---Swimmer | 1---Insect | 2---Undead |
 
 ### [Standard Sub-Table 1](@sub_table_1)
 
-d12 | Dragon | Flyer | Insect
-----|--------|-------|-------
-1 | Chimera | Cockatrice | Beetle, Fire
-2 | Dragon, Black | Gargoyle | Beetle, Oil
-3 | Dragon, Blue | Griffon | Beetle, Tiger
-4 | Dragon, Gold | Hawk, Giant | Driver Ant
-5 | Dragon, Green | Hippogriff | Driver Ant
-6 | Dragon, Red | Killer Bee | Killer Bee
-7 | Dragon, White | Pegasus | Rhagodessa
-8 | Hydra (or Sea Hydra) | Pixie | Robber Fly
-9 | Hydra (or Sea Hydra) | Robber Fly | Scorpion, Giant
-10 | Wyvern | Roc, Small | Spider, Black Widow
-11 | Basilisk (re-roll at sea) | Sprite | Spider, Crab
-12 | Salamander (re-roll at sea) | Stirge | Spider, Tarantella
+| d12 | Dragon | Flyer | Insect |
+|-----|--------|-------|--------|
+| 1 | Chimera | Cockatrice | Beetle, Fire |
+| 2 | Dragon, Black | Gargoyle | Beetle, Oil |
+| 3 | Dragon, Blue | Griffon | Beetle, Tiger |
+| 4 | Dragon, Gold | Hawk, Giant | Driver Ant |
+| 5 | Dragon, Green | Hippogriff | Driver Ant |
+| 6 | Dragon, Red | Killer Bee | Killer Bee |
+| 7 | Dragon, White | Pegasus | Rhagodessa |
+| 8 | Hydra (or Sea Hydra) | Pixie | Robber Fly |
+| 9 | Hydra (or Sea Hydra) | Robber Fly | Scorpion, Giant |
+| 10 | Wyvern | Roc, Small | Spider, Black Widow |
+| 11 | Basilisk (re-roll at sea) | Sprite | Spider, Crab |
+| 12 | Salamander (re-roll at sea) | Stirge | Spider, Tarantella |
 
 ### [Standard Sub-Table 2](@sub_table_2)
 
-d12 | Prehistoric Animal | Undead | Unusual
-----|--------------------|--------|--------
-1 | Bear, Cave | Ghoul | Basilisk
-2 | Cat, Sabre-Toothed | Ghoul | Blink Dog
-3 | Crocodile, Giant | Ghoul | Centaur
-4 | Mastodon | Mummy | Gorgon
-5 | Pterodactyl, Pteranodon | Skeleton | Lycanthrope, Werebear
-6 | Rhino, Woolly | Skeleton | Lycanthrope, Wereboar
-7 | Snake, Pit Viper | Spectre | Lycanthrope, Wererat
-8 | Stegosaurus | Wight | Lycanthrope, Weretiger
-9 | Titanothere | Wraith | Lycanthrope, Werewolf
-10 | Triceratops | Vampire | Medusa
-11 | Tyrannosaurus Rex | Zombie | Treant
-12 | Wolf, Dire | Zombie | Warp Beast
+| d12 | Prehistoric Animal | Undead | Unusual |
+|-----|--------------------|--------|---------|
+| 1 | Bear, Cave | Ghoul | Basilisk |
+| 2 | Cat, Sabre-Toothed | Ghoul | Blink Dog |
+| 3 | Crocodile, Giant | Ghoul | Centaur |
+| 4 | Mastodon | Mummy | Gorgon |
+| 5 | Pterodactyl, Pteranodon | Skeleton | Lycanthrope, Werebear |
+| 6 | Rhino, Woolly | Skeleton | Lycanthrope, Wereboar |
+| 7 | Snake, Pit Viper | Spectre | Lycanthrope, Wererat |
+| 8 | Stegosaurus | Wight | Lycanthrope, Weretiger |
+| 9 | Titanothere | Wraith | Lycanthrope, Werewolf |
+| 10 | Triceratops | Vampire | Medusa |
+| 11 | Tyrannosaurus Rex | Zombie | Treant |
+| 12 | Wolf, Dire | Zombie | Warp Beast |
 
 ### [Sub-Table B: Barren, Hills, Mountains](@sub_table_b)
 
-d12 | Animal | Flyer | Human | Humanoid
-----|--------|-------|-------|---------
-1 | Antelope (herd animal) | Gargoyle | Bandit | Dwarf
-2 | Ape, White | Griffon | Berserker | Giant, Cloud
-3 | Ape, White | Harpy | Berserker | Giant, Frost
-4 | Bear, Cave | Hawk | Brigand | Giant, Hill
-5 | Cat, Mountain Lion | Hawk, Giant | Brigand | Giant, Stone
-6 | Hawk | Hippogriff | Expert Adventurers | Giant, Storm
-7 | Mule | Manticore | High-Level Cleric | Gnome
-8 | Rock Baboon | Manticore | High-Level Fighter | Goblin
-9 | Snake, Pit Viper | Pegasus | High-Level MU | Kobold
-10 | Snake, Rattler | Roc, Small | Merchant | Orc
-11 | Wolf | Roc, Large | Neanderthal | Troglodyte
-12 | Wolf, Dire | Roc, Giant | Neanderthal | Troll
+| d12 | Animal | Flyer | Human | Humanoid |
+|-----|--------|-------|-------|----------|
+| 1 | Antelope (herd animal) | Gargoyle | Bandit | Dwarf |
+| 2 | Ape, White | Griffon | Berserker | Giant, Cloud |
+| 3 | Ape, White | Harpy | Berserker | Giant, Frost |
+| 4 | Bear, Cave | Hawk | Brigand | Giant, Hill |
+| 5 | Cat, Mountain Lion | Hawk, Giant | Brigand | Giant, Stone |
+| 6 | Hawk | Hippogriff | Expert Adventurers | Giant, Storm |
+| 7 | Mule | Manticore | High-Level Cleric | Gnome |
+| 8 | Rock Baboon | Manticore | High-Level Fighter | Goblin |
+| 9 | Snake, Pit Viper | Pegasus | High-Level MU | Kobold |
+| 10 | Snake, Rattler | Roc, Small | Merchant | Orc |
+| 11 | Wolf | Roc, Large | Neanderthal | Troglodyte |
+| 12 | Wolf, Dire | Roc, Giant | Neanderthal | Troll |
 
 ### [Sub-Table C: City, Settled](@sub_table_c)
 
-d12 | Animal | Human, City | Human, Settled | Humanoid
-----|--------|-------------|----------------|---------
-1 | Antelope (herd animal) | Acolyte | Acolyte | Dwarf
-2 | Antelope (herd animal) | Basic Adventurers | Basic Adventurers | Elf
-3 | Boar | Bandit | Bandit | Giant, Hill
-4 | Cat, Tiger | Bandit | Bandit | Gnome
-5 | Ferret, Giant | Expert Adventurers | Expert Adventurers | Gnoll
-6 | Hawk | High-Level Fighter | High-Level Cleric | Goblin
-7 | Rat, Giant | Merchant | High-Level Fighter | Halfling
-8 | Shrew, Giant | Noble | High-Level MU | Hobgoblin
-9 | Snake, Pit Viper | Trader | Merchant | Ogre
-10 | Spider, Tarantella | Trader | Noble | Orc
-11 | Weasel, Giant | Trader | Trader | Pixie
-12 | Wolf | Veteran | Veteran | Sprite
+| d12 | Animal | Human, City | Human, Settled | Humanoid |
+|-----|--------|-------------|----------------|----------|
+| 1 | Antelope (herd animal) | Acolyte | Acolyte | Dwarf |
+| 2 | Antelope (herd animal) | Basic Adventurers | Basic Adventurers | Elf |
+| 3 | Boar | Bandit | Bandit | Giant, Hill |
+| 4 | Cat, Tiger | Bandit | Bandit | Gnome |
+| 5 | Ferret, Giant | Expert Adventurers | Expert Adventurers | Gnoll |
+| 6 | Hawk | High-Level Fighter | High-Level Cleric | Goblin |
+| 7 | Rat, Giant | Merchant | High-Level Fighter | Halfling |
+| 8 | Shrew, Giant | Noble | High-Level MU | Hobgoblin |
+| 9 | Snake, Pit Viper | Trader | Merchant | Ogre |
+| 10 | Spider, Tarantella | Trader | Noble | Orc |
+| 11 | Weasel, Giant | Trader | Trader | Pixie |
+| 12 | Wolf | Veteran | Veteran | Sprite |
 
 ### [Sub-Table D: Desert](@sub_table_d)
 
-d12 | Animal | Flyer | Human | Humanoid
-----|--------|-------|-------|---------
-1 | Antelope (herd animal) | Gargoyle | Expert Adventurers | Giant, Fire
-2 | Antelope (herd animal) | Gargoyle | High-Level Cleric | Goblin
-3 | Camel | Griffon | Dervish | Hobgoblin
-4 | Camel | Hawk | Dervish | Hobgoblin
-5 | Cat, Lion | Hawk, Giant | High-Level Fighter | Ogre
-6 | Cat, Lion | Hawk, Giant | High-Level MU | Ogre
-7 | Hawk | Manticore | Merchant | Ogre
-8 | Lizard, Gecko | Manticore | Noble | Orc
-9 | Lizard, Tuatara | Manticore | Nomad | Orc
-10 | Snake, Pit Viper | Roc, Small | Nomad | Pixie
-11 | Snake, Rattler | Roc, Large | Nomad | Sprite
-12 | Spider, Tarantella | Roc, Giant | Nomad | Thoul
+| d12 | Animal | Flyer | Human | Humanoid |
+|-----|--------|-------|-------|----------|
+| 1 | Antelope (herd animal) | Gargoyle | Expert Adventurers | Giant, Fire |
+| 2 | Antelope (herd animal) | Gargoyle | High-Level Cleric | Goblin |
+| 3 | Camel | Griffon | Dervish | Hobgoblin |
+| 4 | Camel | Hawk | Dervish | Hobgoblin |
+| 5 | Cat, Lion | Hawk, Giant | High-Level Fighter | Ogre |
+| 6 | Cat, Lion | Hawk, Giant | High-Level MU | Ogre |
+| 7 | Hawk | Manticore | Merchant | Ogre |
+| 8 | Lizard, Gecko | Manticore | Noble | Orc |
+| 9 | Lizard, Tuatara | Manticore | Nomad | Orc |
+| 10 | Snake, Pit Viper | Roc, Small | Nomad | Pixie |
+| 11 | Snake, Rattler | Roc, Large | Nomad | Sprite |
+| 12 | Spider, Tarantella | Roc, Giant | Nomad | Thoul |
 
 ### [Sub-Table F: Forest](@sub_table_f)
 
-d12 | Animal | Human | Humanoid
-----|--------|-------|---------
-1 | Antelope (herd animal) | Basic Adventurers | Bugbear
-2 | Boar | Bandit | Cyclops
-3 | Cat, Panther | Bandit | Dryad
-4 | Cat, Tiger | Berserker | Elf
-5 | Hawk | Brigand | Giant, Hill
-6 | Lizard, Gecko | Brigand | Gnoll
-7 | Lizard, Tuatara | Brigand | Goblin
-8 | Snake, Pit Viper | Expert Adventurers | Hobgoblin
-9 | Spider, Crab | High-Level Cleric | Ogre
-10 | Unicorn | High-Level Fighter | Orc
-11 | Wolf | High-Level Magic-User | Thoul
-12 | Wolf, Dire | Merchant | Troll
+| d12 | Animal | Human | Humanoid |
+|-----|--------|-------|----------|
+| 1 | Antelope (herd animal) | Basic Adventurers | Bugbear |
+| 2 | Boar | Bandit | Cyclops |
+| 3 | Cat, Panther | Bandit | Dryad |
+| 4 | Cat, Tiger | Berserker | Elf |
+| 5 | Hawk | Brigand | Giant, Hill |
+| 6 | Lizard, Gecko | Brigand | Gnoll |
+| 7 | Lizard, Tuatara | Brigand | Goblin |
+| 8 | Snake, Pit Viper | Expert Adventurers | Hobgoblin |
+| 9 | Spider, Crab | High-Level Cleric | Ogre |
+| 10 | Unicorn | High-Level Fighter | Orc |
+| 11 | Wolf | High-Level Magic-User | Thoul |
+| 12 | Wolf, Dire | Merchant | Troll |
 
 ### [Sub-Table G: Clear, Grasslands](@sub_table_g)
 
-d12 | Animal | Human | Humanoid
-----|--------|-------|---------
-1 | Antelope (herd animal) | Bandit | Bugbear
-2 | Boar | Bandit | Elf
-3 | Cat, Lion | Berserker | Giant, Hill
-4 | Elephant | Brigand | Gnoll
-5 | Ferret, Giant | Expert Adventurers | Goblin
-6 | Hawk, Giant | High-Level Cleric | Halfling
-7 | Horse, Wild | High-Level Fighter | Hobgoblin
-8 | Mule | High-Level Magic-User | Ogre
-9 | Rock Baboon | Merchant | Orc
-10 | Snake, Pit Viper | Merchant | Pixie
-11 | Snake, Rattler | Noble | Thoul
-12 | Weasel, Giant | Nomad | Troll
+| d12 | Animal | Human | Humanoid |
+|-----|--------|-------|----------|
+| 1 | Antelope (herd animal) | Bandit | Bugbear |
+| 2 | Boar | Bandit | Elf |
+| 3 | Cat, Lion | Berserker | Giant, Hill |
+| 4 | Elephant | Brigand | Gnoll |
+| 5 | Ferret, Giant | Expert Adventurers | Goblin |
+| 6 | Hawk, Giant | High-Level Cleric | Halfling |
+| 7 | Horse, Wild | High-Level Fighter | Hobgoblin |
+| 8 | Mule | High-Level Magic-User | Ogre |
+| 9 | Rock Baboon | Merchant | Orc |
+| 10 | Snake, Pit Viper | Merchant | Pixie |
+| 11 | Snake, Rattler | Noble | Thoul |
+| 12 | Weasel, Giant | Nomad | Troll |
 
 ### [Sub-Table J: Jungle](@sub_table_j)
 
-d12 | Animal | Human | Humanoid
-----|--------|-------|---------
-1 | Antelope (herd animal) | Bandit | Bugbear
-2 | Boar | Berserker | Cyclops
-3 | Cat, Panther | Brigand | Elf
-4 | Lizard, Draco | Brigand | Giant, Fire
-5 | Lizard, Gecko | Brigand | Giant, Hill
-6 | Lzrd., Horned Chameleon | Expert Adventurers | Gnoll
-7 | Rat, Giant | Expert Adventurers | Goblin
-8 | Shrew, Giant | High-Level Cleric | Lizard Man
-9 | Snake, Pit Viper | High-Level Fighter | Ogre
-10 | Snake, Rock Python | High-Level Magic-User | Orc
-11 | Snake, Spitting Cobra | Merchant | Troglodyte
-12 | Spider, Crab | Neanderthal | Troll
+| d12 | Animal | Human | Humanoid |
+|-----|--------|-------|----------|
+| 1 | Antelope (herd animal) | Bandit | Bugbear |
+| 2 | Boar | Berserker | Cyclops |
+| 3 | Cat, Panther | Brigand | Elf |
+| 4 | Lizard, Draco | Brigand | Giant, Fire |
+| 5 | Lizard, Gecko | Brigand | Giant, Hill |
+| 6 | Lzrd., Horned Chameleon | Expert Adventurers | Gnoll |
+| 7 | Rat, Giant | Expert Adventurers | Goblin |
+| 8 | Shrew, Giant | High-Level Cleric | Lizard Man |
+| 9 | Snake, Pit Viper | High-Level Fighter | Ogre |
+| 10 | Snake, Rock Python | High-Level Magic-User | Orc |
+| 11 | Snake, Spitting Cobra | Merchant | Troglodyte |
+| 12 | Spider, Crab | Neanderthal | Troll |
 
 ### [Sub-Table L: Lake, River](@sub_table_l)
 
-d12 | Animal | Human | Humanoid | Swimmer
-----|--------|-------|----------|--------
-1 | Antelope (herd animal) | Basic Adventurers | Bugbear | Crab, Giant
-2 | Boar | Bandit | Elf | Crocodile
-3 | Cat, Panther | Brigand | Gnoll | Crocodile
-4 | Cat, Tiger | Buccaneer | Hobgoblin | Crocodile, Large
-5 | Crab, Giant | Buccaneer | Lizard Man | Fish, Catfish
-6 | Crocodile | Buccaneer | Lizard Man | Fish, Piranha
-7 | Crocodile, Large | Expert Adventurers | Nixie | Fish, Sturgeon
-8 | Piranha, Giant | High-Level Cleric | Ogre | Leech, Giant
-9 | Leech, Giant | High-Level Fighter | Orc | Lizard Man
-10 | Rat, Giant | High-Level MU | Sprite | Merman
-11 | Shrew, Giant | Merchant | Thoul | Nixie
-12 | Toad, Giant | Merchant | Troll | Termite, Water
+| d12 | Animal | Human | Humanoid | Swimmer |
+|-----|--------|-------|----------|---------|
+| 1 | Antelope (herd animal) | Basic Adventurers | Bugbear | Crab, Giant |
+| 2 | Boar | Bandit | Elf | Crocodile |
+| 3 | Cat, Panther | Brigand | Gnoll | Crocodile |
+| 4 | Cat, Tiger | Buccaneer | Hobgoblin | Crocodile, Large |
+| 5 | Crab, Giant | Buccaneer | Lizard Man | Fish, Catfish |
+| 6 | Crocodile | Buccaneer | Lizard Man | Fish, Piranha |
+| 7 | Crocodile, Large | Expert Adventurers | Nixie | Fish, Sturgeon |
+| 8 | Piranha, Giant | High-Level Cleric | Ogre | Leech, Giant |
+| 9 | Leech, Giant | High-Level Fighter | Orc | Lizard Man |
+| 10 | Rat, Giant | High-Level MU | Sprite | Merman |
+| 11 | Shrew, Giant | Merchant | Thoul | Nixie |
+| 12 | Toad, Giant | Merchant | Troll | Termite, Water |
 
 ### [Sub-Table O: Ocean, Sea](@sub_table_o)
 
-d12 | Human | Swimmer
-----|-------|--------
-1 | Buccaneer | Dragon Turtle
-2 | Buccaneer | Hydra, Sea
-3 | Expert Adventurers | Merman
-4 | Merchant | Octopus, Giant
-5 | Merchant | Sea Dragon
-6 | Merchant | Sea Serpent
-7 | Merchant | Shark
-8 | Merchant | Shark
-9 | Pirate | Snake, Sea
-10 | Pirate | Squid, Giant
-11 | Pirate | Termite, Water
-12 | Pirate | Whale
+| d12 | Human | Swimmer |
+|-----|-------|---------|
+| 1 | Buccaneer | Dragon Turtle |
+| 2 | Buccaneer | Hydra, Sea |
+| 3 | Expert Adventurers | Merman |
+| 4 | Merchant | Octopus, Giant |
+| 5 | Merchant | Sea Dragon |
+| 6 | Merchant | Sea Serpent |
+| 7 | Merchant | Shark |
+| 8 | Merchant | Shark |
+| 9 | Pirate | Snake, Sea |
+| 10 | Pirate | Squid, Giant |
+| 11 | Pirate | Termite, Water |
+| 12 | Pirate | Whale |
 
 ### [Sub-Table S: Swamp](@sub_table_s)
 
-d12 | Human | Humanoid | Swimmer
-----|-------|----------|--------
-1 | Basic Adventurers | Gnoll | Crab, Giant
-2 | Bandit | Goblin | Crocodile
-3 | Bandit | Hobgoblin | Crocodile, Large
-4 | Berserker | Lizard Man | Crocodile, Giant
-5 | Brigand | Lizard Man | Fish, Catfish
-6 | Expert Adventurers | Lizard Man | Insect Swarm
-7 | Expert Adventurers | Nixie | Insect Swarm
-8 | High-Level Cleric | Ogre | Leech, Giant
-9 | High-Level Fighter | Orc | Leech, Giant
-10 | High-Level Magic-User | Troglodyte | Lizard Man
-11 | Merchant | Troll | Lizard Man
-12 | Trader | Troll | Termite, Water
+| d12 | Human | Humanoid | Swimmer |
+|-----|-------|----------|---------|
+| 1 | Basic Adventurers | Gnoll | Crab, Giant |
+| 2 | Bandit | Goblin | Crocodile |
+| 3 | Bandit | Hobgoblin | Crocodile, Large |
+| 4 | Berserker | Lizard Man | Crocodile, Giant |
+| 5 | Brigand | Lizard Man | Fish, Catfish |
+| 6 | Expert Adventurers | Lizard Man | Insect Swarm |
+| 7 | Expert Adventurers | Nixie | Insect Swarm |
+| 8 | High-Level Cleric | Ogre | Leech, Giant |
+| 9 | High-Level Fighter | Orc | Leech, Giant |
+| 10 | High-Level Magic-User | Troglodyte | Lizard Man |
+| 11 | Merchant | Troll | Lizard Man |
+| 12 | Trader | Troll | Termite, Water |
 
 # [Designing a Base Town](@designing_a_base_town)
 
@@ -4591,12 +4591,12 @@ d12 | Human | Humanoid | Swimmer
 
 Decide how large the base town is and roughly how many inhabitants it has:
 
-Town Size | Inhabitants
-----------|------------
-Village | 50--999
-Small Town | 1,000--4,999
-Large Town | 5,000--14,999
-City | 15,000+
+| Town Size | Inhabitants |
+|-----------|-------------|
+| Village | 50--999 |
+| Small Town | 1,000--4,999 |
+| Large Town | 5,000--14,999 |
+| City | 15,000+ |
 
 ## [2. Services](@services)
 
@@ -4650,14 +4650,14 @@ Patrols such as those described are only a small part of the ruler's garrison. F
 
 The reaction of the ruler to travellers in his or her domain depends on the class of the ruler, and can be determined by rolling 1d6 and consulting this table:
 
-d6 | Arcane Caster | Divine Caster | Warrior
----|---------------|---------------|--------
-1 | Chase | Chase | Chase
-2 | Ignore | Chase | Chase
-3 | Ignore | Ignore | Chase
-4 | Ignore | Ignore | Ignore
-5 | Ignore | Invite | Ignore
-6 | Invite | Invite | Invite
+| d6 | Arcane Caster | Divine Caster | Warrior |
+|----|---------------|---------------|---------|
+| 1 | Chase | Chase | Chase |
+| 2 | Ignore | Chase | Chase |
+| 3 | Ignore | Ignore | Chase |
+| 4 | Ignore | Ignore | Ignore |
+| 5 | Ignore | Invite | Ignore |
+| 6 | Invite | Invite | Invite |
 
 ***Chase:*** The patrol is instructed to chase intruders out of the domain. Alternatively, they may demand a toll from travellers passing through. The exact price demanded depends on the ruler's character, the apparent wealth of the PCs, etc. If the PCs refuse to pay the toll, the patrol may attack them, drive them away, or attempt to take them prisoner.
 
@@ -4711,24 +4711,24 @@ A high-level magic-user, accompanied by his or her apprentices and a group of hi
 
 ## [Adventurers' Class and Level](@adventurers_class_and_level)
 
-d8 | Class | Basic | Expert
----|-------|-------|-------
-1 | Cleric | 1d3 | 1d6+3
-2 | Dwarf | 1d3 | 1d6+6
-3 | Elf | 1d3 | 1d6+2
-4 | Fighter | 1d3 | 1d6+3
-5 | Fighter | 1d3 | 1d6+5
-6 | Halfling | 1d3 | 1d6+2
-7 | Magic-User | 1d3 | 1d6+3
-8 | Thief | 1d3 | 1d6+4
+| d8 | Class | Basic | Expert |
+|----|-------|-------|--------|
+| 1 | Cleric | 1d3 | 1d6+3 |
+| 2 | Dwarf | 1d3 | 1d6+6 |
+| 3 | Elf | 1d3 | 1d6+2 |
+| 4 | Fighter | 1d3 | 1d6+3 |
+| 5 | Fighter | 1d3 | 1d6+5 |
+| 6 | Halfling | 1d3 | 1d6+2 |
+| 7 | Magic-User | 1d3 | 1d6+3 |
+| 8 | Thief | 1d3 | 1d6+4 |
 
 ## [Alignment](@npc_alignment)
 
-d6 | Alignment
----|----------
-1--2 | Lawful
-3--4 | Neutral
-5--6 | Chaotic
+| d6 | Alignment |
+|----|-----------|
+| 1--2 | Lawful |
+| 3--4 | Neutral |
+| 5--6 | Chaotic |
 
 # Treasure
 
@@ -4950,13 +4950,13 @@ For each gem present in a treasure hoard, roll on the following table to determi
 
 #### [Gem Values](@gem_values)
 
-d20 | Gem Value
-----|----------
-1--4 | 10gp
-5--9 | 50gp
-10--15 | 100gp
-16--19 | 500gp
-20 | 1,000gp
+| d20 | Gem Value |
+|-----|-----------|
+| 1--4 | 10gp |
+| 5--9 | 50gp |
+| 10--15 | 100gp |
+| 16--19 | 500gp |
+| 20 | 1,000gp |
 
 #### [Combining Gem Values](@combining_gem_values)
 
@@ -4988,16 +4988,16 @@ It is recommended that the probabilities appropriate to the group's experience l
 
 ## [Magic Item Type](@magic_item_type)
 
-B: d% | X: d% | Type of Item
-------|-------|-------------
-1--10 | 1--10 | Armour
-11--15 | 11--15 | Misc. Item
-16--40 | 16--35 | Potion
-41--45 | 36--40 | Rin
-46--65 | 41--70 | Scroll or Map
-66--85 | 71--90 | Sword
-86--90 | 91--95 | Wand/Staff/Rod
-91--00 | 96--00 | Weapon
+| B: d% | X: d% | Type of Item |
+|-------|-------|--------------|
+| 1--10 | 1--10 | Armour |
+| 11--15 | 11--15 | Misc. Item |
+| 16--40 | 16--35 | Potion |
+| 41--45 | 36--40 | Rin |
+| 46--65 | 41--70 | Scroll or Map |
+| 66--85 | 71--90 | Sword |
+| 86--90 | 91--95 | Wand/Staff/Rod |
+| 91--00 | 96--00 | Weapon |
 
 ## [Identifying Magic Items](@identifying_magic_items)
 
@@ -5029,39 +5029,39 @@ Some examples of reasonable wishes:
 
 ## [Miscellaneous Magic Items](@miscellaneous_magic_items)
 
-B: d10 | X: d% | Item
--------|-------|-----
- | 1--3 | Amulet of Protection Against Scrying
-1 | 4--5 | Bag of Devouring
-2 | 6--11 | Bag of Holding
- | 12--16 | Boots of Levitation
- | 17--21 | Boots of Speed
- | 22--26 | Boots of Travelling and Leaping
-3 | 27--31 | Broom of Flying
-4 | 32--35 | Crystal Ball
- | 36--37 | Crystal Ball with Clairaudience
- | 38 | Crystal Ball with ESP
- | 39--40 | Displacer Cloak
- | 41 | Drums of Panic
- | 42 | Efreeti Bottle
- | 43 | Elemental Summoning Device: Air
- | 44 | Elemental Summoning Device: Earth
- | 45 | Elemental Summoning Device: Fire
- | 46 | Elemental Summoning Device: Water
-5 | 47--56 | Elven Cloak and Boots
- | 57 | Flying Carpet
-6 | 58--64 | Gauntlets of Ogre Power
- | 65--66 | Girdle of Giant Strength
-7 | 67--77 | Helm of Alignment Changing
- | 78--82 | Helm of Reading Languages and Magic
-8 | 83 | Helm of Telepathy
- | 84 | Helm of Teleportation
- | 85 | Horn of Blasting
-9 | 86--90 | Medallion of ESP 30'
- | 91--93 | Medallion of ESP 90'
- | 94--94 | Mirror of Life Trapping
-10 | 95--97 | Rope of Climbing
- | 98--00 | Scarab of Protection
+| B: d10 | X: d% | Item |
+|--------|-------|------|
+|  | 1--3 | Amulet of Protection Against Scrying |
+| 1 | 4--5 | Bag of Devouring |
+| 2 | 6--11 | Bag of Holding |
+|  | 12--16 | Boots of Levitation |
+|  | 17--21 | Boots of Speed |
+|  | 22--26 | Boots of Travelling and Leaping |
+| 3 | 27--31 | Broom of Flying |
+| 4 | 32--35 | Crystal Ball |
+|  | 36--37 | Crystal Ball with Clairaudience |
+|  | 38 | Crystal Ball with ESP |
+|  | 39--40 | Displacer Cloak |
+|  | 41 | Drums of Panic |
+|  | 42 | Efreeti Bottle |
+|  | 43 | Elemental Summoning Device: Air |
+|  | 44 | Elemental Summoning Device: Earth |
+|  | 45 | Elemental Summoning Device: Fire |
+|  | 46 | Elemental Summoning Device: Water |
+| 5 | 47--56 | Elven Cloak and Boots |
+|  | 57 | Flying Carpet |
+| 6 | 58--64 | Gauntlets of Ogre Power |
+|  | 65--66 | Girdle of Giant Strength |
+| 7 | 67--77 | Helm of Alignment Changing |
+|  | 78--82 | Helm of Reading Languages and Magic |
+| 8 | 83 | Helm of Telepathy |
+|  | 84 | Helm of Teleportation |
+|  | 85 | Horn of Blasting |
+| 9 | 86--90 | Medallion of ESP 30' |
+|  | 91--93 | Medallion of ESP 90' |
+|  | 94--94 | Mirror of Life Trapping |
+| 10 | 95--97 | Rope of Climbing |
+|  | 98--00 | Scarab of Protection |
 
 ### [Usage](@magic_item_usage)
 
@@ -5298,34 +5298,34 @@ Protects the bearer from baleful magic.
 
 Magical liquids stored in glass vials (similar to the vials holy water is stored in).
 
-B: d8 | X: d% | Potion
-------|-------|-------
- | 1--3 | Clairaudience
- | 4--7 | Clairvoyance
- | 8--10 | Control Animal
- | 11--13 | Control Dragon
- | 14--16 | Control Giant
- | 17--19 | Control Human
- | 20--22 | Control Plant
- | 23--25 | Control Undead
- | 26--32 | Delusion
-1 | 33--35 | Diminution
-2 | 36--39 | ESP
- | 40--43 | Fire Resistance
- | 44--47 | Flying
-3 | 48--51 | Gaseous Form
- | 52--55 | Giant Strength
-4 | 56--59 | Growth
-5 | 60--63 | Healing
- | 64--68 | Heroism
-6 | 69--72 | Invisibility
- | 73--76 | Invulnerability
-7 | 77--80 | Levitation
- | 81--84 | Longevity
-8 | 85--86 | Poison
- | 87--89 | Polymorph Self
- | 90--97 | Speed
- | 98--00 | Treasure Finding
+| B: d8 | X: d% | Potion |
+|-------|-------|--------|
+|  | 1--3 | Clairaudience |
+|  | 4--7 | Clairvoyance |
+|  | 8--10 | Control Animal |
+|  | 11--13 | Control Dragon |
+|  | 14--16 | Control Giant |
+|  | 17--19 | Control Human |
+|  | 20--22 | Control Plant |
+|  | 23--25 | Control Undead |
+|  | 26--32 | Delusion |
+| 1 | 33--35 | Diminution |
+| 2 | 36--39 | ESP |
+|  | 40--43 | Fire Resistance |
+|  | 44--47 | Flying |
+| 3 | 48--51 | Gaseous Form |
+|  | 52--55 | Giant Strength |
+| 4 | 56--59 | Growth |
+| 5 | 60--63 | Healing |
+|  | 64--68 | Heroism |
+| 6 | 69--72 | Invisibility |
+|  | 73--76 | Invulnerability |
+| 7 | 77--80 | Levitation |
+|  | 81--84 | Longevity |
+| 8 | 85--86 | Poison |
+|  | 87--89 | Polymorph Self |
+|  | 90--97 | Speed |
+|  | 98--00 | Treasure Finding |
 
 ### [Identifying](@potion_identifying)
 
@@ -5535,27 +5535,27 @@ Grants the magical ability to sense treasure.
 
 ## [Rings](@treasure_rings)
 
-B: d6 | X: d% | Ring
-------|-------|-----
-1 | 1--5 | Control Animals
- | 6--10 | Control Humans
- | 11--16 | Control Plants
- | 17--26 | Delusion
- | 27--29 | Djinni Summoning
-2 | 30--39 | Fire Resistance
-3 | 40--50 | Invisibility
- | 51--55 | Protection +1, 5' radius
-4 | 56--70 | Protection +1
- | 71--72 | Regeneration
- | 73--74 | Spell Storing
- | 75--80 | Spell Turning
- | 81--82 | Telekinesis
-5 | 83--88 | Water Walking
-6 | 89--94 | Weakness
- | 95--96 | Wishes, 1--2
- | 97 | Wishes, 1--3
- | 98 | Wishes, 2--4
- | 99--00 | X-Ray Vision
+| B: d6 | X: d% | Ring |
+|-------|-------|------|
+| 1 | 1--5 | Control Animals |
+|  | 6--10 | Control Humans |
+|  | 11--16 | Control Plants |
+|  | 17--26 | Delusion |
+|  | 27--29 | Djinni Summoning |
+| 2 | 30--39 | Fire Resistance |
+| 3 | 40--50 | Invisibility |
+|  | 51--55 | Protection +1, 5' radius |
+| 4 | 56--70 | Protection +1 |
+|  | 71--72 | Regeneration |
+|  | 73--74 | Spell Storing |
+|  | 75--80 | Spell Turning |
+|  | 81--82 | Telekinesis |
+| 5 | 83--88 | Water Walking |
+| 6 | 89--94 | Weakness |
+|  | 95--96 | Wishes, 1--2 |
+|  | 97 | Wishes, 1--3 |
+|  | 98 | Wishes, 2--4 |
+|  | 99--00 | X-Ray Vision |
 
 ### [Usage](@ring_usage)
 
@@ -5704,29 +5704,29 @@ Grants the power to see through solid objects.
 
 ## [Wands, Staves, and Rods](@wands_staves_and_rods)
 
-B: d6 | X: d% | Item
-------|-------|-----
-1 | 1--8 | Rod of Cancellation
- | 9--11 | Staff of Commanding
-2 | 12--21 | Staff of Healing
- | 22--23 | Staff of Power
-3 | 24--28 | Staff of Snakes
- | 29--31 | Staff of Striking
- | 32--34 | Staff of Withering
- | 35 | Staff of Wizardry
- | 36--40 | Wand of Cold
-4 | 41--45 | Wand of Enemy Detection
- | 46--50 | Wand of Fear
- | 51--55 | Wand of Fire Balls
- | 56--60 | Wand of Illusion
- | 61--65 | Wand of Lightning Bolts
-5 | 66--70 | Wand of Magic Detection
- | 71--75 | Wand of Metal Detection
- | 76--80 | Wand of Negation
-6 | 81--85 | Wand of Paralysation
- | 86--90 | Wand of Polymorph
- | 91--95 | Wand of Secret Door Detection
- | 96--00 | Wand of Trap Detection
+| B: d6 | X: d% | Item |
+|-------|-------|------|
+| 1 | 1--8 | Rod of Cancellation |
+|  | 9--11 | Staff of Commanding |
+| 2 | 12--21 | Staff of Healing |
+|  | 22--23 | Staff of Power |
+| 3 | 24--28 | Staff of Snakes |
+|  | 29--31 | Staff of Striking |
+|  | 32--34 | Staff of Withering |
+|  | 35 | Staff of Wizardry |
+|  | 36--40 | Wand of Cold |
+| 4 | 41--45 | Wand of Enemy Detection |
+|  | 46--50 | Wand of Fear |
+|  | 51--55 | Wand of Fire Balls |
+|  | 56--60 | Wand of Illusion |
+|  | 61--65 | Wand of Lightning Bolts |
+| 5 | 66--70 | Wand of Magic Detection |
+|  | 71--75 | Wand of Metal Detection |
+|  | 76--80 | Wand of Negation |
+| 6 | 81--85 | Wand of Paralysation |
+|  | 86--90 | Wand of Polymorph |
+|  | 91--95 | Wand of Secret Door Detection |
+|  | 96--00 | Wand of Trap Detection |
 
 ### [Charges](@wands_staves_and_rods_charges)
 
@@ -5941,30 +5941,30 @@ Reveals the location of all traps within 20'.
 
 ## [Scrolls and Maps](@scrolls_and_maps)
 
-B: d8 | X: d% | Scroll
---|------|--------
-1 | 1--15 | 1 Spell
-2 | 16--25 | 2 Spells
-3 | 26--31 | 3 Spells
- | 32--34 | 5 Spells
- | 35 | 7 Spells
-4 | 36--40 | Cursed Scroll
- | 41--50 | Prot. from Elementals
-5 | 51--60 | Prot. from Lycanthropes
- | 61--65 | Protection from Magic
-6 | 66--75 | Prot. from Undead
-7 | 76--78 | Treasure Map: I
- | 79--80 | Treasure Map: II
- | 81--82 | Treasure Map: III
- | 83 | Treasure Map: IV
- | 84 | Treasure Map: V
- | 85 | Treasure Map: VI
- | 86 | Treasure Map: VII
-8 | 87--90 | Treasure Map: VIII
- | 91--95 | Treasure Map: IX
- | 96 | Treasure Map: X
- | 97--98 | Treasure Map: XI
- | 99--00 | Treasure Map: XII
+| B: d8 | X: d% | Scroll |
+|---|------|---------|
+| 1 | 1--15 | 1 Spell |
+| 2 | 16--25 | 2 Spells |
+| 3 | 26--31 | 3 Spells |
+|  | 32--34 | 5 Spells |
+|  | 35 | 7 Spells |
+| 4 | 36--40 | Cursed Scroll |
+|  | 41--50 | Prot. from Elementals |
+| 5 | 51--60 | Prot. from Lycanthropes |
+|  | 61--65 | Protection from Magic |
+| 6 | 66--75 | Prot. from Undead |
+| 7 | 76--78 | Treasure Map: I |
+|  | 79--80 | Treasure Map: II |
+|  | 81--82 | Treasure Map: III |
+|  | 83 | Treasure Map: IV |
+|  | 84 | Treasure Map: V |
+|  | 85 | Treasure Map: VI |
+|  | 86 | Treasure Map: VII |
+| 8 | 87--90 | Treasure Map: VIII |
+|  | 91--95 | Treasure Map: IX |
+|  | 96 | Treasure Map: X |
+|  | 97--98 | Treasure Map: XI |
+|  | 99--00 | Treasure Map: XII |
 
 ### [Cursed Scrolls](@cursed_scrolls)
 
@@ -6026,14 +6026,14 @@ Casting spells from scrolls works as follows:
 
 The referee may choose the spells on a scroll, or may roll for them randomly. The following table may be used to randomly select the level of each spell on a scroll.
 
-B: d6 | X: d% | Spell Level
-------|-------|------------
-1--3 | 1--25 | 1st
-4--5 | 26--50 | 2nd
-6 | 51--70 | 3rd
- | 71--85 | 4th
- | 86--95 | 5th
- | 96--00 | 6th*
+| B: d6 | X: d% | Spell Level |
+|-------|-------|-------------|
+| 1--3 | 1--25 | 1st |
+| 4--5 | 26--50 | 2nd |
+| 6 | 51--70 | 3rd |
+|  | 71--85 | 4th |
+|  | 86--95 | 5th |
+|  | 96--00 | 6th\* |
 
 \* _Re-roll for divine spells._
 
@@ -6064,25 +6064,25 @@ Directions to the location of a valuable treasure. Usable by any character.
 
 ## [Swords](@swords)
 
-B: d8 | X: d% | Sword
-------|-------|------
-1 | 1--2 | Sword &minus;1, cursed
- | 3--4 | Sword &minus;2, cursed
-2 | 5--44 | Sword +1
-3 | 45--50 | Sword +1, +2 vs lycanthropes
-4 | 51--56 | Sword +1, +2 vs spell users
-5 | 57--61 | Sword +1, +3 vs dragons
- | 62--66 | Sword +1, +3 vs enchanted creatures
- | 67--71 | Sword +1, +3 vs regenerating creatures
-6 | 72--76 | Sword +1, +3 vs undead
- | 77 | Sword +1, energy drain
- | 78--81 | Sword +1, flaming
-7 | 82--89 | Sword +1, light
- | 90--92 | Sword +1, locate objects
- | 93 | Sword +1, wishes
-8 | 94--96 | Sword +2
- | 97--98 | Sword +2, charm person
- | 99--00 | Sword +3
+| B: d8 | X: d% | Sword |
+|-------|-------|-------|
+| 1 | 1--2 | Sword &minus;1, cursed |
+|  | 3--4 | Sword &minus;2, cursed |
+| 2 | 5--44 | Sword +1 |
+| 3 | 45--50 | Sword +1, +2 vs lycanthropes |
+| 4 | 51--56 | Sword +1, +2 vs spell users |
+| 5 | 57--61 | Sword +1, +3 vs dragons |
+|  | 62--66 | Sword +1, +3 vs enchanted creatures |
+|  | 67--71 | Sword +1, +3 vs regenerating creatures |
+| 6 | 72--76 | Sword +1, +3 vs undead |
+|  | 77 | Sword +1, energy drain |
+|  | 78--81 | Sword +1, flaming |
+| 7 | 82--89 | Sword +1, light |
+|  | 90--92 | Sword +1, locate objects |
+|  | 93 | Sword +1, wishes |
+| 8 | 94--96 | Sword +2 |
+|  | 97--98 | Sword +2, charm person |
+|  | 99--00 | Sword +3 |
 
 ### [Cursed Swords](@cursed_swords)
 
@@ -6118,44 +6118,44 @@ Some magic swords possess sentience (see [***Swords***](#swords) for the chances
 
 #### [Communication](@communication)
 
-INT | Reading | Communication
-----|---------|--------------
-7 | No | Empathy
-8 | No | Empathy
-9 | No | Empathy
-10 | No | Speech
-11 | Yes | Speech
-12 | Yes | Speech
+| INT | Reading | Communication |
+|-----|---------|---------------|
+| 7 | No | Empathy |
+| 8 | No | Empathy |
+| 9 | No | Empathy |
+| 10 | No | Speech |
+| 11 | Yes | Speech |
+| 12 | Yes | Speech |
 
 #### [Languages](@sword_languages)
 
-d100 | Languages
------|----------
-01--50 | 1
-51--70 | 2
-71--85 | 3
-86--95 | 4
-96--99 | 5
-00 | Roll twice again, adding results
+| d100 | Languages |
+|------|-----------|
+| 01--50 | 1 |
+| 51--70 | 2 |
+| 71--85 | 3 |
+| 86--95 | 4 |
+| 96--99 | 5 |
+| 00 | Roll twice again, adding results |
 
 #### [Powers](@powers)
 
-INT | Powers
-----|-------
-7 | 1 sensory power
-8 | 2 sensory powers
-9 | 3 sensory powers
-10 | 3 sensory powers
-11 | 3 sensory powers
-12 | 3 sensory powers + 1 extraordinary power
+| INT | Powers |
+|-----|--------|
+| 7 | 1 sensory power |
+| 8 | 2 sensory powers |
+| 9 | 3 sensory powers |
+| 10 | 3 sensory powers |
+| 11 | 3 sensory powers |
+| 12 | 3 sensory powers + 1 extraordinary power |
 
 #### [Alignment](@sword_alignment)
 
-d20 | Alignment
-----|----------
-1--13 | Lawful
-14--18 | Neutral
-19--20 | Chaotic
+| d20 | Alignment |
+|-----|-----------|
+| 1--13 | Lawful |
+| 14--18 | Neutral |
+| 19--20 | Chaotic |
 
 The alignment of the sword can only be determined by touching it. Doing so may incur damage, if the character is of a different alignment to the sword:
 
@@ -6213,22 +6213,22 @@ Once in control, the sword will only release the character when the circumstance
 - Each power should be rolled on the table below. Duplicates should be re-rolled, unless noted.
 - Unless a power's description notes otherwise, it may be used at most three times a day.
 
-d100 | Power
------|------
-01--10 | Clairaudience
-11--20 | Clairvoyance
-21--30 | ESP
-31--35 | Extra damage (duplicates allowed)
-36--40 | Flying
-41--45 | Healing (duplicates allowed)
-46--54 | Illusion
-55--59 | Levitation
-60--69 | Telekinesis
-70--79 | Telepathy
-80--88 | Teleportation
-89--97 | X-ray vision
-98--99 | Roll twice again on this table
-0 | Roll three times again on this table
+| d100 | Power |
+|------|-------|
+| 01--10 | Clairaudience |
+| 11--20 | Clairvoyance |
+| 21--30 | ESP |
+| 31--35 | Extra damage (duplicates allowed) |
+| 36--40 | Flying |
+| 41--45 | Healing (duplicates allowed) |
+| 46--54 | Illusion |
+| 55--59 | Levitation |
+| 60--69 | Telekinesis |
+| 70--79 | Telepathy |
+| 80--88 | Teleportation |
+| 89--97 | X-ray vision |
+| 98--99 | Roll twice again on this table |
+| 00 | Roll three times again on this table |
 
 ##### [Clairaudience](@sword_clairaudience)
 
@@ -6330,19 +6330,19 @@ Allows the wielder to see through solid objects.
 - Each sensory power should be rolled on the table below, with duplicates re-rolled.
 - Unless a power's description notes otherwise, it may be used without limit.
 
-d100 | Power
------|------
-01--10 | Detect evil or good
-11--15 | Detect gems
-16--25 | Detect magic
-26--35 | Detect metals
-36--50 | Detect shifting architecture
-51--65 | Detect slopes
-66--75 | Detect traps
-76--85 | Locate secret doors
-86--95 | See invisible objects
-96--99 | Roll an extraordinary power
-00 | Roll twice again on this table
+| d100 | Power |
+|------|-------|
+| 01--10 | Detect evil or good |
+| 11--15 | Detect gems |
+| 16--25 | Detect magic |
+| 26--35 | Detect metals |
+| 36--50 | Detect shifting architecture |
+| 51--65 | Detect slopes |
+| 66--75 | Detect traps |
+| 76--85 | Locate secret doors |
+| 86--95 | See invisible objects |
+| 96--99 | Roll an extraordinary power |
+| 00 | Roll twice again on this table |
 
 ##### [Detect Evil or Good](@detect_evil_or_good)
 
@@ -6389,14 +6389,14 @@ The wielder can see invisible or concealed objects up to 20' distant. (This powe
 
 The purpose of such swords is typically to slay a certain type of character or creature. The purpose may be rolled on the table below, or the referee may invent others.
 
-d6 | Target
----|-------
-1 | Arcane spell casters
-2 | Divine spell casters
-3 | Warriors (e.g. fighters or other primarily combat-oriented, non-spell casting classes, including non-spell casting demihumans)
-4 | Specific type of monster (determine randomly)
-5 | Lawful creatures (or chaotic creatures, if the sword is lawful)
-6 | Chaotic creatures (or lawful creatures, if the sword is chaotic)
+| d6 | Target |
+|----|--------|
+| 1 | Arcane spell casters |
+| 2 | Divine spell casters |
+| 3 | Warriors (e.g. fighters or other primarily combat-oriented, non-spell casting classes, including non-spell casting demihumans) |
+| 4 | Specific type of monster (determine randomly) |
+| 5 | Lawful creatures (or chaotic creatures, if the sword is lawful) |
+| 6 | Chaotic creatures (or lawful creatures, if the sword is chaotic) |
 
 #### [Alignment Power](@alignment_power)
 
@@ -6451,29 +6451,29 @@ Has the power to grant the wielder's wishes (see [***Wishes***](#wishes)).
 
 ## [Weapons](@treasure_weapons)
 
-B: d4 | X: d% | Weapon
-------|-------|-------
- | 1--2 | Arrows +1 (3d10)
-1 | 3--12 | Arrows +1 (Basic: 10; Expert: 2d6)
- | 13--18 | Arrows +2 (1d6)
-2 | 19--27 | Axe +1
- | 28--30 | Axe +2
- | 31--33 | Bow +1
- | 34--43 | Crossbow Bolts +1 (2d6)
- | 44--45 | Crossbow Bolts +1 (3d10)
- | 46--52 | Crossbow Bolts +2 (1d6)
-3 | 53--55 | Dagger +1
- | 56 | Dagger +2, +3 vs orcs, goblins, and kobolds
-4 | 57--64 | Mace +1
- | 65--67 | Mace +2
- | 68 | Mace +3
- | 69--74 | Sling +1
- | 75--82 | Spear +1
- | 83--86 | Spear +2
- | 87 | Spear +3
- | 88--94 | War Hammer +1
- | 95--99 | War Hammer +2
- | 00 | War Hammer +3, Dwarven Thrower
+| B: d4 | X: d% | Weapon |
+|-------|-------|--------|
+|  | 1--2 | Arrows +1 (3d10) |
+| 1 | 3--12 | Arrows +1 (Basic: 10; Expert: 2d6) |
+|  | 13--18 | Arrows +2 (1d6) |
+| 2 | 19--27 | Axe +1 |
+|  | 28--30 | Axe +2 |
+|  | 31--33 | Bow +1 |
+|  | 34--43 | Crossbow Bolts +1 (2d6) |
+|  | 44--45 | Crossbow Bolts +1 (3d10) |
+|  | 46--52 | Crossbow Bolts +2 (1d6) |
+| 3 | 53--55 | Dagger +1 |
+|  | 56 | Dagger +2, +3 vs orcs, goblins, and kobolds |
+| 4 | 57--64 | Mace +1 |
+|  | 65--67 | Mace +2 |
+|  | 68 | Mace +3 |
+|  | 69--74 | Sling +1 |
+|  | 75--82 | Spear +1 |
+|  | 83--86 | Spear +2 |
+|  | 87 | Spear +3 |
+|  | 88--94 | War Hammer +1 |
+|  | 95--99 | War Hammer +2 |
+|  | 00 | War Hammer +3, Dwarven Thrower |
 
 - ***Ammunition:*** The number of rounds found is indicated in parentheses.
 
@@ -6495,39 +6495,39 @@ In the hands of a dwarf, this weapon may function as a thrown missile weapon.
 
 ## [Armour](@treasure_magic_armour)
 
-B: d4 | X: d% | Item
-------|-------|-----
-1 | 1--15 | Armour +1
-2 | 16--25 | Armour +1, Shield +1
- | 26--27 | Armour +1, Shield +2
- | 28 | Armour +1, Shield +3
- | 29--33 | Armour +2
- | 34--36 | Armour +2, Shield +1
- | 37--41 | Armour +2, Shield +2
- | 42 | Armour +2, Shield +3
- | 43--45 | Armour +3
- | 46 | Armour +3, Shield +1
- | 47 | Armour +3, Shield +2
- | 48 | Armour +3, Shield +3
- | 49--51 | Cursed Armour &minus;1
- | 52--53 | Cursed Armour &minus;2
- | 54 | Cursed Armour &minus;2 with Shield +1
-3 | 55--56 | Cursed Armour, AC 9
- | 57--62 | Cursed Shield &minus;2
- | 63--65 | Cursed Shield, AC 9
-4 | 66--85 | Shield +1
- | 86--95 | Shield +2
- | 96--00 | Shield +3
+| B: d4 | X: d% | Item |
+|-------|-------|------|
+| 1 | 1--15 | Armour +1 |
+| 2 | 16--25 | Armour +1, Shield +1 |
+|  | 26--27 | Armour +1, Shield +2 |
+|  | 28 | Armour +1, Shield +3 |
+|  | 29--33 | Armour +2 |
+|  | 34--36 | Armour +2, Shield +1 |
+|  | 37--41 | Armour +2, Shield +2 |
+|  | 42 | Armour +2, Shield +3 |
+|  | 43--45 | Armour +3 |
+|  | 46 | Armour +3, Shield +1 |
+|  | 47 | Armour +3, Shield +2 |
+|  | 48 | Armour +3, Shield +3 |
+|  | 49--51 | Cursed Armour &minus;1 |
+|  | 52--53 | Cursed Armour &minus;2 |
+|  | 54 | Cursed Armour &minus;2 with Shield +1 |
+| 3 | 55--56 | Cursed Armour, AC 9 |
+|  | 57--62 | Cursed Shield &minus;2 |
+|  | 63--65 | Cursed Shield, AC 9 |
+| 4 | 66--85 | Shield +1 |
+|  | 86--95 | Shield +2 |
+|  | 96--00 | Shield +3 |
 
 ### [Type of Armour](@type_of_armour)
 
 The referee may choose the type of armour in a treasure hoard, or may roll on the following table:
 
-d8 | Type of Armour
----|---------------
-1--2 | Leather
-3--6 | Chainmail
-7--8 | Plate mail
+| d8 | Type of Armour |
+|----|----------------|
+| 1--2 | Leather |
+| 3--6 | Chainmail |
+| 7--8 | Plate mail |
 
 ### [Enchanted Armour and Shields](@enchanted_armour_and_shields)
 

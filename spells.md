@@ -996,11 +996,11 @@ This spell causes 3d6 targets within 60' of one another to become confused, maki
 - Targets of 2 HD or lower get no save.
 - Roll on the following table separately for each affected target each round to see what that target does that round:
 
-2d6 | Behaviour
-----|----------
-2-5 | Attack caster's group
-6-8 | No action
-9-12 | Attack creature's group
+| 2d6 | Behaviour |
+|-----|-----------|
+| 2-5 | Attack caster's group |
+| 6-8 | No action |
+| 9-12 | Attack creature's group |
 
 ### <a name="dimension_door"></a>Dimension Door
 
@@ -1184,18 +1184,18 @@ Casting _contact higher plane_ is a great and perilous deed.
 - It may be cast at most once per week. (The referee may limit the spell's usage to even less frequently, if desired.)
 - Communion with otherworldly beings of great power can shatter the caster's sanity. The basic chance is shown in the chart above. For every level of the caster above 11, this chance is reduced by 5%. If the caster is driven insane as a result of the communion, the recovery time is a number of weeks equal to the number of the plane contacted.
 
-Plane | #Questions | Don't Know | Truth | Insanity
-----|---|-----|-----|-----
-3rd | 3 | 75% | 50% | 5%
-4th | 4 | 70% | 55% | 10%
-5th | 5 | 65% | 60% | 15%
-6th | 6 | 60% | 65% | 20%
-7th | 7 | 50% | 70% | 25%
-8th | 8 | 40% | 75% | 30%
-9th | 9 | 30% | 80% | 35%
-10th | 10 | 20% | 85% | 40%
-11th | 11 | 10% | 90% | 45%
-12th | 12 | 5% | 95% | 50%
+| Plane | #Questions | Don't Know | Truth | Insanity |
+|-----|---|-----|-----|------|
+| 3rd | 3 | 75% | 50% | 5% |
+| 4th | 4 | 70% | 55% | 10% |
+| 5th | 5 | 65% | 60% | 15% |
+| 6th | 6 | 60% | 65% | 20% |
+| 7th | 7 | 50% | 70% | 25% |
+| 8th | 8 | 40% | 75% | 30% |
+| 9th | 9 | 30% | 80% | 35% |
+| 10th | 10 | 20% | 85% | 40% |
+| 11th | 11 | 10% | 90% | 45% |
+| 12th | 12 | 5% | 95% | 50% |
 
 ### <a name="feeblemind"></a>Feeblemind
 
@@ -1268,11 +1268,11 @@ The caster or a chosen creature vanishes and reappears at a location of the cast
 
 There is a risk, when teleporting, of accidentally arriving above or below ground level. The chance of a successful teleportation depends on the caster's knowledge of the destination (see below). Roll d% and consult the following chart:
 
-Knowledge of Destination | Ground Level | Too High | Too Low
--------------------------|--------------|----------|--------
-Scant | 01-50 | 51-75 | 76-00
-Moderate | 01-80 | 81-90 | 91-00
-Exact | 01-95 | 96-99 | 00
+| Knowledge of Destination | Ground Level | Too High | Too Low |
+|--------------------------|--------------|----------|---------|
+| Scant | 01-50 | 51-75 | 76-00 |
+| Moderate | 01-80 | 81-90 | 91-00 |
+| Exact | 01-95 | 96-99 | 00 |
 
 - **_Ground level:_** The subject appears at the desired destination.
 - **_Too high:_** The subject appears 1d10×10 feet above the intended destination. Should this location already be occupied by solid matter, the subject is instantly killed. Otherwise, the subject falls (suffering 1d6 damage per 10' fallen).
@@ -1424,54 +1424,54 @@ The descriptions and stats of the monsters listed in the standard tables given h
 
 **Reincarnated Class**
 
-d10 | Reincarnation
-----|--------------
-1 | Cleric
-2 | Dwarf
-3 | Elf
-4 | Fighter
-5 | Halfling
-6 | Magic-user
-7 | Thief
-8 | Monster (roll on alignment table)
-9-10 | Same class
+| d10 | Reincarnation |
+|-----|---------------|
+| 1 | Cleric |
+| 2 | Dwarf |
+| 3 | Elf |
+| 4 | Fighter |
+| 5 | Halfling |
+| 6 | Magic-user |
+| 7 | Thief |
+| 8 | Monster (roll on alignment table) |
+| 9-10 | Same class |
 
 **Lawful Monsters**
 
-d6 | Reincarnation | HD
----|---------------|---
-1 | [Gnome](monsters.md#gnome) | 1
-2 | [Neanderthal](monsters.md#neanderthal) | 2
-3 | [Pegasus](monsters.md#pegasus) | 2
-4 | [Blink dog](monsters.md#blink_dog) | 4
-5 | [Unicorn](monsters.md#unicorn) | 4
-6 | [Roc, small](monsters.md#small_roc) | 6
+| d6 | Reincarnation | HD |
+|----|---------------|----|
+| 1 | [Gnome](monsters.md#gnome) | 1 |
+| 2 | [Neanderthal](monsters.md#neanderthal) | 2 |
+| 3 | [Pegasus](monsters.md#pegasus) | 2 |
+| 4 | [Blink dog](monsters.md#blink_dog) | 4 |
+| 5 | [Unicorn](monsters.md#unicorn) | 4 |
+| 6 | [Roc, small](monsters.md#small_roc) | 6 |
 
 **Neutral Monsters**
 
-d6 | Reincarnation | HD
----|---------------|---
-1 | [Pixie](monsters.md#pixie) or [sprite](monsters.md#sprite) | 1
-2 | [Lizard man](monsters.md#lizard_man) | 2
-3 | [Rock baboon](monsters.md#rock_baboon) | 2
-4 | [Ape, white](monsters.md#ape_white) | 4
-5 | [Centaur](monsters.md#centaur) | 4
-6 | [Werebear](monsters.md#werebear) | 6
+| d6 | Reincarnation | HD |
+|----|---------------|----|
+| 1 | [Pixie](monsters.md#pixie) or [sprite](monsters.md#sprite) | 1 |
+| 2 | [Lizard man](monsters.md#lizard_man) | 2 |
+| 3 | [Rock baboon](monsters.md#rock_baboon) | 2 |
+| 4 | [Ape, white](monsters.md#ape_white) | 4 |
+| 5 | [Centaur](monsters.md#centaur) | 4 |
+| 6 | [Werebear](monsters.md#werebear) | 6 |
 
 **Chaotic Monsters**
 
-d10 | Reincarnation | HD
-----|---------------|---
-1 | [Goblin](monsters.md#goblin) | 1
-2 | [Hobgoblin](monsters.md#hobgoblin) | 1
-3 | [Kobold](monsters.md#kobold) | 1
-4 | [Orc](monsters.md#orc) | 1
-5 | [Gnoll](monsters.md#gnoll) | 2
-6 | [Bugbear](monsters.md#bugbear) | 3
-7 | [Wererat](monsters.md#wererat) | 3
-8 | [Ogre](monsters.md#ogre) | 4
-9 | [Werewolf](monsters.md#werewolf) | 4
-10 | [Minotaur](monsters.md#minotaur) | 6
+| d10 | Reincarnation | HD |
+|-----|---------------|----|
+| 1 | [Goblin](monsters.md#goblin) | 1 |
+| 2 | [Hobgoblin](monsters.md#hobgoblin) | 1 |
+| 3 | [Kobold](monsters.md#kobold) | 1 |
+| 4 | [Orc](monsters.md#orc) | 1 |
+| 5 | [Gnoll](monsters.md#gnoll) | 2 |
+| 6 | [Bugbear](monsters.md#bugbear) | 3 |
+| 7 | [Wererat](monsters.md#wererat) | 3 |
+| 8 | [Ogre](monsters.md#ogre) | 4 |
+| 9 | [Werewolf](monsters.md#werewolf) | 4 |
+| 10 | [Minotaur](monsters.md#minotaur) | 6 |
 
 ### <a name="stone_to_flesh"></a>Stone to Flesh
 
