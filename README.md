@@ -14,6 +14,6 @@ The original "plain text" RTF files are archived in the [originals](originals) d
 
 The _Old-School Essentials: Basic Rules_ preview containing only player-facing rules is available for free from [Necrotic Gnome](https://necroticgnome.com/collections/free-downloads/products/old-school-essentials-basic-rules) and [DriveThruRPG](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules)
 
-Gavin also published [_Author's Notes on the Rules_](https://necroticgnome.com/collections/free-downloads/products/rules-archaeology)
+Gavin also published [_Author's Notes on the Rules_](https://necroticgnome.com/products/old-school-essentials-authors-notes-on-the-rules)
 
 Gavin has retired the B/X Essentials line in favor of the Old-School Essentials line, and has published the [Old-School Essentials System Reference Document](https://oldschoolessentials.necroticgnome.com/srd)
